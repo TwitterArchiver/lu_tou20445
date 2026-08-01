@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949423105363054979",
+    "created_at": "2025-07-27T11:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949434283300458818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1646128645331890176",
+          "start": 0,
+          "username": "1203Adl6221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949434283300458818",
+    "in_reply_to_user_id": "1646128645331890176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949433732206854628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1203Adl6221 隐形压力也是压力，别太苛责自己就行，生活只要可以规律起来就会慢慢好起来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949423105363054979",
+        "created_at": "2025-07-27T11:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949434283300458818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1646128645331890176",
+              "start": 0,
+              "username": "1203Adl6221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949434283300458818",
+        "in_reply_to_user_id": "1646128645331890176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949433732206854628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1203Adl6221 隐形压力也是压力，别太苛责自己就行，生活只要可以规律起来就会慢慢好起来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646128645331890176",
+        "conversation_id": "1949423105363054979",
+        "created_at": "2025-07-27T11:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949433732206854628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949433732206854628",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949432963554255135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 谢谢宝宝！！我日常比较宅 偶尔也会带狗出去玩吃好东西恢复精神状态嘿嘿😌……其实并不辛苦🥺有点惭愧了 可能是一直无业状态导致精神压力比较大……哈哈🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 247
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T12:30:36.000Z",
+        "description": "女巫，女鬼，恶女，坏女人。",
+        "id": "1646128645331890176",
+        "name": "阿德露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927255960344535040/yqig_6Dz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 178,
+          "like_count": 809,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 484
+        },
+        "username": "1203Adl6221",
+        "verified": false
+      }
+    ]
+  }
+}

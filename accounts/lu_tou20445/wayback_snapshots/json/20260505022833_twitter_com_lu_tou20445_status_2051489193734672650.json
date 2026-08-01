@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2051352337789427747",
+    "created_at": "2026-05-05T02:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051489193734672650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026572990901792769",
+          "start": 0,
+          "username": "Jasmine__rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051489193734672650",
+    "in_reply_to_user_id": "2026572990901792769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051352337789427747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasmine__rain 而且删过的也自动蹦出来了，没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2051352337789427747",
+        "created_at": "2026-05-05T02:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051489193734672650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026572990901792769",
+              "start": 0,
+              "username": "Jasmine__rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051489193734672650",
+        "in_reply_to_user_id": "2026572990901792769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051352337789427747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasmine__rain 而且删过的也自动蹦出来了，没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026572990901792769",
+        "conversation_id": "2051352337789427747",
+        "created_at": "2026-05-04T17:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051352337789427747"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051352337789427747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死推特天天你就改这个私信吧 又是奇丑无比啊。我真不懂了 每天就研究改这些没用且改了之后用着很不舒服的功能 你有这个时间为什么不清一清人机 都泛滥成什么样了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 70,
+          "like_count": 20594,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5788
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T08:21:00.000Z",
+        "description": "天秤 switch 不陪聊 不接定制 不出原味 喜欢我可以给我打钱\nhttps://t.co/NoQ8pwsyCL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jasmine__rain",
+                "end": 57,
+                "expanded_url": "https://ngl.link/jasmine__rain",
+                "start": 34,
+                "url": "https://t.co/NoQ8pwsyCL"
+              }
+            ]
+          }
+        },
+        "id": "2026572990901792769",
+        "name": "我是一个焦焦的煎蛋",
+        "pinned_tweet_id": "2029520717788967027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040497418421301248/O6G5NX65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 186,
+          "like_count": 6215,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1399
+        },
+        "username": "Jasmine__rain",
+        "verified": false
+      }
+    ]
+  }
+}

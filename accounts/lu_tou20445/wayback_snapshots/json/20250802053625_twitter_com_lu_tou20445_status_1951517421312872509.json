@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951515553614512171",
+    "created_at": "2025-08-02T05:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T06:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951517421312872509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951517421312872509",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951515553614512171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 感觉池子里和螃蟹吐的泡泡是粉红色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_1951515367416729600",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GxUs4xiXEAACJWA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GxUs4xiXEAACJWA.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951515553614512171",
+        "created_at": "2025-08-02T05:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T06:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951517421312872509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951517421312872509",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951515553614512171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 感觉池子里和螃蟹吐的泡泡是粉红色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1951515367416729600"
+          ]
+        },
+        "author_id": "1904003547756146688",
+        "conversation_id": "1951515553614512171",
+        "created_at": "2025-08-02T05:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T06:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951515553614512171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwE5eR452o",
+              "end": 40,
+              "expanded_url": "https://x.com/kkt12138/status/1951515553614512171/photo/1",
+              "media_key": "16_1951515367416729600",
+              "start": 17,
+              "url": "https://t.co/kwE5eR452o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951515553614512171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱的螃蟹🦀\n戴着红色蝴蝶结🎀 https://t.co/kwE5eR452o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 32,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 372
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "等我想想抽象文案",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950813728988868608/E0qFmr5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 121,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 70
+        },
+        "username": "kkt12138",
+        "verified": false
+      }
+    ]
+  }
+}

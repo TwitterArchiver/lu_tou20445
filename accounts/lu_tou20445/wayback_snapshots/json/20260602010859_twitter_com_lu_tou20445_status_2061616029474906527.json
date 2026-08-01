@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061048421474328822",
+    "created_at": "2026-06-02T01:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061616029474906527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "892350789640781824",
+          "start": 0,
+          "username": "zhangasync"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061616029474906527",
+    "in_reply_to_user_id": "892350789640781824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061611736172744738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangasync 男孩子也有指甲👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-02T01:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061616029474906527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "892350789640781824",
+              "start": 0,
+              "username": "zhangasync"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061616029474906527",
+        "in_reply_to_user_id": "892350789640781824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061611736172744738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangasync 男孩子也有指甲👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "892350789640781824",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-02T00:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061611736172744738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061611736172744738",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061048421474328822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 感谢 男孩子也可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 69,
+          "like_count": 21197,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6032
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-01T11:46:22.000Z",
+        "description": "CAT PERSON | FOSS4G | Full stack WebGIS developer | Friend of two cats | こんにちは | 请多指教 | I’m learning English and Jp ,fell free to correct me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sharkAndshark",
+                "end": 23,
+                "expanded_url": "https://github.com/sharkAndshark",
+                "start": 0,
+                "url": "https://t.co/iwU5U7AyTq"
+              }
+            ]
+          }
+        },
+        "id": "892350789640781824",
+        "location": "Nowhere",
+        "name": "XYZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761746712996311040/M9rAVyI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 5618,
+          "like_count": 1666,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 944
+        },
+        "url": "https://t.co/iwU5U7AyTq",
+        "username": "zhangasync",
+        "verified": false
+      }
+    ]
+  }
+}

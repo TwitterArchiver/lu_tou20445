@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2053384064753902074",
+    "created_at": "2026-05-10T16:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T17:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053509083668607156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765000212085702656",
+          "start": 0,
+          "username": "popoichhng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053509083668607156",
+    "in_reply_to_user_id": "1765000212085702656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053506713228288323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popoichhng 整点碱水包捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2053384064753902074",
+        "created_at": "2026-05-10T16:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053509083668607156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765000212085702656",
+              "start": 0,
+              "username": "popoichhng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053509083668607156",
+        "in_reply_to_user_id": "1765000212085702656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053506713228288323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popoichhng 整点碱水包捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765000212085702656",
+        "conversation_id": "2053384064753902074",
+        "created_at": "2026-05-10T16:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053506713228288323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053506713228288323",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053384064753902074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 😅您有事吗。我找一车面包人弄你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 71,
+          "like_count": 20618,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5831
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T13:03:46.000Z",
+        "description": "平平无奇的碎碎念xp记录仪 ，抽象发疯日常，\n小号，@XinShi52907\n不加v，无🚪，不接置顶推广，无任何墙内社交软件\nbrat，高p，爱发啥发啥要你管？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "XinShi52907"
+              }
+            ]
+          }
+        },
+        "id": "1765000212085702656",
+        "location": "Frankfurt on the Main, Germany",
+        "name": "地瓜妹🍠",
+        "pinned_tweet_id": "2036025874420838425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030954172540207104/20Wt_unZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 200,
+          "like_count": 5429,
+          "listed_count": 7,
+          "media_count": 90,
+          "tweet_count": 3800
+        },
+        "username": "popoichhng",
+        "verified": false
+      }
+    ]
+  }
+}

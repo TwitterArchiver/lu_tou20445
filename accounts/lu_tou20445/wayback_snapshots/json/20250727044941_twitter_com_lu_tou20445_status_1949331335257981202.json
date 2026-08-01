@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1949162734253412546",
+    "created_at": "2025-07-27T04:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T05:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949331335257981202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853100404890058752",
+          "start": 0,
+          "username": "okukoakai1"
+        },
+        {
+          "end": 24,
+          "id": "1688397365336850432",
+          "start": 12,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949331335257981202",
+    "in_reply_to_user_id": "1853100404890058752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949330258811039773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okukoakai1 @hongpigu980 是卸妆后保持皮肤健康，清理化妆品残留防止对皮肤造成二次伤害的事啦，比如用清洁力强但温和的卸妆产品做彻底卸妆，再在温和洁面之后，用爽肤水精华乳液面霜这些来镇定修复修复肌肤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-27T04:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949331335257981202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853100404890058752",
+              "start": 0,
+              "username": "okukoakai1"
+            },
+            {
+              "end": 24,
+              "id": "1688397365336850432",
+              "start": 12,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949331335257981202",
+        "in_reply_to_user_id": "1853100404890058752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949330258811039773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okukoakai1 @hongpigu980 是卸妆后保持皮肤健康，清理化妆品残留防止对皮肤造成二次伤害的事啦，比如用清洁力强但温和的卸妆产品做彻底卸妆，再在温和洁面之后，用爽肤水精华乳液面霜这些来镇定修复修复肌肤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853100404890058752",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-27T04:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949330258811039773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 25,
+              "id": "1688397365336850432",
+              "start": 13,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949330258811039773",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949321349035352177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @hongpigu980 妆后护理是什么呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 218
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T15:42:51.000Z",
+        "description": "祝我有座钻石山",
+        "id": "1853100404890058752",
+        "name": "淡季水母",
+        "pinned_tweet_id": "1924878442946036086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853297102560149504/lmqSUR2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 44,
+          "like_count": 518,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 465
+        },
+        "username": "okukoakai1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62486,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 58,
+          "media_count": 873,
+          "tweet_count": 1109
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

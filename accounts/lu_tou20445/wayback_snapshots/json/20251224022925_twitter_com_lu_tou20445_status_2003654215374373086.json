@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2003457249319297449",
+    "created_at": "2025-12-24T02:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003654215374373086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561197337074192384",
+          "start": 0,
+          "username": "zhang_baoqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003654215374373086",
+    "in_reply_to_user_id": "1561197337074192384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003653443337224464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhang_baoqing 你如果能关注到对方穿着暴露，那更应该好好看着对方的眼睛了，虽然爱美是天性，但是应该没什么女孩子会喜欢一直被人看着身体的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-24T02:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003654215374373086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1561197337074192384",
+              "start": 0,
+              "username": "zhang_baoqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003654215374373086",
+        "in_reply_to_user_id": "1561197337074192384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003653443337224464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhang_baoqing 你如果能关注到对方穿着暴露，那更应该好好看着对方的眼睛了，虽然爱美是天性，但是应该没什么女孩子会喜欢一直被人看着身体的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561197337074192384",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-24T02:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003653443337224464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003653443337224464",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003457249319297449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 但是如果对方是女的，穿着暴露我是很难全程一直看着她的，我只能时不时低一下头，或者看看四周"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 69,
+          "like_count": 12287,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3521
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T03:44:04.000Z",
+        "description": "币圈韭菜，主业不灵，副业来凑，致力于打造多个管道收益。一起努力，一起财富自由",
+        "id": "1561197337074192384",
+        "name": "一地鸡毛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740203094364065792/nB0B0cGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 2238,
+          "like_count": 6876,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 7589
+        },
+        "username": "zhang_baoqing",
+        "verified": true
+      }
+    ]
+  }
+}

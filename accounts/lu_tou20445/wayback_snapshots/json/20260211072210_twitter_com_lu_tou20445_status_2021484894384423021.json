@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2021258157394104326",
+    "created_at": "2026-02-11T07:22:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:22:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021484894384423021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1899976477396918272",
+          "start": 0,
+          "username": "Qiniansea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021484894384423021",
+    "in_reply_to_user_id": "1899976477396918272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021483581034656074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiniansea 就是就是，怎么会是陷阱呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2021258157394104326",
+        "created_at": "2026-02-11T07:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021484894384423021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1899976477396918272",
+              "start": 0,
+              "username": "Qiniansea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021484894384423021",
+        "in_reply_to_user_id": "1899976477396918272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021483581034656074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiniansea 就是就是，怎么会是陷阱呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899976477396918272",
+        "conversation_id": "2021258157394104326",
+        "created_at": "2026-02-11T07:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021483581034656074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021483581034656074",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021258157394104326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这哪里是陷阱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 71,
+          "like_count": 15632,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 4701
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T00:11:42.000Z",
+        "description": "在0人认识的地方碎碎念 我需要很多钱 不聊黄不看🐮 骂我先打钱 提问箱链接在下面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/qiniansea",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/qiniansea",
+                "start": 0,
+                "url": "https://t.co/sV1tBotoCL"
+              }
+            ]
+          }
+        },
+        "id": "1899976477396918272",
+        "name": "404not found",
+        "pinned_tweet_id": "1981344285292445846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009304352146460672/vmUeur5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 65,
+          "like_count": 13937,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 3323
+        },
+        "url": "https://t.co/sV1tBotoCL",
+        "username": "Qiniansea",
+        "verified": false
+      }
+    ]
+  }
+}

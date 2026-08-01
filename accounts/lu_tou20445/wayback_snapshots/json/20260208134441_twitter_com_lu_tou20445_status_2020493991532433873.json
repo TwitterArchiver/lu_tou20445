@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2020437132960264697",
+    "created_at": "2026-02-08T13:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020493991532433873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785303923538161664",
+          "start": 0,
+          "username": "marci7639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020493991532433873",
+    "in_reply_to_user_id": "1785303923538161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020437132960264697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marci7639 最像汉堡的汉堡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020437122394755072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoI26taEAA72oZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2020437132960264697",
+        "created_at": "2026-02-08T13:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020493991532433873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785303923538161664",
+              "start": 0,
+              "username": "marci7639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020493991532433873",
+        "in_reply_to_user_id": "1785303923538161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020437132960264697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marci7639 最像汉堡的汉堡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020437122394755072"
+          ]
+        },
+        "author_id": "1785303923538161664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2020437132960264697",
+        "created_at": "2026-02-08T09:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020437132960264697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlyebVqGxx",
+              "end": 45,
+              "expanded_url": "https://x.com/marci7639/status/2020437132960264697/photo/1",
+              "media_key": "3_2020437122394755072",
+              "start": 22,
+              "url": "https://t.co/IlyebVqGxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020437132960264697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉魏家凉皮的汉堡比麦麦和kfc的都好吃 https://t.co/IlyebVqGxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 71,
+          "like_count": 15361,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 4617
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:43:30.000Z",
+        "description": "本人的帖子会是吃的，旅游风景，碎碎念，歌，小鼠，朝晚霞/时不时发一些碎碎念和见闻/对一切事情保持好奇/吃是人生的最大追求",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marci7639",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marci7639",
+                "start": 0,
+                "url": "https://t.co/m0aPE8aCfl"
+              }
+            ]
+          }
+        },
+        "id": "1785303923538161664",
+        "location": "肠粉国",
+        "name": "一颗星星🌟",
+        "pinned_tweet_id": "1936131439839629378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004854393662029824/b9YDZKsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 387,
+          "like_count": 23513,
+          "listed_count": 1,
+          "media_count": 906,
+          "tweet_count": 4610
+        },
+        "url": "https://t.co/m0aPE8aCfl",
+        "username": "marci7639",
+        "verified": false
+      }
+    ]
+  }
+}

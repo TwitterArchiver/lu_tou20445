@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956172764370685953",
+    "created_at": "2025-08-15T02:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T03:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956174279449428083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1953014460207247360",
+          "start": 0,
+          "username": "guominszd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956174279449428083",
+    "in_reply_to_user_id": "1953014460207247360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956172764370685953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guominszd 裸睡万岁，早呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1766,
+        "media_key": "3_1956172747731820548",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyW4v_Pa4AQrwcH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956172764370685953",
+        "created_at": "2025-08-15T02:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T03:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956174279449428083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1953014460207247360",
+              "start": 0,
+              "username": "guominszd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956174279449428083",
+        "in_reply_to_user_id": "1953014460207247360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956172764370685953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guominszd 裸睡万岁，早呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956172747731820548"
+          ]
+        },
+        "author_id": "1953014460207247360",
+        "conversation_id": "1956172764370685953",
+        "created_at": "2025-08-15T01:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956172764370685953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V22cv8vwDU",
+              "end": 47,
+              "expanded_url": "https://x.com/guominszd/status/1956172764370685953/photo/1",
+              "media_key": "3_1956172747731820548",
+              "start": 24,
+              "url": "https://t.co/V22cv8vwDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956172764370685953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是裸睡的过敏一枚啊\n来跟我说早安啊~宝宝们🥹🥹 https://t.co/V22cv8vwDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 825
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T08:45:33.000Z",
+        "description": "喵喵喵喵喵喵喵~这是一个喜欢发碎碎念的/互动性极强的/追星的/会写点点xp的/偶尔发烧的号！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kookministrue.com",
+                "end": 23,
+                "expanded_url": "http://kookministrue.com",
+                "start": 0,
+                "url": "https://t.co/M38iThIkay"
+              }
+            ]
+          }
+        },
+        "id": "1953014460207247360",
+        "location": "지민이의 삼색고양이입니다",
+        "name": "过敏这样对吗",
+        "pinned_tweet_id": "1955528651044426197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955347286889992195/S9QgBdu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 167,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/M38iThIkay",
+        "username": "guominszd",
+        "verified": true
+      }
+    ]
+  }
+}

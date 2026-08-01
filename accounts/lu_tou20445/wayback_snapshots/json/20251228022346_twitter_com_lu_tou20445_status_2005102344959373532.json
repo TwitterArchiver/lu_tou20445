@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004961161096372399",
+    "created_at": "2025-12-28T02:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T03:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005102344959373532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante1077"
+        },
+        {
+          "end": 22,
+          "id": "1907355599232274432",
+          "start": 13,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005102344959373532",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005075683299786828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante1077 @77ninini 听起来更让人绝望了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004961161096372399",
+        "created_at": "2025-12-28T02:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T03:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005102344959373532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante1077"
+            },
+            {
+              "end": 22,
+              "id": "1907355599232274432",
+              "start": 13,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005102344959373532",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005075683299786828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante1077 @77ninini 听起来更让人绝望了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217846927036837890",
+        "conversation_id": "2004961161096372399",
+        "created_at": "2025-12-28T00:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T01:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005075683299786828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 22,
+              "id": "1907355599232274432",
+              "start": 13,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005075683299786828",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004962080781377722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @77ninini 没事，多呆几个冬天就习惯了，这鬼地方要等到三月份才有阳光光顾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 72,
+          "like_count": 12869,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "希望大家都能幸福，都可以天天开心！/我真没招了，我是男的，我还有自闭症/另一个我@pass76961526454",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "pass76961526454"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "2002345454332453025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002355815530049542/_3JBXkX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 172,
+          "like_count": 13610,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 1304
+        },
+        "username": "Andante1077",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "如果有一天我不见了，请不要意外",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐",
+        "pinned_tweet_id": "2003886229524566233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003462556665446400/Ka7m9JjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 169,
+          "like_count": 45026,
+          "listed_count": 3,
+          "media_count": 695,
+          "tweet_count": 13914
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

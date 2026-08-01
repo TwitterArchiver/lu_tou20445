@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958503427530535304",
+    "created_at": "2025-11-25T03:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993157384186085384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816042391604015104",
+          "start": 0,
+          "username": "tao1865453"
+        },
+        {
+          "end": 22,
+          "id": "1784887323211280384",
+          "start": 12,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993157384186085384",
+    "in_reply_to_user_id": "1816042391604015104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993139734663905761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao1865453 @ljng15760 假的，不是，别信，我超绝养胃老头音"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-11-25T03:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993157384186085384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816042391604015104",
+              "start": 0,
+              "username": "tao1865453"
+            },
+            {
+              "end": 22,
+              "id": "1784887323211280384",
+              "start": 12,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993157384186085384",
+        "in_reply_to_user_id": "1816042391604015104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993139734663905761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao1865453 @ljng15760 假的，不是，别信，我超绝养胃老头音"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816042391604015104",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-11-25T02:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993139734663905761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993139734663905761",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958503427530535304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @ljng15760 这个id之下 居然是这样的嘛…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 70,
+          "like_count": 9704,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "07｜brat｜私信已关没兴趣认识你｜女儿@tao07158",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "tao07158"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wFHzjTH0",
+                "start": 0,
+                "url": "https://t.co/2jN9lIX0t1"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "name": "玩具",
+        "pinned_tweet_id": "1982320233928081603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979557623042097152/kqNYAf0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10931,
+          "following_count": 239,
+          "like_count": 12410,
+          "listed_count": 7,
+          "media_count": 152,
+          "tweet_count": 4088
+        },
+        "url": "https://t.co/2jN9lIX0t1",
+        "username": "tao1865453",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/5POqV5PI2E不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=l5JiAadv",
+                "start": 39,
+                "url": "https://t.co/5POqV5PI2E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bohe15760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bohe15760",
+                "start": 0,
+                "url": "https://t.co/7Wg9tCsfXq"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975786182387900416/_TTGLVKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83748,
+          "following_count": 271,
+          "like_count": 10344,
+          "listed_count": 92,
+          "media_count": 678,
+          "tweet_count": 8854
+        },
+        "url": "https://t.co/7Wg9tCsfXq",
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

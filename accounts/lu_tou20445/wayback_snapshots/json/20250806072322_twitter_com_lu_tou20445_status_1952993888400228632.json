@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1942271578148130974",
+    "created_at": "2025-08-06T07:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T08:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952993888400228632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1537742920832675840",
+          "start": 0,
+          "username": "universe_0610"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952993888400228632",
+    "in_reply_to_user_id": "1537742920832675840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942271578148130974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@universe_0610 来老师，大胆讲出来我看看有没有我看看能不能发展新xp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1942271578148130974",
+        "created_at": "2025-08-06T07:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T08:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952993888400228632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1537742920832675840",
+              "start": 0,
+              "username": "universe_0610"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952993888400228632",
+        "in_reply_to_user_id": "1537742920832675840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942271578148130974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@universe_0610 来老师，大胆讲出来我看看有没有我看看能不能发展新xp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537742920832675840",
+        "conversation_id": "1942271578148130974",
+        "created_at": "2025-07-07T17:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T18:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942271578148130974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942271578148130974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼玛 我的xp好像真的有点黄暴到不敢讲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 35,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T10:24:33.000Z",
+        "description": "",
+        "id": "1537742920832675840",
+        "name": "lemonade",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937059391292772352/yX9Poij5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 121,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "universe_0610",
+        "verified": false
+      }
+    ]
+  }
+}

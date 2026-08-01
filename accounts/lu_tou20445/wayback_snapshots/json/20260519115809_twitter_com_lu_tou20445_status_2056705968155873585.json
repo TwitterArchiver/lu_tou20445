@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2056703225626239004",
+    "created_at": "2026-05-19T11:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056705968155873585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045008457687015424",
+          "start": 0,
+          "username": "Miyup01e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056705968155873585",
+    "in_reply_to_user_id": "2045008457687015424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056703225626239004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyup01e 我也看不到了，关注页刷到能看到，但是消息提醒页没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2056703225626239004",
+        "created_at": "2026-05-19T11:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056705968155873585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045008457687015424",
+              "start": 0,
+              "username": "Miyup01e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056705968155873585",
+        "in_reply_to_user_id": "2045008457687015424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056703225626239004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyup01e 我也看不到了，关注页刷到能看到，但是消息提醒页没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045008457687015424",
+        "conversation_id": "2056703225626239004",
+        "created_at": "2026-05-19T11:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056703225626239004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056703225626239004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，为啥我看不见我自己的回复了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 70,
+          "like_count": 20788,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 5896
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T05:18:10.000Z",
+        "description": "走马敕勒川",
+        "id": "2045008457687015424",
+        "location": "Revachol",
+        "name": "夜宿河床",
+        "pinned_tweet_id": "2056590162587725880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196152328749056/6vdcxgRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 50,
+          "like_count": 450,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 195
+        },
+        "username": "Miyup01e",
+        "verified": false
+      }
+    ]
+  }
+}

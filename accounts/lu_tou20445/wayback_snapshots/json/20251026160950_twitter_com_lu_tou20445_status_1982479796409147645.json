@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1982419923269046358",
+    "created_at": "2025-10-26T16:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982479796409147645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1649906376729305088",
+          "start": 0,
+          "username": "repulsebayyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982479796409147645",
+    "in_reply_to_user_id": "1649906376729305088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982475351667494943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@repulsebayyyyyy 阿里嘎多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1982419923269046358",
+        "created_at": "2025-10-26T16:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982479796409147645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1649906376729305088",
+              "start": 0,
+              "username": "repulsebayyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982479796409147645",
+        "in_reply_to_user_id": "1649906376729305088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982475351667494943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@repulsebayyyyyy 阿里嘎多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649906376729305088",
+        "conversation_id": "1982419923269046358",
+        "created_at": "2025-10-26T15:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982475351667494943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982475351667494943",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982419923269046358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 好萌的手偶 你也萌萌的！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 73,
+          "like_count": 7361,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T22:41:59.000Z",
+        "description": "碎碎念日记/祝你每天开心长命百岁/🚪188 纯绿绿绿绿",
+        "id": "1649906376729305088",
+        "location": "垃圾桶",
+        "name": "爱吃咸口烤冷面",
+        "pinned_tweet_id": "1758019742223491147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740769257611481089/Lwk5cVbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 172,
+          "like_count": 4941,
+          "listed_count": 7,
+          "media_count": 308,
+          "tweet_count": 3398
+        },
+        "username": "repulsebayyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

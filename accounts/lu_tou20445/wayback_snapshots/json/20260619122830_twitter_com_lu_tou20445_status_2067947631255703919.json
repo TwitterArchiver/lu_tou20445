@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2067924566182113657",
+    "created_at": "2026-06-19T12:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067947631255703919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696051859545280512",
+          "start": 0,
+          "username": "yzrnb000000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067947631255703919",
+    "in_reply_to_user_id": "1696051859545280512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067942985279615186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzrnb000000 ？哪家混炒整这样，报名字我回去掀他店"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2067924566182113657",
+        "created_at": "2026-06-19T12:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067947631255703919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696051859545280512",
+              "start": 0,
+              "username": "yzrnb000000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067947631255703919",
+        "in_reply_to_user_id": "1696051859545280512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067942985279615186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzrnb000000 ？哪家混炒整这样，报名字我回去掀他店"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696051859545280512",
+        "conversation_id": "2067924566182113657",
+        "created_at": "2026-06-19T12:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067942985279615186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067942985279615186",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067942438417862945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你说错了………这是混炒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 70,
+          "like_count": 21703,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 6189
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:48:02.000Z",
+        "description": "等老公同意离婚立马和情人分手去找爱人@moji1867甜蜜中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "moji1867"
+              }
+            ]
+          }
+        },
+        "id": "1696051859545280512",
+        "location": "有钱人啥时候莫名其妙给我点钱",
+        "name": "椰子瑞纳冰",
+        "pinned_tweet_id": "2066548232990425108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004384477364056064/KWHJqlHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 157,
+          "like_count": 62132,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 14752
+        },
+        "url": "",
+        "username": "yzrnb000000",
+        "verified": false
+      }
+    ]
+  }
+}

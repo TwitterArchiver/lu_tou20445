@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1974938220875092000",
+    "created_at": "2025-10-06T03:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T04:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975046497332044009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1598199054709637121",
+          "start": 0,
+          "username": "GnIRr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975046497332044009",
+    "in_reply_to_user_id": "1598199054709637121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974938220875092000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GnIRr_ 失去高光.jpg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1974938213715460096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2hj13nawAAKAKl.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974938213644111872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2hj13WaEAAMfop.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1974938220875092000",
+        "created_at": "2025-10-06T03:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975046497332044009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1598199054709637121",
+              "start": 0,
+              "username": "GnIRr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975046497332044009",
+        "in_reply_to_user_id": "1598199054709637121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974938220875092000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GnIRr_ 失去高光.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974938213715460096",
+            "3_1974938213644111872"
+          ]
+        },
+        "author_id": "1598199054709637121",
+        "conversation_id": "1974938220875092000",
+        "created_at": "2025-10-05T20:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T21:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974938220875092000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JzTsQ7OVns",
+              "end": 36,
+              "expanded_url": "https://x.com/GnIRr_/status/1974938220875092000/photo/1",
+              "media_key": "3_1974938213715460096",
+              "start": 13,
+              "url": "https://t.co/JzTsQ7OVns"
+            },
+            {
+              "display_url": "pic.x.com/JzTsQ7OVns",
+              "end": 36,
+              "expanded_url": "https://x.com/GnIRr_/status/1974938220875092000/photo/1",
+              "media_key": "3_1974938213644111872",
+              "start": 13,
+              "url": "https://t.co/JzTsQ7OVns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974938220875092000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你更是两模两样，我真服了 https://t.co/JzTsQ7OVns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 66,
+          "like_count": 5738,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:16:21.000Z",
+        "description": "我是不会流眼泪的",
+        "id": "1598199054709637121",
+        "name": "早已泪",
+        "pinned_tweet_id": "1961491841129316793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974918571508805632/gwDgG1L7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 833,
+          "like_count": 1093,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 1127
+        },
+        "username": "GnIRr_",
+        "verified": false
+      }
+    ]
+  }
+}

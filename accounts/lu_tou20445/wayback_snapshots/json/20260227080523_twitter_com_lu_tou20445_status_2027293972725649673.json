@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2027274226189910470",
+    "created_at": "2026-02-27T08:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T09:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027293972725649673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558541027450839040",
+          "start": 0,
+          "username": "sfPeterPan"
+        },
+        {
+          "end": 23,
+          "id": "1481266405106339840",
+          "start": 12,
+          "username": "Res_ejssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027293972725649673",
+    "in_reply_to_user_id": "1558541027450839040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027274226189910470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfPeterPan @Res_ejssss 可以去发抖音了，标题就是：当你的声音和长相不符"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2027274213686673408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJTKAkagAASJ0R.jpg",
+        "width": 1206
+      },
+      {
+        "height": 652,
+        "media_key": "3_2027274213678317568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJTKAibAAAd2PK.jpg",
+        "width": 1206
+      },
+      {
+        "height": 655,
+        "media_key": "3_2027274213674078208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJTKAhaUAAUP0C.jpg",
+        "width": 1206
+      },
+      {
+        "height": 651,
+        "media_key": "3_2027274213665689600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJTKAfaUAA_AXf.jpg",
+        "width": 1182
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2027274226189910470",
+        "created_at": "2026-02-27T08:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T09:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027293972725649673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558541027450839040",
+              "start": 0,
+              "username": "sfPeterPan"
+            },
+            {
+              "end": 23,
+              "id": "1481266405106339840",
+              "start": 12,
+              "username": "Res_ejssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027293972725649673",
+        "in_reply_to_user_id": "1558541027450839040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027274226189910470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfPeterPan @Res_ejssss 可以去发抖音了，标题就是：当你的声音和长相不符"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027274213686673408",
+            "3_2027274213678317568",
+            "3_2027274213674078208",
+            "3_2027274213665689600"
+          ]
+        },
+        "author_id": "1558541027450839040",
+        "conversation_id": "2027274226189910470",
+        "created_at": "2026-02-27T06:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027274226189910470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/au3toUUrnr",
+              "end": 50,
+              "expanded_url": "https://x.com/sfPeterPan/status/2027274226189910470/photo/1",
+              "media_key": "3_2027274213686673408",
+              "start": 27,
+              "url": "https://t.co/au3toUUrnr"
+            },
+            {
+              "display_url": "pic.x.com/au3toUUrnr",
+              "end": 50,
+              "expanded_url": "https://x.com/sfPeterPan/status/2027274226189910470/photo/1",
+              "media_key": "3_2027274213678317568",
+              "start": 27,
+              "url": "https://t.co/au3toUUrnr"
+            },
+            {
+              "display_url": "pic.x.com/au3toUUrnr",
+              "end": 50,
+              "expanded_url": "https://x.com/sfPeterPan/status/2027274226189910470/photo/1",
+              "media_key": "3_2027274213674078208",
+              "start": 27,
+              "url": "https://t.co/au3toUUrnr"
+            },
+            {
+              "display_url": "pic.x.com/au3toUUrnr",
+              "end": 50,
+              "expanded_url": "https://x.com/sfPeterPan/status/2027274226189910470/photo/1",
+              "media_key": "3_2027274213665689600",
+              "start": 27,
+              "url": "https://t.co/au3toUUrnr"
+            },
+            {
+              "display_url": "x.com/sfpeterpan/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/sfpeterpan/status/2026981659862855926",
+              "start": 51,
+              "url": "https://t.co/GqiJQelQgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027274226189910470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3304,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026981659862855926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "～ᐡ•͈ ·̭ •͈ᐡ～\n姐姐大人的作品，小熊的荣耀 https://t.co/au3toUUrnr https://t.co/GqiJQelQgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 70,
+          "like_count": 17111,
+          "listed_count": 5,
+          "media_count": 229,
+          "tweet_count": 5100
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T19:49:07.000Z",
+        "description": "你好呀，欢迎进入小熊的世界。（🚪请敲门 随缘）|【自用🪜：https://t.co/X09YaF8XQB】【流量卡：https://t.co/GE5cubpR2S】/互关请进：@kidultPP😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "kidultPP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "us1.av8dcloud.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://us1.av8dcloud.top/#/register?code=kkA9j3Qy",
+                "start": 29,
+                "url": "https://t.co/X09YaF8XQB"
+              },
+              {
+                "display_url": "172.lot-ml.com/ProductEn/inde…",
+                "end": 81,
+                "expanded_url": "https://172.lot-ml.com/ProductEn/index/f2e11f8e3a6f56a8",
+                "start": 58,
+                "url": "https://t.co/GE5cubpR2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "小小熊要加油啊.com",
+                "end": 23,
+                "expanded_url": "http://xn--yfrw5dr2ia544sltg9l9b.com",
+                "start": 0,
+                "url": "https://t.co/gPaV7kD2y3"
+              }
+            ]
+          }
+        },
+        "id": "1558541027450839040",
+        "location": "寻梦的路上（钱多多的来🤤🤲🏻）",
+        "name": "ฅ ՞PܸeterⰙPanܸ՞ฅ",
+        "pinned_tweet_id": "1879205338345594897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004571942712684545/saBk3grR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4176,
+          "following_count": 1147,
+          "like_count": 498555,
+          "listed_count": 52,
+          "media_count": 4487,
+          "tweet_count": 79892
+        },
+        "url": "https://t.co/gPaV7kD2y3",
+        "username": "sfPeterPan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T14:06:57.000Z",
+        "description": "小；@llllloveessssj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "llllloveessssj"
+              }
+            ]
+          }
+        },
+        "id": "1481266405106339840",
+        "location": "Chuo-ku, Tokyo ～",
+        "name": "jennie",
+        "pinned_tweet_id": "1977305568856703186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910512907387101186/i5s6CnI8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7729,
+          "following_count": 98,
+          "like_count": 26780,
+          "listed_count": 18,
+          "media_count": 3090,
+          "tweet_count": 17176
+        },
+        "username": "Res_ejssss",
+        "verified": false
+      }
+    ]
+  }
+}

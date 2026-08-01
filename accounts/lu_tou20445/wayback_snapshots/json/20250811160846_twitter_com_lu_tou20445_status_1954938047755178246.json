@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954934452838396301",
+    "created_at": "2025-08-11T16:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T17:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954938047755178246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671951520529797120",
+          "start": 0,
+          "username": "sqq1370192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954938047755178246",
+    "in_reply_to_user_id": "1671951520529797120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954934452838396301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sqq1370192 突然让我想起了东北帮兵决，东宣木烧火棍推波助澜烧四方（没有冒犯东北兄弟的意思🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954934452838396301",
+        "created_at": "2025-08-11T16:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T17:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954938047755178246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671951520529797120",
+              "start": 0,
+              "username": "sqq1370192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954938047755178246",
+        "in_reply_to_user_id": "1671951520529797120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954934452838396301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sqq1370192 突然让我想起了东北帮兵决，东宣木烧火棍推波助澜烧四方（没有冒犯东北兄弟的意思🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671951520529797120",
+        "conversation_id": "1954934452838396301",
+        "created_at": "2025-08-11T15:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954934452838396301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sulimeow/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/sulimeow/status/1954440370856607848",
+              "start": 4,
+              "url": "https://t.co/MgcXhgLieF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954934452838396301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954440370856607848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "烧火棍 https://t.co/MgcXhgLieF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 38,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T18:41:40.000Z",
+        "description": "很抽象一个人｜选择性话多 ｜infp水瓶座bi｜这里发点限制级的碎碎念 请多多评论互动｜私信陪聊先给我打钱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sqq1370192",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sqq1370192",
+                "start": 0,
+                "url": "https://t.co/ZO2n5iUf1z"
+              }
+            ]
+          }
+        },
+        "id": "1671951520529797120",
+        "location": "私信陪聊先打钱",
+        "name": "Zzzzzzzi",
+        "pinned_tweet_id": "1947152531140104461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948808689143742465/866SnRBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 92,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1309
+        },
+        "url": "https://t.co/ZO2n5iUf1z",
+        "username": "sqq1370192",
+        "verified": false
+      }
+    ]
+  }
+}

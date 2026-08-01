@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1976530448722678013",
+    "created_at": "2025-10-10T14:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T15:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976660732591894852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1798242370561159168",
+          "start": 0,
+          "username": "meng59856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976660732591894852",
+    "in_reply_to_user_id": "1798242370561159168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976658665194324313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meng59856 不是我不信，是评论区的大家不相信，请你展示"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-10T14:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976660732591894852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798242370561159168",
+              "start": 0,
+              "username": "meng59856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976660732591894852",
+        "in_reply_to_user_id": "1798242370561159168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976658665194324313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meng59856 不是我不信，是评论区的大家不相信，请你展示"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798242370561159168",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-10T14:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976658665194324313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976658665194324313",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976530448722678013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 因为有表情会笑的太淫荡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 67,
+          "like_count": 6291,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T06:36:15.000Z",
+        "description": "i。。。。。",
+        "id": "1798242370561159168",
+        "name": "电子鱼会梦到海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932470694350303232/TRlnvfgh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 11,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 158
+        },
+        "username": "meng59856",
+        "verified": false
+      }
+    ]
+  }
+}

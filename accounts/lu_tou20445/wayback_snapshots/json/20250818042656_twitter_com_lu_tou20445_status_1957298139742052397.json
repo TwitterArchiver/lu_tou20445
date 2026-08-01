@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957296827398844862",
+    "created_at": "2025-08-18T04:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T05:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957298139742052397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482923379438936064",
+          "start": 0,
+          "username": "qing_qing97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957298139742052397",
+    "in_reply_to_user_id": "1482923379438936064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957296827398844862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_qing97 主包可以线下随便挑选一位路人冲浪，我相信你们一定会有说不完的话的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_1957296823951044608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gym3F1eaMAAgCk-.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957296827398844862",
+        "created_at": "2025-08-18T04:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957298139742052397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482923379438936064",
+              "start": 0,
+              "username": "qing_qing97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957298139742052397",
+        "in_reply_to_user_id": "1482923379438936064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957296827398844862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_qing97 主包可以线下随便挑选一位路人冲浪，我相信你们一定会有说不完的话的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957296823951044608"
+          ]
+        },
+        "author_id": "1482923379438936064",
+        "conversation_id": "1957296827398844862",
+        "created_at": "2025-08-18T04:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957296827398844862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gNyl6CV6I",
+              "end": 61,
+              "expanded_url": "https://x.com/qing_qing97/status/1957296827398844862/photo/1",
+              "media_key": "3_1957296823951044608",
+              "start": 38,
+              "url": "https://t.co/2gNyl6CV6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957296827398844862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主包现实里i的程度堪比不开口的蚌可以一整天不说话，因为话已经在网上说完了🚬 https://t.co/2gNyl6CV6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 50,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T03:51:06.000Z",
+        "description": "(。•ω -)ε・ ｡)女宝的消息都会回，男的随缘",
+        "id": "1482923379438936064",
+        "name": "朝時飲露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936762977278984192/WjWcnBQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 98,
+          "like_count": 4313,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1235
+        },
+        "username": "qing_qing97",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061634177750237445",
+    "created_at": "2026-06-02T02:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061636866039046508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061636866039046508",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061636685004443959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 👌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061636669699391488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxnoMlaAAAg39R.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061634177750237445",
+        "created_at": "2026-06-02T02:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061636866039046508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061636866039046508",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061636685004443959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 👌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061636669699391488"
+          ]
+        },
+        "author_id": "1525341238223855616",
+        "conversation_id": "2061634177750237445",
+        "created_at": "2026-06-02T02:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061636685004443959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNSqSPQb4k",
+              "end": 57,
+              "expanded_url": "https://x.com/zz160268/status/2061636685004443959/photo/1",
+              "media_key": "3_2061636669699391488",
+              "start": 34,
+              "url": "https://t.co/wNSqSPQb4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061636685004443959",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061635342089040134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 就官方出的这个 现在搞活动呢便宜三十多块 https://t.co/wNSqSPQb4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 69,
+          "like_count": 21267,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6039
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "祝你们一切都好",
+        "id": "1525341238223855616",
+        "name": "🛶",
+        "pinned_tweet_id": "2028471482092044762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055205575961751552/aaKCQQx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 240,
+          "like_count": 43480,
+          "listed_count": 1,
+          "media_count": 1223,
+          "tweet_count": 15526
+        },
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

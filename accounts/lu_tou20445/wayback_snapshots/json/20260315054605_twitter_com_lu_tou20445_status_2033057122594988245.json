@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2032715143382274140",
+    "created_at": "2026-03-15T05:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T06:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033057122594988245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927890418538270721",
+          "start": 0,
+          "username": "YYezi2iiiii"
+        },
+        {
+          "end": 21,
+          "id": "1926810561536208897",
+          "start": 13,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033057122594988245",
+    "in_reply_to_user_id": "1927890418538270721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033033826130424319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YYezi2iiiii @Owso6y_ 谢谢你，我也😑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2032715143382274140",
+        "created_at": "2026-03-15T05:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T06:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033057122594988245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927890418538270721",
+              "start": 0,
+              "username": "YYezi2iiiii"
+            },
+            {
+              "end": 21,
+              "id": "1926810561536208897",
+              "start": 13,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033057122594988245",
+        "in_reply_to_user_id": "1927890418538270721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033033826130424319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YYezi2iiiii @Owso6y_ 谢谢你，我也😑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927890418538270721",
+        "conversation_id": "2032715143382274140",
+        "created_at": "2026-03-15T04:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T05:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033033826130424319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033033826130424319",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3055,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032715143382274140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 这画得也太恶心了我未来一个月都不想手冲了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 71,
+          "like_count": 18585,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 5435
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T00:51:23.000Z",
+        "description": "",
+        "id": "1927890418538270721",
+        "location": "北京",
+        "name": "冰牛奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997340307919355904/D6amw6xr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 95,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 594
+        },
+        "username": "YYezi2iiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2013316343412769171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11497,
+          "following_count": 5,
+          "like_count": 3528,
+          "listed_count": 24,
+          "media_count": 222,
+          "tweet_count": 753
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

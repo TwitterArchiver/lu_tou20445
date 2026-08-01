@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948596844000641473",
+    "created_at": "2025-07-25T04:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948600528759349628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484077799678050305",
+          "start": 0,
+          "username": "soaweerl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948600528759349628",
+    "in_reply_to_user_id": "1484077799678050305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948600208176406946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soaweerl 虽然病症很多但是基本坚持一个原则，就是身体不会无缘无故痛，不管大小🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948596844000641473",
+        "created_at": "2025-07-25T04:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948600528759349628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484077799678050305",
+              "start": 0,
+              "username": "soaweerl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948600528759349628",
+        "in_reply_to_user_id": "1484077799678050305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948600208176406946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soaweerl 虽然病症很多但是基本坚持一个原则，就是身体不会无缘无故痛，不管大小🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484077799678050305",
+        "conversation_id": "1948596844000641473",
+        "created_at": "2025-07-25T04:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948600208176406946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948600208176406946",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948598262480465967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 卧槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 113
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T08:18:22.000Z",
+        "description": "分享生活且碎碎念的日常号 宝宝们来互关•͈ ₃ •͈",
+        "id": "1484077799678050305",
+        "name": "衣姨",
+        "pinned_tweet_id": "1946982277168386539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943392083810615296/W1GM-YJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 169,
+          "like_count": 1803,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1249
+        },
+        "username": "soaweerl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950401064995316140",
+    "created_at": "2025-07-30T03:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T04:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950402609770062271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907757273272954883",
+          "start": 0,
+          "username": "BrittanyJo39321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950402609770062271",
+    "in_reply_to_user_id": "1907757273272954883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950402183234801850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BrittanyJo39321 猫猫狗狗，让我们跟这位陌生的叔叔阿姨说再见吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950401064995316140",
+        "created_at": "2025-07-30T03:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950402609770062271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907757273272954883",
+              "start": 0,
+              "username": "BrittanyJo39321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950402609770062271",
+        "in_reply_to_user_id": "1907757273272954883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950402183234801850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BrittanyJo39321 猫猫狗狗，让我们跟这位陌生的叔叔阿姨说再见吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907757273272954883",
+        "conversation_id": "1950401064995316140",
+        "created_at": "2025-07-30T03:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950402183234801850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950402183234801850",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950401807613862258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哈哈哈哈哈哈哈没错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T11:29:19.000Z",
+        "description": "每天都在思考每天吃什么的抽象男",
+        "id": "1907757273272954883",
+        "name": "BrittanyJohnson",
+        "pinned_tweet_id": "1942783742290059300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942474441516285952/vbcVavGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 33,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 466
+        },
+        "username": "BrittanyJo39321",
+        "verified": false
+      }
+    ]
+  }
+}

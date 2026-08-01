@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1965990526710419886",
+    "created_at": "2025-09-12T02:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T03:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966332701868527960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "946646949310033921",
+          "start": 0,
+          "username": "String1992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966332701868527960",
+    "in_reply_to_user_id": "946646949310033921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966331949519163696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@String1992 没有人会第一时间讨厌一个正常人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1965990526710419886",
+        "created_at": "2025-09-12T02:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966332701868527960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "946646949310033921",
+              "start": 0,
+              "username": "String1992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966332701868527960",
+        "in_reply_to_user_id": "946646949310033921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966331949519163696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@String1992 没有人会第一时间讨厌一个正常人的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "946646949310033921",
+        "conversation_id": "1965990526710419886",
+        "created_at": "2025-09-12T02:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T03:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966331949519163696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966331949519163696",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965990526710419886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 外表好的人率先脱颖而出，有趣有啥用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 65,
+          "like_count": 3633,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T07:39:55.000Z",
+        "description": "6年机构量化策略开发和交易经验，自营交易第3年，专注港美股和全球衍生品量化交易",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@CancerQuant",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@CancerQuant",
+                "start": 0,
+                "url": "https://t.co/8zjBgVlkUy"
+              }
+            ]
+          }
+        },
+        "id": "946646949310033921",
+        "location": "开曼群岛",
+        "name": "蟹仔量化",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901510090676703232/0AmcJoTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/8zjBgVlkUy",
+        "username": "String1992",
+        "verified": false
+      }
+    ]
+  }
+}

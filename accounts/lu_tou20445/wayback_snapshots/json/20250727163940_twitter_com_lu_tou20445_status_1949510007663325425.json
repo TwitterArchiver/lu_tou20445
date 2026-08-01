@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949486211497890169",
+    "created_at": "2025-07-27T16:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T17:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949510007663325425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "Statius_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949510007663325425",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949486211497890169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Statius_ 更适合当代年轻人的洪福齐天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1949486204594077696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw33X89awAAs_CW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949486211497890169",
+        "created_at": "2025-07-27T16:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T17:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949510007663325425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "Statius_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949510007663325425",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949486211497890169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Statius_ 更适合当代年轻人的洪福齐天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949486204594077696"
+          ]
+        },
+        "author_id": "1667779272478687232",
+        "conversation_id": "1949486211497890169",
+        "created_at": "2025-07-27T15:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949486211497890169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvcdmTgusm",
+              "end": 30,
+              "expanded_url": "https://x.com/Statius_/status/1949486211497890169/photo/1",
+              "media_key": "3_1949486204594077696",
+              "start": 7,
+              "url": "https://t.co/uvcdmTgusm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949486211497890169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1849,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天伦之乐（x https://t.co/uvcdmTgusm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "🦦 我只是一个脆弱敏感好吃懒做的小女孩",
+        "id": "1667779272478687232",
+        "location": "獵戶座左臂西旋",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1805209388682232286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 83,
+          "like_count": 6982,
+          "listed_count": 2,
+          "media_count": 836,
+          "tweet_count": 1673
+        },
+        "username": "Statius_",
+        "verified": false
+      }
+    ]
+  }
+}

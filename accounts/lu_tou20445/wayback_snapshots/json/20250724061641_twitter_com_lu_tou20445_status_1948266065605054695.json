@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1947889975888159230",
+    "created_at": "2025-07-24T06:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T07:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948266065605054695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929771332750688256",
+          "start": 0,
+          "username": "wmm92649426634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948266065605054695",
+    "in_reply_to_user_id": "1929771332750688256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947889975888159230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmm92649426634 感觉好像厦门那边哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1774,
+        "media_key": "3_1947889846783025152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwhLfssXoAA9mOG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1947889975888159230",
+        "created_at": "2025-07-24T06:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T07:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948266065605054695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929771332750688256",
+              "start": 0,
+              "username": "wmm92649426634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948266065605054695",
+        "in_reply_to_user_id": "1929771332750688256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947889975888159230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmm92649426634 感觉好像厦门那边哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947889846783025152"
+          ]
+        },
+        "author_id": "1929771332750688256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1947889975888159230",
+        "created_at": "2025-07-23T05:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T06:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947889975888159230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqmw9lskri",
+              "end": 32,
+              "expanded_url": "https://x.com/wmm92649426634/status/1947889975888159230/photo/1",
+              "media_key": "3_1947889846783025152",
+              "start": 9,
+              "url": "https://t.co/cqmw9lskri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947889975888159230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "起太晚•᷄ࡇ•᷅ https://t.co/cqmw9lskri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T05:25:24.000Z",
+        "description": "腦子裡面都是黃色廢料喵（真的是女孩子啦！！ 蚊子好討厭 小號發點見不得人的東西@wmm926494266341",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "wmm926494266341"
+              }
+            ]
+          }
+        },
+        "id": "1929771332750688256",
+        "location": "喵喵喵根据地",
+        "name": "烏梅喵",
+        "pinned_tweet_id": "1940967587086823625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930135483440414720/nRoXzEZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 10,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 44
+        },
+        "username": "wmm92649426634",
+        "verified": false
+      }
+    ]
+  }
+}

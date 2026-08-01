@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951876771856654684",
+    "created_at": "2025-08-04T16:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T17:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952414193988075730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1927277978804695040",
+          "start": 0,
+          "username": "sanshui0607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952414193988075730",
+    "in_reply_to_user_id": "1927277978804695040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951876771856654684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanshui0607 《来了》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951876771856654684",
+        "created_at": "2025-08-04T16:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T17:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952414193988075730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1927277978804695040",
+              "start": 0,
+              "username": "sanshui0607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952414193988075730",
+        "in_reply_to_user_id": "1927277978804695040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951876771856654684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanshui0607 《来了》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927277978804695040",
+        "conversation_id": "1951876771856654684",
+        "created_at": "2025-08-03T05:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951876771856654684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951876771856654684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 6242,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有好看小众的恐怖片推荐？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:18:22.000Z",
+        "description": "（私信请礼貌）微腐、日常碎碎念、精分、清水、不玩圈、不+v、暂时是礼貌的水、",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui0606",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui0606",
+                "start": 0,
+                "url": "https://t.co/R4gfhONDQI"
+              }
+            ]
+          }
+        },
+        "id": "1927277978804695040",
+        "location": "33km",
+        "name": "三水",
+        "pinned_tweet_id": "1950930361791164696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950831633294106624/h4gDximk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 17,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/R4gfhONDQI",
+        "username": "sanshui0607",
+        "verified": false
+      }
+    ]
+  }
+}

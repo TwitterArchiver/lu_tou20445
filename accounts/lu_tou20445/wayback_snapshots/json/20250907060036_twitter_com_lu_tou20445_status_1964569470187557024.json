@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1964228057314840670",
+    "created_at": "2025-09-07T06:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964569470187557024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924098812643364864",
+          "start": 0,
+          "username": "gunainai13"
+        },
+        {
+          "end": 23,
+          "id": "874922985567784960",
+          "start": 12,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964569470187557024",
+    "in_reply_to_user_id": "1924098812643364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964568988924694619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunainai13 @xihinansyo 有这样的商业头脑你做什么都会成功的菇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1964228057314840670",
+        "created_at": "2025-09-07T06:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964569470187557024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924098812643364864",
+              "start": 0,
+              "username": "gunainai13"
+            },
+            {
+              "end": 23,
+              "id": "874922985567784960",
+              "start": 12,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964569470187557024",
+        "in_reply_to_user_id": "1924098812643364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964568988924694619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunainai13 @xihinansyo 有这样的商业头脑你做什么都会成功的菇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924098812643364864",
+        "conversation_id": "1964228057314840670",
+        "created_at": "2025-09-07T05:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964568988924694619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964568988924694619",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964292330392784964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo 搓（留学生需要搓澡）（记下来）（开澡堂）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 64,
+          "like_count": 3091,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1583
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:44:58.000Z",
+        "description": "❤️‍🔥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8F%87%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8F%87%E8%80%90%E8%80%90",
+                "start": 0,
+                "url": "https://t.co/C8GCOEMhUZ"
+              }
+            ]
+          }
+        },
+        "id": "1924098812643364864",
+        "name": "AAA蓝溪镇你菇神",
+        "pinned_tweet_id": "1960240679784976809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958370281015422976/fHPcWWeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 181,
+          "like_count": 5348,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 2911
+        },
+        "url": "https://t.co/C8GCOEMhUZ",
+        "username": "gunainai13",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1958480667957776533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 194,
+          "like_count": 7776,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2809
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": true
+      }
+    ]
+  }
+}

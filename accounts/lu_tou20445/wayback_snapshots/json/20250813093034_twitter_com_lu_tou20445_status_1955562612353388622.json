@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955478889347813581",
+    "created_at": "2025-08-13T09:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955562612353388622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1939031538840281088",
+          "start": 0,
+          "username": "SaoLvna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955562612353388622",
+    "in_reply_to_user_id": "1939031538840281088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955478889347813581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaoLvna 之前不是发帖说要是被刷到了就悄悄私信你么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955478889347813581",
+        "created_at": "2025-08-13T09:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955562612353388622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1939031538840281088",
+              "start": 0,
+              "username": "SaoLvna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955562612353388622",
+        "in_reply_to_user_id": "1939031538840281088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955478889347813581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaoLvna 之前不是发帖说要是被刷到了就悄悄私信你么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939031538840281088",
+        "conversation_id": "1955478889347813581",
+        "created_at": "2025-08-13T03:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T04:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955478889347813581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955478889347813581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被同事刷到了推特怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 40,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T18:42:06.000Z",
+        "description": "89年离异宝妈初来乍到请多关照",
+        "id": "1939031538840281088",
+        "location": "已婚离异",
+        "name": "娜姨娘",
+        "pinned_tweet_id": "1939556248527188287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939036208404758528/Gy9jNX5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 26,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 76
+        },
+        "username": "SaoLvna",
+        "verified": false
+      }
+    ]
+  }
+}

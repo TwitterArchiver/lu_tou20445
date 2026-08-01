@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956086525604847786",
+    "created_at": "2025-08-15T09:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T10:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956290568364904562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1699668980901023744",
+          "start": 0,
+          "username": "lwmjdr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956290568364904562",
+    "in_reply_to_user_id": "1699668980901023744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956086525604847786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lwmjdr 犟种毛都飙出来了哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1956086518164111360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyVqUxEaQAA1u-h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1956086518759743498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyVqUzSa4AoteHW.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1956086520215175168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyVqU4tbAAAviW5.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1956086522979176448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyVqVDAaUAALsTK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956086525604847786",
+        "created_at": "2025-08-15T09:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956290568364904562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1699668980901023744",
+              "start": 0,
+              "username": "lwmjdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956290568364904562",
+        "in_reply_to_user_id": "1699668980901023744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956086525604847786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lwmjdr 犟种毛都飙出来了哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956086518164111360",
+            "3_1956086518759743498",
+            "3_1956086520215175168",
+            "3_1956086522979176448"
+          ]
+        },
+        "author_id": "1699668980901023744",
+        "conversation_id": "1956086525604847786",
+        "created_at": "2025-08-14T20:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T21:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956086525604847786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8qU3mCbST",
+              "end": 27,
+              "expanded_url": "https://x.com/lwmjdr/status/1956086525604847786/photo/1",
+              "media_key": "3_1956086518164111360",
+              "start": 4,
+              "url": "https://t.co/L8qU3mCbST"
+            },
+            {
+              "display_url": "pic.x.com/L8qU3mCbST",
+              "end": 27,
+              "expanded_url": "https://x.com/lwmjdr/status/1956086525604847786/photo/1",
+              "media_key": "3_1956086518759743498",
+              "start": 4,
+              "url": "https://t.co/L8qU3mCbST"
+            },
+            {
+              "display_url": "pic.x.com/L8qU3mCbST",
+              "end": 27,
+              "expanded_url": "https://x.com/lwmjdr/status/1956086525604847786/photo/1",
+              "media_key": "3_1956086520215175168",
+              "start": 4,
+              "url": "https://t.co/L8qU3mCbST"
+            },
+            {
+              "display_url": "pic.x.com/L8qU3mCbST",
+              "end": 27,
+              "expanded_url": "https://x.com/lwmjdr/status/1956086525604847786/photo/1",
+              "media_key": "3_1956086522979176448",
+              "start": 4,
+              "url": "https://t.co/L8qU3mCbST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956086525604847786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "犟种猫 https://t.co/L8qU3mCbST"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T06:20:50.000Z",
+        "description": "3i&4i｜05 isfj 射手｜南京",
+        "id": "1699668980901023744",
+        "name": "拾茗",
+        "pinned_tweet_id": "1954260807405142421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767209808925708288/Kf9p9y8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 877,
+          "like_count": 1865,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 206
+        },
+        "username": "lwmjdr",
+        "verified": false
+      }
+    ]
+  }
+}

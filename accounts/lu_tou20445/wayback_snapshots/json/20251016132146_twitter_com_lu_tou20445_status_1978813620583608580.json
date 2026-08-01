@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1978808289182761436",
+    "created_at": "2025-10-16T13:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978813620583608580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874922985567784960",
+          "start": 0,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978813620583608580",
+    "in_reply_to_user_id": "874922985567784960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978808289182761436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihinansyo 笑死了，没看前就知道我可以全勾选了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1978808285437276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YjpsQWsAAHirK.jpg",
+        "width": 929
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1978808285437284352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YjpsQW0AAAAfL.jpg",
+        "width": 929
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1978808289182761436",
+        "created_at": "2025-10-16T13:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978813620583608580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978813620583608580",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978808289182761436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo 笑死了，没看前就知道我可以全勾选了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978808285437276160",
+            "3_1978808285437284352"
+          ]
+        },
+        "author_id": "874922985567784960",
+        "conversation_id": "1978808289182761436",
+        "created_at": "2025-10-16T13:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978808289182761436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7sWpWaGTr",
+              "end": 34,
+              "expanded_url": "https://x.com/xihinansyo/status/1978808289182761436/photo/1",
+              "media_key": "3_1978808285437276160",
+              "start": 11,
+              "url": "https://t.co/j7sWpWaGTr"
+            },
+            {
+              "display_url": "pic.x.com/j7sWpWaGTr",
+              "end": 34,
+              "expanded_url": "https://x.com/xihinansyo/status/1978808289182761436/photo/1",
+              "media_key": "3_1978808285437284352",
+              "start": 11,
+              "url": "https://t.co/j7sWpWaGTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978808289182761436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么新型孤独等级自测 https://t.co/j7sWpWaGTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 70,
+          "like_count": 6824,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1972135768937373858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 251,
+          "like_count": 15313,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 6269
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1960285701880283136"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1960285852833116259",
+    "created_at": "2025-08-26T10:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T11:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960285852833116259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/91A0aFLXpp",
+          "end": 40,
+          "expanded_url": "https://x.com/lu_tou20445/status/1960285852833116259/video/1",
+          "media_key": "13_1960285701880283136",
+          "start": 17,
+          "url": "https://t.co/91A0aFLXpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960285852833116259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧梦到哪句唱哪句😋（可能有点低 https://t.co/91A0aFLXpp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29045,
+        "height": 720,
+        "media_key": "13_1960285701880283136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960285701880283136/img/40kKYNxPRx6TjXo9.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960285701880283136/vid/avc1/480x270/QsNPoYeR9tG0KoH9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960285701880283136/vid/avc1/640x360/UG8tOaiDfAqbPIzT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960285701880283136/vid/avc1/1280x720/wX7DvM2qpZOW0G_0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960285701880283136/pl/iGhOUPuJLHmZ3RIL.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960285701880283136"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1960285852833116259",
+        "created_at": "2025-08-26T10:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960285852833116259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91A0aFLXpp",
+              "end": 40,
+              "expanded_url": "https://x.com/lu_tou20445/status/1960285852833116259/video/1",
+              "media_key": "13_1960285701880283136",
+              "start": 17,
+              "url": "https://t.co/91A0aFLXpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960285852833116259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧梦到哪句唱哪句😋（可能有点低 https://t.co/91A0aFLXpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 51,
+          "like_count": 1340,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

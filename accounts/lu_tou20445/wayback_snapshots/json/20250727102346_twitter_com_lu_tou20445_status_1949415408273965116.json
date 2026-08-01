@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949314795410493497",
+    "created_at": "2025-07-27T10:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949415408273965116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939382739352141824",
+          "start": 0,
+          "username": "kun131012435822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949415408273965116",
+    "in_reply_to_user_id": "1939382739352141824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949314795410493497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kun131012435822 有点像银狐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949314748383944704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1bb4za4AAYUV0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949314795410493497",
+        "created_at": "2025-07-27T10:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949415408273965116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939382739352141824",
+              "start": 0,
+              "username": "kun131012435822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949415408273965116",
+        "in_reply_to_user_id": "1939382739352141824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949314795410493497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kun131012435822 有点像银狐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949314748383944704"
+          ]
+        },
+        "author_id": "1939382739352141824",
+        "conversation_id": "1949314795410493497",
+        "created_at": "2025-07-27T03:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949314795410493497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FpckHNJs09",
+              "end": 41,
+              "expanded_url": "https://x.com/kun131012435822/status/1949314795410493497/photo/1",
+              "media_key": "3_1949314748383944704",
+              "start": 18,
+              "url": "https://t.co/FpckHNJs09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949314795410493497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热的犯困的小狗（我感觉有点像狐狸） https://t.co/FpckHNJs09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 236
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T17:57:58.000Z",
+        "description": "entj,欢迎大家和我聊天，有啥可以跟我聊",
+        "id": "1939382739352141824",
+        "name": "k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946923812324507648/EAAuTf4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 50,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 215
+        },
+        "username": "kun131012435822",
+        "verified": false
+      }
+    ]
+  }
+}

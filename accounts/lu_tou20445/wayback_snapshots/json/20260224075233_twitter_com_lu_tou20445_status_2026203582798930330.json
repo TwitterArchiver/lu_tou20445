@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026026267842428995",
+    "created_at": "2026-02-24T07:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026203582798930330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        },
+        {
+          "end": 18,
+          "id": "1618557658163970049",
+          "start": 10,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026203582798930330",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026199727642182018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 @qqqqqf5 独角兽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026026267842428995",
+        "created_at": "2026-02-24T07:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026203582798930330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            },
+            {
+              "end": 18,
+              "id": "1618557658163970049",
+              "start": 10,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026203582798930330",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026199727642182018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 @qqqqqf5 独角兽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525341238223855616",
+        "conversation_id": "2026026267842428995",
+        "created_at": "2026-02-24T07:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026199727642182018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026199727642182018",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026026267842428995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 天线宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 70,
+          "like_count": 16641,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 4994
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "翻不过去的最后一页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/napgodzz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/napgodzz",
+                "start": 0,
+                "url": "https://t.co/SSYPt5dq7c"
+              }
+            ]
+          }
+        },
+        "id": "1525341238223855616",
+        "location": "华夏古文明 山西好风光",
+        "name": "🛶",
+        "pinned_tweet_id": "2019315017305453052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 217,
+          "like_count": 35496,
+          "listed_count": 0,
+          "media_count": 858,
+          "tweet_count": 11922
+        },
+        "url": "https://t.co/SSYPt5dq7c",
+        "username": "zz160268",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "你好！我是清凤\n不键政不od不割手不恶俗\n欢迎私信聊天投稿andmore!\n生活/开发/发疯向账号: @qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2024083137333178414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9474,
+          "following_count": 1945,
+          "like_count": 14045,
+          "listed_count": 19,
+          "media_count": 2297,
+          "tweet_count": 5068
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

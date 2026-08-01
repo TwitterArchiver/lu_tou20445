@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954267736022069293",
+    "created_at": "2025-08-10T01:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T02:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954360169355444348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1554830289897107456",
+          "start": 0,
+          "username": "naiyou38206277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954360169355444348",
+    "in_reply_to_user_id": "1554830289897107456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954267736022069293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyou38206277 母该，一碟哈搞十闷，好平啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954267736022069293",
+        "created_at": "2025-08-10T01:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T02:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954360169355444348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1554830289897107456",
+              "start": 0,
+              "username": "naiyou38206277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954360169355444348",
+        "in_reply_to_user_id": "1554830289897107456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954267736022069293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyou38206277 母该，一碟哈搞十闷，好平啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554830289897107456",
+        "conversation_id": "1954267736022069293",
+        "created_at": "2025-08-09T19:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T20:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954267736022069293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954267736022069293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粤语好好听…但是好难学…只学会了几个词在那干巴的往外蹦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 37,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T14:03:54.000Z",
+        "description": "",
+        "id": "1554830289897107456",
+        "name": "奶油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554846971935961088/W8WOKGs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 44,
+          "like_count": 670,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 592
+        },
+        "username": "naiyou38206277",
+        "verified": false
+      }
+    ]
+  }
+}

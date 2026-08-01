@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009655190845264233",
+    "created_at": "2026-01-10T11:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009954352296014227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1780845984613912576",
+          "start": 0,
+          "username": "ddduuu220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009954352296014227",
+    "in_reply_to_user_id": "1780845984613912576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009951549712412889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddduuu220 个人练习生的含金量还在上升"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009655190845264233",
+        "created_at": "2026-01-10T11:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009954352296014227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1780845984613912576",
+              "start": 0,
+              "username": "ddduuu220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009954352296014227",
+        "in_reply_to_user_id": "1780845984613912576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009951549712412889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddduuu220 个人练习生的含金量还在上升"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780845984613912576",
+        "conversation_id": "2009655190845264233",
+        "created_at": "2026-01-10T11:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009951549712412889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009951549712412889",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009655190845264233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 真的很羡慕他的内核……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 69,
+          "like_count": 14246,
+          "listed_count": 3,
+          "media_count": 195,
+          "tweet_count": 4121
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T06:29:17.000Z",
+        "description": "ENFP🔁INFJ😶‍🌫️日常吐槽碎碎念🤬 暴力大s（专打没礼貌的人版",
+        "id": "1780845984613912576",
+        "location": "New York, USA",
+        "name": "别骂我本人有精神分裂",
+        "pinned_tweet_id": "2004738763243880834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982396020651630592/VtoLEXrO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 8,
+          "like_count": 81,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 78
+        },
+        "username": "ddduuu220",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1967092808327790788",
+    "created_at": "2025-09-14T05:15:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:15:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967094924144504954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1875000110016614401",
+          "start": 0,
+          "username": "yyhy73"
+        },
+        {
+          "end": 23,
+          "id": "1788854643163877376",
+          "start": 8,
+          "username": "fffffffx286556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967094924144504954",
+    "in_reply_to_user_id": "1875000110016614401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967092808327790788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyhy73 @fffffffx286556 让猕猴桃调你，他真的做到了🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967092789482844167",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yEeE1bcAcjC3N.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967092789474435072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yEeEzbIAAERev.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1967092808327790788",
+        "created_at": "2025-09-14T05:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967094924144504954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1875000110016614401",
+              "start": 0,
+              "username": "yyhy73"
+            },
+            {
+              "end": 23,
+              "id": "1788854643163877376",
+              "start": 8,
+              "username": "fffffffx286556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967094924144504954",
+        "in_reply_to_user_id": "1875000110016614401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967092808327790788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyhy73 @fffffffx286556 让猕猴桃调你，他真的做到了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967092789482844167",
+            "3_1967092789474435072"
+          ]
+        },
+        "author_id": "1875000110016614401",
+        "conversation_id": "1967092808327790788",
+        "created_at": "2025-09-14T05:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967092808327790788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788854643163877376",
+              "start": 3,
+              "username": "fffffffx286556"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd3yFrW7KF",
+              "end": 42,
+              "expanded_url": "https://x.com/yyhy73/status/1967092808327790788/photo/1",
+              "media_key": "3_1967092789482844167",
+              "start": 19,
+              "url": "https://t.co/Kd3yFrW7KF"
+            },
+            {
+              "display_url": "pic.x.com/Kd3yFrW7KF",
+              "end": 42,
+              "expanded_url": "https://x.com/yyhy73/status/1967092808327790788/photo/1",
+              "media_key": "3_1967092789474435072",
+              "start": 19,
+              "url": "https://t.co/Kd3yFrW7KF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967092808327790788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁疯了@fffffffx286556 https://t.co/Kd3yFrW7KF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 63,
+          "like_count": 3851,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T02:04:09.000Z",
+        "description": "文玩发烧友 当朋友圈发的 我爱吃虫子别来烦 isfp 网络疯子 推广会把评论关掉 请自行鉴别 @YuBshao0773",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "YuBshao0773"
+              }
+            ]
+          }
+        },
+        "id": "1875000110016614401",
+        "name": "鱼Yuu",
+        "pinned_tweet_id": "1966849411880984609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952726395198873600/60LRyDsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 95,
+          "like_count": 7132,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 141
+        },
+        "username": "yyhy73",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T08:52:45.000Z",
+        "description": "猕猴桃朋友圈",
+        "id": "1788854643163877376",
+        "name": "伤心猕猴桃",
+        "pinned_tweet_id": "1963468931634454682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890388842987077633/LeBW2kFV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15577,
+          "following_count": 59,
+          "like_count": 1590,
+          "listed_count": 29,
+          "media_count": 84,
+          "tweet_count": 627
+        },
+        "username": "fffffffx286556",
+        "verified": false
+      }
+    ]
+  }
+}

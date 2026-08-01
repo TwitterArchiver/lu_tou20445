@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2001182465852105037",
+    "created_at": "2025-12-17T06:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001183716711010643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001183716711010643",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001182465852105037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nkqlbxc 最近我评论区被这种爬满了，还得一个个屏蔽🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1392,
+        "media_key": "3_2001182462869921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Wg2OYaYAAYvI4.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2001182465852105037",
+        "created_at": "2025-12-17T06:52:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001183716711010643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001183716711010643",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001182465852105037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nkqlbxc 最近我评论区被这种爬满了，还得一个个屏蔽🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001182462869921792"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "2001182465852105037",
+        "created_at": "2025-12-17T06:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001182465852105037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3QNJ2KIhG",
+              "end": 91,
+              "expanded_url": "https://x.com/nkqlbxc/status/2001182465852105037/photo/1",
+              "media_key": "3_2001182462869921792",
+              "start": 68,
+              "url": "https://t.co/W3QNJ2KIhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001182465852105037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "教大家一个判断你帖子有没有爆的方法\n就是看你的评论区有没有“男大弟弟来”，“有万达广场附近的吗”这种机器人。如果有，这个帖子大概率能爆\n\n因为这些干zp的搞的这套系统依靠的是ai工作流，简单来说就是他们在流量池上爬取热门贴，然后用外显账号批量打评论放钩子。用的应该是类似于n8n这种ai工作流软件，至于怎么去检测爆流这个他们是最懂的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教大家一个判断你帖子有没有爆的方法\n就是看你的评论区有没有“男大弟弟来”，“有万达广场附近的吗”这种机器人。如果有，这个帖子大概率能爆 https://t.co/W3QNJ2KIhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 69,
+          "like_count": 11655,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 3350
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”\n\n防封小号（处哥在干嘛）：@chuge857",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "chuge857"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85535,
+          "following_count": 83,
+          "like_count": 786,
+          "listed_count": 90,
+          "media_count": 1651,
+          "tweet_count": 2371
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

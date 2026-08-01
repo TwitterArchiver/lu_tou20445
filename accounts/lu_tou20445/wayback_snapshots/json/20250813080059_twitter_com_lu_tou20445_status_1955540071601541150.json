@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955526168234561759",
+    "created_at": "2025-08-13T08:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T09:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955540071601541150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1953665837191376899",
+          "start": 0,
+          "username": "qropadb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955540071601541150",
+    "in_reply_to_user_id": "1953665837191376899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955526168234561759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qropadb 控制欲犯了（想控制所有人的手机自动给我转账）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955526168234561759",
+        "created_at": "2025-08-13T08:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955540071601541150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1953665837191376899",
+              "start": 0,
+              "username": "qropadb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955540071601541150",
+        "in_reply_to_user_id": "1953665837191376899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955526168234561759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qropadb 控制欲犯了（想控制所有人的手机自动给我转账）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953665837191376899",
+        "conversation_id": "1955526168234561759",
+        "created_at": "2025-08-13T07:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955526168234561759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955526168234561759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分享欲犯了（想把收款码发给所有人）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T03:53:40.000Z",
+        "description": "iiii，单身，男同退退退",
+        "id": "1953665837191376899",
+        "name": "a",
+        "pinned_tweet_id": "1955259858560942434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953801014303502359/rO-AFGGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 296,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "username": "qropadb",
+        "verified": false
+      }
+    ]
+  }
+}

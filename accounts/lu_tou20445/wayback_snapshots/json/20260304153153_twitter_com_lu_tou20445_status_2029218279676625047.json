@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2029217244321047000",
+    "created_at": "2026-03-04T15:31:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T16:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029218279676625047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764126015843172352",
+          "start": 0,
+          "username": "Stepbystep_1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029218279676625047",
+    "in_reply_to_user_id": "1764126015843172352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029217889027539294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stepbystep_1107 咋学这么快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2029217244321047000",
+        "created_at": "2026-03-04T15:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029218279676625047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764126015843172352",
+              "start": 0,
+              "username": "Stepbystep_1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029218279676625047",
+        "in_reply_to_user_id": "1764126015843172352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029217889027539294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stepbystep_1107 咋学这么快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764126015843172352",
+        "conversation_id": "2029217244321047000",
+        "created_at": "2026-03-04T15:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T16:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029217889027539294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029217889027539294",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029217244321047000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 学到了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 71,
+          "like_count": 17600,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 5253
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T03:10:03.000Z",
+        "description": "悲观主义者在祈祷happy ending.",
+        "id": "1764126015843172352",
+        "name": "我恋哥咋了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004238421628248064/QS7fOXCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 73,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 270
+        },
+        "username": "Stepbystep_1107",
+        "verified": false
+      }
+    ]
+  }
+}

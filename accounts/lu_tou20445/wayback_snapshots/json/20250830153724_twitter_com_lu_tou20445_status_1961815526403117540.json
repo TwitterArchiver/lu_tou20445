@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1961778540514332989",
+    "created_at": "2025-08-30T15:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961815526403117540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante34872865"
+        },
+        {
+          "end": 28,
+          "id": "874922985567784960",
+          "start": 17,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961815526403117540",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961792144227909975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante34872865 @xihinansyo 太草率了，刺到就该让西西手下你这朵有印记的玫瑰了，收到他也就是你的了（图帅，偷了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_1961792140595638272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzmvjs9bMAAGzl6.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1961778540514332989",
+        "created_at": "2025-08-30T15:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961815526403117540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante34872865"
+            },
+            {
+              "end": 28,
+              "id": "874922985567784960",
+              "start": 17,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961815526403117540",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961792144227909975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante34872865 @xihinansyo 太草率了，刺到就该让西西手下你这朵有印记的玫瑰了，收到他也就是你的了（图帅，偷了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961792140595638272"
+          ]
+        },
+        "author_id": "1217846927036837890",
+        "conversation_id": "1961778540514332989",
+        "created_at": "2025-08-30T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961792144227909975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYu6praozb",
+              "end": 83,
+              "expanded_url": "https://x.com/Andante34872865/status/1961792144227909975/photo/1",
+              "media_key": "3_1961792140595638272",
+              "start": 60,
+              "url": "https://t.co/fYu6praozb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961792144227909975",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961787788627460220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo （叼玫瑰花出现）（深情对视）（气泡音）晚上好西老师，不知道你是否愿意…（被刺到嘴）（匆匆离场） https://t.co/fYu6praozb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 57,
+          "like_count": 1705,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "你要离开吗，我们一起离开。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andante63573",
+                "end": 23,
+                "expanded_url": "https://ngl.link/andante63573",
+                "start": 0,
+                "url": "https://t.co/pzv46WS6sw"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1951480793827778963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961763842184335361/tlNlyQFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 307,
+          "like_count": 2290,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/pzv46WS6sw",
+        "username": "Andante34872865",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直｜碎碎念暴发户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1958480667957776533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 173,
+          "like_count": 6250,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2003126004924227665",
+    "created_at": "2025-12-26T11:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T12:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004521664227463398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942965296115159040",
+          "start": 0,
+          "username": "koy561240092328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004521664227463398",
+    "in_reply_to_user_id": "1942965296115159040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004520381206626480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koy561240092328 哇，好高的评价，谢谢你愿意用高情商回复，别人说我养胃☹️，我将继续保持这样🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2003126004924227665",
+        "created_at": "2025-12-26T11:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T12:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004521664227463398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942965296115159040",
+              "start": 0,
+              "username": "koy561240092328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004521664227463398",
+        "in_reply_to_user_id": "1942965296115159040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004520381206626480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koy561240092328 哇，好高的评价，谢谢你愿意用高情商回复，别人说我养胃☹️，我将继续保持这样🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942965296115159040",
+        "conversation_id": "2003126004924227665",
+        "created_at": "2025-12-26T11:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T12:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004520381206626480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004520381206626480",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003126004924227665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我想想啊，因为老头没有性饥渴，好像脱离了低端欲望的一个人类，感觉在现在的中推圈里比较罕见！所以就关注上了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 70,
+          "like_count": 12558,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 3587
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T15:13:28.000Z",
+        "description": "双性恋，可以叫我*休休*",
+        "id": "1942965296115159040",
+        "name": "请休息吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004499266887364609/xw_BtbFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 85,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 65
+        },
+        "username": "koy561240092328",
+        "verified": false
+      }
+    ]
+  }
+}

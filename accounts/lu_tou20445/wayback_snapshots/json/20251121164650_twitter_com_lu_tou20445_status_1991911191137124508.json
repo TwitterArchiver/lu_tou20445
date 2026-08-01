@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1991557692146741659",
+    "created_at": "2025-11-21T16:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T17:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991911191137124508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908890987554013185",
+          "start": 0,
+          "username": "KFCmeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991911191137124508",
+    "in_reply_to_user_id": "1908890987554013185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991905376841740510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KFCmeow 抓笔，写"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1991557692146741659",
+        "created_at": "2025-11-21T16:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991911191137124508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908890987554013185",
+              "start": 0,
+              "username": "KFCmeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991911191137124508",
+        "in_reply_to_user_id": "1908890987554013185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991905376841740510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KFCmeow 抓笔，写"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908890987554013185",
+        "conversation_id": "1991557692146741659",
+        "created_at": "2025-11-21T16:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T17:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991905376841740510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991905376841740510",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991557692146741659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 诶，建设一波。早逝的妻子在地狱工作许久才能换来和阳间的信件，可阴阳两隔，情丝绵绵在丈夫眼中只剩空白😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 70,
+          "like_count": 9330,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T14:34:22.000Z",
+        "description": "",
+        "id": "1908890987554013185",
+        "name": "Charon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908891169335242753/aq8E1cLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 94,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 57
+        },
+        "username": "KFCmeow",
+        "verified": false
+      }
+    ]
+  }
+}

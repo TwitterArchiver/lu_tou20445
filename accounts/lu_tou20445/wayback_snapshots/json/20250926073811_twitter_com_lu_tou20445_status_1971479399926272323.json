@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1971475332235661386",
+    "created_at": "2025-09-26T07:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T08:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971479399926272323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "736081550589067264",
+          "start": 0,
+          "username": "neko1013_nine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971479399926272323",
+    "in_reply_to_user_id": "736081550589067264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971479146099507327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko1013_nine 太通透辣！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1971475332235661386",
+        "created_at": "2025-09-26T07:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971479399926272323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "736081550589067264",
+              "start": 0,
+              "username": "neko1013_nine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971479399926272323",
+        "in_reply_to_user_id": "736081550589067264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971479146099507327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko1013_nine 太通透辣！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "736081550589067264",
+        "conversation_id": "1971475332235661386",
+        "created_at": "2025-09-26T07:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971479146099507327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971479146099507327",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971475332235661386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 虚假的幸福也是幸福！假不假的，不重要。在那一刻是幸福的就够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 63,
+          "like_count": 5016,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1854
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-27T06:28:12.000Z",
+        "description": "攒菜谱，开个店，跟朋友喝酒聊天。\n人生没有彩排，每天都是现场直播，活好当下就够了。\n想什么明天怎样，也许下一刻我已经死了。\n高浓度I人，点赞能手，退堂鼓表演者。",
+        "id": "736081550589067264",
+        "location": "bei j ng",
+        "name": "喵梓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954915773975277568/IM0uRZ0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 730,
+          "like_count": 3757,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 538
+        },
+        "username": "neko1013_nine",
+        "verified": false
+      }
+    ]
+  }
+}

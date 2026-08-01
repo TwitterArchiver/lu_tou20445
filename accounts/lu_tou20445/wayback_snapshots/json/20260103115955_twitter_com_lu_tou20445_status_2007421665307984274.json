@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2007302437619761458",
+    "created_at": "2026-01-03T11:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007421665307984274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1340343055044337666",
+          "start": 0,
+          "username": "Venlafaxinel"
+        },
+        {
+          "end": 26,
+          "id": "1217846927036837890",
+          "start": 14,
+          "username": "Andante1077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007421665307984274",
+    "in_reply_to_user_id": "1340343055044337666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007419223828746735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Venlafaxinel @Andante1077 伯恩山大脚丫的味儿👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2007302437619761458",
+        "created_at": "2026-01-03T11:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007421665307984274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1340343055044337666",
+              "start": 0,
+              "username": "Venlafaxinel"
+            },
+            {
+              "end": 26,
+              "id": "1217846927036837890",
+              "start": 14,
+              "username": "Andante1077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007421665307984274",
+        "in_reply_to_user_id": "1340343055044337666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007419223828746735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venlafaxinel @Andante1077 伯恩山大脚丫的味儿👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340343055044337666",
+        "conversation_id": "2007302437619761458",
+        "created_at": "2026-01-03T11:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007419223828746735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 25,
+              "id": "1217846927036837890",
+              "start": 13,
+              "username": "Andante1077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007419223828746735",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007396271993364947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @Andante1077 糯糯青山不是一直说是小狗臭脚的味儿吗（）\n狗友们都这么说（真狗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 69,
+          "like_count": 13739,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 3945
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T17:07:56.000Z",
+        "description": "INTJ丨真的不是女同我要反复强调丨是枯死又被栽出新叶的树，是快沉到湖底的水仙，是愉悦，是新鲜。",
+        "id": "1340343055044337666",
+        "location": "百亩森林",
+        "name": "文拉法辛🌟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625763960296448003/DqM7IBo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 496,
+          "like_count": 26891,
+          "listed_count": 9,
+          "media_count": 711,
+          "tweet_count": 12744
+        },
+        "username": "Venlafaxinel",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "希望大家都能幸福，都可以天天开心！/另一个我@pass76961526454",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "pass76961526454"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "2002345454332453025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002355815530049542/_3JBXkX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 180,
+          "like_count": 14072,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1345
+        },
+        "username": "Andante1077",
+        "verified": false
+      }
+    ]
+  }
+}

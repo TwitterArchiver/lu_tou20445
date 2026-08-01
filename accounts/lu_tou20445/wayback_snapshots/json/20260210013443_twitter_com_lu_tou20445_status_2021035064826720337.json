@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2020064886949310730",
+    "created_at": "2026-02-10T01:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T02:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021035064826720337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901212642972217344",
+          "start": 0,
+          "username": "Robin594015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021035064826720337",
+    "in_reply_to_user_id": "1901212642972217344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020993637996257688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Robin594015 好样的，让我们为这位勇敢表达爱的勇士鼓掌👏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2020064886949310730",
+        "created_at": "2026-02-10T01:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T02:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021035064826720337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901212642972217344",
+              "start": 0,
+              "username": "Robin594015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021035064826720337",
+        "in_reply_to_user_id": "1901212642972217344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020993637996257688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robin594015 好样的，让我们为这位勇敢表达爱的勇士鼓掌👏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901212642972217344",
+        "conversation_id": "2020064886949310730",
+        "created_at": "2026-02-09T22:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T23:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020993637996257688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020993637996257688",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020064886949310730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 所以纸片人好呢，人设是固定的，不会变得琐碎，造作。永远有确定性，内核不具有流动性所以完全符合我僵硬的自大和傲慢。永远能是最完美的形象，永远不用负责，永远不用承担额外的风险，永远不会在ta啜泣时觉得吵闹，所以我永远是春日野穹的狗🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 71,
+          "like_count": 15555,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 4659
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T10:03:32.000Z",
+        "description": "随感而应，无物不照",
+        "id": "1901212642972217344",
+        "name": "伯牙",
+        "pinned_tweet_id": "2012450953178263696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017970560287039488/kQafaTC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 102
+        },
+        "username": "Robin594015",
+        "verified": false
+      }
+    ]
+  }
+}

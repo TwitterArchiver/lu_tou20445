@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2031265967502930070",
+    "created_at": "2026-03-10T13:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031366187096092701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987939635075702784",
+          "start": 0,
+          "username": "siyou646684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031366187096092701",
+    "in_reply_to_user_id": "1987939635075702784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031351065485173029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@siyou646684 改天发作了再试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T13:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031366187096092701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987939635075702784",
+              "start": 0,
+              "username": "siyou646684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031366187096092701",
+        "in_reply_to_user_id": "1987939635075702784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031351065485173029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@siyou646684 改天发作了再试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987939635075702784",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T12:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031351065485173029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031351065485173029",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031265967502930070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 虽然不知道为什么，但是在偏头痛还没很疼之前打开窗户狠狠吸入空气然后再吐出来，往返几次就不疼了。热敏荨麻疹如果是在家的话，可以全裸把身上弄湿再大字形躺床上晾干，期间尽量不要焦虑就很快下去了。听起来有点像神经病，但是我就这样缓解好了x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 71,
+          "like_count": 18256,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 5354
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T17:46:49.000Z",
+        "description": "INFJ/switch/泛性恋/写东西有时候只是因为纯嘴贱，不会对写下的东西负责。\n\n可以发身材照，但是别给我发牛牛和福，不要把性幻想强加在我身上，没有回应的义务。",
+        "id": "1987939635075702784",
+        "name": "狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016209703878156288/YUId2K12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 29,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 252
+        },
+        "username": "siyou646684",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2027696378055692770",
+    "created_at": "2026-02-28T11:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027708023133921557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1838653981368946693",
+          "start": 0,
+          "username": "cluovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027708023133921557",
+    "in_reply_to_user_id": "1838653981368946693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027706409585152215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cluovo 你怎么知道我渴了就直接拎壶了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2027696378055692770",
+        "created_at": "2026-02-28T11:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027708023133921557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1838653981368946693",
+              "start": 0,
+              "username": "cluovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027708023133921557",
+        "in_reply_to_user_id": "1838653981368946693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027706409585152215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cluovo 你怎么知道我渴了就直接拎壶了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838653981368946693",
+        "conversation_id": "2027696378055692770",
+        "created_at": "2026-02-28T11:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027706409585152215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027706409585152215",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027696378055692770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我真不行了乐死我了…下次直接抱着喝吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 72,
+          "like_count": 17291,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 5155
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T18:57:33.000Z",
+        "description": "不加联系 碎碎念ing…",
+        "id": "1838653981368946693",
+        "name": "Sky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838655357494923270/gAeZoZBQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 26,
+          "like_count": 14,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 4245
+        },
+        "username": "cluovo",
+        "verified": false
+      }
+    ]
+  }
+}

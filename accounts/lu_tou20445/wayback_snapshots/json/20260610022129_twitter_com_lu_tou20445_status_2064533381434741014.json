@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2064326083596706230",
+    "created_at": "2026-06-10T02:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064533381434741014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863482901670895616",
+          "start": 0,
+          "username": "osborn_11s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064533381434741014",
+    "in_reply_to_user_id": "1863482901670895616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064340538401464749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osborn_11s 回答错误，跟悲伤酷拽小狗一起趴着吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 368,
+        "media_key": "3_2064340521200599040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYCxEWbQAAJ-Gj.jpg",
+        "width": 423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2064326083596706230",
+        "created_at": "2026-06-10T02:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064533381434741014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863482901670895616",
+              "start": 0,
+              "username": "osborn_11s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064533381434741014",
+        "in_reply_to_user_id": "1863482901670895616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064340538401464749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osborn_11s 回答错误，跟悲伤酷拽小狗一起趴着吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064340521200599040"
+          ]
+        },
+        "author_id": "1863482901670895616",
+        "conversation_id": "2064326083596706230",
+        "created_at": "2026-06-09T13:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064340538401464749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jcnMtWzJOw",
+              "end": 48,
+              "expanded_url": "https://x.com/osborn_11s/status/2064340538401464749/photo/1",
+              "media_key": "3_2064340521200599040",
+              "start": 25,
+              "url": "https://t.co/jcnMtWzJOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064340538401464749",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064326083596706230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我喜欢发这个推文的小狗 https://t.co/jcnMtWzJOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 68,
+          "like_count": 21527,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 6126
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T07:19:18.000Z",
+        "description": "上学中…┊摩羯座┊ ♀\n动漫/漫画/小说/动物/风景 /恐怖电影\n感情比较重且麻烦的性格，非常敏感，胡思乱想、负能量、如果不介意请和我做朋友吧！什么废话都可以！给我发私信的话绝对会认真回复的！(´･ω･`)」\n闲着无聊的人随便问点什么吧～摸鱼的时候回复哦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/osborn_11s",
+                "end": 23,
+                "expanded_url": "https://ngl.link/osborn_11s",
+                "start": 0,
+                "url": "https://t.co/x32Q6DJj3g"
+              }
+            ]
+          }
+        },
+        "id": "1863482901670895616",
+        "name": "塩漬けの魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062058692858757120/EKCBJgO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 114,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/x32Q6DJj3g",
+        "username": "osborn_11s",
+        "verified": false
+      }
+    ]
+  }
+}

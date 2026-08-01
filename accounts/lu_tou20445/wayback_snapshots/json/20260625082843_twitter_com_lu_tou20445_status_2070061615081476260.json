@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2069274670415884611",
+    "created_at": "2026-06-25T08:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070061615081476260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070061615081476260",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070061424928526499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 在别的地方已经看到过比这还搞的视频了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2069274670415884611",
+        "created_at": "2026-06-25T08:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070061615081476260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070061615081476260",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070061424928526499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 在别的地方已经看到过比这还搞的视频了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525341238223855616",
+        "conversation_id": "2069274670415884611",
+        "created_at": "2026-06-25T08:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070061424928526499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070061424928526499",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070060876053541176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 冲着叠纸公司的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 70,
+          "like_count": 21733,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 6209
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "直女😇 恐同",
+        "id": "1525341238223855616",
+        "name": "🛶",
+        "pinned_tweet_id": "2067835756962529477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055205575961751552/aaKCQQx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 241,
+          "like_count": 45044,
+          "listed_count": 1,
+          "media_count": 1311,
+          "tweet_count": 16239
+        },
+        "url": "",
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

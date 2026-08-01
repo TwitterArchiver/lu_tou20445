@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955519993510236223",
+    "created_at": "2025-08-13T06:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T07:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955524119660990731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650478453781856256",
+          "start": 0,
+          "username": "qwqRichest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955524119660990731",
+    "in_reply_to_user_id": "1650478453781856256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955520508579172780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqRichest 我一直在点收藏🤣，喜欢太频繁会被盖，收藏点了就相当于浏览器书签了，很好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955519993510236223",
+        "created_at": "2025-08-13T06:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955524119660990731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650478453781856256",
+              "start": 0,
+              "username": "qwqRichest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955524119660990731",
+        "in_reply_to_user_id": "1650478453781856256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955520508579172780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqRichest 我一直在点收藏🤣，喜欢太频繁会被盖，收藏点了就相当于浏览器书签了，很好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650478453781856256",
+        "conversation_id": "1955519993510236223",
+        "created_at": "2025-08-13T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955520508579172780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955520508579172780",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955520235055767728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这个功能我就没用过 我尝试一段时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T12:35:12.000Z",
+        "description": "",
+        "id": "1650478453781856256",
+        "location": "南京",
+        "name": "野樱甜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780959555603877888/fUwHbIdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 59,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 132
+        },
+        "username": "qwqRichest",
+        "verified": false
+      }
+    ]
+  }
+}

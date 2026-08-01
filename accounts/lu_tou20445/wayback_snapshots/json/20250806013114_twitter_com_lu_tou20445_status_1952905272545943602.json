@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1952883414149062878",
+    "created_at": "2025-08-06T01:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952905272545943602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883176458966949888",
+          "start": 0,
+          "username": "Lululemeng327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952905272545943602",
+    "in_reply_to_user_id": "1883176458966949888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952883414149062878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lululemeng327 秃头小可爱实体化了😦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1952883408704827392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxoJHQea8AAnWVo.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1952883414149062878",
+        "created_at": "2025-08-06T01:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952905272545943602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883176458966949888",
+              "start": 0,
+              "username": "Lululemeng327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952905272545943602",
+        "in_reply_to_user_id": "1883176458966949888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952883414149062878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lululemeng327 秃头小可爱实体化了😦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952883408704827392"
+          ]
+        },
+        "author_id": "1883176458966949888",
+        "conversation_id": "1952883414149062878",
+        "created_at": "2025-08-06T00:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T01:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952883414149062878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zj7gLXsiV6",
+              "end": 36,
+              "expanded_url": "https://x.com/Lululemeng327/status/1952883414149062878/photo/1",
+              "media_key": "3_1952883408704827392",
+              "start": 13,
+              "url": "https://t.co/Zj7gLXsiV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952883414149062878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sorry我不是坏女孩～ https://t.co/Zj7gLXsiV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T15:34:00.000Z",
+        "description": "成为了我的几分之几",
+        "id": "1883176458966949888",
+        "location": "Sanctuary",
+        "name": "陆陆林萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903789582010740736/4rn-pPVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 72,
+          "like_count": 3902,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 695
+        },
+        "username": "Lululemeng327",
+        "verified": false
+      }
+    ]
+  }
+}

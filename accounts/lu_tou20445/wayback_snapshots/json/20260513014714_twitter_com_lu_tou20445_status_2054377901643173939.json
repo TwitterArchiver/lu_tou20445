@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2054265705206517818",
+    "created_at": "2026-05-13T01:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054377901643173939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981722018312806400",
+          "start": 0,
+          "username": "kitten718miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054377901643173939",
+    "in_reply_to_user_id": "1981722018312806400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054265705206517818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitten718miao 退一万步说原版的就不行吗😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2054265705206517818",
+        "created_at": "2026-05-13T01:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054377901643173939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981722018312806400",
+              "start": 0,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054377901643173939",
+        "in_reply_to_user_id": "1981722018312806400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054265705206517818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitten718miao 退一万步说原版的就不行吗😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981722018312806400",
+        "conversation_id": "2054265705206517818",
+        "created_at": "2026-05-12T18:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054265705206517818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054265705206517818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的理想型男友其实是性转版西西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 71,
+          "like_count": 20685,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5850
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "@laraaa718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "laraaa718"
+              }
+            ]
+          }
+        },
+        "id": "1981722018312806400",
+        "name": "猫睡醒了",
+        "pinned_tweet_id": "1990349790232912199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051408125400633344/ghha4WVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 73,
+          "like_count": 2338,
+          "listed_count": 2,
+          "media_count": 223,
+          "tweet_count": 2116
+        },
+        "username": "kitten718miao",
+        "verified": false
+      }
+    ]
+  }
+}

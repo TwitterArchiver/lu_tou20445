@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1993282071721394676",
+    "created_at": "2025-11-25T12:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993298945741869281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993298945741869281",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993298547438239933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 简直就是造化世人，我在外面吃的醋简直就是水，喝一口没味道旁人还挺惊讶🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1993282071721394676",
+        "created_at": "2025-11-25T12:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993298945741869281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993298945741869281",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993298547438239933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 简直就是造化世人，我在外面吃的醋简直就是水，喝一口没味道旁人还挺惊讶🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525341238223855616",
+        "conversation_id": "1993282071721394676",
+        "created_at": "2025-11-25T12:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993298547438239933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zz160268/statu…",
+              "end": 42,
+              "expanded_url": "https://x.com/zz160268/status/1969270324714696774?t=ZH49ynlqYLK3AKm0ZDkPuA&s=19",
+              "start": 19,
+              "url": "https://t.co/XN2EdFbjIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993298547438239933",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969270324714696774",
+            "type": "quoted"
+          },
+          {
+            "id": "1993298340772196647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 现打宁化府🤓https://t.co/XN2EdFbjIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 70,
+          "like_count": 9725,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2935
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "翻不过去的最后一页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/napgodzz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/napgodzz",
+                "start": 0,
+                "url": "https://t.co/SSYPt5dq7c"
+              }
+            ]
+          }
+        },
+        "id": "1525341238223855616",
+        "location": "华夏古文明 山西好风光",
+        "name": "🛶",
+        "pinned_tweet_id": "1992176578818949628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 242,
+          "like_count": 27414,
+          "listed_count": 0,
+          "media_count": 609,
+          "tweet_count": 8640
+        },
+        "url": "https://t.co/SSYPt5dq7c",
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955208785091498024",
+    "created_at": "2025-08-13T05:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T06:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955508941548556758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933526545454313472",
+          "start": 0,
+          "username": "sunlick333"
+        },
+        {
+          "end": 23,
+          "id": "1935049716783521792",
+          "start": 12,
+          "username": "iwananahug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955508941548556758",
+    "in_reply_to_user_id": "1933526545454313472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955443979757163013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunlick333 @iwananahug 说谢谢了吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955208785091498024",
+        "created_at": "2025-08-13T05:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T06:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955508941548556758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933526545454313472",
+              "start": 0,
+              "username": "sunlick333"
+            },
+            {
+              "end": 23,
+              "id": "1935049716783521792",
+              "start": 12,
+              "username": "iwananahug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955508941548556758",
+        "in_reply_to_user_id": "1933526545454313472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955443979757163013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunlick333 @iwananahug 说谢谢了吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933526545454313472",
+        "conversation_id": "1955208785091498024",
+        "created_at": "2025-08-13T01:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T02:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955443979757163013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935049716783521792",
+              "start": 0,
+              "username": "iwananahug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955443979757163013",
+        "in_reply_to_user_id": "1935049716783521792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955208785091498024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iwananahug 这女的以前拿烟头烫我屁股"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T14:07:18.000Z",
+        "description": "已关闭私信｜超绝玻璃心补药骂我呀求求你了一切都是我的错｜INFJ-t处女座超绝内耗圣体",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunlick333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sunlick333",
+                "start": 0,
+                "url": "https://t.co/T99Q550SPI"
+              }
+            ]
+          }
+        },
+        "id": "1933526545454313472",
+        "name": "sunlick",
+        "pinned_tweet_id": "1948317178949996563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950894026527547392/QlJGwOQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 70,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/T99Q550SPI",
+        "username": "sunlick333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T18:59:51.000Z",
+        "description": "我是一个爱发癫的小女孩/逼话很多 把推特当朋友圈发/小女孩关注我了我没回fo的话可以私信我/不聊骚不约炮没兴趣认识你/男的不要给我发几把谢谢",
+        "id": "1935049716783521792",
+        "name": "赛博快乐小狗",
+        "pinned_tweet_id": "1948340852268621968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947983166788038656/Dj-orWNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 109,
+          "like_count": 1238,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1699
+        },
+        "username": "iwananahug",
+        "verified": false
+      }
+    ]
+  }
+}

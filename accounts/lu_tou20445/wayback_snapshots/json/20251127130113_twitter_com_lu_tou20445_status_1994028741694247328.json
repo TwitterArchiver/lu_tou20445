@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1993837632187752700",
+    "created_at": "2025-11-27T13:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994028741694247328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530431494019162112",
+          "start": 0,
+          "username": "maomaohaocui11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994028741694247328",
+    "in_reply_to_user_id": "1530431494019162112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993944545407717721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maomaohaocui11 差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1993837632187752700",
+        "created_at": "2025-11-27T13:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994028741694247328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530431494019162112",
+              "start": 0,
+              "username": "maomaohaocui11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994028741694247328",
+        "in_reply_to_user_id": "1530431494019162112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993944545407717721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaohaocui11 差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530431494019162112",
+        "conversation_id": "1993837632187752700",
+        "created_at": "2025-11-27T07:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993944545407717721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993944545407717721",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993837632187752700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你这是掉进里世界了吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 69,
+          "like_count": 9860,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 2977
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T06:11:25.000Z",
+        "description": "家人们我只是想看涩涩而已真的不想约炮啊给我发涩图！快发！",
+        "id": "1530431494019162112",
+        "name": "猫猫好脆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688842884785602560/5SrS1j0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 1530,
+          "like_count": 20940,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 511
+        },
+        "username": "maomaohaocui11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1985050323564818481",
+    "created_at": "2025-11-04T03:34:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T04:34:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985551189644362045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1920880545908879366",
+          "start": 0,
+          "username": "aiyingyiny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985551189644362045",
+    "in_reply_to_user_id": "1920880545908879366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985496171574636802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyingyiny 别客气，大家都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1985050323564818481",
+        "created_at": "2025-11-04T03:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985551189644362045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920880545908879366",
+              "start": 0,
+              "username": "aiyingyiny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985551189644362045",
+        "in_reply_to_user_id": "1920880545908879366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985496171574636802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyingyiny 别客气，大家都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920880545908879366",
+        "conversation_id": "1985050323564818481",
+        "created_at": "2025-11-03T23:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T00:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985496171574636802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985496171574636802",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985050323564818481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我又受到攻击"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 73,
+          "like_count": 7758,
+          "listed_count": 3,
+          "media_count": 122,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T16:36:43.000Z",
+        "description": "碎碎念日记薄",
+        "id": "1920880545908879366",
+        "name": "1122",
+        "pinned_tweet_id": "1969666402597683558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978442706331561984/QfNG1hi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6713,
+          "following_count": 110,
+          "like_count": 14569,
+          "listed_count": 19,
+          "media_count": 158,
+          "tweet_count": 3507
+        },
+        "username": "aiyingyiny",
+        "verified": false
+      }
+    ]
+  }
+}

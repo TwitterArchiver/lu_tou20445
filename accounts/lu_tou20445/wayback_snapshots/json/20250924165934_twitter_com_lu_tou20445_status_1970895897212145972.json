@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1970824502960603332",
+    "created_at": "2025-09-24T16:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T17:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970895897212145972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1820860465020592128",
+          "start": 0,
+          "username": "Vir_NOX92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970895897212145972",
+    "in_reply_to_user_id": "1820860465020592128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970833744769786276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vir_NOX92 因为是我的状态🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1970824502960603332",
+        "created_at": "2025-09-24T16:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T17:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970895897212145972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820860465020592128",
+              "start": 0,
+              "username": "Vir_NOX92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970895897212145972",
+        "in_reply_to_user_id": "1820860465020592128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970833744769786276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vir_NOX92 因为是我的状态🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820860465020592128",
+        "conversation_id": "1970824502960603332",
+        "created_at": "2025-09-24T12:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T13:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970833744769786276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970833744769786276",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970824502960603332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我怎么没有呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 63,
+          "like_count": 4921,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T16:32:36.000Z",
+        "description": "你开心的话 我也开心｜最喜欢小猫｜日常碎碎念｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xsxsxs992",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xsxsxs992",
+                "start": 0,
+                "url": "https://t.co/X0avVeX72Q"
+              }
+            ]
+          }
+        },
+        "id": "1820860465020592128",
+        "location": "Kazan",
+        "name": "蔓越莓布朗尼",
+        "pinned_tweet_id": "1943269322723594400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937065996264636417/d2tBtYqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 127,
+          "like_count": 3755,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 2797
+        },
+        "url": "https://t.co/X0avVeX72Q",
+        "username": "Vir_NOX92",
+        "verified": false
+      }
+    ]
+  }
+}

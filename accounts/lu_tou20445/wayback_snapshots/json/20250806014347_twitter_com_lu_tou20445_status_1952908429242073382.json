@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951916291377463390",
+    "created_at": "2025-08-06T01:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952908429242073382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1880698794851102720",
+          "start": 0,
+          "username": "zZqwqZzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952908429242073382",
+    "in_reply_to_user_id": "1880698794851102720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951916291377463390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zZqwqZzx 商店润滑液，会咕叽咕叽的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951916291377463390",
+        "created_at": "2025-08-06T01:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952908429242073382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1880698794851102720",
+              "start": 0,
+              "username": "zZqwqZzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952908429242073382",
+        "in_reply_to_user_id": "1880698794851102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951916291377463390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zZqwqZzx 商店润滑液，会咕叽咕叽的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880698794851102720",
+        "conversation_id": "1951916291377463390",
+        "created_at": "2025-08-03T08:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951916291377463390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951916291377463390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18358,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听了个音频，录自己撸管的，录出来跟刷牙的声音一样我真服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T19:28:43.000Z",
+        "description": "只有这一个号^^",
+        "id": "1880698794851102720",
+        "location": "我几把很大",
+        "name": "🥱zZ",
+        "pinned_tweet_id": "1946631655743176822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913261835937292288/j_7wjqJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27825,
+          "following_count": 151,
+          "like_count": 1859,
+          "listed_count": 44,
+          "media_count": 136,
+          "tweet_count": 1569
+        },
+        "username": "zZqwqZzx",
+        "verified": false
+      }
+    ]
+  }
+}

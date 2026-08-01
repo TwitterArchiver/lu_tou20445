@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2077367181931880479",
+    "created_at": "2026-07-15T13:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077383324113449139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1514587805598556162",
+          "start": 0,
+          "username": "yinale2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077383324113449139",
+    "in_reply_to_user_id": "1514587805598556162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077370221137129681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yinale2 终归还是有顾虑，吃的没那么开心了🙁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2077367181931880479",
+        "created_at": "2026-07-15T13:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077383324113449139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1514587805598556162",
+              "start": 0,
+              "username": "yinale2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077383324113449139",
+        "in_reply_to_user_id": "1514587805598556162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077370221137129681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yinale2 终归还是有顾虑，吃的没那么开心了🙁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514587805598556162",
+        "conversation_id": "2077367181931880479",
+        "created_at": "2026-07-15T12:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077370221137129681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077370221137129681",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077367181931880479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 还行吧，避免吃到一些不好吃热量还高的歹毒食物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 70,
+          "like_count": 21317,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 6283
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T12:54:25.000Z",
+        "description": "人类观察研究实验基地",
+        "id": "1514587805598556162",
+        "name": "幸运小清勇闯世界",
+        "pinned_tweet_id": "2053357848156074432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1539464516357873664/JzruTz_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 113,
+          "like_count": 14752,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "yinale2",
+        "verified": false
+      }
+    ]
+  }
+}

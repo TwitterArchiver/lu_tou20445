@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1976978329510318084",
+    "created_at": "2025-10-12T06:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T07:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977255933077254554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977255933077254554",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977231701253537952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo 甚至觉得不洗的话握刀拿菜的手感都不对🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1976978329510318084",
+        "created_at": "2025-10-12T06:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977255933077254554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977255933077254554",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977231701253537952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo 甚至觉得不洗的话握刀拿菜的手感都不对🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904949484783841280",
+        "conversation_id": "1976978329510318084",
+        "created_at": "2025-10-12T04:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977231701253537952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977231701253537952",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976978329510318084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 真的很喜欢洗手，感觉手上沾了一点点东西都难受怕接下来接触别的东西会弄脏🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 71,
+          "like_count": 6524,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "自用蜂鸟VPN https://t.co/5tYNEdRop5\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.apifn.xyz/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://api.apifn.xyz/#/register?code=rFp",
+                "start": 8,
+                "url": "https://t.co/5tYNEdRop5"
+              },
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 61,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 38,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "疯兔子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971888549848031232/m4brFRqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 638,
+          "like_count": 16212,
+          "listed_count": 4,
+          "media_count": 249,
+          "tweet_count": 3583
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      }
+    ]
+  }
+}

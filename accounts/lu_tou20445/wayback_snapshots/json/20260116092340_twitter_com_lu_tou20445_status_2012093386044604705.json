@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2011725784671748306",
+    "created_at": "2026-01-16T09:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T10:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012093386044604705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1916181248005074944",
+          "start": 0,
+          "username": "Ywcream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012093386044604705",
+    "in_reply_to_user_id": "1916181248005074944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012019916275401177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ywcream 会的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2011725784671748306",
+        "created_at": "2026-01-16T09:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012093386044604705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1916181248005074944",
+              "start": 0,
+              "username": "Ywcream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012093386044604705",
+        "in_reply_to_user_id": "1916181248005074944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012019916275401177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ywcream 会的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916181248005074944",
+        "conversation_id": "2011725784671748306",
+        "created_at": "2026-01-16T04:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012019916275401177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012019916275401177",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011725784671748306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 早点好起来！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 69,
+          "like_count": 14105,
+          "listed_count": 3,
+          "media_count": 201,
+          "tweet_count": 4233
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T17:23:42.000Z",
+        "description": "02 INFP 水瓶座 ｜喜欢小猫🐈小狗🐕 集声控 ｜脸控｜ 手控 集敏感脆弱好色守财于一体 爱吃美食的小女孩 ｜这是我的电子日记 发啥你别管 ｜没有回复恶意私信的义务 不会礼貌回关｜不聊不约不线下｜推止于推｜尊重女性 尊重自己 尊重动物",
+        "id": "1916181248005074944",
+        "location": "在世界中心呼唤爱",
+        "name": "讨厌所有下雨天ꉂ ᳐⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ ᳐ฅ",
+        "pinned_tweet_id": "1985388669864460290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004545147959472128/A21pBjqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 106,
+          "like_count": 8449,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 4046
+        },
+        "username": "Ywcream",
+        "verified": false
+      }
+    ]
+  }
+}

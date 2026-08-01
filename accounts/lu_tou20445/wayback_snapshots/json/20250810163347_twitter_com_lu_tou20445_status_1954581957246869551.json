@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954512173453222148",
+    "created_at": "2025-08-10T16:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954581957246869551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2240596470",
+          "start": 0,
+          "username": "lena_brat1994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954581957246869551",
+    "in_reply_to_user_id": "2240596470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954512173453222148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lena_brat1994 听起来像是用全身的力气在许愿了，不过我支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954512173453222148",
+        "created_at": "2025-08-10T16:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954581957246869551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2240596470",
+              "start": 0,
+              "username": "lena_brat1994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954581957246869551",
+        "in_reply_to_user_id": "2240596470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954512173453222148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lena_brat1994 听起来像是用全身的力气在许愿了，不过我支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2240596470",
+        "conversation_id": "1954512173453222148",
+        "created_at": "2025-08-10T11:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T12:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954512173453222148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/an_linjiang/st…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/an_linjiang/status/1954142233395142824",
+              "start": 64,
+              "url": "https://t.co/Bi38AJf5P1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954512173453222148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954142233395142824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不善待自己狗狗的主人不是好主人\n信女愿此男上厕所没卫生纸 吃泡面没热水 穿新鞋踩水坑 下雨撑伞就雨停 收伞就大暴雨闪电打雷☺️ https://t.co/Bi38AJf5P1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 37,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 623
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-11T11:00:43.000Z",
+        "description": "infj 社恐姐姐 / 喜歡貓貓 狗狗 好聽的聲音 可愛的女孩",
+        "id": "2240596470",
+        "location": "台北",
+        "name": "迷路迷路中 a.k.a Lena",
+        "pinned_tweet_id": "1951228802656334167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944019719339823104/T7gIHyRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 24,
+          "like_count": 4056,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 199
+        },
+        "username": "lena_brat1994",
+        "verified": false
+      }
+    ]
+  }
+}

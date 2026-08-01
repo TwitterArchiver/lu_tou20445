@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1981001666020422000",
+    "created_at": "2025-10-22T16:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T17:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981028748448141719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822639146869088256",
+          "start": 0,
+          "username": "Annie759930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981028748448141719",
+    "in_reply_to_user_id": "1822639146869088256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981009618991267951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Annie759930 哪有这么好的事，想想得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1981001666020422000",
+        "created_at": "2025-10-22T16:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T17:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981028748448141719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822639146869088256",
+              "start": 0,
+              "username": "Annie759930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981028748448141719",
+        "in_reply_to_user_id": "1822639146869088256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981009618991267951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Annie759930 哪有这么好的事，想想得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822639146869088256",
+        "conversation_id": "1981001666020422000",
+        "created_at": "2025-10-22T14:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981009618991267951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981009618991267951",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981001666020422000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 那真的是双重幸福了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 70,
+          "like_count": 7040,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 2187
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T14:20:25.000Z",
+        "description": "希望你吃得开心～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/romi77906",
+                "end": 23,
+                "expanded_url": "https://ngl.link/romi77906",
+                "start": 0,
+                "url": "https://t.co/8vtzDNGqSr"
+              }
+            ]
+          }
+        },
+        "id": "1822639146869088256",
+        "location": "女的。不约。",
+        "name": "Romi",
+        "pinned_tweet_id": "1975601351326638269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970409879891517444/BfaV7fiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 21,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/8vtzDNGqSr",
+        "username": "Annie759930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2017916803314508095",
+    "created_at": "2026-02-03T01:19:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T02:19:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018494492375212205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844402813159505920",
+          "start": 0,
+          "username": "Un_joli_fromage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018494492375212205",
+    "in_reply_to_user_id": "1844402813159505920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018493038151258233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Un_joli_fromage 以及不是老人味儿这么简单了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2017916803314508095",
+        "created_at": "2026-02-03T01:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018494492375212205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844402813159505920",
+              "start": 0,
+              "username": "Un_joli_fromage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018494492375212205",
+        "in_reply_to_user_id": "1844402813159505920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018493038151258233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Un_joli_fromage 以及不是老人味儿这么简单了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844402813159505920",
+        "conversation_id": "2017916803314508095",
+        "created_at": "2026-02-03T01:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T02:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018493038151258233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018493038151258233",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017916803314508095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 一星期不洗头那大概也不洗澡吧，身上会不会有老人味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 71,
+          "like_count": 15100,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 4551
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T15:41:20.000Z",
+        "description": "我是我，just me",
+        "id": "1844402813159505920",
+        "name": "奶酪🧀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946256301782138880/IWLUoWmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 89,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 596
+        },
+        "username": "Un_joli_fromage",
+        "verified": false
+      }
+    ]
+  }
+}

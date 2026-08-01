@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955623967341130055",
+    "created_at": "2025-08-14T02:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955825863590862966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751077888139685888",
+          "start": 0,
+          "username": "ph_seskino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955825863590862966",
+    "in_reply_to_user_id": "1751077888139685888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955824492485423206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ph_seskino 😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955623967341130055",
+        "created_at": "2025-08-14T02:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955825863590862966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751077888139685888",
+              "start": 0,
+              "username": "ph_seskino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955825863590862966",
+        "in_reply_to_user_id": "1751077888139685888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955824492485423206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ph_seskino 😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751077888139685888",
+        "conversation_id": "1955623967341130055",
+        "created_at": "2025-08-14T02:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955824492485423206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955824492485423206",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955806912228024551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 41,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:01:25.000Z",
+        "description": "徜徉于我所未知的梦境‧*★₊˚☾.˖❍𖧧˒˒.————",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ph_seskino",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ph_seskino",
+                "start": 0,
+                "url": "https://t.co/XNdPsA0kp8"
+              }
+            ]
+          }
+        },
+        "id": "1751077888139685888",
+        "location": "另一个天堂",
+        "name": "chanioseki",
+        "pinned_tweet_id": "1950136213509206500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944322976813400064/kthDD4LZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 278,
+          "like_count": 4721,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/XNdPsA0kp8",
+        "username": "ph_seskino",
+        "verified": false
+      }
+    ]
+  }
+}

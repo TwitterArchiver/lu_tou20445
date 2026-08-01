@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1948822539213389824"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948822663834571121",
+    "created_at": "2025-07-25T19:08:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T20:08:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948822663834571121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lginhVTe5J",
+          "end": 79,
+          "expanded_url": "https://x.com/lu_tou20445/status/1948822663834571121/video/1",
+          "media_key": "13_1948822539213389824",
+          "start": 56,
+          "url": "https://t.co/lginhVTe5J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948822663834571121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "辛苦了一天，唱歌哄自己睡觉，如果你也困了但是睡不着，那希望可以也哄到你哦，晚安这个世界（非专业，一时兴起，轻喷 https://t.co/lginhVTe5J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67506,
+        "height": 1280,
+        "media_key": "13_1948822539213389824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948822539213389824/img/Zwl5SwdxwWACS9Rb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948822539213389824/vid/avc1/320x568/VqrLsWRawvmcIP62.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948822539213389824/vid/avc1/480x852/AOhIJeW8uqJvR4Yu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948822539213389824/vid/avc1/720x1280/FFGbkKR8LtdyKMu9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948822539213389824/pl/9_ofz7TmoaWova0O.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1948822539213389824"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948822663834571121",
+        "created_at": "2025-07-25T19:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T20:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948822663834571121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lginhVTe5J",
+              "end": 79,
+              "expanded_url": "https://x.com/lu_tou20445/status/1948822663834571121/video/1",
+              "media_key": "13_1948822539213389824",
+              "start": 56,
+              "url": "https://t.co/lginhVTe5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948822663834571121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "辛苦了一天，唱歌哄自己睡觉，如果你也困了但是睡不着，那希望可以也哄到你哦，晚安这个世界（非专业，一时兴起，轻喷 https://t.co/lginhVTe5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 137
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

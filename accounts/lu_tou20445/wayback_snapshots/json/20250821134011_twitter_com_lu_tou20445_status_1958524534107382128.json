@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958503427530535304",
+    "created_at": "2025-08-21T13:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T14:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958524534107382128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        },
+        {
+          "end": 20,
+          "id": "1784887323211280384",
+          "start": 10,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958524534107382128",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958524093088555255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 @ljng15760 诶，不对劲🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-08-21T13:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T14:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958524534107382128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            },
+            {
+              "end": 20,
+              "id": "1784887323211280384",
+              "start": 10,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958524534107382128",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958524093088555255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 @ljng15760 诶，不对劲🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904003547756146688",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-08-21T13:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T14:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958524093088555255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958524093088555255",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958523479223070975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @ljng15760 太宠粉了 希望多更新！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 51,
+          "like_count": 964,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "说点垃圾话 你能喜欢的话那就最好了",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "pinned_tweet_id": "1954412946433417374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958091898603687936/8ZEh8Tp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 116,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 213
+        },
+        "username": "kkt12138",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/9PJ5FnV3Eg不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂时不接新的了）/搬运、抄袭替我挡灾（部分短打不上菜）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=NsOxJjaN",
+                "start": 39,
+                "url": "https://t.co/9PJ5FnV3Eg"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "爱是陪伴",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956030588256968707/1wjKy8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63747,
+          "following_count": 273,
+          "like_count": 10015,
+          "listed_count": 64,
+          "media_count": 574,
+          "tweet_count": 7957
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949410380541010287",
+    "created_at": "2025-07-27T11:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949431821885718838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945380657817178112",
+          "start": 0,
+          "username": "Babyzxixim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949431821885718838",
+    "in_reply_to_user_id": "1945380657817178112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949410380541010287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Babyzxixim 如果还能加上下雨天会往家跑还会用智能手机的话，听起来就是极品号主了🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27033,
+        "height": 960,
+        "media_key": "13_1949410271631687680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949410271631687680/img/Me23VQjpsHKuYCCJ.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949410271631687680/vid/avc1/320x426/xYOKfq_Z8Hc_YOR8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949410271631687680/vid/avc1/480x640/GoQdZ2FuRCzkc2GJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949410271631687680/vid/avc1/720x960/OAWwMSMjAO2de-EG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949410271631687680/pl/QjoIWBixFvd3uTGu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949410380541010287",
+        "created_at": "2025-07-27T11:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949431821885718838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945380657817178112",
+              "start": 0,
+              "username": "Babyzxixim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949431821885718838",
+        "in_reply_to_user_id": "1945380657817178112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949410380541010287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Babyzxixim 如果还能加上下雨天会往家跑还会用智能手机的话，听起来就是极品号主了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949410271631687680"
+          ]
+        },
+        "author_id": "1945380657817178112",
+        "conversation_id": "1949410380541010287",
+        "created_at": "2025-07-27T10:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949410380541010287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wB3bhCfNS8",
+              "end": 48,
+              "expanded_url": "https://x.com/Babyzxixim/status/1949410380541010287/video/1",
+              "media_key": "13_1949410271631687680",
+              "start": 25,
+              "url": "https://t.co/wB3bhCfNS8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949410380541010287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出号主一只 会睡觉吃饭喝水卖萌撒娇生气 不哄就死 https://t.co/wB3bhCfNS8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 27,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 243
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T07:11:24.000Z",
+        "description": "♐️美国作息｜i人f人其他不定｜168/115｜照片视频本人 私信看着回｜喜欢帅哥甜妹｜骚扰我给我钱。｜匿名提问：https://t.co/Fm5WPkQAKb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/babyzxixim",
+                "end": 80,
+                "expanded_url": "https://ngl.link/babyzxixim",
+                "start": 57,
+                "url": "https://t.co/Fm5WPkQAKb"
+              }
+            ]
+          }
+        },
+        "id": "1945380657817178112",
+        "location": "美国",
+        "name": "溪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949178844063436800/znfmQZwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 7,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Babyzxixim",
+        "verified": false
+      }
+    ]
+  }
+}

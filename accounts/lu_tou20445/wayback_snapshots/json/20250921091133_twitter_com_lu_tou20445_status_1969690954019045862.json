@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1969687047482061085",
+    "created_at": "2025-09-21T09:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T10:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969690954019045862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247544266626183168",
+          "start": 0,
+          "username": "Scott04410162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969690954019045862",
+    "in_reply_to_user_id": "1247544266626183168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969687480405524650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scott04410162 伪人起飞主义"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1969687047482061085",
+        "created_at": "2025-09-21T09:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969690954019045862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247544266626183168",
+              "start": 0,
+              "username": "Scott04410162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969690954019045862",
+        "in_reply_to_user_id": "1247544266626183168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969687480405524650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scott04410162 伪人起飞主义"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247544266626183168",
+        "conversation_id": "1969687047482061085",
+        "created_at": "2025-09-21T08:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T09:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969687480405524650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969687480405524650",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969687047482061085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 屁眼开合主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 63,
+          "like_count": 4528,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1749
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T15:18:35.000Z",
+        "description": "人有所操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scottshrimp.com",
+                "end": 23,
+                "expanded_url": "https://www.scottshrimp.com",
+                "start": 0,
+                "url": "https://t.co/qYurmMQ12t"
+              }
+            ]
+          }
+        },
+        "id": "1247544266626183168",
+        "location": "阿姆斯特朗环形山",
+        "name": "CuSO4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936021612509208576/bL_zYbvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1583,
+          "like_count": 73885,
+          "listed_count": 2,
+          "media_count": 1080,
+          "tweet_count": 12928
+        },
+        "url": "https://t.co/qYurmMQ12t",
+        "username": "Scott04410162",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956205270146728233",
+    "created_at": "2025-08-15T04:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T05:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956210201083961755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1781003365754761216",
+          "start": 0,
+          "username": "beike04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956210201083961755",
+    "in_reply_to_user_id": "1781003365754761216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956205270146728233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beike04 事已至此，先吃饭吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956205245710917635",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyXWTnpa4AM1ZJx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956205270146728233",
+        "created_at": "2025-08-15T04:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956210201083961755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1781003365754761216",
+              "start": 0,
+              "username": "beike04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956210201083961755",
+        "in_reply_to_user_id": "1781003365754761216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956205270146728233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beike04 事已至此，先吃饭吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956205245710917635"
+          ]
+        },
+        "author_id": "1781003365754761216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1956205270146728233",
+        "created_at": "2025-08-15T04:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T05:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956205270146728233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNj9Yp9Blj",
+              "end": 58,
+              "expanded_url": "https://x.com/beike04/status/1956205270146728233/photo/1",
+              "media_key": "3_1956205245710917635",
+              "start": 35,
+              "url": "https://t.co/oNj9Yp9Blj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956205270146728233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于吃上饭了😭还有私信我已经尽量在回了，但是一天几千条我是真看不过来 https://t.co/oNj9Yp9Blj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T16:54:39.000Z",
+        "description": "爪巴（纯享版： @beike36c）\n自用蜂鸟vpn https://t.co/f77ZIf9MMG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "beike36c"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fnapi.ljhwjw.com/#/register?cod…",
+                "end": 50,
+                "expanded_url": "https://fnapi.ljhwjw.com/#/register?code=1WhXsPrS",
+                "start": 27,
+                "url": "https://t.co/f77ZIf9MMG"
+              }
+            ]
+          }
+        },
+        "id": "1781003365754761216",
+        "location": "0.1m",
+        "name": "贝壳",
+        "pinned_tweet_id": "1955887009807130671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837493902892249088/rfk9l18M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11012,
+          "following_count": 66,
+          "like_count": 7858,
+          "listed_count": 24,
+          "media_count": 133,
+          "tweet_count": 1946
+        },
+        "username": "beike04",
+        "verified": false
+      }
+    ]
+  }
+}

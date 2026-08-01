@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2016859146348613893",
+    "created_at": "2026-01-30T17:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T18:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017289807706361979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804234328727298048",
+          "start": 0,
+          "username": "ythxhlslxyils"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017289807706361979",
+    "in_reply_to_user_id": "1804234328727298048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017287442840359283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ythxhlslxyils 我觉得完全 ok👌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017287423382982659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_7YOTibEAMFmtp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-30T17:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017289807706361979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804234328727298048",
+              "start": 0,
+              "username": "ythxhlslxyils"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017289807706361979",
+        "in_reply_to_user_id": "1804234328727298048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017287442840359283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ythxhlslxyils 我觉得完全 ok👌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017287423382982659"
+          ]
+        },
+        "author_id": "1804234328727298048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-30T17:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T18:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017287442840359283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GtEl2twRaU",
+              "end": 52,
+              "expanded_url": "https://x.com/ythxhlslxyils/status/2017287442840359283/photo/1",
+              "media_key": "3_2017287423382982659",
+              "start": 29,
+              "url": "https://t.co/GtEl2twRaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017287442840359283",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016859146348613893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我觉得很好吃！不过我这个是混酱 https://t.co/GtEl2twRaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 71,
+          "like_count": 14879,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 4489
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T19:26:11.000Z",
+        "description": "",
+        "id": "1804234328727298048",
+        "name": "橘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887566070518849541/Q73KfCgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 439,
+          "like_count": 1313,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 111
+        },
+        "username": "ythxhlslxyils",
+        "verified": false
+      }
+    ]
+  }
+}

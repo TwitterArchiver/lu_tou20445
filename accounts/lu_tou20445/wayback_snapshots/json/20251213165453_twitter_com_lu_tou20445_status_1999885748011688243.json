@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1999698921946558581",
+    "created_at": "2025-12-13T16:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T17:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999885748011688243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "890607625875804162",
+          "start": 0,
+          "username": "Elianna8888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999885748011688243",
+    "in_reply_to_user_id": "890607625875804162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999874649681993934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elianna8888 下次还敢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1999698921946558581",
+        "created_at": "2025-12-13T16:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999885748011688243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "890607625875804162",
+              "start": 0,
+              "username": "Elianna8888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999885748011688243",
+        "in_reply_to_user_id": "890607625875804162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999874649681993934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elianna8888 下次还敢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "890607625875804162",
+        "conversation_id": "1999698921946558581",
+        "created_at": "2025-12-13T16:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999874649681993934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999874649681993934",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999698921946558581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你敢耍我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 68,
+          "like_count": 11238,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 3250
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-27T16:19:39.000Z",
+        "description": "Looking ahead,the day to you die.",
+        "id": "890607625875804162",
+        "location": "The Sky Island",
+        "name": "ㅎㅎ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971911517399666689/dEYG9L6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 74,
+          "like_count": 125,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 92
+        },
+        "username": "Elianna8888",
+        "verified": false
+      }
+    ]
+  }
+}

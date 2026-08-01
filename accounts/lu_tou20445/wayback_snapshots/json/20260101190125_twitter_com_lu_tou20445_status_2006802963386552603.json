@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2006165545289167012",
+    "created_at": "2026-01-01T19:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T20:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006802963386552603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751236589366415361",
+          "start": 0,
+          "username": "axbfansil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006802963386552603",
+    "in_reply_to_user_id": "1751236589366415361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006801467328573603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axbfansil 了解到的我是我想让你了解到的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2006165545289167012",
+        "created_at": "2026-01-01T19:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T20:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006802963386552603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751236589366415361",
+              "start": 0,
+              "username": "axbfansil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006802963386552603",
+        "in_reply_to_user_id": "1751236589366415361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006801467328573603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axbfansil 了解到的我是我想让你了解到的我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751236589366415361",
+        "conversation_id": "2006165545289167012",
+        "created_at": "2026-01-01T18:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006801467328573603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006801467328573603",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006165545289167012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这是怎么做到的 求教"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 69,
+          "like_count": 13570,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 3925
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:32:09.000Z",
+        "description": "只是上来偷吃点代餐 别来找骂 我总有些奇奇怪怪的好奇心  现在大部分是情感记录本   内耗矛盾的人",
+        "id": "1751236589366415361",
+        "location": "Hong Kong",
+        "name": "每天看点新奇xp",
+        "pinned_tweet_id": "2003172423890567333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875919320477573120/mwjArpXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 99,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 370
+        },
+        "username": "axbfansil",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1946590619985727805",
+    "created_at": "2025-07-21T08:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T09:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947205635562713533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918169659964309504",
+          "start": 0,
+          "username": "Bunnyy7777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947205635562713533",
+    "in_reply_to_user_id": "1918169659964309504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946590619985727805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunnyy7777777 其实你只是想跟喜欢的人分享一些碎碎念有反馈还不用担心被讨厌，真的喜欢的人也不会不想跟他聊天的哦，不要被快餐恋爱影响，会找到喜欢的人的，如果想聊天可以来找我呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1946590619985727805",
+        "created_at": "2025-07-21T08:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T09:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947205635562713533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918169659964309504",
+              "start": 0,
+              "username": "Bunnyy7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947205635562713533",
+        "in_reply_to_user_id": "1918169659964309504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946590619985727805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunnyy7777777 其实你只是想跟喜欢的人分享一些碎碎念有反馈还不用担心被讨厌，真的喜欢的人也不会不想跟他聊天的哦，不要被快餐恋爱影响，会找到喜欢的人的，如果想聊天可以来找我呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918169659964309504",
+        "conversation_id": "1946590619985727805",
+        "created_at": "2025-07-19T15:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946590619985727805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946590619985727805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 900,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然好想談戀愛 好想有個人能說一些膩膩歪歪的話"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T05:04:34.000Z",
+        "description": "不看私信 別給我發牛",
+        "id": "1918169659964309504",
+        "name": "兔7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928026095812759555/jAL5Iau6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 63,
+          "like_count": 52,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 3079
+        },
+        "username": "Bunnyy7777777",
+        "verified": false
+      }
+    ]
+  }
+}

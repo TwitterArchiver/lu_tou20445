@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960985498828296192"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1960985508609237027",
+    "created_at": "2025-08-28T08:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T09:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960985508609237027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LvIygPSKrN",
+          "end": 44,
+          "expanded_url": "https://x.com/lu_tou20445/status/1960985508609237027/photo/1",
+          "media_key": "3_1960985498828296192",
+          "start": 21,
+          "url": "https://t.co/LvIygPSKrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960985508609237027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日常发癫练习，需要人机姐的福利可以自取🫠 https://t.co/LvIygPSKrN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960985508609237027].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960985508609237027",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960985508609237027"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960985498828296192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzbR6-NaUAArunO.jpg",
+        "width": 994
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 55,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

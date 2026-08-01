@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953127347458326706",
+    "created_at": "2025-08-06T16:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T17:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953127662077047260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833807027887595520",
+          "start": 0,
+          "username": "coldheart0077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953127662077047260",
+    "in_reply_to_user_id": "1833807027887595520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953127347458326706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldheart0077 还是真空，有点涩的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1375,
+        "media_key": "3_1953127336012070915",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxrm9sgawAM9Wxb.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953127347458326706",
+        "created_at": "2025-08-06T16:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953127662077047260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833807027887595520",
+              "start": 0,
+              "username": "coldheart0077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953127662077047260",
+        "in_reply_to_user_id": "1833807027887595520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953127347458326706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldheart0077 还是真空，有点涩的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953127336012070915"
+          ]
+        },
+        "author_id": "1833807027887595520",
+        "conversation_id": "1953127347458326706",
+        "created_at": "2025-08-06T16:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953127347458326706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJMzmFQI3X",
+              "end": 65,
+              "expanded_url": "https://x.com/coldheart0077/status/1953127347458326706/photo/1",
+              "media_key": "3_1953127336012070915",
+              "start": 42,
+              "url": "https://t.co/ZJMzmFQI3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953127347458326706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上了班之后都没穿过这么正式😆\n非常适合进行一些cos老师、领导、办公室ol的小癖好 https://t.co/ZJMzmFQI3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T09:57:33.000Z",
+        "description": "时常发疯的infj/抽象先锋/国产正版纯爱战士/163 62不是排骨精也不是肌肉战士",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/coldheart0077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/coldheart0077",
+                "start": 0,
+                "url": "https://t.co/PTZemDWLRW"
+              }
+            ]
+          }
+        },
+        "id": "1833807027887595520",
+        "location": "beijing",
+        "name": "coldheart0077",
+        "pinned_tweet_id": "1948054014505148846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884679639295307776/TP3TiVIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 27,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/PTZemDWLRW",
+        "username": "coldheart0077",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954113645052665946",
+    "created_at": "2025-08-10T01:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T02:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954358142344511845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1938880070199975936",
+          "start": 0,
+          "username": "Xiaoshenouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954358142344511845",
+    "in_reply_to_user_id": "1938880070199975936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954333107672494138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiaoshenouo 听起来有点意外但又在情理之中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954113645052665946",
+        "created_at": "2025-08-10T01:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T02:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954358142344511845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1938880070199975936",
+              "start": 0,
+              "username": "Xiaoshenouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954358142344511845",
+        "in_reply_to_user_id": "1938880070199975936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954333107672494138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaoshenouo 听起来有点意外但又在情理之中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938880070199975936",
+        "conversation_id": "1954113645052665946",
+        "created_at": "2025-08-10T00:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T01:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954333107672494138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954333107672494138",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954235763689713767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这个人度过了美好的一生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 37,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T08:41:24.000Z",
+        "description": "颜控手控爱看腹肌 黄色废料堆积地🗑️｜匿名箱：https://t.co/FXIbEsvFje",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri27982",
+                "end": 46,
+                "expanded_url": "https://ngl.link/yuri27982",
+                "start": 23,
+                "url": "https://t.co/FXIbEsvFje"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.top/#/register?code=hY7pljTP",
+                "start": 0,
+                "url": "https://t.co/W0xCFgtrEZ"
+              }
+            ]
+          }
+        },
+        "id": "1938880070199975936",
+        "location": "🚪99 自用蜂鸟vpn:",
+        "name": "煜",
+        "pinned_tweet_id": "1953637570900013444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950891547459018752/aWkUZ9I4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 24,
+          "like_count": 4655,
+          "listed_count": 6,
+          "media_count": 50,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/W0xCFgtrEZ",
+        "username": "Xiaoshenouo",
+        "verified": false
+      }
+    ]
+  }
+}

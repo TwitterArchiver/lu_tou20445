@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959879165538169290",
+    "created_at": "2025-08-25T07:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T08:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959882781372379245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1914916693593485313",
+          "start": 0,
+          "username": "Aruiiur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959882781372379245",
+    "in_reply_to_user_id": "1914916693593485313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959879165538169290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aruiiur 那你舍友很没品味了，性张力拉满的完美肉体"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959879157095305216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLjtaFbkAAIdwH.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959879165538169290",
+        "created_at": "2025-08-25T07:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T08:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959882781372379245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1914916693593485313",
+              "start": 0,
+              "username": "Aruiiur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959882781372379245",
+        "in_reply_to_user_id": "1914916693593485313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959879165538169290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aruiiur 那你舍友很没品味了，性张力拉满的完美肉体"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959879157095305216"
+          ]
+        },
+        "author_id": "1914916693593485313",
+        "conversation_id": "1959879165538169290",
+        "created_at": "2025-08-25T07:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T08:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959879165538169290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNXUsG7PQT",
+              "end": 69,
+              "expanded_url": "https://x.com/Aruiiur/status/1959879165538169290/photo/1",
+              "media_key": "3_1959879157095305216",
+              "start": 46,
+              "url": "https://t.co/pNXUsG7PQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959879165538169290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这壁纸当时找半天然后用了一会舍友看到说我有病然后我就换了🌚🌚我现在在家了我现在就要用切切切 https://t.co/pNXUsG7PQT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 51,
+          "like_count": 1255,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T05:39:04.000Z",
+        "description": "许愿像轻松熊一样轻松/不聊骚不约炮不加V🚬我只是碎碎念/匿名提问📭https://t.co/EFbXga1eS2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jijibao",
+                "end": 56,
+                "expanded_url": "https://ngl.link/jijibao",
+                "start": 33,
+                "url": "https://t.co/EFbXga1eS2"
+              }
+            ]
+          }
+        },
+        "id": "1914916693593485313",
+        "name": "唧唧爆",
+        "pinned_tweet_id": "1946907914465390633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946902014887370752/deb-a4LT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 43,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 534,
+          "tweet_count": 3671
+        },
+        "username": "Aruiiur",
+        "verified": false
+      }
+    ]
+  }
+}

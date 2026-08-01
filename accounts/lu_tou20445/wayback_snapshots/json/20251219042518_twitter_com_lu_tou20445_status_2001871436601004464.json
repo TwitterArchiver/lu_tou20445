@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2001868805308645465",
+    "created_at": "2025-12-19T04:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001871436601004464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1598199054709637121",
+          "start": 0,
+          "username": "GnIRr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001871436601004464",
+    "in_reply_to_user_id": "1598199054709637121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001870727176507753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GnIRr_ 不知道，只知道五年前上限是两杯六十二度白酒加三杯啤酒，为什么记这么清楚，因为那晚吐的不省人事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2001868805308645465",
+        "created_at": "2025-12-19T04:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001871436601004464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1598199054709637121",
+              "start": 0,
+              "username": "GnIRr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001871436601004464",
+        "in_reply_to_user_id": "1598199054709637121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001870727176507753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GnIRr_ 不知道，只知道五年前上限是两杯六十二度白酒加三杯啤酒，为什么记这么清楚，因为那晚吐的不省人事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598199054709637121",
+        "conversation_id": "2001868805308645465",
+        "created_at": "2025-12-19T04:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001870727176507753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001870727176507753",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001870199402934384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你小时候就能一口闷长大了酒量如何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 69,
+          "like_count": 11813,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:16:21.000Z",
+        "description": "我是不会流眼泪的",
+        "id": "1598199054709637121",
+        "name": "早已泪",
+        "pinned_tweet_id": "1961491841129316793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983162625283461121/kNwv0iRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 816,
+          "like_count": 1338,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1336
+        },
+        "username": "GnIRr_",
+        "verified": false
+      }
+    ]
+  }
+}

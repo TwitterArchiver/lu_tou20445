@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1984667142600671528",
+    "created_at": "2025-11-01T17:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984670247321026565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913209178182803456",
+          "start": 0,
+          "username": "crystal_l_ll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984670247321026565",
+    "in_reply_to_user_id": "1913209178182803456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984668254351016283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crystal_l_ll 大数据真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1984667142600671528",
+        "created_at": "2025-11-01T17:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984670247321026565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913209178182803456",
+              "start": 0,
+              "username": "crystal_l_ll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984670247321026565",
+        "in_reply_to_user_id": "1913209178182803456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984668254351016283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crystal_l_ll 大数据真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913209178182803456",
+        "conversation_id": "1984667142600671528",
+        "created_at": "2025-11-01T17:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984668254351016283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984668254351016283",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984667142600671528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 前两天刚刚经历完就刷到，好神奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 73,
+          "like_count": 7640,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T12:33:34.000Z",
+        "description": "04｜m sub｜intp｜♊️｜当树洞发碎碎念",
+        "id": "1913209178182803456",
+        "name": "crystal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984351193699696640/Eko5YkFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 41,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 107
+        },
+        "username": "crystal_l_ll",
+        "verified": false
+      }
+    ]
+  }
+}

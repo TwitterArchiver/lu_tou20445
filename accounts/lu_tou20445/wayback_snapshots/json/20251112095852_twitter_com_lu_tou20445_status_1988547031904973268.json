@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T09:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T10:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988547031904973268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500786984272351234",
+          "start": 0,
+          "username": "liuqiguode"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988547031904973268",
+    "in_reply_to_user_id": "1500786984272351234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988545715233284562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuqiguode 有需要的人👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T09:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988547031904973268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500786984272351234",
+              "start": 0,
+              "username": "liuqiguode"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988547031904973268",
+        "in_reply_to_user_id": "1500786984272351234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988545715233284562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuqiguode 有需要的人👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1500786984272351234",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T09:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988545715233284562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988545715233284562",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 谁敢用第三方啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 74,
+          "like_count": 8282,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2630
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T10:56:04.000Z",
+        "description": "无聊的人",
+        "id": "1500786984272351234",
+        "name": "Heisenberg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649785552571625473/n8ezul22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 140,
+          "like_count": 1116,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1122
+        },
+        "username": "liuqiguode",
+        "verified": false
+      }
+    ]
+  }
+}

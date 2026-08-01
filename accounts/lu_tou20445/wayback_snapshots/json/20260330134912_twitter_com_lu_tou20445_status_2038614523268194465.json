@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2038560755797336275",
+    "created_at": "2026-03-30T13:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038614523268194465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882698276589465600",
+          "start": 0,
+          "username": "00wanglinlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038614523268194465",
+    "in_reply_to_user_id": "1882698276589465600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038613831187079186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@00wanglinlin 惨痛教训"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2038560755797336275",
+        "created_at": "2026-03-30T13:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038614523268194465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1882698276589465600",
+              "start": 0,
+              "username": "00wanglinlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038614523268194465",
+        "in_reply_to_user_id": "1882698276589465600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038613831187079186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@00wanglinlin 惨痛教训"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882698276589465600",
+        "conversation_id": "2038560755797336275",
+        "created_at": "2026-03-30T13:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038613831187079186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038613831187079186",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038560755797336275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 人生哲理！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 72,
+          "like_count": 19490,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 5630
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T07:53:54.000Z",
+        "description": "当朋友圈发感谢聆听 感谢大家关注 欢迎提问https://t.co/w9B77hjK8X 别给我发牛我有牛牛恐惧症谢谢大家   无门槛不加联系  发推是为了记录",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yummmmyyyyy",
+                "end": 44,
+                "expanded_url": "https://ngl.link/yummmmyyyyy",
+                "start": 21,
+                "url": "https://t.co/w9B77hjK8X"
+              }
+            ]
+          }
+        },
+        "id": "1882698276589465600",
+        "location": "山东",
+        "name": "雏田",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931948051725455360/GIk778i7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 196,
+          "like_count": 2005,
+          "listed_count": 2,
+          "media_count": 114,
+          "tweet_count": 341
+        },
+        "username": "00wanglinlin",
+        "verified": false
+      }
+    ]
+  }
+}

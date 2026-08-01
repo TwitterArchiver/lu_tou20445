@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004846724477796734",
+    "created_at": "2025-12-27T13:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T14:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004913956146872565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994727203750514688",
+          "start": 0,
+          "username": "Loveyanouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004913956146872565",
+    "in_reply_to_user_id": "1994727203750514688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004912448542069065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loveyanouo 确实香😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004846724477796734",
+        "created_at": "2025-12-27T13:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004913956146872565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994727203750514688",
+              "start": 0,
+              "username": "Loveyanouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004913956146872565",
+        "in_reply_to_user_id": "1994727203750514688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004912448542069065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loveyanouo 确实香😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994727203750514688",
+        "conversation_id": "2004846724477796734",
+        "created_at": "2025-12-27T13:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004912448542069065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004912448542069065",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004846724477796734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我去好香啊(。•﹃ •。)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 72,
+          "like_count": 12812,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 3718
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:20:36.000Z",
+        "description": "其实我挺可爱的！",
+        "id": "1994727203750514688",
+        "location": "🚪188",
+        "name": "小草莓",
+        "pinned_tweet_id": "1999117525804564643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004900677609553924/N54ec6n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 9,
+          "like_count": 97,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 244
+        },
+        "username": "Loveyanouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2035270501917237528",
+    "created_at": "2026-03-22T02:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035541183666241627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1211540336369004545",
+          "start": 0,
+          "username": "Estellaaa7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035541183666241627",
+    "in_reply_to_user_id": "1211540336369004545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035540069218689122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Estellaaa7 感觉回头率好高的一件衣服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035540062402936832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-w5umagAAxhyb.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2035270501917237528",
+        "created_at": "2026-03-22T02:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035541183666241627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1211540336369004545",
+              "start": 0,
+              "username": "Estellaaa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035541183666241627",
+        "in_reply_to_user_id": "1211540336369004545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035540069218689122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Estellaaa7 感觉回头率好高的一件衣服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035540062402936832"
+          ]
+        },
+        "author_id": "1211540336369004545",
+        "conversation_id": "2035270501917237528",
+        "created_at": "2026-03-22T02:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035540069218689122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZHgiOMX2bh",
+              "end": 41,
+              "expanded_url": "https://x.com/Estellaaa7/status/2035540069218689122/photo/1",
+              "media_key": "3_2035540062402936832",
+              "start": 18,
+              "url": "https://t.co/ZHgiOMX2bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035540069218689122",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035270501917237528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 有的有的 https://t.co/ZHgiOMX2bh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 71,
+          "like_count": 18983,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 5527
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-30T06:51:51.000Z",
+        "description": "无🚪，目前的🚪哥到期后退坑｜不要来问加q加w｜已过门爷验证｜请勿🚫擅自转载外传感谢",
+        "id": "1211540336369004545",
+        "name": "Oooooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897080720612622336/G91Fo11y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 28,
+          "like_count": 11628,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 167
+        },
+        "username": "Estellaaa7",
+        "verified": false
+      }
+    ]
+  }
+}

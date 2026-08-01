@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2052378939696521526",
+    "created_at": "2026-05-09T04:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T05:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052969534580236500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1397463438562009091",
+          "start": 0,
+          "username": "Moonqua95496756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052969534580236500",
+    "in_reply_to_user_id": "1397463438562009091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052378939696521526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moonqua95496756 棉签裹纱布沾洁齿水刷段日子，或者给点洁牙的吃的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052378936605294592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuDxNTaQAAy9kt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052378923921727488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuDweDaYAAD--t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2052378939696521526",
+        "created_at": "2026-05-09T04:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T05:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052969534580236500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1397463438562009091",
+              "start": 0,
+              "username": "Moonqua95496756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052969534580236500",
+        "in_reply_to_user_id": "1397463438562009091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052378939696521526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moonqua95496756 棉签裹纱布沾洁齿水刷段日子，或者给点洁牙的吃的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052378936605294592",
+            "3_2052378923921727488"
+          ]
+        },
+        "author_id": "1397463438562009091",
+        "conversation_id": "2052378939696521526",
+        "created_at": "2026-05-07T13:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052378939696521526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81iPoPfJLw",
+              "end": 58,
+              "expanded_url": "https://x.com/Moonqua95496756/status/2052378939696521526/photo/1",
+              "media_key": "3_2052378936605294592",
+              "start": 35,
+              "url": "https://t.co/81iPoPfJLw"
+            },
+            {
+              "display_url": "pic.x.com/81iPoPfJLw",
+              "end": 58,
+              "expanded_url": "https://x.com/Moonqua95496756/status/2052378939696521526/photo/1",
+              "media_key": "3_2052378923921727488",
+              "start": 35,
+              "url": "https://t.co/81iPoPfJLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052378939696521526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么可爱的狗居然牙结石这么严重……有没有人知道怎么保养小狗牙齿呀…… https://t.co/81iPoPfJLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 71,
+          "like_count": 20749,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5819
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-26T08:04:02.000Z",
+        "description": "讨伐型人格/比格型人格",
+        "id": "1397463438562009091",
+        "location": "罗德岛",
+        "name": "AiluMochi",
+        "pinned_tweet_id": "2034983956148613172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847989080530825216/6aolNcRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 39,
+          "like_count": 7184,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 1989
+        },
+        "username": "Moonqua95496756",
+        "verified": false
+      }
+    ]
+  }
+}

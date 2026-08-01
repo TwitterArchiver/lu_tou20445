@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1982336740305367219",
+    "created_at": "2025-10-26T16:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982478615829946733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1908600469360164864",
+          "start": 0,
+          "username": "aiykissyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982478615829946733",
+    "in_reply_to_user_id": "1908600469360164864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982436478795092070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiykissyou 是脾气🫵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1982336740305367219",
+        "created_at": "2025-10-26T16:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982478615829946733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1908600469360164864",
+              "start": 0,
+              "username": "aiykissyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982478615829946733",
+        "in_reply_to_user_id": "1908600469360164864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982436478795092070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiykissyou 是脾气🫵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908600469360164864",
+        "conversation_id": "1982336740305367219",
+        "created_at": "2025-10-26T13:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982436478795092070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982436478795092070",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982336740305367219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 原来是脾气啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 73,
+          "like_count": 7359,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T19:19:57.000Z",
+        "description": "不是4i｜不约炮 不卡泡 不看裸照｜叫我回消息的一条十块钱 ｜私信默认能共赏｜🚪88纯绿",
+        "id": "1908600469360164864",
+        "location": "100m",
+        "name": "uu",
+        "pinned_tweet_id": "1982316288245633424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977685536090578944/bq9XjA25_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 34,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1058
+        },
+        "username": "aiykissyou",
+        "verified": false
+      }
+    ]
+  }
+}

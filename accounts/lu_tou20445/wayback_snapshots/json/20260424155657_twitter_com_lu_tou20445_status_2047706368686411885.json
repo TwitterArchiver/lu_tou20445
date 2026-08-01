@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2047696614790476177",
+    "created_at": "2026-04-24T15:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047706368686411885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047706368686411885",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047696614790476177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 诶呀，这怂后生，弄求不成起球开哇，个旧哈半天球也弄不成"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7709,
+        "height": 536,
+        "media_key": "7_2047696506959044608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2047696506959044608/pu/img/Nb-8-jg1bZFg_vxE.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047696506959044608/pu/vid/avc1/644x270/8Lsok9OzbqapV4R1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047696506959044608/pu/vid/avc1/858x360/lJ88ATnf02KLbj2x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2047696506959044608/pu/vid/avc1/1280x536/Pqg8b4pWW8pu3xeV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2047696506959044608/pu/pl/L7YnYRs7uSzPRciv.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2047696614790476177",
+        "created_at": "2026-04-24T15:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047706368686411885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047706368686411885",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047696614790476177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 诶呀，这怂后生，弄求不成起球开哇，个旧哈半天球也弄不成"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2047696506959044608"
+          ]
+        },
+        "author_id": "1525341238223855616",
+        "conversation_id": "2047696614790476177",
+        "created_at": "2026-04-24T15:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:18:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047696573879222454",
+          "2047696614790476177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X9M6Ay3raV",
+              "end": 35,
+              "expanded_url": "https://x.com/zz160268/status/2047696614790476177/video/1",
+              "media_key": "7_2047696506959044608",
+              "start": 12,
+              "url": "https://t.co/X9M6Ay3raV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047696614790476177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "方言play 喜欢吗🥴 https://t.co/X9M6Ay3raV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 71,
+          "like_count": 20414,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 5751
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "不看私信请求",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/napgodzz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/napgodzz",
+                "start": 0,
+                "url": "https://t.co/SSYPt5dq7c"
+              }
+            ]
+          }
+        },
+        "id": "1525341238223855616",
+        "name": "🛶",
+        "pinned_tweet_id": "2028471482092044762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 235,
+          "like_count": 40819,
+          "listed_count": 1,
+          "media_count": 1072,
+          "tweet_count": 14205
+        },
+        "url": "https://t.co/SSYPt5dq7c",
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

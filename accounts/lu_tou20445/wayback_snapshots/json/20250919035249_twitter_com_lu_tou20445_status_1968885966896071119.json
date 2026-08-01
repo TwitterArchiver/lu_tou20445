@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1968881972270231921",
+    "created_at": "2025-09-19T03:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T04:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968885966896071119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525172268048871424",
+          "start": 0,
+          "username": "luckysyndromeli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968885966896071119",
+    "in_reply_to_user_id": "1525172268048871424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968881972270231921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luckysyndromeli 意式肉酱加薯角，有品"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968881964032868352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LftvbaQAAaFSR.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1968881972270231921",
+        "created_at": "2025-09-19T03:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968885966896071119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525172268048871424",
+              "start": 0,
+              "username": "luckysyndromeli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968885966896071119",
+        "in_reply_to_user_id": "1525172268048871424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968881972270231921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luckysyndromeli 意式肉酱加薯角，有品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968881964032868352"
+          ]
+        },
+        "author_id": "1525172268048871424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968881972270231921",
+        "created_at": "2025-09-19T03:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T04:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968881972270231921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yjVou8MJR1",
+              "end": 25,
+              "expanded_url": "https://x.com/luckysyndromeli/status/1968881972270231921/photo/1",
+              "media_key": "3_1968881964032868352",
+              "start": 2,
+              "url": "https://t.co/yjVou8MJR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968881972270231921",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🍕 https://t.co/yjVou8MJR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 63,
+          "like_count": 4326,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T17:53:17.000Z",
+        "description": "ISFP｜一些碎碎念🗑️｜不要视奸我^ ^｜废话@noko4o4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "noko4o4"
+              }
+            ]
+          }
+        },
+        "id": "1525172268048871424",
+        "name": "uikki",
+        "pinned_tweet_id": "1928131420611854827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953167838719688705/kMnIoops_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 214,
+          "like_count": 8418,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 3305
+        },
+        "username": "luckysyndromeli",
+        "verified": false
+      }
+    ]
+  }
+}

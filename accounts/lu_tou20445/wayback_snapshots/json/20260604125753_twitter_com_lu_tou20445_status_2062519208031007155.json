@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2062519173935480832"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2062509714769129730",
+    "created_at": "2026-06-04T12:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062519208031007155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981722018312806400",
+          "start": 0,
+          "username": "kitten718miao"
+        },
+        {
+          "end": 25,
+          "id": "1964688703118544896",
+          "start": 15,
+          "username": "imhidinxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvpExGrbi1",
+          "end": 61,
+          "expanded_url": "https://x.com/lu_tou20445/status/2062519208031007155/photo/1",
+          "media_key": "16_2062519173935480832",
+          "start": 38,
+          "url": "https://t.co/fvpExGrbi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062519208031007155",
+    "in_reply_to_user_id": "1981722018312806400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062510633883709450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitten718miao @imhidinxi 补兑，这怎么能想到我的 https://t.co/fvpExGrbi1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "16_2062519173935480832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJ-KQtDbQAAHnYi.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJ-KQtDbQAAHnYi.mp4"
+          }
+        ],
+        "width": 208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2062519173935480832"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2062509714769129730",
+        "created_at": "2026-06-04T12:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062519208031007155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981722018312806400",
+              "start": 0,
+              "username": "kitten718miao"
+            },
+            {
+              "end": 25,
+              "id": "1964688703118544896",
+              "start": 15,
+              "username": "imhidinxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvpExGrbi1",
+              "end": 61,
+              "expanded_url": "https://x.com/lu_tou20445/status/2062519208031007155/photo/1",
+              "media_key": "16_2062519173935480832",
+              "start": 38,
+              "url": "https://t.co/fvpExGrbi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062519208031007155",
+        "in_reply_to_user_id": "1981722018312806400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062510633883709450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitten718miao @imhidinxi 补兑，这怎么能想到我的 https://t.co/fvpExGrbi1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981722018312806400",
+        "conversation_id": "2062509714769129730",
+        "created_at": "2026-06-04T12:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062510633883709450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964688703118544896",
+              "start": 0,
+              "username": "imhidinxi"
+            },
+            {
+              "end": 23,
+              "id": "1943288759778447360",
+              "start": 11,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 36,
+              "id": "1943288759778447360",
+              "start": 24,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062510633883709450",
+        "in_reply_to_user_id": "1964688703118544896",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062510121247199506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imhidinxi @lu_tou20445 @lu_tou20445"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 69,
+          "like_count": 21339,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 6064
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "",
+        "id": "1981722018312806400",
+        "name": "想睡一个好觉",
+        "pinned_tweet_id": "1990349790232912199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051408125400633344/ghha4WVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 73,
+          "like_count": 2580,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 2376
+        },
+        "username": "kitten718miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:54:31.000Z",
+        "description": "I'm truly hiding myself",
+        "id": "1964688703118544896",
+        "name": "西特了",
+        "pinned_tweet_id": "1964690481365065937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011973613654560768/rUwlnWvN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "like_count": 2932,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 3172
+        },
+        "username": "imhidinxi",
+        "verified": false
+      }
+    ]
+  }
+}

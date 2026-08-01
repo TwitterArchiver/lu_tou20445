@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1989945175108636949",
+    "created_at": "2025-11-16T07:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T08:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989957874555261076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712477803252432897",
+          "start": 0,
+          "username": "jingyu813363"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989957874555261076",
+    "in_reply_to_user_id": "1712477803252432897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989945175108636949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyu813363 他可以是 100，200，可以是 520，也可以是 1314，但是不能是 415.81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1989945167877713920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G520lkXbMAA5kkb.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1989945175108636949",
+        "created_at": "2025-11-16T07:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T08:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989957874555261076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712477803252432897",
+              "start": 0,
+              "username": "jingyu813363"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989957874555261076",
+        "in_reply_to_user_id": "1712477803252432897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989945175108636949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyu813363 他可以是 100，200，可以是 520，也可以是 1314，但是不能是 415.81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989945167877713920"
+          ]
+        },
+        "author_id": "1712477803252432897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989945175108636949",
+        "created_at": "2025-11-16T06:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989945175108636949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mP9dsPc5TO",
+              "end": 35,
+              "expanded_url": "https://x.com/jingyu813363/status/1989945175108636949/photo/1",
+              "media_key": "3_1989945167877713920",
+              "start": 12,
+              "url": "https://t.co/mP9dsPc5TO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989945175108636949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢的就是这种男人。 https://t.co/mP9dsPc5TO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 75,
+          "like_count": 8816,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2733
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-12T14:38:55.000Z",
+        "description": "我有厌蠢症 喜欢请打赏ouo 推广自辨",
+        "id": "1712477803252432897",
+        "location": "有🚪 私信只回门槛",
+        "name": "只有青年音才能和我对话",
+        "pinned_tweet_id": "1989912777461567841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988825169490767875/xL_CUoMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6196,
+          "following_count": 662,
+          "like_count": 9791,
+          "listed_count": 7,
+          "media_count": 202,
+          "tweet_count": 2371
+        },
+        "username": "jingyu813363",
+        "verified": false
+      }
+    ]
+  }
+}

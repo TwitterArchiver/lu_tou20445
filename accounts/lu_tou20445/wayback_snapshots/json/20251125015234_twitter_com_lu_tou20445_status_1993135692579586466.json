@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993135684119674883"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1992820535403958536",
+    "created_at": "2025-11-25T01:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T02:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993135692579586466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525487854763364354",
+          "start": 0,
+          "username": "xinzhongdeaishi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SYC4dzvhfv",
+          "end": 47,
+          "expanded_url": "https://x.com/lu_tou20445/status/1993135692579586466/photo/1",
+          "media_key": "3_1993135684119674883",
+          "start": 24,
+          "url": "https://t.co/SYC4dzvhfv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993135692579586466",
+    "in_reply_to_user_id": "1525487854763364354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993134252763103438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinzhongdeaishi 可以，给你看 https://t.co/SYC4dzvhfv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993135692579586466].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993135692579586466",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993135692579586466"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 601,
+        "media_key": "3_1993135684119674883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kKWDkbwAMzREM.jpg",
+        "width": 407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525487854763364354",
+        "conversation_id": "1992820535403958536",
+        "created_at": "2025-11-25T01:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T02:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993134252763103438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993134252763103438",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992991634594976126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 ？看看那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 70,
+          "like_count": 9703,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 2923
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:50:17.000Z",
+        "description": "德语区留子 | 只发碎碎念和照片 | 可以叫我小希",
+        "id": "1525487854763364354",
+        "location": "🚪188纯绿",
+        "name": "sisi77_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916502927822172160/96CNH58c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 87,
+          "like_count": 2953,
+          "listed_count": 6,
+          "media_count": 111,
+          "tweet_count": 2221
+        },
+        "username": "xinzhongdeaishi",
+        "verified": false
+      }
+    ]
+  }
+}

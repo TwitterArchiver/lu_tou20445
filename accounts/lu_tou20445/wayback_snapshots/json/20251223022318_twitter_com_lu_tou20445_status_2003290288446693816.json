@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2003126004924227665",
+    "created_at": "2025-12-23T02:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T03:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003290288446693816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1492519152283705350",
+          "start": 0,
+          "username": "Aria96446938"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003290288446693816",
+    "in_reply_to_user_id": "1492519152283705350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003179090145403075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aria96446938 谢谢 Aria 老师，之前也有关注到你，一直有在好好追求自己喜欢在意的东西，很有个性，慢慢的就顺顺的，祝你也慢慢变成自己喜欢的样子🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2003126004924227665",
+        "created_at": "2025-12-23T02:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003290288446693816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1492519152283705350",
+              "start": 0,
+              "username": "Aria96446938"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003290288446693816",
+        "in_reply_to_user_id": "1492519152283705350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003179090145403075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aria96446938 谢谢 Aria 老师，之前也有关注到你，一直有在好好追求自己喜欢在意的东西，很有个性，慢慢的就顺顺的，祝你也慢慢变成自己喜欢的样子🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492519152283705350",
+        "conversation_id": "2003126004924227665",
+        "created_at": "2025-12-22T19:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003179090145403075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003179090145403075",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003126004924227665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 因为你看起来就好像是有深度的人，慢慢的，慢条斯理的感觉，又很有礼貌，还带些幽默风趣。你是一个特别好的人呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 69,
+          "like_count": 12114,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 3469
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T15:21:19.000Z",
+        "description": "she/they｜Bi & switch｜Witch🖤Poet\n会写诗的女巫💜\nOccults, poems, writings, psychology, bdsm, shibari...💝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aria96446938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aria96446938",
+                "start": 0,
+                "url": "https://t.co/Qjsnud7JAw"
+              }
+            ]
+          }
+        },
+        "id": "1492519152283705350",
+        "name": "Aria",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659970016241139712/m2GHKU4n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 508,
+          "like_count": 1808,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/Qjsnud7JAw",
+        "username": "Aria96446938",
+        "verified": false
+      }
+    ]
+  }
+}

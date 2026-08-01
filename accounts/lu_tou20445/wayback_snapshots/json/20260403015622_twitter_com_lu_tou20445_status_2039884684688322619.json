@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039884677025247232"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2039590540438646784",
+    "created_at": "2026-04-03T01:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039884684688322619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922999120865751040",
+          "start": 0,
+          "username": "hvbetterchoice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z36dlm1ZCX",
+          "end": 48,
+          "expanded_url": "https://x.com/lu_tou20445/status/2039884684688322619/photo/1",
+          "media_key": "3_2039884677025247232",
+          "start": 25,
+          "url": "https://t.co/z36dlm1ZCX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039884684688322619",
+    "in_reply_to_user_id": "1922999120865751040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039590540438646784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hvbetterchoice 大脑形状依旧是： https://t.co/z36dlm1ZCX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_2039884677025247232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8gTlTaMAAgZJD.jpg",
+        "width": 324
+      },
+      {
+        "height": 1374,
+        "media_key": "3_2039590529730527233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4Ux9PWwAElrdk.jpg",
+        "width": 606
+      },
+      {
+        "height": 1401,
+        "media_key": "3_2039590529730564096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4Ux9PXUAAx87-.jpg",
+        "width": 720
+      },
+      {
+        "height": 1100,
+        "media_key": "3_2039590529730547712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4Ux9PXEAARMdO.jpg",
+        "width": 612
+      },
+      {
+        "height": 643,
+        "media_key": "3_2039590529848242176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4Ux9ra8AAK2ax.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039884677025247232"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2039590540438646784",
+        "created_at": "2026-04-03T01:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039884684688322619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922999120865751040",
+              "start": 0,
+              "username": "hvbetterchoice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z36dlm1ZCX",
+              "end": 48,
+              "expanded_url": "https://x.com/lu_tou20445/status/2039884684688322619/photo/1",
+              "media_key": "3_2039884677025247232",
+              "start": 25,
+              "url": "https://t.co/z36dlm1ZCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039884684688322619",
+        "in_reply_to_user_id": "1922999120865751040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039590540438646784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hvbetterchoice 大脑形状依旧是： https://t.co/z36dlm1ZCX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039590529730527233",
+            "3_2039590529730564096",
+            "3_2039590529730547712",
+            "3_2039590529848242176"
+          ]
+        },
+        "author_id": "1922999120865751040",
+        "conversation_id": "2039590540438646784",
+        "created_at": "2026-04-02T06:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T07:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039590540438646784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Prc3qstbVd",
+              "end": 37,
+              "expanded_url": "https://x.com/hvbetterchoice/status/2039590540438646784/photo/1",
+              "media_key": "3_2039590529730527233",
+              "start": 14,
+              "url": "https://t.co/Prc3qstbVd"
+            },
+            {
+              "display_url": "pic.x.com/Prc3qstbVd",
+              "end": 37,
+              "expanded_url": "https://x.com/hvbetterchoice/status/2039590540438646784/photo/1",
+              "media_key": "3_2039590529730564096",
+              "start": 14,
+              "url": "https://t.co/Prc3qstbVd"
+            },
+            {
+              "display_url": "pic.x.com/Prc3qstbVd",
+              "end": 37,
+              "expanded_url": "https://x.com/hvbetterchoice/status/2039590540438646784/photo/1",
+              "media_key": "3_2039590529730547712",
+              "start": 14,
+              "url": "https://t.co/Prc3qstbVd"
+            },
+            {
+              "display_url": "pic.x.com/Prc3qstbVd",
+              "end": 37,
+              "expanded_url": "https://x.com/hvbetterchoice/status/2039590540438646784/photo/1",
+              "media_key": "3_2039590529848242176",
+              "start": 14,
+              "url": "https://t.co/Prc3qstbVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039590540438646784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 60455,
+          "like_count": 521,
+          "quote_count": 17,
+          "reply_count": 47,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我每隔一段时间就要复读经典 https://t.co/Prc3qstbVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 72,
+          "like_count": 19724,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 5649
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T12:55:11.000Z",
+        "description": "不爱男不爱女只爱露娜玩的厉害的\n@Aesinla",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Aesinla"
+              }
+            ]
+          }
+        },
+        "id": "1922999120865751040",
+        "name": "Briantiy",
+        "pinned_tweet_id": "2038216414289444877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036127162294513664/tLcZT9Qn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 22,
+          "like_count": 654,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 800
+        },
+        "username": "hvbetterchoice",
+        "verified": false
+      }
+    ]
+  }
+}

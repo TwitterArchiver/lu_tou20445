@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T13:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026288439906431385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1252884160235986945",
+          "start": 0,
+          "username": "xiaoerduo9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026288439906431385",
+    "in_reply_to_user_id": "1252884160235986945",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026287623917220074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoerduo9 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T13:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026288439906431385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1252884160235986945",
+              "start": 0,
+              "username": "xiaoerduo9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026288439906431385",
+        "in_reply_to_user_id": "1252884160235986945",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026287623917220074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoerduo9 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252884160235986945",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T13:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026287623917220074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026287623917220074",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 …"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 70,
+          "like_count": 16705,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5019
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T08:57:32.000Z",
+        "description": "我想成为一件艺术品",
+        "id": "1252884160235986945",
+        "location": "呼和浩特",
+        "name": "小耳朵",
+        "pinned_tweet_id": "1909102590152913297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1252884296408248320/DKfK4UkB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 30,
+          "like_count": 11754,
+          "listed_count": 8,
+          "media_count": 66,
+          "tweet_count": 452
+        },
+        "username": "xiaoerduo9",
+        "verified": false
+      }
+    ]
+  }
+}

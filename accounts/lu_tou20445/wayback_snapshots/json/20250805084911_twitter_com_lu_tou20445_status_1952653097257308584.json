@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1952645649457188998",
+    "created_at": "2025-08-05T08:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T09:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952653097257308584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1875000110016614401",
+          "start": 0,
+          "username": "yyhy73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952653097257308584",
+    "in_reply_to_user_id": "1875000110016614401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952645649457188998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyhy73 那会儿唱的指纹也好听诶，想听你唱开头那几段，我们，变成一对差点缘分～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1952645649457188998",
+        "created_at": "2025-08-05T08:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952653097257308584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1875000110016614401",
+              "start": 0,
+              "username": "yyhy73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952653097257308584",
+        "in_reply_to_user_id": "1875000110016614401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952645649457188998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyhy73 那会儿唱的指纹也好听诶，想听你唱开头那几段，我们，变成一对差点缘分～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875000110016614401",
+        "conversation_id": "1952645649457188998",
+        "created_at": "2025-08-05T08:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952645649457188998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "鱼Yuu’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1yoKM…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1yoKMooAvqRJQ",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1952645691823816704/aMTMBJrh?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952645691823816704/aMTMBJrh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 钳子唱歌",
+              "unwound_url": "https://twitter.com/i/spaces/1yoKMooAvqRJQ/peek",
+              "url": "https://t.co/LlBmppw47N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952645649457188998",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 159,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LlBmppw47N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 34,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T02:04:09.000Z",
+        "description": "一重山，两重山。山远天高岩水寒，相思枫叶丹。—————————————————————————文玩发烧友 喜欢喝点草莓牛奶 当朋友圈发的 来私信我一般都是秒回！（可以来试试☝🏻）isfp 但在网络上很吵 平时收到投喂会感谢 请来和鱼聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=fVVO78kL",
+                "start": 0,
+                "url": "https://t.co/6969djJzTd"
+              }
+            ]
+          }
+        },
+        "id": "1875000110016614401",
+        "location": "自用vpn",
+        "name": "鱼Yuu",
+        "pinned_tweet_id": "1952361070112469232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946948926684180480/rsbLgajW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 94,
+          "like_count": 4897,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/6969djJzTd",
+        "username": "yyhy73",
+        "verified": false
+      }
+    ]
+  }
+}

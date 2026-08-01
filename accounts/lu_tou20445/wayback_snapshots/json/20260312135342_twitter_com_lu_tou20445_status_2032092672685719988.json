@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2032090806962774249",
+    "created_at": "2026-03-12T13:53:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:53:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032092672685719988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964688703118544896",
+          "start": 0,
+          "username": "imhidinxi"
+        },
+        {
+          "end": 25,
+          "id": "1981722018312806400",
+          "start": 11,
+          "username": "kitten718miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032092672685719988",
+    "in_reply_to_user_id": "1964688703118544896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032091050798453234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imhidinxi @kitten718miao m 名不虚传"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032091050798453234].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032091050798453234",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032091050798453234"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2032090806962774249",
+        "created_at": "2026-03-12T13:53:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:53:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032092672685719988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964688703118544896",
+              "start": 0,
+              "username": "imhidinxi"
+            },
+            {
+              "end": 25,
+              "id": "1981722018312806400",
+              "start": 11,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032092672685719988",
+        "in_reply_to_user_id": "1964688703118544896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032091050798453234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imhidinxi @kitten718miao m 名不虚传"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 71,
+          "like_count": 18392,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 5393
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:54:31.000Z",
+        "description": "I'm truly hiding myself",
+        "id": "1964688703118544896",
+        "name": "西特了",
+        "pinned_tweet_id": "1964690481365065937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011973613654560768/rUwlnWvN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2091
+        },
+        "username": "imhidinxi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "祝你好梦",
+        "id": "1981722018312806400",
+        "name": "猫睡醒了",
+        "pinned_tweet_id": "2030684808247160957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027587083884498946/MZL_8K4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 80,
+          "like_count": 1485,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 1309
+        },
+        "username": "kitten718miao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957494810643951746",
+    "created_at": "2025-08-19T03:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T04:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957642054928069013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597119365282791425",
+          "start": 0,
+          "username": "Keljiaoshenme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957642054928069013",
+    "in_reply_to_user_id": "1597119365282791425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957494810643951746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keljiaoshenme 上下身基础，那就要有几位男士过来做配饰了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1223,
+        "media_key": "3_1957494801475272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyprJpObgAA9oZb.jpg",
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957494810643951746",
+        "created_at": "2025-08-19T03:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957642054928069013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597119365282791425",
+              "start": 0,
+              "username": "Keljiaoshenme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957642054928069013",
+        "in_reply_to_user_id": "1597119365282791425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957494810643951746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keljiaoshenme 上下身基础，那就要有几位男士过来做配饰了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957494801475272704"
+          ]
+        },
+        "author_id": "1597119365282791425",
+        "conversation_id": "1957494810643951746",
+        "created_at": "2025-08-18T17:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T18:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957494810643951746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSksjn3vw5",
+              "end": 45,
+              "expanded_url": "https://x.com/Keljiaoshenme/status/1957494810643951746/photo/1",
+              "media_key": "3_1957494801475272704",
+              "start": 22,
+              "url": "https://t.co/TSksjn3vw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957494810643951746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10296,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下身基础上身就不基础 dress code https://t.co/TSksjn3vw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 50,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:45:18.000Z",
+        "description": "V：68｜188tj｜520主人｜不谈｜不感兴趣｜没人问你｜已有对象｜只回感兴趣的｜管我哪的｜没有线下（言语羞辱我吧，喜欢）",
+        "id": "1597119365282791425",
+        "location": "🚪68｜188｜520",
+        "name": "kel",
+        "pinned_tweet_id": "1932109681910292853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954548018637905920/Bo5Ksn9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20779,
+          "following_count": 62,
+          "like_count": 1546,
+          "listed_count": 41,
+          "media_count": 71,
+          "tweet_count": 333
+        },
+        "username": "Keljiaoshenme",
+        "verified": false
+      }
+    ]
+  }
+}

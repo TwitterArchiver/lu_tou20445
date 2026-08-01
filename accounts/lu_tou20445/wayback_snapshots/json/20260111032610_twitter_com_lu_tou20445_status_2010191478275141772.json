@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009996578850062487",
+    "created_at": "2026-01-11T03:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010191478275141772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999062281326669826",
+          "start": 0,
+          "username": "tCYYUgSllF26087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010191478275141772",
+    "in_reply_to_user_id": "1999062281326669826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010181663029112894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tCYYUgSllF26087 怎么样，喜欢那个手感吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009996578850062487",
+        "created_at": "2026-01-11T03:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010191478275141772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999062281326669826",
+              "start": 0,
+              "username": "tCYYUgSllF26087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010191478275141772",
+        "in_reply_to_user_id": "1999062281326669826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010181663029112894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tCYYUgSllF26087 怎么样，喜欢那个手感吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999062281326669826",
+        "conversation_id": "2009996578850062487",
+        "created_at": "2026-01-11T02:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T03:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010181663029112894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010181663029112894",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010002214832746829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我拍了超级多，是哈尔滨的极地馆里面的异宠馆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 69,
+          "like_count": 14308,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 4136
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:24:22.000Z",
+        "description": "⭕️🍓❤️",
+        "id": "1999062281326669826",
+        "name": "菇耐耐（混世嬤王）",
+        "pinned_tweet_id": "2000494958760136740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000269993322389504/mrFLI8bh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 59,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 329
+        },
+        "username": "tCYYUgSllF26087",
+        "verified": false
+      }
+    ]
+  }
+}

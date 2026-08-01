@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1964552218012766549",
+    "created_at": "2025-09-07T04:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T05:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964554183266500790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511516081726582785",
+          "start": 0,
+          "username": "GreenLaffey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964554183266500790",
+    "in_reply_to_user_id": "1511516081726582785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964552218012766549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenLaffey 萨莉亚完全就是明牌跟你讲我是预制🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 737,
+        "media_key": "3_1964552200325386243",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0N90UsbUAM2n-e.jpg",
+        "width": 1310
+      },
+      {
+        "height": 1638,
+        "media_key": "3_1964552200316948481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0N90UqakAEJPou.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1964552218012766549",
+        "created_at": "2025-09-07T04:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T05:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964554183266500790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511516081726582785",
+              "start": 0,
+              "username": "GreenLaffey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964554183266500790",
+        "in_reply_to_user_id": "1511516081726582785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964552218012766549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenLaffey 萨莉亚完全就是明牌跟你讲我是预制🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964552200325386243",
+            "3_1964552200316948481"
+          ]
+        },
+        "author_id": "1511516081726582785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964552218012766549",
+        "created_at": "2025-09-07T04:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T05:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964552218012766549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZ8PtPqeCy",
+              "end": 57,
+              "expanded_url": "https://x.com/GreenLaffey/status/1964552218012766549/photo/1",
+              "media_key": "3_1964552200325386243",
+              "start": 34,
+              "url": "https://t.co/tZ8PtPqeCy"
+            },
+            {
+              "display_url": "pic.x.com/tZ8PtPqeCy",
+              "end": 57,
+              "expanded_url": "https://x.com/GreenLaffey/status/1964552218012766549/photo/1",
+              "media_key": "3_1964552200316948481",
+              "start": 34,
+              "url": "https://t.co/tZ8PtPqeCy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964552218012766549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完疯狂动物城来吃萨莉亚\n\n不是冻的真瓷实啊仿佛一块巧克力砖头（戳 https://t.co/tZ8PtPqeCy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 64,
+          "like_count": 3058,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1573
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T01:28:30.000Z",
+        "description": "大概是日记本  喜欢一切可爱的事物\n泛性恋/infj/♑/brat\n没意思的私信不回",
+        "id": "1511516081726582785",
+        "location": "树枝孤鸟",
+        "name": "晚沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951148736618569728/fYQ_Kncw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 213,
+          "like_count": 2807,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 164
+        },
+        "username": "GreenLaffey",
+        "verified": false
+      }
+    ]
+  }
+}

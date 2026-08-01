@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026313923570590122",
+    "created_at": "2026-02-24T15:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026316396137963879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510601428670115848",
+          "start": 0,
+          "username": "squirrel17028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026316396137963879",
+    "in_reply_to_user_id": "1510601428670115848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026313923570590122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@squirrel17028 Don't worry，毕竟被发现了也不会复活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026313923570590122",
+        "created_at": "2026-02-24T15:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026316396137963879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510601428670115848",
+              "start": 0,
+              "username": "squirrel17028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026316396137963879",
+        "in_reply_to_user_id": "1510601428670115848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026313923570590122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@squirrel17028 Don't worry，毕竟被发现了也不会复活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510601428670115848",
+        "conversation_id": "2026313923570590122",
+        "created_at": "2026-02-24T15:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026313923570590122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lu_tou20445/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/lu_tou20445/status/2026265033563590909",
+              "start": 48,
+              "url": "https://t.co/1o4tOzmVAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026313923570590122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自從大一下從宿舍搬出來之後一直都是獨居，真的爽\n只有偶爾焦慮自己會不會突然死在家裡沒人知道而已 https://t.co/1o4tOzmVAj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 70,
+          "like_count": 16739,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T12:53:48.000Z",
+        "description": "🏳️‍🌈 Android Engineer | 單身到不行",
+        "id": "1510601428670115848",
+        "location": "台灣",
+        "name": "松鼠 🐿️",
+        "pinned_tweet_id": "1925197807113384146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008595992007041024/QZIOZpKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 938,
+          "like_count": 34068,
+          "listed_count": 5,
+          "media_count": 515,
+          "tweet_count": 2673
+        },
+        "username": "squirrel17028",
+        "verified": false
+      }
+    ]
+  }
+}

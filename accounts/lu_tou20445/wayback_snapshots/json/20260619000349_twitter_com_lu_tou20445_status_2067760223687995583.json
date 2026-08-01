@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2067568439976468868",
+    "created_at": "2026-06-19T00:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T01:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067760223687995583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400872292",
+          "start": 0,
+          "username": "apple115521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067760223687995583",
+    "in_reply_to_user_id": "1400872292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067666916596957588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple115521 因为问题场景不是在工作和陌生人之间🙌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2067568439976468868",
+        "created_at": "2026-06-19T00:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067760223687995583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400872292",
+              "start": 0,
+              "username": "apple115521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067760223687995583",
+        "in_reply_to_user_id": "1400872292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067666916596957588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple115521 因为问题场景不是在工作和陌生人之间🙌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400872292",
+        "conversation_id": "2067568439976468868",
+        "created_at": "2026-06-18T17:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067666916596957588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067666916596957588",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067568439976468868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 如果让质问听起来像是在提议、或者寻求帮助😉通常会顺畅很多喔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 70,
+          "like_count": 21687,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 6186
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-03T22:24:41.000Z",
+        "description": "30代 ⭐️ 高能量｜旅行 | 健身 | 医药行业 | Eine Wurst hat zwei Enden⭐️ 近况：plank 挑战记录27’10”， leadership进修",
+        "id": "1400872292",
+        "location": "Jupiter",
+        "name": "Glückskuh🐮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067452901748862976/QjOD9We2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 85,
+          "like_count": 14066,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1893
+        },
+        "url": "",
+        "username": "apple115521",
+        "verified": false
+      }
+    ]
+  }
+}

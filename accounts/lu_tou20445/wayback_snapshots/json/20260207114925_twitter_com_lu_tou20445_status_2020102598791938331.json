@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2020085558530425184",
+    "created_at": "2026-02-07T11:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T12:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020102598791938331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986701339628609536",
+          "start": 0,
+          "username": "yoyoOvO6June1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020102598791938331",
+    "in_reply_to_user_id": "1986701339628609536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020085558530425184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyoOvO6June1 话说多了嘴角也开始倒沫子了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2020085543137341442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAjJGT6acAIvKaN.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2020085558530425184",
+        "created_at": "2026-02-07T11:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020102598791938331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986701339628609536",
+              "start": 0,
+              "username": "yoyoOvO6June1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020102598791938331",
+        "in_reply_to_user_id": "1986701339628609536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020085558530425184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoOvO6June1 话说多了嘴角也开始倒沫子了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020085543137341442"
+          ]
+        },
+        "author_id": "1986701339628609536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020085558530425184",
+        "created_at": "2026-02-07T10:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T11:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020085558530425184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0E41enonmg",
+              "end": 110,
+              "expanded_url": "https://x.com/yoyoOvO6June1/status/2020085558530425184/photo/1",
+              "media_key": "3_2020085543137341442",
+              "start": 87,
+              "url": "https://t.co/0E41enonmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020085558530425184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没事开始搓脸了\n接电话也开免提了\n相册里都是拍天空和花花草草了\n开始贴膏药了\n眼药水不离兜了\n奶茶也开始半糖了\n熬夜也恢复得慢了\n上楼梯开始大喘气了\n发消息开始语音转文字了 https://t.co/0E41enonmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 71,
+          "like_count": 15323,
+          "listed_count": 3,
+          "media_count": 216,
+          "tweet_count": 4610
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 大号@Yoyonevergiveup 回关眼熟的人 😋不礼貌的没有回复的义务 😈高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Yoyonevergiveup"
+              }
+            ]
+          }
+        },
+        "id": "1986701339628609536",
+        "location": "傻逼都滚远点 ",
+        "name": "优乐美嘉",
+        "pinned_tweet_id": "2012792197817442543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012914474978611200/xVHVRopE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 355,
+          "like_count": 6477,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 3040
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      }
+    ]
+  }
+}

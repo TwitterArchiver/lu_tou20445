@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2002039040149971250",
+    "created_at": "2025-12-20T17:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T18:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002430102131650637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1916181248005074944",
+          "start": 0,
+          "username": "Ywcream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002430102131650637",
+    "in_reply_to_user_id": "1916181248005074944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002417556788031700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ywcream 唉，毕竟不管做哪个职业的，都先是人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2002039040149971250",
+        "created_at": "2025-12-20T17:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T18:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002430102131650637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1916181248005074944",
+              "start": 0,
+              "username": "Ywcream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002430102131650637",
+        "in_reply_to_user_id": "1916181248005074944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002417556788031700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ywcream 唉，毕竟不管做哪个职业的，都先是人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916181248005074944",
+        "conversation_id": "2002039040149971250",
+        "created_at": "2025-12-20T16:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T17:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002417556788031700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002417556788031700",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002039040149971250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 从小学数学很差被老师体罚 从那之后很畏惧老师 \n想起高一那会智齿刚萌出 顶得牙龈肉很痒 我总是拿舌头去拨弄牙龈肉 后来开家长会 班主任和我爸告状 说我天天上课嚼口香糖 😅 我爸告诉我之后 我真的开始上课吃东西 而且她居然对同学说出没有利用价值这种话 我就开始慢慢对老师这个职业祛魅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 69,
+          "like_count": 12007,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 3448
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T17:23:42.000Z",
+        "description": "02 INFP 水瓶座 ｜喜欢小猫🐈小狗🐕 集声控 ｜脸控｜ 手控 集敏感脆弱贪吃好色守财于一体的小女孩 ｜这是我的电子日记 发啥你别管 ｜尊重女性 尊重自己 尊重动物",
+        "id": "1916181248005074944",
+        "location": "在世界中心呼唤爱",
+        "name": "ꉂ ᳐⸝⸝o̴̶̷᷄ ·̭ o̴̶̷̥᷅⸝⸝ ᳐ฅ 讨厌所有下雨天",
+        "pinned_tweet_id": "1985388669864460290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997922517999333376/7WsxobHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 119,
+          "like_count": 5397,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 3053
+        },
+        "username": "Ywcream",
+        "verified": false
+      }
+    ]
+  }
+}

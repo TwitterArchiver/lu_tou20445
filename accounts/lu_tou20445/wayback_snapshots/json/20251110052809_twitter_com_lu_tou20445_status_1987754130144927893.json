@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1987142042292789626",
+    "created_at": "2025-11-10T05:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987754130144927893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1965052180261748736",
+          "start": 0,
+          "username": "Tokyiaswife"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987754130144927893",
+    "in_reply_to_user_id": "1965052180261748736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987712110877724719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tokyiaswife 如果是不必要的事也就不至于难回答了🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1987142042292789626",
+        "created_at": "2025-11-10T05:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987754130144927893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965052180261748736",
+              "start": 0,
+              "username": "Tokyiaswife"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987754130144927893",
+        "in_reply_to_user_id": "1965052180261748736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987712110877724719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tokyiaswife 如果是不必要的事也就不至于难回答了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965052180261748736",
+        "conversation_id": "1987142042292789626",
+        "created_at": "2025-11-10T02:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T03:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987712110877724719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987712110877724719",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987142042292789626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 臣有一计，非必要的事就回避，如果对面是个成熟的人，应该知道这个信号就是不想聊了🙈，(然而大多数情况只是我单方面祈祷对面识趣，对面并没有get到，我就只能沉默，这看起来像冷暴力，或许实际也是。)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 73,
+          "like_count": 8031,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2516
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T13:58:53.000Z",
+        "description": "isfp丨纯发疯，骂我我就哭",
+        "id": "1965052180261748736",
+        "name": "...",
+        "pinned_tweet_id": "1976653566996877435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979951056332148736/h4Tbu86E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 17,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 87
+        },
+        "username": "Tokyiaswife",
+        "verified": false
+      }
+    ]
+  }
+}

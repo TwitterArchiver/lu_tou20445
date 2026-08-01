@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2019652059763785987",
+    "created_at": "2026-02-06T12:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019747846300279238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1785303923538161664",
+          "start": 0,
+          "username": "marci7639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019747846300279238",
+    "in_reply_to_user_id": "1785303923538161664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019652059763785987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marci7639 太对了这个色儿，有办席时候那味儿了，口感劲道油香四溢，给在外面的馋 完了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019652042973986816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAc-1R9bQAAx5ml.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019652043246563333",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAc-1S-acAUk-Ic.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2019652059763785987",
+        "created_at": "2026-02-06T12:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019747846300279238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1785303923538161664",
+              "start": 0,
+              "username": "marci7639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019747846300279238",
+        "in_reply_to_user_id": "1785303923538161664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019652059763785987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marci7639 太对了这个色儿，有办席时候那味儿了，口感劲道油香四溢，给在外面的馋 完了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019652042973986816",
+            "3_2019652043246563333"
+          ]
+        },
+        "author_id": "1785303923538161664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019652059763785987",
+        "created_at": "2026-02-06T05:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019652059763785987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1m7OxknVY",
+              "end": 53,
+              "expanded_url": "https://x.com/marci7639/status/2019652059763785987/photo/1",
+              "media_key": "3_2019652042973986816",
+              "start": 30,
+              "url": "https://t.co/L1m7OxknVY"
+            },
+            {
+              "display_url": "pic.x.com/L1m7OxknVY",
+              "end": 53,
+              "expanded_url": "https://x.com/marci7639/status/2019652059763785987/photo/1",
+              "media_key": "3_2019652043246563333",
+              "start": 30,
+              "url": "https://t.co/L1m7OxknVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019652059763785987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过油肉美味之，豆角沾片子蘸番茄蒜泥酱简直绝了，无敌美味😋！ https://t.co/L1m7OxknVY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 71,
+          "like_count": 15242,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 4594
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:43:30.000Z",
+        "description": "本人的帖子会是吃的，旅游风景，碎碎念，歌，小鼠，朝晚霞/时不时发一些碎碎念和见闻/对一切事情保持好奇/吃是人生的最大追求",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/marci7639",
+                "end": 23,
+                "expanded_url": "https://ngl.link/marci7639",
+                "start": 0,
+                "url": "https://t.co/m0aPE8aCfl"
+              }
+            ]
+          }
+        },
+        "id": "1785303923538161664",
+        "location": "肠粉国",
+        "name": "一颗星星🌟",
+        "pinned_tweet_id": "1936131439839629378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004854393662029824/b9YDZKsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 387,
+          "like_count": 23443,
+          "listed_count": 1,
+          "media_count": 896,
+          "tweet_count": 4586
+        },
+        "url": "https://t.co/m0aPE8aCfl",
+        "username": "marci7639",
+        "verified": false
+      }
+    ]
+  }
+}

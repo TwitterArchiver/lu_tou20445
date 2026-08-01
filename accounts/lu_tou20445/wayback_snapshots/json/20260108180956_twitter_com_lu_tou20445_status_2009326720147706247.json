@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009326720147706247",
+    "created_at": "2026-01-08T18:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T19:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009326720147706247"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009326720147706247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也不想熬夜呀，可是我不甘心呐，白天基本没有属于自己的空闲时间，只有从夜晚抢点不会被任何人打扰完全属于自己的时间回来，忙完回来洗漱俩眼一闭就睡，想起第二天俩眼一睁就要再去忙然后循环我就受不了，这夜还是得熬🫤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009326720147706247",
+        "created_at": "2026-01-08T18:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T19:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009326720147706247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009326720147706247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不想熬夜呀，可是我不甘心呐，白天基本没有属于自己的空闲时间，只有从夜晚抢点不会被任何人打扰完全属于自己的时间回来，忙完回来洗漱俩眼一闭就睡，想起第二天俩眼一睁就要再去忙然后循环我就受不了，这夜还是得熬🫤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 69,
+          "like_count": 14104,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 4090
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

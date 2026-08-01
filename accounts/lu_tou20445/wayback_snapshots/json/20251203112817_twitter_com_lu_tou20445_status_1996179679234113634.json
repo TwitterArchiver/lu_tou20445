@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1996137530274771321",
+    "created_at": "2025-12-03T11:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996179679234113634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960382302724452352",
+          "start": 0,
+          "username": "ji_yu81718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996179679234113634",
+    "in_reply_to_user_id": "1960382302724452352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996173687578595518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_yu81718 那可以去线下店体验😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1996173687578595518].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1996173687578595518",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1996173687578595518"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1996137530274771321",
+        "created_at": "2025-12-03T11:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996179679234113634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960382302724452352",
+              "start": 0,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996179679234113634",
+        "in_reply_to_user_id": "1960382302724452352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996173687578595518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_yu81718 那可以去线下店体验😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 69,
+          "like_count": 10289,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T16:42:26.000Z",
+        "description": "不要被命运找到",
+        "id": "1960382302724452352",
+        "name": "那你现在是不是已经被他们淹没",
+        "pinned_tweet_id": "1988507303105188161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970907452108607488/mAhojly3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 124,
+          "like_count": 2008,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1397
+        },
+        "username": "ji_yu81718",
+        "verified": false
+      }
+    ]
+  }
+}

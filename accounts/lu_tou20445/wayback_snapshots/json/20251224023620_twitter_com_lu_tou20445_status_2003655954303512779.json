@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2003457249319297449",
+    "created_at": "2025-12-24T02:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003655954303512779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547116502377041920",
+          "start": 0,
+          "username": "youyudouQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003655954303512779",
+    "in_reply_to_user_id": "1547116502377041920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003655334225940648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyudouQ hh，还是看两个人相处习惯，如果对方明确表示不喜欢被看着，或者对方有躲闪，可以换种让两个人都舒服的方式，也可能是我观点有点极端，我其实认为柔和没有敌意的目光一般不会让对方感到不适"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-24T02:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003655954303512779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547116502377041920",
+              "start": 0,
+              "username": "youyudouQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003655954303512779",
+        "in_reply_to_user_id": "1547116502377041920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003655334225940648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyudouQ hh，还是看两个人相处习惯，如果对方明确表示不喜欢被看着，或者对方有躲闪，可以换种让两个人都舒服的方式，也可能是我观点有点极端，我其实认为柔和没有敌意的目光一般不会让对方感到不适"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547116502377041920",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-24T02:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003655334225940648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003655334225940648",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003457249319297449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也这样，，，偶尔会被说看人太直勾勾。但其实真的是想表达我在很认真的听对方说话😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 69,
+          "like_count": 12288,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3522
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T07:12:09.000Z",
+        "description": "我是女生 #les 短发t ttl/tpl 恋爱中 🥰 infp&entp 现生朋友刷到请当无事发生\n不接置顶推广❗️/男的不要关注我/男的转推拉黑 小宝宝@ranRan1335555",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "les"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "ranRan1335555"
+              }
+            ]
+          }
+        },
+        "id": "1547116502377041920",
+        "location": "China",
+        "name": "鱿鱼豆",
+        "pinned_tweet_id": "1983335886608880123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997533459091525632/Xtn9la-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3247,
+          "following_count": 94,
+          "like_count": 2092,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1113
+        },
+        "username": "youyudouQ",
+        "verified": false
+      }
+    ]
+  }
+}

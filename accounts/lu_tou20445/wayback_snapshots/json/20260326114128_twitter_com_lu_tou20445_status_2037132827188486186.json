@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2037106270445125974",
+    "created_at": "2026-03-26T11:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037132827188486186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625629789150187520",
+          "start": 0,
+          "username": "Hedera_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037132827188486186",
+    "in_reply_to_user_id": "1625629789150187520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037106270445125974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hedera_47 凶残到甚至不愿意用正眼看人，太恐怖了，让人一眼看到寒光闪闪的大钢牙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037106263251972096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVBWnbbcAA5vu8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2037106270445125974",
+        "created_at": "2026-03-26T11:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037132827188486186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625629789150187520",
+              "start": 0,
+              "username": "Hedera_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037132827188486186",
+        "in_reply_to_user_id": "1625629789150187520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037106270445125974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hedera_47 凶残到甚至不愿意用正眼看人，太恐怖了，让人一眼看到寒光闪闪的大钢牙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037106263251972096"
+          ]
+        },
+        "author_id": "1625629789150187520",
+        "conversation_id": "2037106270445125974",
+        "created_at": "2026-03-26T09:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037106270445125974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIPrhOaeKs",
+              "end": 51,
+              "expanded_url": "https://x.com/Hedera_47/status/2037106270445125974/photo/1",
+              "media_key": "3_2037106263251972096",
+              "start": 28,
+              "url": "https://t.co/cIPrhOaeKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037106270445125974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 495,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据说鲨鱼进食的场面都异常的凶险，今天亲眼见到了果真如此 https://t.co/cIPrhOaeKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 72,
+          "like_count": 19301,
+          "listed_count": 5,
+          "media_count": 258,
+          "tweet_count": 5611
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T22:55:25.000Z",
+        "description": "願我學會遨遊",
+        "id": "1625629789150187520",
+        "location": "距离你1.14km",
+        "name": "霊風☘️",
+        "pinned_tweet_id": "1988604878806208515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975647264615112707/7Lkpfxyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5138,
+          "following_count": 1035,
+          "like_count": 43041,
+          "listed_count": 3,
+          "media_count": 889,
+          "tweet_count": 8600
+        },
+        "username": "Hedera_47",
+        "verified": false
+      }
+    ]
+  }
+}

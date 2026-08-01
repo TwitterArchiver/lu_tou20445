@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004459054484390016",
+    "created_at": "2025-12-26T08:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T09:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004472336700133626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1985664255585370116",
+          "start": 0,
+          "username": "yula_0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004472336700133626",
+    "in_reply_to_user_id": "1985664255585370116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004469273230782651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yula_0000 感觉让他们玩几天，再说要加他们，可能就开始推推辞辞了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004459054484390016",
+        "created_at": "2025-12-26T08:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004472336700133626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1985664255585370116",
+              "start": 0,
+              "username": "yula_0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004472336700133626",
+        "in_reply_to_user_id": "1985664255585370116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004469273230782651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yula_0000 感觉让他们玩几天，再说要加他们，可能就开始推推辞辞了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985664255585370116",
+        "conversation_id": "2004459054484390016",
+        "created_at": "2025-12-26T08:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004469273230782651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004469273230782651",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004459054484390016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我这几天也是快疯了 有几个朋友说要加我 我被吓到 怕真的被找到\n我：你认真？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 70,
+          "like_count": 12544,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 3580
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T11:04:15.000Z",
+        "description": "一个写小故事&随笔的小女孩\n偶尔发一些日常生活\n是马来西亚人哦^^\n可以来找我倾诉一些事情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/allison68174",
+                "end": 23,
+                "expanded_url": "https://ngl.link/allison68174",
+                "start": 0,
+                "url": "https://t.co/Q0ZNLDtskB"
+              }
+            ]
+          }
+        },
+        "id": "1985664255585370116",
+        "name": "妄赎思言",
+        "pinned_tweet_id": "2000519327016235486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989748866707816449/kZ07U-9U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/Q0ZNLDtskB",
+        "username": "yula_0000",
+        "verified": false
+      }
+    ]
+  }
+}

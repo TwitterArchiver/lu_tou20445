@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1947266468485201968",
+    "created_at": "2025-07-21T12:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947267568848224676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1914575147874574338",
+          "start": 0,
+          "username": "auvebj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947267568848224676",
+    "in_reply_to_user_id": "1914575147874574338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 21,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947266468485201968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auvebj 坏了，是真小看你了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1389,
+        "media_key": "3_1947266449593999361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwYUhNMWIAEw_GF.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1947266468485201968",
+        "created_at": "2025-07-21T12:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947267568848224676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1914575147874574338",
+              "start": 0,
+              "username": "auvebj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947267568848224676",
+        "in_reply_to_user_id": "1914575147874574338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947266468485201968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auvebj 坏了，是真小看你了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947266449593999361"
+          ]
+        },
+        "author_id": "1914575147874574338",
+        "conversation_id": "1947266468485201968",
+        "created_at": "2025-07-21T12:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947266468485201968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FJdW8Jc6gX",
+              "end": 23,
+              "expanded_url": "https://x.com/auvebj/status/1947266468485201968/photo/1",
+              "media_key": "3_1947266449593999361",
+              "start": 0,
+              "url": "https://t.co/FJdW8Jc6gX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947266468485201968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FJdW8Jc6gX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T07:01:15.000Z",
+        "description": "别认识我｜乱发发｜废话人格：@neikupifa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "neikupifa"
+              }
+            ]
+          }
+        },
+        "id": "1914575147874574338",
+        "location": "无🚪无v",
+        "name": "冰皮薄脆饼🫓",
+        "pinned_tweet_id": "1936722275488657660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914875486649401344/Za2nh5Eb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 65,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 239
+        },
+        "username": "auvebj",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2062659619747504487",
+    "created_at": "2026-06-05T00:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062699185632424215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400872292",
+          "start": 0,
+          "username": "apple115521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062699185632424215",
+    "in_reply_to_user_id": "1400872292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062659619747504487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple115521 虽然已经从内向帝那个阶段过来了，但是还是替他庆幸能碰到你这样愿意帮他一把的领导，太难得了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2062659619747504487",
+        "created_at": "2026-06-05T00:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062699185632424215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400872292",
+              "start": 0,
+              "username": "apple115521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062699185632424215",
+        "in_reply_to_user_id": "1400872292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062659619747504487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple115521 虽然已经从内向帝那个阶段过来了，但是还是替他庆幸能碰到你这样愿意帮他一把的领导，太难得了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400872292",
+        "conversation_id": "2062659619747504487",
+        "created_at": "2026-06-04T22:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062659619747504487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/apple115521/st…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/apple115521/status/2040081750404083861",
+              "start": 165,
+              "url": "https://t.co/LQ1e9Nosd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062659619747504487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040081750404083861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Update：我开了一个新职位，让内向帝从内部申请。我handpick面试参与者，确保里面不会有naysayers。我另外“邀请”了两位external candidates来陪跑（一眼水货），因为HR说final round至少三选一。\n这样，可以绕过正常cycle，最快地给内向帝升职。他下周一正式新职位😬他很开心。\n米兔🐰 https://t.co/LQ1e9Nosd7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 69,
+          "like_count": 21349,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 6066
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-03T22:24:41.000Z",
+        "description": "30代 ⭐️ 高能量｜旅行 | 健身 | 医药行业 | Eine Wurst hat zwei Enden⭐️ 近况：plank 挑战记录27’10”， leadership进修",
+        "id": "1400872292",
+        "location": "Jupiter",
+        "name": "Glückskuh🐮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062306892383244288/OYvQUKb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 80,
+          "like_count": 13356,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1789
+        },
+        "username": "apple115521",
+        "verified": false
+      }
+    ]
+  }
+}

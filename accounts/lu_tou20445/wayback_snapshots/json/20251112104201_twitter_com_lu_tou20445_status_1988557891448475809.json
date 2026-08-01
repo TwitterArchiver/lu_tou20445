@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T10:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988557891448475809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822675480518213632",
+          "start": 0,
+          "username": "Zaibiyi_Oberon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988557891448475809",
+    "in_reply_to_user_id": "1822675480518213632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988557154131849715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zaibiyi_Oberon 他的小聪明体现的淋漓尽致"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988557144426450944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jGL-EakAA9LAm.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T10:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988557891448475809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822675480518213632",
+              "start": 0,
+              "username": "Zaibiyi_Oberon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988557891448475809",
+        "in_reply_to_user_id": "1822675480518213632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988557154131849715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zaibiyi_Oberon 他的小聪明体现的淋漓尽致"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988557144426450944"
+          ]
+        },
+        "author_id": "1822675480518213632",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T10:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988557154131849715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/baXqUwXMmV",
+              "end": 36,
+              "expanded_url": "https://x.com/Zaibiyi_Oberon/status/1988557154131849715/photo/1",
+              "media_key": "3_1988557144426450944",
+              "start": 13,
+              "url": "https://t.co/baXqUwXMmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988557154131849715",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 https://t.co/baXqUwXMmV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 74,
+          "like_count": 8314,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T16:44:45.000Z",
+        "description": "我认识你，直到死为止",
+        "id": "1822675480518213632",
+        "location": "Harsh Noise Girl Wave Empty",
+        "name": "宰笔壹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822675664912474112/ARxR-Elx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 719,
+          "like_count": 3919,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 669
+        },
+        "username": "Zaibiyi_Oberon",
+        "verified": false
+      }
+    ]
+  }
+}

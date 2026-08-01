@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955519453481013309",
+    "created_at": "2025-08-13T07:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T08:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955527887542714877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955527887542714877",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955527256748822941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 你的龟龟可能不怎么吃活鱼，我建议问问老板"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955519453481013309",
+        "created_at": "2025-08-13T07:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955527887542714877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955527887542714877",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955527256748822941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 你的龟龟可能不怎么吃活鱼，我建议问问老板"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "757578278320300032",
+        "conversation_id": "1955519453481013309",
+        "created_at": "2025-08-13T07:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955527256748822941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955527256748822941",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955524375115157712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我准备去花鸟市场买一些小鱼苗扔到他们的缸里 让他们自己抓来吃😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁   bye～",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "1950167045783372052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952723610927603713/97UlKbMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 57,
+          "like_count": 2599,
+          "listed_count": 0,
+          "media_count": 242,
+          "tweet_count": 1109
+        },
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

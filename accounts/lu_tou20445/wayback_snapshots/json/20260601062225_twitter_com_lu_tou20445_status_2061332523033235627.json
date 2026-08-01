@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061132407550464066",
+    "created_at": "2026-06-01T06:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061332523033235627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061332523033235627",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061308260154560568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77ninini 听着还挺幸福，多梦一点别的类型😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061132407550464066",
+        "created_at": "2026-06-01T06:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061332523033235627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061332523033235627",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061308260154560568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77ninini 听着还挺幸福，多梦一点别的类型😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907355599232274432",
+        "conversation_id": "2061132407550464066",
+        "created_at": "2026-06-01T04:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T05:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061308260154560568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061308260154560568",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061262730691330160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 总不能是因为我听了，所以晚上梦到金发190的外国男了吧🫣我去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 69,
+          "like_count": 21175,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6017
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "不舒服的时候会躲起来，孤立全世界🌍\n各种随心的吐槽，记录生活的照片🌸\n喜欢猫，非常非常喜欢，也喜欢对小动物好的人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKkA7R"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061128212910850056/SB57Filo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 185,
+          "like_count": 53264,
+          "listed_count": 2,
+          "media_count": 876,
+          "tweet_count": 15466
+        },
+        "url": "https://t.co/mS0tEKkA7R",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

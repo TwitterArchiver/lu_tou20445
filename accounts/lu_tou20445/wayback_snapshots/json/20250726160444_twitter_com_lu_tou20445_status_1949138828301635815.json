@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949048188473864459",
+    "created_at": "2025-07-26T16:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T17:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949138828301635815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1778333206196137984",
+          "start": 0,
+          "username": "Charile1599521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949138828301635815",
+    "in_reply_to_user_id": "1778333206196137984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949048188473864459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Charile1599521 我也好喜欢这首歌，有种不羁又在请求的感觉，但是你唱出来就有种青春期女孩在羞涩的表达心意的感觉，还蛮独特的🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28235,
+        "height": 1280,
+        "media_key": "7_1949048094701785088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1949048094701785088/pu/img/q7dGLr9QIHmRj9v5.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949048094701785088/pu/vid/avc1/320x710/NZBG86zlKcjtecSn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949048094701785088/pu/vid/avc1/480x1066/ybqfoxuVN8IL8OEb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1949048094701785088/pu/vid/avc1/576x1280/EOU6VobBRwBkluWL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1949048094701785088/pu/pl/4PiOfqZlsRoPhA05.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949048188473864459",
+        "created_at": "2025-07-26T16:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T17:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949138828301635815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1778333206196137984",
+              "start": 0,
+              "username": "Charile1599521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949138828301635815",
+        "in_reply_to_user_id": "1778333206196137984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949048188473864459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charile1599521 我也好喜欢这首歌，有种不羁又在请求的感觉，但是你唱出来就有种青春期女孩在羞涩的表达心意的感觉，还蛮独特的🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1949048094701785088"
+          ]
+        },
+        "author_id": "1778333206196137984",
+        "conversation_id": "1949048188473864459",
+        "created_at": "2025-07-26T10:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T11:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949048188473864459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHOUrMUtkt",
+              "end": 45,
+              "expanded_url": "https://x.com/Charile1599521/status/1949048188473864459/video/1",
+              "media_key": "7_1949048094701785088",
+              "start": 22,
+              "url": "https://t.co/BHOUrMUtkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949048188473864459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最喜欢的一首歌 弹的比较烂玻璃心不许说我🥺 https://t.co/BHOUrMUtkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 155
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T08:04:23.000Z",
+        "description": "作息乱乱的人笨笨的意志淡淡的",
+        "id": "1778333206196137984",
+        "name": "💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870448072100331520/jDhaHTkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 63,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 910
+        },
+        "username": "Charile1599521",
+        "verified": false
+      }
+    ]
+  }
+}

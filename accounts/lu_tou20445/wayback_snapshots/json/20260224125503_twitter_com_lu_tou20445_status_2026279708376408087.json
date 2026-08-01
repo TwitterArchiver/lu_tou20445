@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T12:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026279708376408087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998992756774182913",
+          "start": 0,
+          "username": "Ab55419Mcdowell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026279708376408087",
+    "in_reply_to_user_id": "1998992756774182913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026279213834358976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ab55419Mcdowell 不止看起来爽，你知道的，一个能完全属于自己的空间是很棒的，我再补一句，看配菜可以不带耳机小玩具不用藏👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T12:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026279708376408087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998992756774182913",
+              "start": 0,
+              "username": "Ab55419Mcdowell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026279708376408087",
+        "in_reply_to_user_id": "1998992756774182913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026279213834358976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ab55419Mcdowell 不止看起来爽，你知道的，一个能完全属于自己的空间是很棒的，我再补一句，看配菜可以不带耳机小玩具不用藏👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998992756774182913",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T12:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026279213834358976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026279213834358976",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我去…看着好爽🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 70,
+          "like_count": 16687,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5009
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:47:34.000Z",
+        "description": "其实我真的很想做小狗/isfp/03/身高162/爱闲聊不找对象纯聊不聊感情不聊专业不聊未来不约不聊体重/问就是头像是本人/高p纯假/没有🚪≠什么人都聊，喜欢我可以背景图投喂喵喵喵我会很谢谢你👉🏻👈🏻and匿名问答↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ab55419mcdowell",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ab55419mcdowell",
+                "start": 0,
+                "url": "https://t.co/8ZCn0I0m2w"
+              }
+            ]
+          }
+        },
+        "id": "1998992756774182913",
+        "name": "我草莓招了",
+        "pinned_tweet_id": "2002655505664352466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010060405268459521/6EH1b8vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 199,
+          "like_count": 7746,
+          "listed_count": 4,
+          "media_count": 188,
+          "tweet_count": 5705
+        },
+        "url": "https://t.co/8ZCn0I0m2w",
+        "username": "Ab55419Mcdowell",
+        "verified": false
+      }
+    ]
+  }
+}

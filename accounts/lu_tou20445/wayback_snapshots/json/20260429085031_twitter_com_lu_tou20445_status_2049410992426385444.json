@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2049309847519367243",
+    "created_at": "2026-04-29T08:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049410992426385444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986701339628609536",
+          "start": 0,
+          "username": "yoyoOvO6June1"
+        },
+        {
+          "end": 30,
+          "id": "1530431494019162112",
+          "start": 15,
+          "username": "maomaohaocui11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049410992426385444",
+    "in_reply_to_user_id": "1986701339628609536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049380488335491563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyoOvO6June1 @maomaohaocui11 古娜拉本体吧可能，小月和严莉莉那种用法完全就是在侮辱这门魔法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2049309847519367243",
+        "created_at": "2026-04-29T08:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049410992426385444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986701339628609536",
+              "start": 0,
+              "username": "yoyoOvO6June1"
+            },
+            {
+              "end": 30,
+              "id": "1530431494019162112",
+              "start": 15,
+              "username": "maomaohaocui11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049410992426385444",
+        "in_reply_to_user_id": "1986701339628609536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049380488335491563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoOvO6June1 @maomaohaocui11 古娜拉本体吧可能，小月和严莉莉那种用法完全就是在侮辱这门魔法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986701339628609536",
+        "conversation_id": "2049309847519367243",
+        "created_at": "2026-04-29T06:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049380488335491563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530431494019162112",
+              "start": 0,
+              "username": "maomaohaocui11"
+            },
+            {
+              "end": 28,
+              "id": "1943288759778447360",
+              "start": 16,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049380488335491563",
+        "in_reply_to_user_id": "1530431494019162112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049380058650034564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaohaocui11 @lu_tou20445 天选黑魔仙啊哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 70,
+          "like_count": 20477,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 5765
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 回关眼熟的人 😋不礼貌的没有回复的义务 😈高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "id": "1986701339628609536",
+        "location": "serendipity 可是我觉得很神圣啊",
+        "name": "优乐美嘉",
+        "pinned_tweet_id": "2022331897742016774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046407947702718464/xkpI7dZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 484,
+          "like_count": 10748,
+          "listed_count": 2,
+          "media_count": 1054,
+          "tweet_count": 4910
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T06:11:25.000Z",
+        "description": "家人们我只是想看涩涩而已真的不想约炮啊给我发涩图！快发！",
+        "id": "1530431494019162112",
+        "name": "猫猫好脆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010951367188496386/OpMavxgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 1633,
+          "like_count": 27338,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 878
+        },
+        "username": "maomaohaocui11",
+        "verified": false
+      }
+    ]
+  }
+}

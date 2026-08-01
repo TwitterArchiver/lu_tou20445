@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953443732835230089",
+    "created_at": "2025-08-07T13:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T14:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953444954606289268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1641307347267256320",
+          "start": 0,
+          "username": "Infp1538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953444954606289268",
+    "in_reply_to_user_id": "1641307347267256320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953443732835230089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Infp1538 bgm《雨爱》起～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 960,
+        "media_key": "13_1953443642565353472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953443642565353472/img/VYeIKCinwOMKo7Wu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953443642565353472/vid/avc1/320x426/epsKkN-tXNzmfh1n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953443642565353472/vid/avc1/480x640/SX01Pg3NT_N2Jyl2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953443642565353472/vid/avc1/720x960/XP_3Q0jdNHxnphx5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953443642565353472/pl/FhhA_DdglNevh7bN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953443732835230089",
+        "created_at": "2025-08-07T13:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953444954606289268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1641307347267256320",
+              "start": 0,
+              "username": "Infp1538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953444954606289268",
+        "in_reply_to_user_id": "1641307347267256320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953443732835230089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Infp1538 bgm《雨爱》起～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953443642565353472"
+          ]
+        },
+        "author_id": "1641307347267256320",
+        "conversation_id": "1953443732835230089",
+        "created_at": "2025-08-07T13:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T14:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953443732835230089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vT7yL4S2xp",
+              "end": 35,
+              "expanded_url": "https://x.com/Infp1538/status/1953443732835230089/video/1",
+              "media_key": "13_1953443642565353472",
+              "start": 12,
+              "url": "https://t.co/vT7yL4S2xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953443732835230089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨下不停，我的思念也是 https://t.co/vT7yL4S2xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 38,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T05:12:28.000Z",
+        "description": "我来这里就干一件事 搞黄",
+        "id": "1641307347267256320",
+        "name": "酸酸甜甜大青蛙(孤独话唠版）",
+        "pinned_tweet_id": "1724441219332272208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953422995256713216/SLgfEGjc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 163,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 58
+        },
+        "username": "Infp1538",
+        "verified": false
+      }
+    ]
+  }
+}

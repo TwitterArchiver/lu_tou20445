@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1993516885573616103",
+    "created_at": "2025-11-26T07:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T08:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993586036308599101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1696051859545280512",
+          "start": 0,
+          "username": "Jll000219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993586036308599101",
+    "in_reply_to_user_id": "1696051859545280512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993516885573616103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jll000219 哦？还有高手，这个 x 最近到底更新了多少个版本，我右下角私信还在，但是语音条功能没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993516861510893574",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6plBgAbwAYbu5d.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1993516885573616103",
+        "created_at": "2025-11-26T07:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993586036308599101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1696051859545280512",
+              "start": 0,
+              "username": "Jll000219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993586036308599101",
+        "in_reply_to_user_id": "1696051859545280512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993516885573616103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jll000219 哦？还有高手，这个 x 最近到底更新了多少个版本，我右下角私信还在，但是语音条功能没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993516861510893574"
+          ]
+        },
+        "author_id": "1696051859545280512",
+        "conversation_id": "1993516885573616103",
+        "created_at": "2025-11-26T03:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993516885573616103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAHvZV1aci",
+              "end": 40,
+              "expanded_url": "https://x.com/Jll000219/status/1993516885573616103/photo/1",
+              "media_key": "3_1993516861510893574",
+              "start": 17,
+              "url": "https://t.co/sAHvZV1aci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993516885573616103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1022,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下次不许只在聊天通知了哦😡😡😡😡 https://t.co/sAHvZV1aci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 70,
+          "like_count": 9773,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2950
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:48:02.000Z",
+        "description": "丑逼死胖子减肥ing 点赞型推格（不会礼貌回关）",
+        "id": "1696051859545280512",
+        "name": "椰子瑞纳冰",
+        "pinned_tweet_id": "1939292003709440408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945820885983637504/Ty37mr0G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 173,
+          "like_count": 31153,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 8283
+        },
+        "username": "Jll000219",
+        "verified": false
+      }
+    ]
+  }
+}

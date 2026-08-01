@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957993491809857787",
+    "created_at": "2025-08-20T02:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T03:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957994894795911469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1440475580923727879",
+          "start": 0,
+          "username": "Olivia07300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957994894795911469",
+    "in_reply_to_user_id": "1440475580923727879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957993491809857787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olivia07300 九个，也带我一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5966,
+        "height": 1280,
+        "media_key": "13_1957993399010881536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957993399010881536/img/rTdRtg0idLtVcb9B.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957993399010881536/vid/avc1/320x568/eefrez8eLXEIizlS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957993399010881536/vid/avc1/480x852/p6TJK_bFutdarjL9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957993399010881536/vid/avc1/720x1280/kunhYlE7eg26wtRx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957993399010881536/pl/Fd643psm-Rl8pN01.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1957993398973132800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gywwn1pacAAJCFr.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 9931,
+        "height": 1280,
+        "media_key": "13_1957993398985740288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1957993398985740288/img/yZ1F9KTFBHYAzVIt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957993398985740288/vid/avc1/320x568/ifbtrTjvHdwV6xKS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957993398985740288/vid/avc1/480x852/7sZVCp-ydLavwITQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1957993398985740288/vid/avc1/720x1280/X8TfoGBL4qRVAIpj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1957993398985740288/pl/BFZ9GwJFg9wkbxuA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957993491809857787",
+        "created_at": "2025-08-20T02:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T03:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957994894795911469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1440475580923727879",
+              "start": 0,
+              "username": "Olivia07300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957994894795911469",
+        "in_reply_to_user_id": "1440475580923727879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957993491809857787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olivia07300 九个，也带我一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1957993399010881536",
+            "3_1957993398973132800",
+            "13_1957993398985740288"
+          ]
+        },
+        "author_id": "1440475580923727879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957993491809857787",
+        "created_at": "2025-08-20T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957993491809857787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ic4uL4jE2K",
+              "end": 38,
+              "expanded_url": "https://x.com/Olivia07300/status/1957993491809857787/video/1",
+              "media_key": "13_1957993399010881536",
+              "start": 15,
+              "url": "https://t.co/Ic4uL4jE2K"
+            },
+            {
+              "display_url": "pic.x.com/Ic4uL4jE2K",
+              "end": 38,
+              "expanded_url": "https://x.com/Olivia07300/status/1957993491809857787/video/1",
+              "media_key": "3_1957993398973132800",
+              "start": 15,
+              "url": "https://t.co/Ic4uL4jE2K"
+            },
+            {
+              "display_url": "pic.x.com/Ic4uL4jE2K",
+              "end": 38,
+              "expanded_url": "https://x.com/Olivia07300/status/1957993491809857787/video/1",
+              "media_key": "13_1957993398985740288",
+              "start": 15,
+              "url": "https://t.co/Ic4uL4jE2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957993491809857787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "备菜中\n今天要做七个人的伙食 https://t.co/Ic4uL4jE2K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 52,
+          "like_count": 877,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T00:38:46.000Z",
+        "description": "switch，bi，大奶大手臂追随者/长发肌肉卷毛眼镜男爱好者，电子日记本，失去弱点毫无畏惧的反派角色（2018年失去了我这辈子最爱的宝宝）能活一天算一天。人生理想是去香港东京奥兰多迪士尼，百老汇，环游世界，去巨人/jojo拍摄地。谢谢喜欢。🚪188/520/1314/5200，私信只回口令。",
+        "id": "1440475580923727879",
+        "location": "Asgard",
+        "name": "梦想和索尔洛基3p",
+        "pinned_tweet_id": "1896858033281728524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863062976397225984/y1TbFFh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35759,
+          "following_count": 346,
+          "like_count": 6350,
+          "listed_count": 122,
+          "media_count": 473,
+          "tweet_count": 4698
+        },
+        "username": "Olivia07300",
+        "verified": false
+      }
+    ]
+  }
+}

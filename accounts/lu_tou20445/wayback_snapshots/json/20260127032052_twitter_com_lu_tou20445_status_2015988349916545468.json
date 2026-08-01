@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2015985646628962659",
+    "created_at": "2026-01-27T03:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015988349916545468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante1077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015988349916545468",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015985646628962659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante1077 改下运行逻辑，先上去飞一圈再说，问起来就说代码缺陷让你测出来了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2015985646628962659",
+        "created_at": "2026-01-27T03:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015988349916545468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante1077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015988349916545468",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015985646628962659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante1077 改下运行逻辑，先上去飞一圈再说，问起来就说代码缺陷让你测出来了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217846927036837890",
+        "conversation_id": "2015985646628962659",
+        "created_at": "2026-01-27T03:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015985646628962659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015985646628962659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "leader：“刚接了个测试，只有你能干。”\n我：“啥nm车只有我能干啊？又想给我甩活是吧！”\nleader：“不是车，是直升机。”\n我：？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 71,
+          "like_count": 14707,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 4393
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "希望大家都能幸福，都可以天天开心！/男",
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1970792758362411145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014694859781898240/Z2SaUScq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3510,
+          "following_count": 174,
+          "like_count": 14977,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 1422
+        },
+        "username": "Andante1077",
+        "verified": false
+      }
+    ]
+  }
+}

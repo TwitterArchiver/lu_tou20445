@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2021258157394104326",
+    "created_at": "2026-02-11T16:06:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T17:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021616760756355257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1585240254042218499",
+          "start": 0,
+          "username": "X1707c99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021616760756355257",
+    "in_reply_to_user_id": "1585240254042218499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021615922943836564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X1707c99 叽里咕噜一大堆，假的也冲冲看！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2021258157394104326",
+        "created_at": "2026-02-11T16:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021616760756355257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1585240254042218499",
+              "start": 0,
+              "username": "X1707c99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021616760756355257",
+        "in_reply_to_user_id": "1585240254042218499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021615922943836564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X1707c99 叽里咕噜一大堆，假的也冲冲看！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585240254042218499",
+        "conversation_id": "2021258157394104326",
+        "created_at": "2026-02-11T16:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021615922943836564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021615922943836564",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021258157394104326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 只要不是假钞就不算上当！（钻入"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 71,
+          "like_count": 15722,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 4740
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T12:02:11.000Z",
+        "description": "CHN/ENG 不定时暴怒或搞笑，我什么都会看",
+        "id": "1585240254042218499",
+        "name": "CrOH⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771695503362678785/FbtWCDg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 40,
+          "like_count": 26185,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 7366
+        },
+        "username": "X1707c99",
+        "verified": false
+      }
+    ]
+  }
+}

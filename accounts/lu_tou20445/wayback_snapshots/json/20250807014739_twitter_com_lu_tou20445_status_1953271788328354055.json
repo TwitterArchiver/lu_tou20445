@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953271400539541974",
+    "created_at": "2025-08-07T01:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T02:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953271788328354055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1875000110016614401",
+          "start": 0,
+          "username": "yyhy73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953271788328354055",
+    "in_reply_to_user_id": "1875000110016614401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953271400539541974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyhy73 早年qq空间女神照吗🤔有点意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953271383300988928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxtp-WeXYAAnQbr.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953271400539541974",
+        "created_at": "2025-08-07T01:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T02:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953271788328354055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1875000110016614401",
+              "start": 0,
+              "username": "yyhy73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953271788328354055",
+        "in_reply_to_user_id": "1875000110016614401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953271400539541974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyhy73 早年qq空间女神照吗🤔有点意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953271383300988928"
+          ]
+        },
+        "author_id": "1875000110016614401",
+        "conversation_id": "1953271400539541974",
+        "created_at": "2025-08-07T01:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T02:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953271400539541974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z0M2FppWV4",
+              "end": 30,
+              "expanded_url": "https://x.com/yyhy73/status/1953271400539541974/photo/1",
+              "media_key": "3_1953271383300988928",
+              "start": 7,
+              "url": "https://t.co/Z0M2FppWV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953271400539541974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早年屌丝照🚬 https://t.co/Z0M2FppWV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 35,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T02:04:09.000Z",
+        "description": "一重山，两重山。山远天高岩水寒，相思枫叶丹。—————————————————————————文玩发烧友 喜欢喝点草莓牛奶 当朋友圈发的 来私信我一般都是秒回！（可以来试试☝🏻）isfp 但在网络上很吵 平时收到投喂会感谢 请来和鱼聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=fVVO78kL",
+                "start": 0,
+                "url": "https://t.co/6969djJzTd"
+              }
+            ]
+          }
+        },
+        "id": "1875000110016614401",
+        "location": "自用vpn",
+        "name": "鱼Yuu",
+        "pinned_tweet_id": "1952361070112469232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952726395198873600/60LRyDsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 88,
+          "like_count": 5078,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/6969djJzTd",
+        "username": "yyhy73",
+        "verified": false
+      }
+    ]
+  }
+}

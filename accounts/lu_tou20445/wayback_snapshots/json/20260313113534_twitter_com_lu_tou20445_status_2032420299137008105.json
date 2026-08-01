@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2032401133063565770",
+    "created_at": "2026-03-13T11:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T12:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032420299137008105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2026572990901792769",
+          "start": 0,
+          "username": "Jasmine__rain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032420299137008105",
+    "in_reply_to_user_id": "2026572990901792769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032419131652501804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasmine__rain 我的雾海已经玩了一段时间了，他们温变系列的变温后的颜色都很柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2032401133063565770",
+        "created_at": "2026-03-13T11:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032420299137008105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2026572990901792769",
+              "start": 0,
+              "username": "Jasmine__rain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032420299137008105",
+        "in_reply_to_user_id": "2026572990901792769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032419131652501804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasmine__rain 我的雾海已经玩了一段时间了，他们温变系列的变温后的颜色都很柔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026572990901792769",
+        "conversation_id": "2032401133063565770",
+        "created_at": "2026-03-13T11:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032419131652501804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032419131652501804",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032417605634707946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我买的这个是温变的^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 71,
+          "like_count": 18484,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 5420
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T08:21:00.000Z",
+        "description": "天秤 switch https://t.co/NoQ8pwsyCL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jasmine__rain",
+                "end": 33,
+                "expanded_url": "https://ngl.link/jasmine__rain",
+                "start": 10,
+                "url": "https://t.co/NoQ8pwsyCL"
+              }
+            ]
+          }
+        },
+        "id": "2026572990901792769",
+        "name": "我是一个焦焦的煎蛋",
+        "pinned_tweet_id": "2029520717788967027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026573446512304128/ZlMmC64k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 77,
+          "like_count": 1095,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 268
+        },
+        "username": "Jasmine__rain",
+        "verified": false
+      }
+    ]
+  }
+}

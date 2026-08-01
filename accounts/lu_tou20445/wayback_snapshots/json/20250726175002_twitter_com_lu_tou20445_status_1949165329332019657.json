@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949162734253412546",
+    "created_at": "2025-07-26T17:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T18:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949165329332019657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1885381283540590592",
+          "start": 0,
+          "username": "lychee_yi"
+        },
+        {
+          "end": 23,
+          "id": "1688397365336850432",
+          "start": 11,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949165329332019657",
+    "in_reply_to_user_id": "1885381283540590592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949164115148353930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lychee_yi @hongpigu980 拒绝虚无主义，多做一些不需要那么多规划为有成就感的消失，比如下个楼，买个水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-26T17:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949165329332019657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885381283540590592",
+              "start": 0,
+              "username": "lychee_yi"
+            },
+            {
+              "end": 23,
+              "id": "1688397365336850432",
+              "start": 11,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949165329332019657",
+        "in_reply_to_user_id": "1885381283540590592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949164115148353930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lychee_yi @hongpigu980 拒绝虚无主义，多做一些不需要那么多规划为有成就感的消失，比如下个楼，买个水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885381283540590592",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-26T17:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949164115148353930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949164115148353930",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949162734253412546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 感觉现在变得好淡了...啥都不太care了🥲年纪小的时候 会很早就买好票  然后做攻略 收行李！！现在p到可能出发前那个晚上才会开始收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 164
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T17:35:13.000Z",
+        "description": "只线上❗ 🔝🚪 先付款后➕好友！！！‖❗均不露脸‖已过验证‖先入🚪 后咨询其他服务",
+        "id": "1885381283540590592",
+        "location": "有事联系q:3685341920‖不闲聊 私信只回🚪",
+        "name": "荔枝宝宝",
+        "pinned_tweet_id": "1932832025431732651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921911944962809856/q5R6ku5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3635,
+          "following_count": 30,
+          "like_count": 126,
+          "listed_count": 13,
+          "media_count": 243,
+          "tweet_count": 968
+        },
+        "username": "lychee_yi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62477,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 58,
+          "media_count": 873,
+          "tweet_count": 1109
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956551023172243839",
+    "created_at": "2025-08-16T03:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T04:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956560423387336802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1952413892363407360",
+          "start": 0,
+          "username": "wo3576"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956560423387336802",
+    "in_reply_to_user_id": "1952413892363407360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956551023172243839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wo3576 像小海豹一样，太可爱了狗狗，我亲亲亲亲亲亲亲亲亲亲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956551009976885248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycQxv6aoAAkW6g.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956551023172243839",
+        "created_at": "2025-08-16T03:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956560423387336802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1952413892363407360",
+              "start": 0,
+              "username": "wo3576"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956560423387336802",
+        "in_reply_to_user_id": "1952413892363407360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956551023172243839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wo3576 像小海豹一样，太可爱了狗狗，我亲亲亲亲亲亲亲亲亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956551009976885248"
+          ]
+        },
+        "author_id": "1952413892363407360",
+        "conversation_id": "1956551023172243839",
+        "created_at": "2025-08-16T02:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T03:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956551023172243839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/puUIsQ4Rny",
+              "end": 34,
+              "expanded_url": "https://x.com/wo3576/status/1956551023172243839/photo/1",
+              "media_key": "3_1956551009976885248",
+              "start": 11,
+              "url": "https://t.co/puUIsQ4Rny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956551023172243839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "它好像知道自己很可爱 https://t.co/puUIsQ4Rny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T16:58:55.000Z",
+        "description": "此处专卖海风、鸥鸣和凉掉的薯条",
+        "id": "1952413892363407360",
+        "name": "无用码头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952414790812577792/zPXHg-G4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "wo3576",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2010572748708610293",
+    "created_at": "2026-01-12T07:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010611276653977952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1696051859545280512",
+          "start": 0,
+          "username": "Jll000219"
+        },
+        {
+          "end": 20,
+          "id": "1525341238223855616",
+          "start": 11,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010611276653977952",
+    "in_reply_to_user_id": "1696051859545280512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010609855665766892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jll000219 @zz160268 那还是太勉强了，我清汤大老爷来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2010572748708610293",
+        "created_at": "2026-01-12T07:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010611276653977952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1696051859545280512",
+              "start": 0,
+              "username": "Jll000219"
+            },
+            {
+              "end": 20,
+              "id": "1525341238223855616",
+              "start": 11,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010611276653977952",
+        "in_reply_to_user_id": "1696051859545280512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010609855665766892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jll000219 @zz160268 那还是太勉强了，我清汤大老爷来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696051859545280512",
+        "conversation_id": "2010572748708610293",
+        "created_at": "2026-01-12T07:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010609855665766892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 22,
+              "id": "1525341238223855616",
+              "start": 13,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010609855665766892",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010609478048317450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @zz160268 顺手你们仨一起欺负了！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 69,
+          "like_count": 14413,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 4159
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:48:02.000Z",
+        "description": "丑逼死胖子减肥ing 点赞型推格（到底什么时候改掉拖延症·正在怀疑自己性取向•每天都发很多话·用奥特曼头像是个女的女的不会礼貌回关）",
+        "id": "1696051859545280512",
+        "location": "烦死了 地球什么时候爆炸",
+        "name": "椰子瑞纳冰",
+        "pinned_tweet_id": "2006936361576837148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004384477364056064/KWHJqlHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 150,
+          "like_count": 39241,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 10075
+        },
+        "username": "Jll000219",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "倘若你只是过客 那向你索取太多 确实是我错了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/napgodzz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/napgodzz",
+                "start": 0,
+                "url": "https://t.co/SSYPt5cShE"
+              }
+            ]
+          }
+        },
+        "id": "1525341238223855616",
+        "location": "华夏古文明 山西好风光",
+        "name": "🛶",
+        "pinned_tweet_id": "1992176578818949628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 223,
+          "like_count": 32925,
+          "listed_count": 0,
+          "media_count": 767,
+          "tweet_count": 10794
+        },
+        "url": "https://t.co/SSYPt5cShE",
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963070626022985808",
+    "created_at": "2025-09-03T02:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T03:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963072531788923125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910238065576357888",
+          "start": 0,
+          "username": "tequ1la_sunsett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963072531788923125",
+    "in_reply_to_user_id": "1910238065576357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963072005441515749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tequ1la_sunsett 怎么会有人在巅峰时期还能一直往上走的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963070626022985808",
+        "created_at": "2025-09-03T02:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963072531788923125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910238065576357888",
+              "start": 0,
+              "username": "tequ1la_sunsett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963072531788923125",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963072005441515749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tequ1la_sunsett 怎么会有人在巅峰时期还能一直往上走的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910238065576357888",
+        "conversation_id": "1963070626022985808",
+        "created_at": "2025-09-03T02:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963072005441515749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963072005441515749",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963071683222524084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 摁，，拍照那年我18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 59,
+          "like_count": 2385,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 1489
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "Un jour je serai de retour près de toi.",
+        "id": "1910238065576357888",
+        "location": "Revachol",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1961483255095636147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953700372482338820/iw5KhKrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 144,
+          "like_count": 5672,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 3142
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      }
+    ]
+  }
+}

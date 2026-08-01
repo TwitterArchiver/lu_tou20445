@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2000736609633784119",
+    "created_at": "2025-12-16T05:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000805470798569655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3171352189",
+          "start": 0,
+          "username": "Yizhidahuahua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000805470798569655",
+    "in_reply_to_user_id": "3171352189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000796633626464441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yizhidahuahua 而且大家永远是各是各的版本👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2000736609633784119",
+        "created_at": "2025-12-16T05:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000805470798569655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3171352189",
+              "start": 0,
+              "username": "Yizhidahuahua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000805470798569655",
+        "in_reply_to_user_id": "3171352189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000796633626464441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yizhidahuahua 而且大家永远是各是各的版本👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3171352189",
+        "conversation_id": "2000736609633784119",
+        "created_at": "2025-12-16T05:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000796633626464441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000796633626464441",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000736609633784119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哈哈哈，真的是这样，这私信栏我每天打开都不一样…一会儿新版一会旧版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 69,
+          "like_count": 11569,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-24T21:33:52.000Z",
+        "description": "有主的🐱/sub/被缚/露出/什么都发/有🚪",
+        "id": "3171352189",
+        "name": "暗中观察.jpg",
+        "pinned_tweet_id": "1986450436367454330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941017718230020096/7CkOrOKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 176,
+          "like_count": 289,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 428
+        },
+        "username": "Yizhidahuahua",
+        "verified": false
+      }
+    ]
+  }
+}

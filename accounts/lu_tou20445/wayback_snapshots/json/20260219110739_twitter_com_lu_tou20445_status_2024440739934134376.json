@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2024024374693560828",
+    "created_at": "2026-02-19T11:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024440739934134376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979847665665056768",
+          "start": 0,
+          "username": "edyH1033651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024440739934134376",
+    "in_reply_to_user_id": "1979847665665056768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024376939704971565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@edyH1033651 有条件了试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2024024374693560828",
+        "created_at": "2026-02-19T11:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024440739934134376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979847665665056768",
+              "start": 0,
+              "username": "edyH1033651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024440739934134376",
+        "in_reply_to_user_id": "1979847665665056768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024376939704971565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edyH1033651 有条件了试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979847665665056768",
+        "conversation_id": "2024024374693560828",
+        "created_at": "2026-02-19T06:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024376939704971565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024376939704971565",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024024374693560828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 幸好今年过年我还在国外，主播要不然下次溜一下呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 68,
+          "like_count": 16168,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 4837
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T09:51:04.000Z",
+        "description": "要和真实且有趣的人交换心脏。\n再说一遍我没有积极",
+        "id": "1979847665665056768",
+        "name": "Jassica",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991215627764412416/raVqEa0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 112,
+          "like_count": 1857,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 91
+        },
+        "username": "edyH1033651",
+        "verified": false
+      }
+    ]
+  }
+}

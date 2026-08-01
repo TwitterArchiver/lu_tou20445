@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950557777937539423",
+    "created_at": "2025-07-31T01:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T02:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950738177469403553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939382739352141824",
+          "start": 0,
+          "username": "kun131012435822"
+        },
+        {
+          "end": 28,
+          "id": "1824339837283074048",
+          "start": 17,
+          "username": "xyhyc1201a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950738177469403553",
+    "in_reply_to_user_id": "1939382739352141824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950697489398730981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kun131012435822 @xyhyc1201a 只能说很幸运你们同时上主页推荐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950557777937539423",
+        "created_at": "2025-07-31T01:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T02:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950738177469403553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939382739352141824",
+              "start": 0,
+              "username": "kun131012435822"
+            },
+            {
+              "end": 28,
+              "id": "1824339837283074048",
+              "start": 17,
+              "username": "xyhyc1201a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950738177469403553",
+        "in_reply_to_user_id": "1939382739352141824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950697489398730981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kun131012435822 @xyhyc1201a 只能说很幸运你们同时上主页推荐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939382739352141824",
+        "conversation_id": "1950557777937539423",
+        "created_at": "2025-07-30T23:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T00:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950697489398730981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 24,
+              "id": "1824339837283074048",
+              "start": 13,
+              "username": "xyhyc1201a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950697489398730981",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950600972822257956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @xyhyc1201a 哈哈哈，社畜聊天是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 334
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T17:57:58.000Z",
+        "description": "entj,欢迎大家和我聊天，有啥可以跟我聊",
+        "id": "1939382739352141824",
+        "name": "k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946923812324507648/EAAuTf4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 51,
+          "like_count": 1096,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 243
+        },
+        "username": "kun131012435822",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T06:58:15.000Z",
+        "description": "这是一个简介 匿名是https://t.co/IGJR0kGd0J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xyhyc1201",
+                "end": 33,
+                "expanded_url": "https://ngl.link/xyhyc1201",
+                "start": 10,
+                "url": "https://t.co/IGJR0kGd0J"
+              }
+            ]
+          }
+        },
+        "id": "1824339837283074048",
+        "name": "我跟你说",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824339966710910976/U4gXYCTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 348,
+          "like_count": 11379,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 2262
+        },
+        "username": "xyhyc1201a",
+        "verified": false
+      }
+    ]
+  }
+}

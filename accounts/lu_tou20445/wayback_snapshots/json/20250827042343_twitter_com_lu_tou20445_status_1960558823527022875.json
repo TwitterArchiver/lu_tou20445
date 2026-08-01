@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959972984833147035",
+    "created_at": "2025-08-27T04:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T05:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960558823527022875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1642558972778676227",
+          "start": 0,
+          "username": "SwangSw48719998"
+        },
+        {
+          "end": 29,
+          "id": "1688397365336850432",
+          "start": 17,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960558823527022875",
+    "in_reply_to_user_id": "1642558972778676227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960551032062439531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SwangSw48719998 @hongpigu980 应该的，你能看懂就很好了🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959972984833147035",
+        "created_at": "2025-08-27T04:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T05:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960558823527022875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1642558972778676227",
+              "start": 0,
+              "username": "SwangSw48719998"
+            },
+            {
+              "end": 29,
+              "id": "1688397365336850432",
+              "start": 17,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960558823527022875",
+        "in_reply_to_user_id": "1642558972778676227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960551032062439531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SwangSw48719998 @hongpigu980 应该的，你能看懂就很好了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642558972778676227",
+        "conversation_id": "1959972984833147035",
+        "created_at": "2025-08-27T03:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T04:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960551032062439531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 25,
+              "id": "1688397365336850432",
+              "start": 13,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960551032062439531",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959977198305382675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @hongpigu980 你好会呀绿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 52,
+          "like_count": 1381,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1234
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T16:05:58.000Z",
+        "description": "",
+        "id": "1642558972778676227",
+        "name": "Wann",
+        "pinned_tweet_id": "1958884269209628698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769622867237285888/qyuR2qo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 107,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 830
+        },
+        "username": "SwangSw48719998",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1954880852925780106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71587,
+          "following_count": 59,
+          "like_count": 72,
+          "listed_count": 68,
+          "media_count": 1073,
+          "tweet_count": 1385
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

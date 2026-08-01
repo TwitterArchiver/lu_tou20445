@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2024441009376260284",
+    "created_at": "2026-02-21T07:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025112367198351476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511516081726582785",
+          "start": 0,
+          "username": "GreenLaffey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025112367198351476",
+    "in_reply_to_user_id": "1511516081726582785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024855376865456181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenLaffey 太多了拍不过来，反应过来的时候基本已经都炫完了，这是为数不多有理智的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2024441009376260284",
+        "created_at": "2026-02-21T07:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025112367198351476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511516081726582785",
+              "start": 0,
+              "username": "GreenLaffey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025112367198351476",
+        "in_reply_to_user_id": "1511516081726582785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024855376865456181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenLaffey 太多了拍不过来，反应过来的时候基本已经都炫完了，这是为数不多有理智的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511516081726582785",
+        "conversation_id": "2024441009376260284",
+        "created_at": "2026-02-20T14:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024855376865456181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024855376865456181",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024441009376260284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 面食狂热爱好者看的好馋…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 69,
+          "like_count": 16307,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4891
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T01:28:30.000Z",
+        "description": "大概是日记本\n泛性恋/infj/♑/brat/疑似BPD.\n私信没开/冷漠无情点赞人机←\n简介或言论令我感到很恶心会直接拉黑\n—2025.12.6和daddy恋爱ing——淡推——\n知你不满都好仍未能奉陪伴着你玩",
+        "id": "1511516081726582785",
+        "location": "树枝孤鸟",
+        "name": "晚沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020025129485627393/ylo1Lpjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 132,
+          "like_count": 7038,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 434
+        },
+        "username": "GreenLaffey",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2016859146348613893",
+    "created_at": "2026-01-29T17:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T18:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016921090522828935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610289819053330432",
+          "start": 0,
+          "username": "water_life147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016921090522828935",
+    "in_reply_to_user_id": "1610289819053330432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016917457471230371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@water_life147 诶嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-29T17:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016921090522828935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610289819053330432",
+              "start": 0,
+              "username": "water_life147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016921090522828935",
+        "in_reply_to_user_id": "1610289819053330432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016917457471230371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water_life147 诶嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610289819053330432",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-29T16:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016917457471230371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016917457471230371",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016859146348613893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 红油换成剁椒 应该好吃 已经在流口水了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 71,
+          "like_count": 14868,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 4432
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T15:00:04.000Z",
+        "description": "电子日记本🐶🐱🐰",
+        "id": "1610289819053330432",
+        "location": "不交朋友，不加微信",
+        "name": "米一兔物",
+        "pinned_tweet_id": "2010789039281225885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947578237930115073/8NL5Mqlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7700,
+          "following_count": 160,
+          "like_count": 10049,
+          "listed_count": 16,
+          "media_count": 1549,
+          "tweet_count": 17562
+        },
+        "username": "water_life147",
+        "verified": false
+      }
+    ]
+  }
+}

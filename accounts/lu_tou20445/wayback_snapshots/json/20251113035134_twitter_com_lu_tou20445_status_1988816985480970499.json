@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-13T03:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T04:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988816985480970499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "15356284",
+          "start": 0,
+          "username": "fisio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988816985480970499",
+    "in_reply_to_user_id": "15356284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988812895795441710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fisio 能猜到，但是正常逻辑来说，这个模糊算法帮助你纠正的备选项，是不是应该在第二位或者第三位合理一点呢🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-13T03:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988816985480970499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "15356284",
+              "start": 0,
+              "username": "fisio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988816985480970499",
+        "in_reply_to_user_id": "15356284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988812895795441710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fisio 能猜到，但是正常逻辑来说，这个模糊算法帮助你纠正的备选项，是不是应该在第二位或者第三位合理一点呢🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15356284",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-13T03:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T04:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988812895795441710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988812895795441710",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哈哈，人家的功能你管它叫bug\n为什么wokasile 会提示 wo masile, 因为km靠得近，用模糊算法，解决一些误按的问题而已。比如你按快了，bijg, 它也能猜到你想打 bing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 74,
+          "like_count": 8451,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 2670
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2008-07-08T18:15:43.000Z",
+        "description": "Bingo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fis.io",
+                "end": 23,
+                "expanded_url": "https://fis.io/",
+                "start": 0,
+                "url": "https://t.co/Kvt259YQ6C"
+              }
+            ]
+          }
+        },
+        "id": "15356284",
+        "location": "Shenyang",
+        "name": "fisio ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892384565169152000/uQqIxNQ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121537,
+          "following_count": 79,
+          "like_count": 0,
+          "listed_count": 186,
+          "media_count": 327,
+          "tweet_count": 14488
+        },
+        "url": "https://t.co/Kvt259YQ6C",
+        "username": "fisio",
+        "verified": false
+      }
+    ]
+  }
+}

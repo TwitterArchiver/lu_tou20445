@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1991759951342235743",
+    "created_at": "2025-11-21T17:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T18:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991919014302642667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1071766278182907904",
+          "start": 0,
+          "username": "_NightZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991919014302642667",
+    "in_reply_to_user_id": "1071766278182907904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991914951557185625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_NightZ 别急，我看房梁有点挑衅的意思，找根绳子跟它玩玩拔河"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1991759951342235743",
+        "created_at": "2025-11-21T17:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991919014302642667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1071766278182907904",
+              "start": 0,
+              "username": "_NightZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991919014302642667",
+        "in_reply_to_user_id": "1071766278182907904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991914951557185625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_NightZ 别急，我看房梁有点挑衅的意思，找根绳子跟它玩玩拔河"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071766278182907904",
+        "conversation_id": "1991759951342235743",
+        "created_at": "2025-11-21T17:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991914951557185625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991914951557185625",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991759951342235743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也没有我跳了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 70,
+          "like_count": 9340,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2817
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T13:59:27.000Z",
+        "description": "1i｜希望你天天开心｜很俗一男的别有滤镜｜爱看美女爱看黄的｜只给值得的人花钱｜不礼貌回关非熟人不加wx私信已关感谢关注",
+        "id": "1071766278182907904",
+        "name": "狡黠",
+        "pinned_tweet_id": "1968685056219578534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604870535913312256/lRCR1ST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7441,
+          "following_count": 82,
+          "like_count": 38835,
+          "listed_count": 14,
+          "media_count": 250,
+          "tweet_count": 7096
+        },
+        "username": "_NightZ",
+        "verified": false
+      }
+    ]
+  }
+}

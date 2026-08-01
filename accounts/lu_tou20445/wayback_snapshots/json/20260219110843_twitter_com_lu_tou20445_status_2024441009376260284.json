@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024440993333051392",
+        "3_2024440993353957376"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2024441009376260284",
+    "created_at": "2026-02-19T11:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024441009376260284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MvXIpthaeJ",
+          "end": 39,
+          "expanded_url": "https://x.com/lu_tou20445/status/2024441009376260284/photo/1",
+          "media_key": "3_2024440993333051392",
+          "start": 16,
+          "url": "https://t.co/MvXIpthaeJ"
+        },
+        {
+          "display_url": "pic.x.com/MvXIpthaeJ",
+          "end": 39,
+          "expanded_url": "https://x.com/lu_tou20445/status/2024441009376260284/photo/1",
+          "media_key": "3_2024440993353957376",
+          "start": 16,
+          "url": "https://t.co/MvXIpthaeJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024441009376260284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你切记，回了山西我没吃过一粒米 https://t.co/MvXIpthaeJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2024440993333051392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhCW4RbAAAEtjg.jpg",
+        "width": 1920
+      },
+      {
+        "height": 932,
+        "media_key": "3_2024440993353957376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhCW4WaAAAZQeZ.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024440993333051392",
+            "3_2024440993353957376"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2024441009376260284",
+        "created_at": "2026-02-19T11:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024441009376260284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvXIpthaeJ",
+              "end": 39,
+              "expanded_url": "https://x.com/lu_tou20445/status/2024441009376260284/photo/1",
+              "media_key": "3_2024440993333051392",
+              "start": 16,
+              "url": "https://t.co/MvXIpthaeJ"
+            },
+            {
+              "display_url": "pic.x.com/MvXIpthaeJ",
+              "end": 39,
+              "expanded_url": "https://x.com/lu_tou20445/status/2024441009376260284/photo/1",
+              "media_key": "3_2024440993353957376",
+              "start": 16,
+              "url": "https://t.co/MvXIpthaeJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024441009376260284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你切记，回了山西我没吃过一粒米 https://t.co/MvXIpthaeJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 68,
+          "like_count": 16168,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4838
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

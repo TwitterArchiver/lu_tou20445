@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955521880598909349",
+    "created_at": "2025-08-13T08:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T09:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955551803308941437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1923270887412989957",
+          "start": 0,
+          "username": "ly01_L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955551803308941437",
+    "in_reply_to_user_id": "1923270887412989957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955521880598909349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ly01_L 纯胡巴大王，没有一点多余的棱角，全是圆润"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_1955521876845006849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNoyUPaEAETT5u.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955521880598909349",
+        "created_at": "2025-08-13T08:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955551803308941437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1923270887412989957",
+              "start": 0,
+              "username": "ly01_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955551803308941437",
+        "in_reply_to_user_id": "1923270887412989957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955521880598909349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ly01_L 纯胡巴大王，没有一点多余的棱角，全是圆润"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955521876845006849"
+          ]
+        },
+        "author_id": "1923270887412989957",
+        "conversation_id": "1955521880598909349",
+        "created_at": "2025-08-13T06:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955521880598909349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uT4AsUqXPA",
+              "end": 34,
+              "expanded_url": "https://x.com/ly01_L/status/1955521880598909349/photo/1",
+              "media_key": "3_1955521876845006849",
+              "start": 11,
+              "url": "https://t.co/uT4AsUqXPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955521880598909349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人想来懂一下。 https://t.co/uT4AsUqXPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 40,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 741
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T06:55:02.000Z",
+        "description": "=澪翊/01(不是01年…)|水瓶座ISFJ|互关➕V私|互关私信(不是所有人都会回)|另一个我@LingyiX_X|不和除互关外闲聊|发🐔之前请先打钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "LingyiX_X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingyi73252",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingyi73252",
+                "start": 0,
+                "url": "https://t.co/L3ctRpj3wj"
+              }
+            ]
+          }
+        },
+        "id": "1923270887412989957",
+        "location": "🚪28.88纯绿纯圈（互关免来找我玩！），提问箱↓",
+        "name": "小翊",
+        "pinned_tweet_id": "1949329128416739728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951375336442314752/9BQvgiz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 191,
+          "like_count": 4427,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/L3ctRpj3wj",
+        "username": "ly01_L",
+        "verified": false
+      }
+    ]
+  }
+}

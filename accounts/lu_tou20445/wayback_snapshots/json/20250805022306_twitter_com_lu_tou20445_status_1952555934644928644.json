@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951889232353763641",
+    "created_at": "2025-08-05T02:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T03:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952555934644928644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924098812643364864",
+          "start": 0,
+          "username": "gunainai13"
+        },
+        {
+          "end": 24,
+          "id": "1534187424678498304",
+          "start": 12,
+          "username": "xihuanni030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952555934644928644",
+    "in_reply_to_user_id": "1924098812643364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952535147292876876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunainai13 @xihuanni030 摄像头贴手腕，手指弯一半，手腕朝下动手指"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951889232353763641",
+        "created_at": "2025-08-05T02:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T03:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952555934644928644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924098812643364864",
+              "start": 0,
+              "username": "gunainai13"
+            },
+            {
+              "end": 24,
+              "id": "1534187424678498304",
+              "start": 12,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952555934644928644",
+        "in_reply_to_user_id": "1924098812643364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952535147292876876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunainai13 @xihuanni030 摄像头贴手腕，手指弯一半，手腕朝下动手指"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924098812643364864",
+        "conversation_id": "1951889232353763641",
+        "created_at": "2025-08-05T01:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T02:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952535147292876876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1534187424678498304",
+              "start": 0,
+              "username": "xihuanni030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952535147292876876",
+        "in_reply_to_user_id": "1534187424678498304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951889232353763641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihuanni030 到底怎么弄的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:44:58.000Z",
+        "description": "这是一只被心选姐主动亲嘴后成功doi现在燃到睡不着的耐力菇……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8F%87%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8F%87%E8%80%90%E8%80%90",
+                "start": 0,
+                "url": "https://t.co/C8GCOEMhUZ"
+              }
+            ]
+          }
+        },
+        "id": "1924098812643364864",
+        "location": "北京",
+        "name": "菇耐耐（耐力很强的耐力菇",
+        "pinned_tweet_id": "1952039805732438260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945854997901742080/blj21c9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 176,
+          "like_count": 3270,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/C8GCOEMhUZ",
+        "username": "gunainai13",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-07T14:56:14.000Z",
+        "description": "私信只回复口令&礼貌宝宝｜brat｜isfp｜04-162-113 🎯90｜分享日常🧩&一些奇奇怪怪的想法💭｜提问👉 https://t.co/UlL9D1Kp4T｜喜欢我的话可以投喂我 让我去买自嘲熊吗｜🚪66/188/288/520｜主页置顶自辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/poeowo",
+                "end": 82,
+                "expanded_url": "http://ngl.link/poeowo",
+                "start": 59,
+                "url": "https://t.co/UlL9D1Kp4T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=Qtnpi4fi",
+                "start": 0,
+                "url": "https://t.co/d1WvOjRPNo"
+              }
+            ]
+          }
+        },
+        "id": "1534187424678498304",
+        "location": "自用蜂鸟vpn➡️",
+        "name": "糯米侠",
+        "pinned_tweet_id": "1945006720679584247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926636590253686784/y5qd0Lx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4912,
+          "following_count": 139,
+          "like_count": 2836,
+          "listed_count": 15,
+          "media_count": 60,
+          "tweet_count": 2688
+        },
+        "url": "https://t.co/d1WvOjRPNo",
+        "username": "xihuanni030",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2012428921875431483",
+    "created_at": "2026-01-17T09:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012452878649094584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484077799678050305",
+          "start": 0,
+          "username": "soaweerl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012452878649094584",
+    "in_reply_to_user_id": "1484077799678050305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012444204589326634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soaweerl 难道有错吗😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2012428921875431483",
+        "created_at": "2026-01-17T09:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012452878649094584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484077799678050305",
+              "start": 0,
+              "username": "soaweerl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012452878649094584",
+        "in_reply_to_user_id": "1484077799678050305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012444204589326634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soaweerl 难道有错吗😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484077799678050305",
+        "conversation_id": "2012428921875431483",
+        "created_at": "2026-01-17T08:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012444204589326634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012444204589326634",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012428921875431483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 退一万步说 我想做爱有错吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 69,
+          "like_count": 14157,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T08:18:22.000Z",
+        "description": "愿某天舒适长眠",
+        "id": "1484077799678050305",
+        "name": "衣姨",
+        "pinned_tweet_id": "1997927391096905822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994131038344511489/HBES4zLL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 192,
+          "like_count": 4543,
+          "listed_count": 0,
+          "media_count": 1142,
+          "tweet_count": 5702
+        },
+        "username": "soaweerl",
+        "verified": false
+      }
+    ]
+  }
+}

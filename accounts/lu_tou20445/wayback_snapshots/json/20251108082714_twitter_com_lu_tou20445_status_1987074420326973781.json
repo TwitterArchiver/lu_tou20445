@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1987073578098110682",
+    "created_at": "2025-11-08T08:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T09:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987074420326973781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910238065576357888",
+          "start": 0,
+          "username": "tequ1la_sunsett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987074420326973781",
+    "in_reply_to_user_id": "1910238065576357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987074238075859266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tequ1la_sunsett 那叫一个地地地地道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1987073578098110682",
+        "created_at": "2025-11-08T08:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987074420326973781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910238065576357888",
+              "start": 0,
+              "username": "tequ1la_sunsett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987074420326973781",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987074238075859266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tequ1la_sunsett 那叫一个地地地地道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910238065576357888",
+        "conversation_id": "1987073578098110682",
+        "created_at": "2025-11-08T08:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T09:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987074238075859266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987074238075859266",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987073578098110682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生豆汁配咸菜疙瘩再配焦圈一口下去直接死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 73,
+          "like_count": 7931,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 2483
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "在时间将其本质铸成日子之前，海，永恒之海，早已在此。",
+        "id": "1910238065576357888",
+        "location": "Revachol",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1957398908415406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953700372482338820/iw5KhKrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 159,
+          "like_count": 12382,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 5820
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      }
+    ]
+  }
+}

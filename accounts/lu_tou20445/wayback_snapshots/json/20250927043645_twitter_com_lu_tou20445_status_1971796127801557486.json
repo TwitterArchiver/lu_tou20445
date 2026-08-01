@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1971792613482377295",
+    "created_at": "2025-09-27T04:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T05:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971796127801557486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482923379438936064",
+          "start": 0,
+          "username": "qing_qing97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971796127801557486",
+    "in_reply_to_user_id": "1482923379438936064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971792613482377295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_qing97 要跟一点点锁死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971792608948375553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1027ksb0AEr8TE.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1971792613482377295",
+        "created_at": "2025-09-27T04:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971796127801557486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482923379438936064",
+              "start": 0,
+              "username": "qing_qing97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971796127801557486",
+        "in_reply_to_user_id": "1482923379438936064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971792613482377295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_qing97 要跟一点点锁死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971792608948375553"
+          ]
+        },
+        "author_id": "1482923379438936064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1971792613482377295",
+        "created_at": "2025-09-27T04:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971792613482377295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvn4vndaV2",
+              "end": 36,
+              "expanded_url": "https://x.com/qing_qing97/status/1971792613482377295/photo/1",
+              "media_key": "3_1971792608948375553",
+              "start": 13,
+              "url": "https://t.co/bvn4vndaV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971792613482377295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隆重介绍一下这是我的妻子 https://t.co/bvn4vndaV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 63,
+          "like_count": 5093,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T03:51:06.000Z",
+        "description": "(。•ω -)ε・ ｡)女宝的消息都会回，男的随缘",
+        "id": "1482923379438936064",
+        "name": "朝時飲露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936762977278984192/WjWcnBQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 116,
+          "like_count": 13902,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2196
+        },
+        "username": "qing_qing97",
+        "verified": false
+      }
+    ]
+  }
+}

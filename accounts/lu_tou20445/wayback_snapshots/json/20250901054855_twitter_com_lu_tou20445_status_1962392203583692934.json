@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962377753011143018",
+    "created_at": "2025-09-01T05:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962392203583692934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1598199054709637121",
+          "start": 0,
+          "username": "GnIRr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962392203583692934",
+    "in_reply_to_user_id": "1598199054709637121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962377753011143018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GnIRr_ 看到这句嘎嘣就死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_1962377745763356672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzvEKaNbUAAJ0sZ.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962377753011143018",
+        "created_at": "2025-09-01T05:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962392203583692934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1598199054709637121",
+              "start": 0,
+              "username": "GnIRr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962392203583692934",
+        "in_reply_to_user_id": "1598199054709637121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962377753011143018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GnIRr_ 看到这句嘎嘣就死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962377745763356672"
+          ]
+        },
+        "author_id": "1598199054709637121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962377753011143018",
+        "created_at": "2025-09-01T04:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T05:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962377753011143018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I71mjKxfpb",
+              "end": 28,
+              "expanded_url": "https://x.com/GnIRr_/status/1962377753011143018/photo/1",
+              "media_key": "3_1962377745763356672",
+              "start": 5,
+              "url": "https://t.co/I71mjKxfpb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962377753011143018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还活着吗 https://t.co/I71mjKxfpb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 58,
+          "like_count": 1949,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:16:21.000Z",
+        "description": "＞𐋣＜",
+        "id": "1598199054709637121",
+        "name": "早已泪",
+        "pinned_tweet_id": "1961491841129316793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942283943861968896/JkWrUTFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 849,
+          "like_count": 363,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 669
+        },
+        "username": "GnIRr_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2068363734138204371",
+    "created_at": "2026-06-21T02:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068527911326691352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068527911326691352",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068363734138204371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 依旧一眼国际巨星"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068363727142035456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRN2eaaoAALUOm.jpg",
+        "width": 1342
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068363727142113280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRN2eab0AA_ywc.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2068363734138204371",
+        "created_at": "2026-06-21T02:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068527911326691352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068527911326691352",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068363734138204371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 依旧一眼国际巨星"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068363727142035456",
+            "3_2068363727142113280"
+          ]
+        },
+        "author_id": "757578278320300032",
+        "conversation_id": "2068363734138204371",
+        "created_at": "2026-06-20T16:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068363734138204371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjEdsARxsF",
+              "end": 54,
+              "expanded_url": "https://x.com/trpaomo/status/2068363734138204371/photo/1",
+              "media_key": "3_2068363727142035456",
+              "start": 31,
+              "url": "https://t.co/CjEdsARxsF"
+            },
+            {
+              "display_url": "pic.x.com/CjEdsARxsF",
+              "end": 54,
+              "expanded_url": "https://x.com/trpaomo/status/2068363734138204371/photo/1",
+              "media_key": "3_2068363727142113280",
+              "start": 31,
+              "url": "https://t.co/CjEdsARxsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068363734138204371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3570,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧是老图充数✌🏾\n实则是今年状态没去年好，懒得打扮拍照了🥲 https://t.co/CjEdsARxsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 70,
+          "like_count": 21676,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 6191
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁 \n万事不为我所有 皆为我所用\n不约不礼貌回 只跟互关聊天",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "2029865212401344606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064870139259170816/-U0jMB_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 324,
+          "like_count": 26056,
+          "listed_count": 8,
+          "media_count": 1208,
+          "tweet_count": 8660
+        },
+        "url": "",
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

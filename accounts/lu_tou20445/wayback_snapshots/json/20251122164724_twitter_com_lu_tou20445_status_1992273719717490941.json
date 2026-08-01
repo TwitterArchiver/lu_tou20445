@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1992272487007363245",
+    "created_at": "2025-11-22T16:47:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T17:47:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992273719717490941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610289819053330432",
+          "start": 0,
+          "username": "water_life147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992273719717490941",
+    "in_reply_to_user_id": "1610289819053330432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992273308147159048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@water_life147 能听懂是底气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1992272487007363245",
+        "created_at": "2025-11-22T16:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992273719717490941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610289819053330432",
+              "start": 0,
+              "username": "water_life147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992273719717490941",
+        "in_reply_to_user_id": "1610289819053330432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992273308147159048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water_life147 能听懂是底气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610289819053330432",
+        "conversation_id": "1992272487007363245",
+        "created_at": "2025-11-22T16:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992273308147159048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992273308147159048",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992272487007363245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也听得懂 但我没这么多心眼要去说一语双关的话😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 70,
+          "like_count": 9425,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 2847
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T15:00:04.000Z",
+        "description": "电子日记本🐶🐱🐰│永远喜欢蓝天白云绿树│我都翻墙了就一定要发些不为人知的东西",
+        "id": "1610289819053330432",
+        "location": "🚪520",
+        "name": "米一兔物",
+        "pinned_tweet_id": "1986345887371846062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947578237930115073/8NL5Mqlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7907,
+          "following_count": 169,
+          "like_count": 9752,
+          "listed_count": 17,
+          "media_count": 1541,
+          "tweet_count": 17130
+        },
+        "username": "water_life147",
+        "verified": false
+      }
+    ]
+  }
+}

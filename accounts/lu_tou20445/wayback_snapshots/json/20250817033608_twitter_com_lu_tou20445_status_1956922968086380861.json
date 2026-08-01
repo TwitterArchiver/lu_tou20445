@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956583707474792938",
+    "created_at": "2025-08-17T03:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956922968086380861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        },
+        {
+          "end": 21,
+          "id": "1555072803992350721",
+          "start": 10,
+          "username": "kittyx0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956922968086380861",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956922680713576738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo @kittyx0811 听起来怎么又好又不好的，那岂不是我发癫我的关注们都能看到了，oh god damn🫨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956583707474792938",
+        "created_at": "2025-08-17T03:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956922968086380861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            },
+            {
+              "end": 21,
+              "id": "1555072803992350721",
+              "start": 10,
+              "username": "kittyx0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956922968086380861",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956922680713576738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo @kittyx0811 听起来怎么又好又不好的，那岂不是我发癫我的关注们都能看到了，oh god damn🫨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904949484783841280",
+        "conversation_id": "1956583707474792938",
+        "created_at": "2025-08-17T03:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956922680713576738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 24,
+              "id": "1555072803992350721",
+              "start": 13,
+              "username": "kittyx0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956922680713576738",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956922520621519199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @kittyx0811 因为主页会刷到你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 47,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 935
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "🤗请叫我腐竹，谢谢你们喜欢我，也很荣幸能给小宝们带来快乐，但台本中的角色终究不是我🫶请对我祛魅😌。\n小号只过互关谢谢理解 @fuzhuyami\n(po一下属性185/75.30/14.2，1iswitch＞4i）\n欢迎提问👉 https://t.co/WL2eFEMxbr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "fuzhuyami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 136,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 113,
+                "url": "https://t.co/WL2eFEMxbr"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "🤗腐竹",
+        "pinned_tweet_id": "1956640690886300061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950605247543648258/A1Q2bvKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 2,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1469
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T06:07:15.000Z",
+        "description": "。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kittyx0811",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kittyx0811",
+                "start": 0,
+                "url": "https://t.co/aBb4IYmP3q"
+              }
+            ]
+          }
+        },
+        "id": "1555072803992350721",
+        "location": "。。",
+        "name": "xxrain",
+        "pinned_tweet_id": "1956413656817860986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945065573831897088/xQBu_UP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49239,
+          "following_count": 45,
+          "like_count": 2008,
+          "listed_count": 128,
+          "media_count": 95,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/aBb4IYmP3q",
+        "username": "kittyx0811",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2036138634710229444",
+    "created_at": "2026-03-24T01:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T02:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036260473960890409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1535592955758759936",
+          "start": 0,
+          "username": "ningmen61121106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036260473960890409",
+    "in_reply_to_user_id": "1535592955758759936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036255483569512837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningmen61121106 我刚说服自己我只要一个就够了，那不行，我也要俩😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2036138634710229444",
+        "created_at": "2026-03-24T01:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036260473960890409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1535592955758759936",
+              "start": 0,
+              "username": "ningmen61121106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036260473960890409",
+        "in_reply_to_user_id": "1535592955758759936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036255483569512837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmen61121106 我刚说服自己我只要一个就够了，那不行，我也要俩😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535592955758759936",
+        "conversation_id": "2036138634710229444",
+        "created_at": "2026-03-24T01:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T02:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036255483569512837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036255483569512837",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036138634710229444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 两个都想要😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 72,
+          "like_count": 19116,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 5557
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T12:01:16.000Z",
+        "description": "桃李春风一杯酒，江湖夜雨十年灯\n有猫无狗/有对象/喜欢腹肌胸肌/偶尔健身/拖延症/很宅😢/私信都会回😋请和我聊天",
+        "id": "1535592955758759936",
+        "location": "California, USA",
+        "name": "想喝茶百道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990413393480880128/R_AQwfvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 233,
+          "like_count": 668,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 287
+        },
+        "username": "ningmen61121106",
+        "verified": false
+      }
+    ]
+  }
+}

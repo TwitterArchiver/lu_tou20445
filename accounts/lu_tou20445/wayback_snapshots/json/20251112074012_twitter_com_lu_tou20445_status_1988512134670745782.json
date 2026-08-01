@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T07:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988512134670745782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1800804511122071552",
+          "start": 0,
+          "username": "Enan0820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988512134670745782",
+    "in_reply_to_user_id": "1800804511122071552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988501771317104744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Enan0820 谢谢你现身说法"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_1988501761489854464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iT0QjXYAA6BpD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T07:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988512134670745782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1800804511122071552",
+              "start": 0,
+              "username": "Enan0820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988512134670745782",
+        "in_reply_to_user_id": "1800804511122071552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988501771317104744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Enan0820 谢谢你现身说法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988501761489854464"
+          ]
+        },
+        "author_id": "1800804511122071552",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T06:59:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:59:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988501771317104744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5MnLLUAWV",
+              "end": 67,
+              "expanded_url": "https://x.com/Enan0820/status/1988501771317104744/photo/1",
+              "media_key": "3_1988501761489854464",
+              "start": 44,
+              "url": "https://t.co/g5MnLLUAWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988501771317104744",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这是我的苹果键盘打字最准确的一次，精确度达到了惊人的百分之零 https://t.co/g5MnLLUAWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 73,
+          "like_count": 8219,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2598
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T08:17:18.000Z",
+        "description": "。°☆(＞𐋣＜)☆°。",
+        "id": "1800804511122071552",
+        "location": "有🚪",
+        "name": "嘟嘟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953454634426568704/JDs0qkJV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 27,
+          "like_count": 101,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 169
+        },
+        "username": "Enan0820",
+        "verified": false
+      }
+    ]
+  }
+}

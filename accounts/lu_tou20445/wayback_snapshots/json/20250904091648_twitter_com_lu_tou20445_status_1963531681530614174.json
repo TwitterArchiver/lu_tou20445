@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963515231210246320",
+    "created_at": "2025-09-04T09:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T10:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963531681530614174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647926893226885122",
+          "start": 0,
+          "username": "moliren8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963531681530614174",
+    "in_reply_to_user_id": "1647926893226885122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963531480459874555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moliren8848 哦，你是说那个开大变色盲的新英雄吗🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963515231210246320",
+        "created_at": "2025-09-04T09:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963531681530614174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647926893226885122",
+              "start": 0,
+              "username": "moliren8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963531681530614174",
+        "in_reply_to_user_id": "1647926893226885122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963531480459874555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moliren8848 哦，你是说那个开大变色盲的新英雄吗🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647926893226885122",
+        "conversation_id": "1963515231210246320",
+        "created_at": "2025-09-04T09:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T10:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963531480459874555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963531480459874555",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963528220101546291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 众神之父赐予我到地！！！，我是布洛陀亨德尔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 62,
+          "like_count": 2597,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T11:36:10.000Z",
+        "description": "养诸多动物系和植物系宝可梦的路人",
+        "id": "1647926893226885122",
+        "location": "上海",
+        "name": "陌子酒",
+        "pinned_tweet_id": "1958159111251804173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876304286511996932/AYEywmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 136,
+          "like_count": 1751,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1439
+        },
+        "username": "moliren8848",
+        "verified": false
+      }
+    ]
+  }
+}

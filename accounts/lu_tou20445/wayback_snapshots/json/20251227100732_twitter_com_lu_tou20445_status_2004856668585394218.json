@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004520343982231700",
+    "created_at": "2025-12-27T10:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T11:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004856668585394218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1801918094354563072",
+          "start": 0,
+          "username": "l1470938125744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004856668585394218",
+    "in_reply_to_user_id": "1801918094354563072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004855262600200255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l1470938125744 蹭完往后一躺长呼一口气，这辈子也就这样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-27T10:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004856668585394218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1801918094354563072",
+              "start": 0,
+              "username": "l1470938125744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004856668585394218",
+        "in_reply_to_user_id": "1801918094354563072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004855262600200255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l1470938125744 蹭完往后一躺长呼一口气，这辈子也就这样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801918094354563072",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-27T10:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004855262600200255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004855262600200255",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004520343982231700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 超得劲…我还喜欢找块布料用脸往上蹭 蹭完感觉人生都美了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 72,
+          "like_count": 12750,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 3680
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T10:02:33.000Z",
+        "description": "乱发",
+        "id": "1801918094354563072",
+        "name": "死也要死在我身边",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947682939829161988/n4WMqQb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 113,
+          "like_count": 377,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 162
+        },
+        "username": "l1470938125744",
+        "verified": false
+      }
+    ]
+  }
+}

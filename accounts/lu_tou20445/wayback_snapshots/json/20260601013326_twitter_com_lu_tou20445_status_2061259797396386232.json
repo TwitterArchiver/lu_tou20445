@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2060676645263200296",
+    "created_at": "2026-06-01T01:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061259797396386232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955333820166672384",
+          "start": 0,
+          "username": "wen_391287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061259797396386232",
+    "in_reply_to_user_id": "1955333820166672384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061236496103850267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wen_391287 神秘的东方力量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2060676645263200296",
+        "created_at": "2026-06-01T01:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061259797396386232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955333820166672384",
+              "start": 0,
+              "username": "wen_391287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061259797396386232",
+        "in_reply_to_user_id": "1955333820166672384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061236496103850267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wen_391287 神秘的东方力量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955333820166672384",
+        "conversation_id": "2060676645263200296",
+        "created_at": "2026-06-01T00:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061236496103850267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061236496103850267",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060676645263200296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 绿老头你到底是何方神圣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 69,
+          "like_count": 21138,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6004
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T18:21:37.000Z",
+        "description": "只动嘴解决不了任何问题谢谢",
+        "id": "1955333820166672384",
+        "location": "夢裡",
+        "name": "碳酸吻",
+        "pinned_tweet_id": "1960720259209412853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985977385104392193/ZcvNzMvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 475
+        },
+        "username": "wen_391287",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2055971477791682821",
+    "created_at": "2026-05-18T08:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056290536739504579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045008457687015424",
+          "start": 0,
+          "username": "Miyup01e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056290536739504579",
+    "in_reply_to_user_id": "2045008457687015424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055971477791682821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyup01e 感觉第一个盘子盛份翠绿的空心菜，第二个碗盛满菌菇汤，第三个放满水果，第四个杯子里泡杯热茶，都会加倍美味！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17533,
+        "height": 1280,
+        "media_key": "13_2055971411689414656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055971411689414656/img/wYpAUCTCwKWJ3waK.jpg",
+        "public_metrics": {
+          "view_count": 124
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055971411689414656/vid/avc1/320x568/Luq6sIXfuQYyMw6y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055971411689414656/vid/avc1/480x852/ag32SwC74eSg0vSw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055971411689414656/vid/avc1/720x1280/RH7jE6oxuYPtU5xc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055971411689414656/pl/wOXTsajl7q-bySx8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2055971477791682821",
+        "created_at": "2026-05-18T08:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056290536739504579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045008457687015424",
+              "start": 0,
+              "username": "Miyup01e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056290536739504579",
+        "in_reply_to_user_id": "2045008457687015424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055971477791682821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyup01e 感觉第一个盘子盛份翠绿的空心菜，第二个碗盛满菌菇汤，第三个放满水果，第四个杯子里泡杯热茶，都会加倍美味！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055971411689414656"
+          ]
+        },
+        "author_id": "2045008457687015424",
+        "conversation_id": "2055971477791682821",
+        "created_at": "2026-05-17T11:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055971477791682821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IlbXYVYuO",
+              "end": 32,
+              "expanded_url": "https://x.com/Miyup01e/status/2055971477791682821/video/1",
+              "media_key": "13_2055971411689414656",
+              "start": 9,
+              "url": "https://t.co/5IlbXYVYuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055971477791682821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 461,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示我的丑丑餐具 https://t.co/5IlbXYVYuO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 70,
+          "like_count": 20807,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 5881
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T05:18:10.000Z",
+        "description": "走马敕勒川",
+        "id": "2045008457687015424",
+        "location": "Revachol",
+        "name": "夜宿河床",
+        "pinned_tweet_id": "2045050151937663137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196152328749056/6vdcxgRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 49,
+          "like_count": 411,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 176
+        },
+        "username": "Miyup01e",
+        "verified": false
+      }
+    ]
+  }
+}

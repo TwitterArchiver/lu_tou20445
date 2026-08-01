@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2028307639390847358",
+    "created_at": "2026-03-02T03:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T04:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028311487174074771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1541046008561504258",
+          "start": 0,
+          "username": "yuqizi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028311487174074771",
+    "in_reply_to_user_id": "1541046008561504258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028307639390847358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqizi_ 好饭，有种自己的 xp 设定全都成真了的感觉，写得好啊老师👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2028307630624575488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX_CyqXkAABJJ-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028307632860098560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX_C6_W8AAxk4_.jpg",
+        "width": 961
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028307635770892288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX_DF1WIAAUrf-.jpg",
+        "width": 961
+      },
+      {
+        "height": 853,
+        "media_key": "3_2028307635955773440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCX_DGhbMAA7CRQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2028307639390847358",
+        "created_at": "2026-03-02T03:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028311487174074771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1541046008561504258",
+              "start": 0,
+              "username": "yuqizi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028311487174074771",
+        "in_reply_to_user_id": "1541046008561504258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028307639390847358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqizi_ 好饭，有种自己的 xp 设定全都成真了的感觉，写得好啊老师👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028307630624575488",
+            "3_2028307632860098560",
+            "3_2028307635770892288",
+            "3_2028307635955773440"
+          ]
+        },
+        "author_id": "1541046008561504258",
+        "conversation_id": "2028307639390847358",
+        "created_at": "2026-03-02T03:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028307639390847358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "怪马"
+            },
+            {
+              "end": 86,
+              "start": 75,
+              "tag": "tfcpierrot"
+            },
+            {
+              "end": 102,
+              "start": 87,
+              "tag": "thefreakcircus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIKM4ibZa9",
+              "end": 126,
+              "expanded_url": "https://x.com/yuqizi_/status/2028307639390847358/photo/1",
+              "media_key": "3_2028307630624575488",
+              "start": 103,
+              "url": "https://t.co/AIKM4ibZa9"
+            },
+            {
+              "display_url": "pic.x.com/AIKM4ibZa9",
+              "end": 126,
+              "expanded_url": "https://x.com/yuqizi_/status/2028307639390847358/photo/1",
+              "media_key": "3_2028307632860098560",
+              "start": 103,
+              "url": "https://t.co/AIKM4ibZa9"
+            },
+            {
+              "display_url": "pic.x.com/AIKM4ibZa9",
+              "end": 126,
+              "expanded_url": "https://x.com/yuqizi_/status/2028307639390847358/photo/1",
+              "media_key": "3_2028307635770892288",
+              "start": 103,
+              "url": "https://t.co/AIKM4ibZa9"
+            },
+            {
+              "display_url": "pic.x.com/AIKM4ibZa9",
+              "end": 126,
+              "expanded_url": "https://x.com/yuqizi_/status/2028307639390847358/photo/1",
+              "media_key": "3_2028307635955773440",
+              "start": 103,
+              "url": "https://t.co/AIKM4ibZa9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028307639390847358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pierrot纯肉向🔞（包含指奸+👅交）\nY/N(你)×pierrot\n👅动作指导：绿老头\nooc致歉文笔烂也一并致歉（or2给大家磕一个）\n#怪马 #tfcpierrot #thefreakcircus https://t.co/AIKM4ibZa9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 72,
+          "like_count": 17453,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 5199
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-26T13:09:52.000Z",
+        "description": "代号鸢已退游，感觉找不到以前的创作激情了（）最近在玩怪马，哼哼哼愉悦烹饪中😋",
+        "id": "1541046008561504258",
+        "location": "自由之嘟",
+        "name": "麻麻说我是饭桶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742668643299647488/bQUqcvou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 134,
+          "like_count": 2175,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 528
+        },
+        "username": "yuqizi_",
+        "verified": false
+      }
+    ]
+  }
+}

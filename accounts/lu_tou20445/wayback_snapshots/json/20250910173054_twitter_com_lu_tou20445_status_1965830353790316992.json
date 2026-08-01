@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1965823313776882027",
+    "created_at": "2025-09-10T17:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T18:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965830353790316992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1598199054709637121",
+          "start": 0,
+          "username": "GnIRr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965830353790316992",
+    "in_reply_to_user_id": "1598199054709637121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965823313776882027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GnIRr_ 火锅鸡梦女又在展示她诱人的火锅鸡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965823291614179334",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gB3kvaMAYTjzM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965823291572277248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gB3kla0AAA1rk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965823291563835392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gB3kjaAAA3yYO.jpg",
+        "width": 1534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965823291593195520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gB3kqaAAAYrwg.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1965823313776882027",
+        "created_at": "2025-09-10T17:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T18:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965830353790316992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1598199054709637121",
+              "start": 0,
+              "username": "GnIRr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965830353790316992",
+        "in_reply_to_user_id": "1598199054709637121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965823313776882027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GnIRr_ 火锅鸡梦女又在展示她诱人的火锅鸡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965823291614179334",
+            "3_1965823291572277248",
+            "3_1965823291563835392",
+            "3_1965823291593195520"
+          ]
+        },
+        "author_id": "1598199054709637121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1965823313776882027",
+        "created_at": "2025-09-10T17:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T18:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965823313776882027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sXiGl9Bn1",
+              "end": 88,
+              "expanded_url": "https://x.com/GnIRr_/status/1965823313776882027/photo/1",
+              "media_key": "3_1965823291614179334",
+              "start": 65,
+              "url": "https://t.co/4sXiGl9Bn1"
+            },
+            {
+              "display_url": "pic.x.com/4sXiGl9Bn1",
+              "end": 88,
+              "expanded_url": "https://x.com/GnIRr_/status/1965823313776882027/photo/1",
+              "media_key": "3_1965823291572277248",
+              "start": 65,
+              "url": "https://t.co/4sXiGl9Bn1"
+            },
+            {
+              "display_url": "pic.x.com/4sXiGl9Bn1",
+              "end": 88,
+              "expanded_url": "https://x.com/GnIRr_/status/1965823313776882027/photo/1",
+              "media_key": "3_1965823291563835392",
+              "start": 65,
+              "url": "https://t.co/4sXiGl9Bn1"
+            },
+            {
+              "display_url": "pic.x.com/4sXiGl9Bn1",
+              "end": 88,
+              "expanded_url": "https://x.com/GnIRr_/status/1965823313776882027/photo/1",
+              "media_key": "3_1965823291593195520",
+              "start": 65,
+              "url": "https://t.co/4sXiGl9Bn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965823313776882027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "教师节我妈和我诡秘过节\n我一个游手好闲的跟着吃吃吃\n火锅鸡要吃完了披萨才到 而且是榴莲披萨我俩太有素质了没在店里吃 跑河边吃去了 https://t.co/4sXiGl9Bn1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 66,
+          "like_count": 3518,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:16:21.000Z",
+        "description": "我是不会流眼泪的",
+        "id": "1598199054709637121",
+        "name": "早已泪",
+        "pinned_tweet_id": "1961491841129316793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942283943861968896/JkWrUTFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 849,
+          "like_count": 594,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 827
+        },
+        "username": "GnIRr_",
+        "verified": false
+      }
+    ]
+  }
+}

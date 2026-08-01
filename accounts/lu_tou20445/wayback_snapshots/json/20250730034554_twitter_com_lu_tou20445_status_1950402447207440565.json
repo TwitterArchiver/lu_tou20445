@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950398015040106853",
+    "created_at": "2025-07-30T03:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T04:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950402447207440565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1846508619858354176",
+          "start": 0,
+          "username": "Yan_u33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950402447207440565",
+    "in_reply_to_user_id": "1846508619858354176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950398015040106853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_u33 额贼，香拽咧给额"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3472,
+        "media_key": "3_1950398000024735744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxE0pbobUAAB_bU.jpg",
+        "width": 3472
+      },
+      {
+        "height": 3472,
+        "media_key": "3_1950398003619233792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxE0ppBbAAA9jHZ.jpg",
+        "width": 3472
+      },
+      {
+        "height": 3472,
+        "media_key": "3_1950398003426328576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxE0poTbgAAb_er.jpg",
+        "width": 3472
+      },
+      {
+        "height": 3472,
+        "media_key": "3_1950398006941097984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxE0p1ZaoAAzr07.jpg",
+        "width": 3472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950398015040106853",
+        "created_at": "2025-07-30T03:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950402447207440565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1846508619858354176",
+              "start": 0,
+              "username": "Yan_u33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950402447207440565",
+        "in_reply_to_user_id": "1846508619858354176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950398015040106853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_u33 额贼，香拽咧给额"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950398000024735744",
+            "3_1950398003619233792",
+            "3_1950398003426328576",
+            "3_1950398006941097984"
+          ]
+        },
+        "author_id": "1846508619858354176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1950398015040106853",
+        "created_at": "2025-07-30T03:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950398015040106853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRqCLKS7Rt",
+              "end": 48,
+              "expanded_url": "https://x.com/Yan_u33/status/1950398015040106853/photo/1",
+              "media_key": "3_1950398000024735744",
+              "start": 25,
+              "url": "https://t.co/GRqCLKS7Rt"
+            },
+            {
+              "display_url": "pic.x.com/GRqCLKS7Rt",
+              "end": 48,
+              "expanded_url": "https://x.com/Yan_u33/status/1950398015040106853/photo/1",
+              "media_key": "3_1950398003619233792",
+              "start": 25,
+              "url": "https://t.co/GRqCLKS7Rt"
+            },
+            {
+              "display_url": "pic.x.com/GRqCLKS7Rt",
+              "end": 48,
+              "expanded_url": "https://x.com/Yan_u33/status/1950398015040106853/photo/1",
+              "media_key": "3_1950398003426328576",
+              "start": 25,
+              "url": "https://t.co/GRqCLKS7Rt"
+            },
+            {
+              "display_url": "pic.x.com/GRqCLKS7Rt",
+              "end": 48,
+              "expanded_url": "https://x.com/Yan_u33/status/1950398015040106853/photo/1",
+              "media_key": "3_1950398006941097984",
+              "start": 25,
+              "url": "https://t.co/GRqCLKS7Rt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950398015040106853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2合一🤤油泼面魏家凉皮还有菠菜面!!!!!!!! https://t.co/GRqCLKS7Rt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T11:09:11.000Z",
+        "description": "esfp 快乐天蝎小狗 吐槽信箱/树洞🥺🥺\nSwitch\n叫我不厌/小厌/都可以!!!!\nhttps://t.co/AGb8KiwxEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan_u332",
+                "end": 68,
+                "expanded_url": "https://ngl.link/yan_u332",
+                "start": 45,
+                "url": "https://t.co/AGb8KiwxEU"
+              }
+            ]
+          }
+        },
+        "id": "1846508619858354176",
+        "name": "不厌（私信上限版 无能狂怒!",
+        "pinned_tweet_id": "1897957044118077905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876950335971024896/IwaV_7Ar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 168,
+          "like_count": 16640,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 5923
+        },
+        "username": "Yan_u33",
+        "verified": false
+      }
+    ]
+  }
+}

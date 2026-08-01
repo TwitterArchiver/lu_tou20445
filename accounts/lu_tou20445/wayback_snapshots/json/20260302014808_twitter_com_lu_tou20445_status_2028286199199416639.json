@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028286180777922560"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2028286199199416639",
+    "created_at": "2026-03-02T01:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028286199199416639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zQ611VJ4v8",
+          "end": 48,
+          "expanded_url": "https://x.com/lu_tou20445/status/2028286199199416639/photo/1",
+          "media_key": "3_2028286180777922560",
+          "start": 25,
+          "url": "https://t.co/zQ611VJ4v8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028286199199416639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "碰到 180+冷白皮宽肩窄腰薄肌大长腿冷脸帅哥了 https://t.co/zQ611VJ4v8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2028286199199416639].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2028286199199416639",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2028286199199416639"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028286180777922560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXriPwaEAA1sLr.jpg",
+        "width": 1834
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 72,
+          "like_count": 17429,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 5189
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

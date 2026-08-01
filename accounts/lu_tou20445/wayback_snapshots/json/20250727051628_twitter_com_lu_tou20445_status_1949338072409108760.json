@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1948406956085137721",
+    "created_at": "2025-07-27T05:16:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949338072409108760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849450365462417408",
+          "start": 0,
+          "username": "mojorrrrrrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949338072409108760",
+    "in_reply_to_user_id": "1849450365462417408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948406956085137721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mojorrrrrrr 我好像在抖音刷到你了，但是不知道是不是你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1948406937433055232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwohyVeaoAAvVaf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1948406956085137721",
+        "created_at": "2025-07-27T05:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949338072409108760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849450365462417408",
+              "start": 0,
+              "username": "mojorrrrrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949338072409108760",
+        "in_reply_to_user_id": "1849450365462417408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948406956085137721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mojorrrrrrr 我好像在抖音刷到你了，但是不知道是不是你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948406937433055232"
+          ]
+        },
+        "author_id": "1849450365462417408",
+        "conversation_id": "1948406956085137721",
+        "created_at": "2025-07-24T15:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T16:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948406956085137721"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "健身"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "寸头"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoDnCmVYSJ",
+              "end": 36,
+              "expanded_url": "https://x.com/mojorrrrrrr/status/1948406956085137721/photo/1",
+              "media_key": "3_1948406937433055232",
+              "start": 13,
+              "url": "https://t.co/YoDnCmVYSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948406956085137721",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 796,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gang #健身 #寸头 https://t.co/YoDnCmVYSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 221
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T13:58:31.000Z",
+        "description": "享受嘴臭 你妈逼的别惹我      ｜  提问箱✉️：https://t.co/tjGkVmWKIo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/199591",
+                "end": 50,
+                "expanded_url": "https://ngl.link/199591",
+                "start": 27,
+                "url": "https://t.co/tjGkVmWKIo"
+              }
+            ]
+          }
+        },
+        "id": "1849450365462417408",
+        "name": "我是屌丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929105863270424576/sIxPtnMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 13,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 342
+        },
+        "username": "mojorrrrrrr",
+        "verified": false
+      }
+    ]
+  }
+}

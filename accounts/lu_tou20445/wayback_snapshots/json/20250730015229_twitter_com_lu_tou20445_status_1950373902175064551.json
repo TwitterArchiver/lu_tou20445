@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950363617762955543",
+    "created_at": "2025-07-30T01:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T02:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950373902175064551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671951520529797120",
+          "start": 0,
+          "username": "sqq1370192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950373902175064551",
+    "in_reply_to_user_id": "1671951520529797120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950363617762955543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sqq1370192 没必要，你这百分之九十一的支持率放在哪个国家的选举上都是压倒性的胜利"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_1950363614533341186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxEVX7sbUAIjxmI.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950363617762955543",
+        "created_at": "2025-07-30T01:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T02:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950373902175064551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671951520529797120",
+              "start": 0,
+              "username": "sqq1370192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950373902175064551",
+        "in_reply_to_user_id": "1671951520529797120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950363617762955543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sqq1370192 没必要，你这百分之九十一的支持率放在哪个国家的选举上都是压倒性的胜利"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950363614533341186"
+          ]
+        },
+        "author_id": "1671951520529797120",
+        "conversation_id": "1950363617762955543",
+        "created_at": "2025-07-30T01:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T02:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950363617762955543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pHK3tRvfP2",
+              "end": 37,
+              "expanded_url": "https://x.com/sqq1370192/status/1950363617762955543/photo/1",
+              "media_key": "3_1950363614533341186",
+              "start": 14,
+              "url": "https://t.co/pHK3tRvfP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950363617762955543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是会因为这9%内耗的人。 https://t.co/pHK3tRvfP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T18:41:40.000Z",
+        "description": "很抽象一个人｜选择性话多 ｜infp水瓶座bi｜这里发点限制级的碎碎念 请多多评价私信 私信女孩子一定会回 男的看我心情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sqq1370192",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sqq1370192",
+                "start": 0,
+                "url": "https://t.co/ZO2n5iUf1z"
+              }
+            ]
+          }
+        },
+        "id": "1671951520529797120",
+        "location": "把我的帖子全部看一遍，你就会知道我是一个多有趣的小女孩",
+        "name": "Zzzzzzzi",
+        "pinned_tweet_id": "1947152531140104461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948808689143742465/866SnRBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 79,
+          "like_count": 1607,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 952
+        },
+        "url": "https://t.co/ZO2n5iUf1z",
+        "username": "sqq1370192",
+        "verified": false
+      }
+    ]
+  }
+}

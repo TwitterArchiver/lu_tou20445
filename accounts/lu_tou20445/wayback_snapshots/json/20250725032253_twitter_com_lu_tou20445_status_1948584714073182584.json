@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948584704057241601"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948584714073182584",
+    "created_at": "2025-07-25T03:22:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T04:22:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948584714073182584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6bJTtldDPx",
+          "end": 140,
+          "expanded_url": "https://x.com/lu_tou20445/status/1948584714073182584/photo/1",
+          "media_key": "3_1948584704057241601",
+          "start": 117,
+          "url": "https://t.co/6bJTtldDPx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948584714073182584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有个交好了十年的好朋友过生日（女孩子）这是我自己找了点参考在花店组的花束，有路过的女孩子可不可以帮我参考一下，会不会有点太素了，我们的关系觉得送红玫瑰或者粉玫瑰不太妥，就选了白玫瑰+茉莉+郁金香，求求求求，第一次有送花的想法还蛮紧张 https://t.co/6bJTtldDPx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1948584704057241601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrDdtwXcAE9Fkh.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948584704057241601"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948584714073182584",
+        "created_at": "2025-07-25T03:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948584714073182584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bJTtldDPx",
+              "end": 140,
+              "expanded_url": "https://x.com/lu_tou20445/status/1948584714073182584/photo/1",
+              "media_key": "3_1948584704057241601",
+              "start": 117,
+              "url": "https://t.co/6bJTtldDPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948584714073182584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个交好了十年的好朋友过生日（女孩子）这是我自己找了点参考在花店组的花束，有路过的女孩子可不可以帮我参考一下，会不会有点太素了，我们的关系觉得送红玫瑰或者粉玫瑰不太妥，就选了白玫瑰+茉莉+郁金香，求求求求，第一次有送花的想法还蛮紧张 https://t.co/6bJTtldDPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

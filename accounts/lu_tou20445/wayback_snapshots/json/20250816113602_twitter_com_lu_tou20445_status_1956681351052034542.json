@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956668570324312554",
+    "created_at": "2025-08-16T11:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T12:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956681351052034542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934928841476378624",
+          "start": 0,
+          "username": "uwv1eiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956681351052034542",
+    "in_reply_to_user_id": "1934928841476378624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956668570324312554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwv1eiy 虽然我蛮想支持你，但这种社交方式我只在猴群的猴王和母猴身上见过，见面插两下先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956668570324312554",
+        "created_at": "2025-08-16T11:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956681351052034542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934928841476378624",
+              "start": 0,
+              "username": "uwv1eiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956681351052034542",
+        "in_reply_to_user_id": "1934928841476378624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956668570324312554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwv1eiy 虽然我蛮想支持你，但这种社交方式我只在猴群的猴王和母猴身上见过，见面插两下先"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934928841476378624",
+        "conversation_id": "1956668570324312554",
+        "created_at": "2025-08-16T10:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T11:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956668570324312554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956668570324312554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性交即社交，在不染病，不怀孕的前提下性交和握手拥抱没什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 47,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 906
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T10:59:34.000Z",
+        "description": "抖音：uwv1eiy",
+        "id": "1934928841476378624",
+        "name": "换",
+        "pinned_tweet_id": "1947417386564653110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955661827490426880/iqLI2y-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 27,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "uwv1eiy",
+        "verified": false
+      }
+    ]
+  }
+}

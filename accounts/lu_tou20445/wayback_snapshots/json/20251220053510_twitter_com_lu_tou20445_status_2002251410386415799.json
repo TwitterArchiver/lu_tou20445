@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2002249274239889621",
+    "created_at": "2025-12-20T05:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T06:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002251410386415799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951000695454441473",
+          "start": 0,
+          "username": "xiaoxin0000812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002251410386415799",
+    "in_reply_to_user_id": "1951000695454441473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002249274239889621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxin0000812 打开推特，美颜暴击，看来今天会是幸运的一天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002249267046723585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lrGZobMAE_8oA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2002249274239889621",
+        "created_at": "2025-12-20T05:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002251410386415799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951000695454441473",
+              "start": 0,
+              "username": "xiaoxin0000812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002251410386415799",
+        "in_reply_to_user_id": "1951000695454441473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002249274239889621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxin0000812 打开推特，美颜暴击，看来今天会是幸运的一天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002249267046723585"
+          ]
+        },
+        "author_id": "1951000695454441473",
+        "conversation_id": "2002249274239889621",
+        "created_at": "2025-12-20T05:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T06:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002249274239889621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16CpmUG9sS",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoxin0000812/status/2002249274239889621/photo/1",
+              "media_key": "3_2002249267046723585",
+              "start": 8,
+              "url": "https://t.co/16CpmUG9sS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002249274239889621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续对齐颗粒度 https://t.co/16CpmUG9sS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 68,
+          "like_count": 11917,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3427
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T19:23:25.000Z",
+        "description": "重生之我的互关回来吧🥲原账号@xiaoxin000812炸了🥲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "xiaoxin000812"
+              }
+            ]
+          }
+        },
+        "id": "1951000695454441473",
+        "name": "Xiner（叫我小xin💕）",
+        "pinned_tweet_id": "2000058424286183661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001179365720383488/olFBycW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 101,
+          "like_count": 978,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 399
+        },
+        "username": "xiaoxin0000812",
+        "verified": false
+      }
+    ]
+  }
+}

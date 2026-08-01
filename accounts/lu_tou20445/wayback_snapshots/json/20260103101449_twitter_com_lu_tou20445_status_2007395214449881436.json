@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2007022700745900106",
+    "created_at": "2026-01-03T10:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T11:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007395214449881436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1933526545454313472",
+          "start": 0,
+          "username": "sunnnk095"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007395214449881436",
+    "in_reply_to_user_id": "1933526545454313472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007296295858511909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnnk095 谬赞了三立克"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2007022700745900106",
+        "created_at": "2026-01-03T10:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T11:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007395214449881436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1933526545454313472",
+              "start": 0,
+              "username": "sunnnk095"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007395214449881436",
+        "in_reply_to_user_id": "1933526545454313472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007296295858511909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnnk095 谬赞了三立克"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933526545454313472",
+        "conversation_id": "2007022700745900106",
+        "created_at": "2026-01-03T03:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T04:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007296295858511909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007296295858511909",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007022700745900106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 卧槽你好聪明啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 69,
+          "like_count": 13704,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 3940
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T14:07:18.000Z",
+        "description": "取关随意｜看情况回关，社交过度会让我焦虑｜随机掉落照片｜INFJ-t/INTJ-t反复横跳➕处女座超绝内耗圣体｜有主",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sunlick333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sunlick333",
+                "start": 0,
+                "url": "https://t.co/T99Q550SPI"
+              }
+            ]
+          }
+        },
+        "id": "1933526545454313472",
+        "name": "猫大师",
+        "pinned_tweet_id": "2004900636983525752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950894026527547392/QlJGwOQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 60,
+          "like_count": 704,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/T99Q550SPI",
+        "username": "sunnnk095",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2003457249319297449",
+    "created_at": "2025-12-23T15:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T16:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003490406185730072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969697359765659648",
+          "start": 0,
+          "username": "X435ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003490406185730072",
+    "in_reply_to_user_id": "1969697359765659648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003484379100950978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X435ovo 相对的相对的，别紧张🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-23T15:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003490406185730072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969697359765659648",
+              "start": 0,
+              "username": "X435ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003490406185730072",
+        "in_reply_to_user_id": "1969697359765659648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003484379100950978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X435ovo 相对的相对的，别紧张🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969697359765659648",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-23T15:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003484379100950978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003484379100950978",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003457249319297449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 oh no😭，不要哇，我有时候就是会低头说话，我只是不好意思看着别人，也很害怕别人看着我。不是故意不礼貌的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 69,
+          "like_count": 12214,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:37:14.000Z",
+        "description": "设门槛就是圈，具体多少取决于我前一天吃了多少，没有特殊服务，不建议入门！！（今天）",
+        "id": "1969697359765659648",
+        "name": "x世界",
+        "pinned_tweet_id": "1987513794575429796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999960621635481600/ZivfsTrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 11,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 336
+        },
+        "username": "X435ovo",
+        "verified": false
+      }
+    ]
+  }
+}

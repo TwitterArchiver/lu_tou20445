@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004520343982231700",
+    "created_at": "2025-12-27T05:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004791848297210062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834573555671187456",
+          "start": 0,
+          "username": "uzaS1mon22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004791848297210062",
+    "in_reply_to_user_id": "1834573555671187456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004732240316785000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uzaS1mon22 对的对的，皮都展开来说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-27T05:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004791848297210062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834573555671187456",
+              "start": 0,
+              "username": "uzaS1mon22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004791848297210062",
+        "in_reply_to_user_id": "1834573555671187456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004732240316785000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uzaS1mon22 对的对的，皮都展开来说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834573555671187456",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-27T01:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004732240316785000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004732240316785000",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004520343982231700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 虽然没清醒，但是揉脸揉爽了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 72,
+          "like_count": 12650,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T12:43:35.000Z",
+        "description": "R.I.P",
+        "id": "1834573555671187456",
+        "location": "11世代",
+        "name": "sa1u",
+        "pinned_tweet_id": "1993031292875935771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993792413475942400/1hqlk0bx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 165,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1101
+        },
+        "username": "uzaS1mon22",
+        "verified": false
+      }
+    ]
+  }
+}

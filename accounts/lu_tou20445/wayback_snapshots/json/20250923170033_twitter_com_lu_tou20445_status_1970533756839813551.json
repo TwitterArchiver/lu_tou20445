@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1967417174299136325",
+    "created_at": "2025-09-23T17:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T18:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970533756839813551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1527267877849640962",
+          "start": 0,
+          "username": "Paulkeyyy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970533756839813551",
+    "in_reply_to_user_id": "1527267877849640962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970531579446599933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paulkeyyy1 ok，多谢🙏🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1967417174299136325",
+        "created_at": "2025-09-23T17:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970533756839813551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1527267877849640962",
+              "start": 0,
+              "username": "Paulkeyyy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970533756839813551",
+        "in_reply_to_user_id": "1527267877849640962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970531579446599933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paulkeyyy1 ok，多谢🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527267877849640962",
+        "conversation_id": "1967417174299136325",
+        "created_at": "2025-09-23T16:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T17:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970531579446599933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970531579446599933",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970530554262200446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 好！激情安利【放学后失眠的你】同款细糠 记得拿纸巾（是擦眼泪）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 63,
+          "like_count": 4813,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T12:40:28.000Z",
+        "description": "这个人很神秘，什么都没有拉。 会突然关注一些我觉得很可爱的人请不要嫌弃我🥹",
+        "id": "1527267877849640962",
+        "location": "北京",
+        "name": "拉不出来就算了",
+        "pinned_tweet_id": "1968242972597932153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936795793337282560/3Yp_cwMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 253,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 285
+        },
+        "username": "Paulkeyyy1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963421860466733056"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963126812302549031",
+    "created_at": "2025-09-04T02:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T03:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963421870117810638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479510124079185921",
+          "start": 0,
+          "username": "LCA176232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5bQmN6621a",
+          "end": 34,
+          "expanded_url": "https://x.com/lu_tou20445/status/1963421870117810638/photo/1",
+          "media_key": "3_1963421860466733056",
+          "start": 11,
+          "url": "https://t.co/5bQmN6621a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963421870117810638",
+    "in_reply_to_user_id": "1479510124079185921",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963126812302549031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LCA176232 https://t.co/5bQmN6621a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1963421860466733056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz95x4lbMAA5L6y.jpg",
+        "width": 560
+      },
+      {
+        "height": 1998,
+        "media_key": "3_1963126792971300864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5tasgbMAAUAol.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963421860466733056"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963126812302549031",
+        "created_at": "2025-09-04T02:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T03:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963421870117810638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479510124079185921",
+              "start": 0,
+              "username": "LCA176232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5bQmN6621a",
+              "end": 34,
+              "expanded_url": "https://x.com/lu_tou20445/status/1963421870117810638/photo/1",
+              "media_key": "3_1963421860466733056",
+              "start": 11,
+              "url": "https://t.co/5bQmN6621a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963421870117810638",
+        "in_reply_to_user_id": "1479510124079185921",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963126812302549031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LCA176232 https://t.co/5bQmN6621a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963126792971300864"
+          ]
+        },
+        "author_id": "1479510124079185921",
+        "conversation_id": "1963126812302549031",
+        "created_at": "2025-09-03T06:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T07:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963126812302549031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTCEoGEG5L",
+              "end": 27,
+              "expanded_url": "https://x.com/LCA176232/status/1963126812302549031/photo/1",
+              "media_key": "3_1963126792971300864",
+              "start": 4,
+              "url": "https://t.co/jTCEoGEG5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963126812302549031",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 249060,
+          "like_count": 1177,
+          "quote_count": 10,
+          "reply_count": 106,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/jTCEoGEG5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 61,
+          "like_count": 2539,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T17:48:08.000Z",
+        "description": "只有这个号和小号@FPL99386519是本人的，其他的均为假冒。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "FPL99386519"
+              }
+            ]
+          }
+        },
+        "id": "1479510124079185921",
+        "location": "Hong Kong",
+        "name": "大漠孤鹰⛓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837533564059242499/yQxLlDc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41256,
+          "following_count": 963,
+          "like_count": 94924,
+          "listed_count": 111,
+          "media_count": 11154,
+          "tweet_count": 14732
+        },
+        "username": "LCA176232",
+        "verified": true
+      }
+    ]
+  }
+}

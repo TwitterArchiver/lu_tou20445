@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2006000256455172361",
+    "created_at": "2026-01-10T12:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009971871341785553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1663040452441047041",
+          "start": 0,
+          "username": "Carl7818832448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009971871341785553",
+    "in_reply_to_user_id": "1663040452441047041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006000256455172361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Carl7818832448 听起来真的很认真了😂可以试试吸一口气然后屏住呼吸去说"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17283,
+        "height": 480,
+        "media_key": "13_2006000197172879364",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006000197172879364/img/zqaqITGmeyBjaWka.jpg",
+        "public_metrics": {
+          "view_count": 128
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006000197172879364/vid/avc1/360x270/FDVsQm4vi4_5icfb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006000197172879364/vid/avc1/480x360/VaQephUFrVNDBI7h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006000197172879364/vid/avc1/640x480/OsF3-DDTDlIaAlT1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006000197172879364/pl/qb3AyZsukQgHLXVs.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2006000256455172361",
+        "created_at": "2026-01-10T12:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009971871341785553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1663040452441047041",
+              "start": 0,
+              "username": "Carl7818832448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009971871341785553",
+        "in_reply_to_user_id": "1663040452441047041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006000256455172361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Carl7818832448 听起来真的很认真了😂可以试试吸一口气然后屏住呼吸去说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006000197172879364"
+          ]
+        },
+        "author_id": "1663040452441047041",
+        "conversation_id": "2006000256455172361",
+        "created_at": "2025-12-30T13:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T14:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006000256455172361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UelYjx8JtR",
+              "end": 31,
+              "expanded_url": "https://x.com/Carl7818832448/status/2006000256455172361/video/1",
+              "media_key": "13_2006000197172879364",
+              "start": 8,
+              "url": "https://t.co/UelYjx8JtR"
+            },
+            {
+              "display_url": "x.com/missmafiana/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/missmafiana/status/1689647758851121152",
+              "start": 32,
+              "url": "https://t.co/FC5TNtXxIm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006000256455172361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 901,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1689647758851121152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥸认真学习语言 https://t.co/UelYjx8JtR https://t.co/FC5TNtXxIm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 69,
+          "like_count": 14265,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 4130
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T04:32:11.000Z",
+        "description": "我想变得轻盈一点。 发型上、神态上、体貌上都要。",
+        "id": "1663040452441047041",
+        "name": "花穴",
+        "pinned_tweet_id": "2007119597493964804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005534467428167682/xJsVWzBN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 24,
+          "like_count": 3985,
+          "listed_count": 3,
+          "media_count": 206,
+          "tweet_count": 1439
+        },
+        "username": "Carl7818832448",
+        "verified": false
+      }
+    ]
+  }
+}

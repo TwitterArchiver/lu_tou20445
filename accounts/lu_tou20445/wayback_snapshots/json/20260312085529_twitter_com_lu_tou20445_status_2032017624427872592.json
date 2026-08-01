@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2031889312124383330",
+    "created_at": "2026-03-12T08:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T09:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032017624427872592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029368618711171073",
+          "start": 0,
+          "username": "ticklemaster127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032017624427872592",
+    "in_reply_to_user_id": "2029368618711171073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031889312124383330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ticklemaster127 这游戏我见过，叫狂抽猛男大腚"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28245,
+        "height": 1014,
+        "media_key": "13_1999040916158578688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999040916158578688/img/MLNlDQbVauN8_FNH.jpg",
+        "public_metrics": {
+          "view_count": 574295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999040916158578688/vid/avc1/320x676/7koZLTc2lHlUu6Yn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999040916158578688/vid/avc1/480x1014/ZadECStynM5aNwxd.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999040916158578688/pl/f_UI6-jvx3Nonw_e.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2031889312124383330",
+        "created_at": "2026-03-12T08:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T09:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032017624427872592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029368618711171073",
+              "start": 0,
+              "username": "ticklemaster127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032017624427872592",
+        "in_reply_to_user_id": "2029368618711171073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031889312124383330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ticklemaster127 这游戏我见过，叫狂抽猛男大腚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999040916158578688"
+          ],
+          "media_source_tweet_id": [
+            "1999041016989638698"
+          ]
+        },
+        "author_id": "2029368618711171073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031889312124383330",
+        "created_at": "2026-03-12T00:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T01:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031889312124383330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnKbRajgLw",
+              "end": 27,
+              "expanded_url": "https://x.com/deerlyloved_/status/1999041016989638698/video/1",
+              "media_key": "13_1999040916158578688",
+              "start": 4,
+              "url": "https://t.co/HnKbRajgLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031889312124383330",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3338,
+          "impression_count": 489437,
+          "like_count": 11399,
+          "quote_count": 949,
+          "reply_count": 133,
+          "retweet_count": 1921
+        },
+        "reply_settings": "everyone",
+        "text": "hi  https://t.co/HnKbRajgLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 71,
+          "like_count": 18340,
+          "listed_count": 5,
+          "media_count": 248,
+          "tweet_count": 5375
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T01:29:29.000Z",
+        "description": "",
+        "id": "2029368618711171073",
+        "location": "i fb",
+        "name": "aren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030186612420669440/TbWcCtM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 225,
+          "like_count": 148,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 129
+        },
+        "username": "ticklemaster127",
+        "verified": false
+      }
+    ]
+  }
+}

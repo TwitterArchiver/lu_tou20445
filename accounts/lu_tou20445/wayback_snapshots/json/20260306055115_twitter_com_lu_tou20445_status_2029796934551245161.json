@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029796927265722369"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2029476618188800409",
+    "created_at": "2026-03-06T05:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029796934551245161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "928720369774497792",
+          "start": 0,
+          "username": "fuxixijialing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zIo2bCJMgO",
+          "end": 44,
+          "expanded_url": "https://x.com/lu_tou20445/status/2029796934551245161/photo/1",
+          "media_key": "3_2029796927265722369",
+          "start": 21,
+          "url": "https://t.co/zIo2bCJMgO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029796934551245161",
+    "in_reply_to_user_id": "928720369774497792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029476618188800409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuxixijialing 就纯馋人呗 https://t.co/zIo2bCJMgO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 391,
+        "media_key": "3_2029796927265722369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtJjQ_aUAE12lm.jpg",
+        "width": 391
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029476595002662912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HComNeUaYAAPpW3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029796927265722369"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2029476618188800409",
+        "created_at": "2026-03-06T05:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029796934551245161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "928720369774497792",
+              "start": 0,
+              "username": "fuxixijialing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIo2bCJMgO",
+              "end": 44,
+              "expanded_url": "https://x.com/lu_tou20445/status/2029796934551245161/photo/1",
+              "media_key": "3_2029796927265722369",
+              "start": 21,
+              "url": "https://t.co/zIo2bCJMgO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029796934551245161",
+        "in_reply_to_user_id": "928720369774497792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029476618188800409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuxixijialing 就纯馋人呗 https://t.co/zIo2bCJMgO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029476595002662912"
+          ]
+        },
+        "author_id": "928720369774497792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2029476618188800409",
+        "created_at": "2026-03-05T08:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029476618188800409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYlhImCBop",
+              "end": 53,
+              "expanded_url": "https://x.com/fuxixijialing/status/2029476618188800409/photo/1",
+              "media_key": "3_2029476595002662912",
+              "start": 30,
+              "url": "https://t.co/cYlhImCBop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029476618188800409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 728,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一人只能拿0个，不许多拿😛\n青甜圣女果也超好吃，9甜1酸😋 https://t.co/cYlhImCBop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1751,
+          "following_count": 70,
+          "like_count": 17731,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 5284
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-09T20:26:05.000Z",
+        "description": "29||xp很多||什么都想发点想发骚发骚想发牢骚发牢骚||不用礼貌回关||你看到的都是我想让你看到的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fuxixijialing",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fuxixijialing",
+                "start": 0,
+                "url": "https://t.co/Jm5PJbLDAq"
+              }
+            ]
+          }
+        },
+        "id": "928720369774497792",
+        "name": "红烧茄子大王",
+        "pinned_tweet_id": "1956023176036802860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956072832192139264/1ngCfwc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1549,
+          "following_count": 1203,
+          "like_count": 18814,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/Jm5PJbLDAq",
+        "username": "fuxixijialing",
+        "verified": false
+      }
+    ]
+  }
+}

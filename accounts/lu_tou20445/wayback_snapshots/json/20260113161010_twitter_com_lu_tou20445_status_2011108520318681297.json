@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2011105183967949162",
+    "created_at": "2026-01-13T16:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011108520318681297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935562290746765315",
+          "start": 0,
+          "username": "yuhe24156661877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011108520318681297",
+    "in_reply_to_user_id": "1935562290746765315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011107567360229607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuhe24156661877 只爱看同一张脸～那么莫名其妙那么讨人欢喜，闹起来又太讨厌～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2011105183967949162",
+        "created_at": "2026-01-13T16:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011108520318681297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935562290746765315",
+              "start": 0,
+              "username": "yuhe24156661877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011108520318681297",
+        "in_reply_to_user_id": "1935562290746765315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011107567360229607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuhe24156661877 只爱看同一张脸～那么莫名其妙那么讨人欢喜，闹起来又太讨厌～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935562290746765315",
+        "conversation_id": "2011105183967949162",
+        "created_at": "2026-01-13T16:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011107567360229607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011107567360229607",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011106232694866372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 匆匆那年我们见过太少世面——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 68,
+          "like_count": 13930,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 4177
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T04:56:44.000Z",
+        "description": "我经常收不到私信 不是不回😖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/limerence43984",
+                "end": 23,
+                "expanded_url": "http://ngl.link/limerence43984",
+                "start": 0,
+                "url": "https://t.co/8L024WpV83"
+              }
+            ]
+          }
+        },
+        "id": "1935562290746765315",
+        "name": "🌧️🐟🐟",
+        "pinned_tweet_id": "1956734840650252567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960572907362639873/Xkqg4nSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 57,
+          "like_count": 4499,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/8L024WpV83",
+        "username": "yuhe24156661877",
+        "verified": false
+      }
+    ]
+  }
+}

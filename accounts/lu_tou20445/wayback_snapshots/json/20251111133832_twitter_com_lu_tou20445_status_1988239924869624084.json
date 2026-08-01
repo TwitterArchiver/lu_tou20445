@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988239910340534272"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988239924869624084",
+    "created_at": "2025-11-11T13:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988239924869624084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LttjmeQ9eO",
+          "end": 62,
+          "expanded_url": "https://x.com/lu_tou20445/status/1988239924869624084/photo/1",
+          "media_key": "3_1988239910340534272",
+          "start": 39,
+          "url": "https://t.co/LttjmeQ9eO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988239924869624084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 57,
+      "like_count": 6,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冬雪轻吻北境，而南半球正值丰饶的夏季，躁动的生命篇章将继续由地球的另一半谱写 https://t.co/LttjmeQ9eO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1988239910340534272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5elqhAaIAAb35d.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988239910340534272"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988239924869624084",
+        "created_at": "2025-11-11T13:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988239924869624084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LttjmeQ9eO",
+              "end": 62,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988239924869624084/photo/1",
+              "media_key": "3_1988239910340534272",
+              "start": 39,
+              "url": "https://t.co/LttjmeQ9eO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988239924869624084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冬雪轻吻北境，而南半球正值丰饶的夏季，躁动的生命篇章将继续由地球的另一半谱写 https://t.co/LttjmeQ9eO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 73,
+          "like_count": 8112,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2542
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

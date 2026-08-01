@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1997659568965320773",
+    "created_at": "2025-12-07T14:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T15:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997681844389839145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874922985567784960",
+          "start": 0,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997681844389839145",
+    "in_reply_to_user_id": "874922985567784960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997659568965320773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihinansyo 还有冰箱里放臭了的食材"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1997659568965320773",
+        "created_at": "2025-12-07T14:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997681844389839145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997681844389839145",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997659568965320773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo 还有冰箱里放臭了的食材"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874922985567784960",
+        "conversation_id": "1997659568965320773",
+        "created_at": "2025-12-07T13:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997659568965320773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997659568965320773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一定要独居\n不然会经历辛辛苦苦搞完卫生\n在床上躺了半个小时\n跑去厨房看到自己废了两个小时擦反光的灶台又多了一块黑斑\n打开冷冻层发现自己刚买的冰淇淋被挤压成碎片\n新装的垃圾袋里垃圾又堆成了山\n不会珍惜别人劳动成果的都去死。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 69,
+          "like_count": 10754,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 3162
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直｜避难所",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1979154228879769901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 244,
+          "like_count": 19020,
+          "listed_count": 0,
+          "media_count": 303,
+          "tweet_count": 8038
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      }
+    ]
+  }
+}

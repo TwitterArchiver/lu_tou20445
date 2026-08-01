@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949429496005673211",
+    "created_at": "2025-07-27T11:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T12:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949431148058116441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1927277978804695040",
+          "start": 0,
+          "username": "yue_li1455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949431148058116441",
+    "in_reply_to_user_id": "1927277978804695040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949429496005673211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_li1455 大东唱的时候我觉得雷婷更喜欢那句 在你的时空，我从未退缩懦弱～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1257,
+        "media_key": "3_1949429486061318144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3Dyf9bcAA3ZP-.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949429496005673211",
+        "created_at": "2025-07-27T11:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949431148058116441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1927277978804695040",
+              "start": 0,
+              "username": "yue_li1455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949431148058116441",
+        "in_reply_to_user_id": "1927277978804695040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949429496005673211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_li1455 大东唱的时候我觉得雷婷更喜欢那句 在你的时空，我从未退缩懦弱～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949429486061318144"
+          ]
+        },
+        "author_id": "1927277978804695040",
+        "conversation_id": "1949429496005673211",
+        "created_at": "2025-07-27T11:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949429496005673211"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "分享"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMKyU7DVQd",
+              "end": 43,
+              "expanded_url": "https://x.com/yue_li1455/status/1949429496005673211/photo/1",
+              "media_key": "3_1949429486061318144",
+              "start": 20,
+              "url": "https://t.co/bMKyU7DVQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949429496005673211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的爱只能够让你一个人独自拥有🎵#分享 https://t.co/bMKyU7DVQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 27,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 242
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:18:22.000Z",
+        "description": "人类后腿（私信请礼貌）",
+        "id": "1927277978804695040",
+        "location": "0.33km",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949370046834495488/9ZvUdeN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 152
+        },
+        "username": "yue_li1455",
+        "verified": false
+      }
+    ]
+  }
+}

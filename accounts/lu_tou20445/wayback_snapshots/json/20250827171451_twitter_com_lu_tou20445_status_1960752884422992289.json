@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1960703694795890752",
+    "created_at": "2025-08-27T17:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T18:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960752884422992289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924098812643364864",
+          "start": 0,
+          "username": "gunainai13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960752884422992289",
+    "in_reply_to_user_id": "1924098812643364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960740123189948801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunainai13 那更要恭喜了，这种感觉比doi爽说是🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1960703694795890752",
+        "created_at": "2025-08-27T17:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T18:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960752884422992289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924098812643364864",
+              "start": 0,
+              "username": "gunainai13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960752884422992289",
+        "in_reply_to_user_id": "1924098812643364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960740123189948801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunainai13 那更要恭喜了，这种感觉比doi爽说是🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924098812643364864",
+        "conversation_id": "1960703694795890752",
+        "created_at": "2025-08-27T16:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T17:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960740123189948801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960740123189948801",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960724932482228323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你没有这种东西，便秘后的畅快罢了呵呵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 54,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:44:58.000Z",
+        "description": "汪汪汪，汪汪！汪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8F%87%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8F%87%E8%80%90%E8%80%90",
+                "start": 0,
+                "url": "https://t.co/C8GCOELK5r"
+              }
+            ]
+          }
+        },
+        "id": "1924098812643364864",
+        "name": "AAA蓝溪镇你菇神（逼香香版）",
+        "pinned_tweet_id": "1960240679784976809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958370281015422976/fHPcWWeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 187,
+          "like_count": 5205,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 2768
+        },
+        "url": "https://t.co/C8GCOELK5r",
+        "username": "gunainai13",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1982009263116730374",
+    "created_at": "2025-10-25T09:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T10:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982011626976157873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924098812643364864",
+          "start": 0,
+          "username": "gunainai13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982011626976157873",
+    "in_reply_to_user_id": "1924098812643364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982009263116730374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunainai13 对方已拒绝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982009251322007552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4GC6baWEAAW57w.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1982009263116730374",
+        "created_at": "2025-10-25T09:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982011626976157873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924098812643364864",
+              "start": 0,
+              "username": "gunainai13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982011626976157873",
+        "in_reply_to_user_id": "1924098812643364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982009263116730374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunainai13 对方已拒绝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982009251322007552"
+          ]
+        },
+        "author_id": "1924098812643364864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982009263116730374",
+        "created_at": "2025-10-25T09:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982009263116730374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Js8ODPbyUr",
+              "end": 30,
+              "expanded_url": "https://x.com/gunainai13/status/1982009263116730374/photo/1",
+              "media_key": "3_1982009251322007552",
+              "start": 7,
+              "url": "https://t.co/Js8ODPbyUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982009263116730374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墙内还是墙外 https://t.co/Js8ODPbyUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 71,
+          "like_count": 7274,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:44:58.000Z",
+        "description": "近期欢迎聊回魂计/喜人/黑冰/轻音少女/福尔摩斯1984",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8F%87%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8F%87%E8%80%90%E8%80%90",
+                "start": 0,
+                "url": "https://t.co/C8GCOEMhUZ"
+              }
+            ]
+          }
+        },
+        "id": "1924098812643364864",
+        "name": "菇耐耐.co m",
+        "pinned_tweet_id": "1960240679784976809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958370281015422976/fHPcWWeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 189,
+          "like_count": 5917,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 3369
+        },
+        "url": "https://t.co/C8GCOEMhUZ",
+        "username": "gunainai13",
+        "verified": false
+      }
+    ]
+  }
+}

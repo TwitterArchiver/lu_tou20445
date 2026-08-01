@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2070189270741238159",
+    "created_at": "2026-06-26T03:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070347560213180586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1671951520529797120",
+          "start": 0,
+          "username": "sqq1370192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070347560213180586",
+    "in_reply_to_user_id": "1671951520529797120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070189270741238159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sqq1370192 想起一起做过的事还想一起做是喜欢，想起一起做过的事觉得自己还可以做得更好是胜负欲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2070189270741238159",
+        "created_at": "2026-06-26T03:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070347560213180586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1671951520529797120",
+              "start": 0,
+              "username": "sqq1370192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070347560213180586",
+        "in_reply_to_user_id": "1671951520529797120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070189270741238159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sqq1370192 想起一起做过的事还想一起做是喜欢，想起一起做过的事觉得自己还可以做得更好是胜负欲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671951520529797120",
+        "conversation_id": "2070189270741238159",
+        "created_at": "2026-06-25T16:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T17:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070189270741238159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sqq1370192/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/sqq1370192/status/2070188280654831847",
+              "start": 17,
+              "url": "https://t.co/CCNG1gwS0N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070189270741238159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070188280654831847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么辨别到底是喜欢还是胜负欲作祟 https://t.co/CCNG1gwS0N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 70,
+          "like_count": 21740,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 6210
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T18:41:40.000Z",
+        "description": "很抽象一个人｜选择性话多 ｜性格悪い｜对非人生物过敏｜限制级的碎碎念｜偶尔分享品尝日男日常",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sqq13701922",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sqq13701922",
+                "start": 0,
+                "url": "https://t.co/Ytv7kilXQj"
+              }
+            ]
+          }
+        },
+        "id": "1671951520529797120",
+        "name": "Zzzzzzzi",
+        "pinned_tweet_id": "1947152531140104461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948808689143742465/866SnRBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 69,
+          "like_count": 1821,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/Ytv7kilXQj",
+        "username": "sqq1370192",
+        "verified": false
+      }
+    ]
+  }
+}

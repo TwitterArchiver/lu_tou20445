@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949409909327450239",
+    "created_at": "2025-07-27T10:19:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T11:19:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949414215661637932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1933526545454313472",
+          "start": 0,
+          "username": "sunlick333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949414215661637932",
+    "in_reply_to_user_id": "1943288759778447360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949414101039394953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunlick333 不过前车之鉴害怕之前那些傻杯涌进来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949409909327450239",
+        "created_at": "2025-07-27T10:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949414215661637932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933526545454313472",
+              "start": 0,
+              "username": "sunlick333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949414215661637932",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949414101039394953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunlick333 不过前车之鉴害怕之前那些傻杯涌进来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949409909327450239",
+        "created_at": "2025-07-27T10:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T11:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949414101039394953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1933526545454313472",
+              "start": 0,
+              "username": "sunlick333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949414101039394953",
+        "in_reply_to_user_id": "1933526545454313472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949409909327450239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunlick333 其实现在来期帖子应该还是能继续为妹子们谋福利的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 235
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T14:07:18.000Z",
+        "description": "已关闭私信｜超绝玻璃心补药骂我呀求求你了一切都是我的错｜INFJ-t处女座超绝内耗圣体",
+        "id": "1933526545454313472",
+        "name": "sunlick",
+        "pinned_tweet_id": "1948317178949996563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947509637038628864/sQtfpAsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 74,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 817
+        },
+        "username": "sunlick333",
+        "verified": false
+      }
+    ]
+  }
+}

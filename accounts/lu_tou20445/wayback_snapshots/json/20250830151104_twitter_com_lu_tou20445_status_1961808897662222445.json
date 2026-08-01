@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1961691881051754840",
+    "created_at": "2025-08-30T15:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961808897662222445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1682885911728488448",
+          "start": 0,
+          "username": "nj644364835923"
+        },
+        {
+          "end": 24,
+          "id": "1820060114021457920",
+          "start": 16,
+          "username": "lzukuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961808897662222445",
+    "in_reply_to_user_id": "1682885911728488448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961807832590037416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nj644364835923 @lzukuku aacab（个人理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1961691881051754840",
+        "created_at": "2025-08-30T15:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961808897662222445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682885911728488448",
+              "start": 0,
+              "username": "nj644364835923"
+            },
+            {
+              "end": 24,
+              "id": "1820060114021457920",
+              "start": 16,
+              "username": "lzukuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961808897662222445",
+        "in_reply_to_user_id": "1682885911728488448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961807832590037416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nj644364835923 @lzukuku aacab（个人理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682885911728488448",
+        "conversation_id": "1961691881051754840",
+        "created_at": "2025-08-30T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961807832590037416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 21,
+              "id": "1820060114021457920",
+              "start": 13,
+              "username": "lzukuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961807832590037416",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961793335687066019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @lzukuku 正确选项是啥 有几个题我实在看不出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 56,
+          "like_count": 1689,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T22:50:51.000Z",
+        "description": "请玩坏我 阿里嘎多（",
+        "id": "1682885911728488448",
+        "location": "Sheffield, England",
+        "name": "爆炒奶牛狗",
+        "pinned_tweet_id": "1806059348520493230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935018105488424960/j4_7oVGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12972,
+          "following_count": 20,
+          "like_count": 4572,
+          "listed_count": 37,
+          "media_count": 401,
+          "tweet_count": 3213
+        },
+        "username": "nj644364835923",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T11:32:20.000Z",
+        "description": "客服小祥，随时待命！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65498414",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/65498414",
+                "start": 0,
+                "url": "https://t.co/DMVUKzCZrI"
+              }
+            ]
+          }
+        },
+        "id": "1820060114021457920",
+        "location": "你头顶",
+        "name": "阿mi（重生版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961494469112729600/OA06opHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 40,
+          "like_count": 1128,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/DMVUKzCZrI",
+        "username": "lzukuku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1975520306849591561",
+    "created_at": "2025-10-07T16:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T17:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975599356524089665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1897310221615374336",
+          "start": 0,
+          "username": "Diner_310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975599356524089665",
+    "in_reply_to_user_id": "1897310221615374336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975590297863082193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diner_310 实则是奖励🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1975520306849591561",
+        "created_at": "2025-10-07T16:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T17:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975599356524089665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1897310221615374336",
+              "start": 0,
+              "username": "Diner_310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975599356524089665",
+        "in_reply_to_user_id": "1897310221615374336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975590297863082193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diner_310 实则是奖励🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897310221615374336",
+        "conversation_id": "1975520306849591561",
+        "created_at": "2025-10-07T15:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975590297863082193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975590297863082193",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975520306849591561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 真实写照，还缺一顿毒打😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 66,
+          "like_count": 6025,
+          "listed_count": 5,
+          "media_count": 97,
+          "tweet_count": 2004
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:36:44.000Z",
+        "description": "brat⭕k9🌱粗口重度依賴➗夢到什麼發什麼🐈‍⬛",
+        "id": "1897310221615374336",
+        "name": "學妹",
+        "pinned_tweet_id": "1971537596808630338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971046805774401542/w6mckUad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 88,
+          "like_count": 1324,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 160
+        },
+        "username": "Diner_310",
+        "verified": false
+      }
+    ]
+  }
+}

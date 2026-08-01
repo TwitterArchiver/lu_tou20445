@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989665087536410624",
+        "3_1989665087544856576",
+        "3_1989665087557357568",
+        "3_1989665087549026304"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989665188531089528",
+    "created_at": "2025-11-15T12:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T13:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989665188531089528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BScOkrufql",
+          "end": 69,
+          "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+          "media_key": "3_1989665087536410624",
+          "start": 46,
+          "url": "https://t.co/BScOkrufql"
+        },
+        {
+          "display_url": "pic.x.com/BScOkrufql",
+          "end": 69,
+          "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+          "media_key": "3_1989665087544856576",
+          "start": 46,
+          "url": "https://t.co/BScOkrufql"
+        },
+        {
+          "display_url": "pic.x.com/BScOkrufql",
+          "end": 69,
+          "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+          "media_key": "3_1989665087557357568",
+          "start": 46,
+          "url": "https://t.co/BScOkrufql"
+        },
+        {
+          "display_url": "pic.x.com/BScOkrufql",
+          "end": 69,
+          "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+          "media_key": "3_1989665087549026304",
+          "start": 46,
+          "url": "https://t.co/BScOkrufql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989665188531089528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和我的烧鸡面鸡成功，皮脆肉嫩多汁，还发现了家小酒馆，一杯 shot 一杯清饮完美结束今天🥰 https://t.co/BScOkrufql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989665087536410624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y12vyasAAcYSb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1989665087544856576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y12v0bkAAuvMl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989665087557357568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y12v3aUAA4ndQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989665087549026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5y12v1bMAAB5F-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989665087536410624",
+            "3_1989665087544856576",
+            "3_1989665087557357568",
+            "3_1989665087549026304"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989665188531089528",
+        "created_at": "2025-11-15T12:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T13:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989665188531089528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BScOkrufql",
+              "end": 69,
+              "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+              "media_key": "3_1989665087536410624",
+              "start": 46,
+              "url": "https://t.co/BScOkrufql"
+            },
+            {
+              "display_url": "pic.x.com/BScOkrufql",
+              "end": 69,
+              "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+              "media_key": "3_1989665087544856576",
+              "start": 46,
+              "url": "https://t.co/BScOkrufql"
+            },
+            {
+              "display_url": "pic.x.com/BScOkrufql",
+              "end": 69,
+              "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+              "media_key": "3_1989665087557357568",
+              "start": 46,
+              "url": "https://t.co/BScOkrufql"
+            },
+            {
+              "display_url": "pic.x.com/BScOkrufql",
+              "end": 69,
+              "expanded_url": "https://x.com/lu_tou20445/status/1989665188531089528/photo/1",
+              "media_key": "3_1989665087549026304",
+              "start": 46,
+              "url": "https://t.co/BScOkrufql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989665188531089528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和我的烧鸡面鸡成功，皮脆肉嫩多汁，还发现了家小酒馆，一杯 shot 一杯清饮完美结束今天🥰 https://t.co/BScOkrufql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 74,
+          "like_count": 8737,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2715
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

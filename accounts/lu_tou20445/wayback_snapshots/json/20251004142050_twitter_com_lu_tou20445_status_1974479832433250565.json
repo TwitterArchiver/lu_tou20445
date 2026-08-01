@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1974428562804654297",
+    "created_at": "2025-10-04T14:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T15:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974479832433250565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante34872865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974479832433250565",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974428562804654297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante34872865 吃好了，多谢主理人🙏🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974428487109992448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aUP4CaYAAPuZv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974428487093243904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aUP3-a0AATGdC.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974428487110004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aUP4CakAAxnpV.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974428487114178560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aUP4DaQAANZeN.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1974428562804654297",
+        "created_at": "2025-10-04T14:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T15:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974479832433250565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante34872865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974479832433250565",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974428562804654297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante34872865 吃好了，多谢主理人🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974428487109992448",
+            "3_1974428487093243904",
+            "3_1974428487110004736",
+            "3_1974428487114178560"
+          ]
+        },
+        "author_id": "1217846927036837890",
+        "conversation_id": "1974428562804654297",
+        "created_at": "2025-10-04T10:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T11:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974428562804654297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnSBq5Oe84",
+              "end": 34,
+              "expanded_url": "https://x.com/Andante34872865/status/1974428562804654297/photo/1",
+              "media_key": "3_1974428487109992448",
+              "start": 11,
+              "url": "https://t.co/FnSBq5Oe84"
+            },
+            {
+              "display_url": "pic.x.com/FnSBq5Oe84",
+              "end": 34,
+              "expanded_url": "https://x.com/Andante34872865/status/1974428562804654297/photo/1",
+              "media_key": "3_1974428487093243904",
+              "start": 11,
+              "url": "https://t.co/FnSBq5Oe84"
+            },
+            {
+              "display_url": "pic.x.com/FnSBq5Oe84",
+              "end": 34,
+              "expanded_url": "https://x.com/Andante34872865/status/1974428562804654297/photo/1",
+              "media_key": "3_1974428487110004736",
+              "start": 11,
+              "url": "https://t.co/FnSBq5Oe84"
+            },
+            {
+              "display_url": "pic.x.com/FnSBq5Oe84",
+              "end": 34,
+              "expanded_url": "https://x.com/Andante34872865/status/1974428562804654297/photo/1",
+              "media_key": "3_1974428487114178560",
+              "start": 11,
+              "url": "https://t.co/FnSBq5Oe84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974428562804654297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 256,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姐狗就是最屌的！！！ https://t.co/FnSBq5Oe84"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 66,
+          "like_count": 5619,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 1939
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "性别男/私信已关，请不要给我发生殖器官！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andante75279",
+                "end": 23,
+                "expanded_url": "https://ngl.link/andante75279",
+                "start": 0,
+                "url": "https://t.co/rmsDh4OtVV"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1970792758362411145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973628807291740161/O3Au6dtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 170,
+          "like_count": 7547,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/rmsDh4OtVV",
+        "username": "Andante34872865",
+        "verified": false
+      }
+    ]
+  }
+}

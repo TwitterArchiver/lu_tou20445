@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953276679809368064"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953276690496475621",
+    "created_at": "2025-08-07T02:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T03:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953276690496475621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UL7GZdhwWn",
+          "end": 102,
+          "expanded_url": "https://x.com/lu_tou20445/status/1953276690496475621/photo/1",
+          "media_key": "3_1953276679809368064",
+          "start": 79,
+          "url": "https://t.co/UL7GZdhwWn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953276690496475621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手滑点进去一个满是怨气的社群，给人一种买廉价充气娃娃润滑半天扎不进去急眼了在房间里狂顶结果气球爆炸炸到魔丸的感觉。怪不得会对这个世界有很多怨言（我就这个表情 https://t.co/UL7GZdhwWn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_1953276679809368064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxtuypgXgAAN2Kq.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953276679809368064"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953276690496475621",
+        "created_at": "2025-08-07T02:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953276690496475621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UL7GZdhwWn",
+              "end": 102,
+              "expanded_url": "https://x.com/lu_tou20445/status/1953276690496475621/photo/1",
+              "media_key": "3_1953276679809368064",
+              "start": 79,
+              "url": "https://t.co/UL7GZdhwWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953276690496475621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手滑点进去一个满是怨气的社群，给人一种买廉价充气娃娃润滑半天扎不进去急眼了在房间里狂顶结果气球爆炸炸到魔丸的感觉。怪不得会对这个世界有很多怨言（我就这个表情 https://t.co/UL7GZdhwWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 35,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1999698921946558581",
+    "created_at": "2025-12-13T15:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T16:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999857603430773164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1933377400806785024",
+          "start": 0,
+          "username": "dcy_xn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999857603430773164",
+    "in_reply_to_user_id": "1933377400806785024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999857141243584972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dcy_xn 愿者上钩😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1999698921946558581",
+        "created_at": "2025-12-13T15:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999857603430773164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1933377400806785024",
+              "start": 0,
+              "username": "dcy_xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999857603430773164",
+        "in_reply_to_user_id": "1933377400806785024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999857141243584972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dcy_xn 愿者上钩😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933377400806785024",
+        "conversation_id": "1999698921946558581",
+        "created_at": "2025-12-13T15:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999857141243584972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999857141243584972",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999698921946558581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你骗我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 68,
+          "like_count": 11220,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 3244
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-13T04:14:41.000Z",
+        "description": "INTP/无🚪无线下",
+        "id": "1933377400806785024",
+        "name": "欣欣爱摇尾巴",
+        "pinned_tweet_id": "1996985640232407466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933377973773824000/jiIO7JBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 122,
+          "like_count": 392,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 94
+        },
+        "username": "dcy_xn",
+        "verified": false
+      }
+    ]
+  }
+}

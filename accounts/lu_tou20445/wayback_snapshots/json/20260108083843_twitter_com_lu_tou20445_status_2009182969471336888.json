@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009146045884940471",
+    "created_at": "2026-01-08T08:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009182969471336888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1743648415521685504",
+          "start": 0,
+          "username": "Tcy11121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009182969471336888",
+    "in_reply_to_user_id": "1743648415521685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009171069857591689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tcy11121 久到已经忘了自己还有第一性征了🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009146045884940471",
+        "created_at": "2026-01-08T08:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009182969471336888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1743648415521685504",
+              "start": 0,
+              "username": "Tcy11121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009182969471336888",
+        "in_reply_to_user_id": "1743648415521685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009171069857591689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tcy11121 久到已经忘了自己还有第一性征了🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743648415521685504",
+        "conversation_id": "2009146045884940471",
+        "created_at": "2026-01-08T07:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009171069857591689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009171069857591689",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009146045884940471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 😯好久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 68,
+          "like_count": 14054,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T14:59:21.000Z",
+        "description": "欢迎你来！不是黄推！看得开心的话 可以请我吃个蛋糕吗^ ^",
+        "id": "1743648415521685504",
+        "location": "不加v (^^)纯分享照片",
+        "name": "yú～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995161436192948224/RmqEs7ds_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9676,
+          "following_count": 202,
+          "like_count": 2143,
+          "listed_count": 31,
+          "media_count": 92,
+          "tweet_count": 1331
+        },
+        "username": "Tcy11121",
+        "verified": false
+      }
+    ]
+  }
+}

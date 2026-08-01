@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2027389906092438005",
+    "created_at": "2026-02-28T12:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027720205255012601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910238065576357888",
+          "start": 0,
+          "username": "tequ1la_sunsett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027720205255012601",
+    "in_reply_to_user_id": "1910238065576357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027719532551532691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tequ1la_sunsett 让左边那哥们架弹弓上炸了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2027389906092438005",
+        "created_at": "2026-02-28T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027720205255012601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910238065576357888",
+              "start": 0,
+              "username": "tequ1la_sunsett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027720205255012601",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027719532551532691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tequ1la_sunsett 让左边那哥们架弹弓上炸了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910238065576357888",
+        "conversation_id": "2027389906092438005",
+        "created_at": "2026-02-28T12:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027719532551532691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027719532551532691",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027658946945945666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我多邻国绿鸟上哪去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 72,
+          "like_count": 17302,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 5160
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "或是我们一遍遍地往天上荡",
+        "id": "1910238065576357888",
+        "location": "Revachol",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1959615234781642843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000164112521945088/fDKzqjZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 147,
+          "like_count": 15131,
+          "listed_count": 4,
+          "media_count": 311,
+          "tweet_count": 7069
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      }
+    ]
+  }
+}

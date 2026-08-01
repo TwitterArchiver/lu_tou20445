@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2025473706949070857",
+    "created_at": "2026-02-22T13:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025570943566049291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874922985567784960",
+          "start": 0,
+          "username": "xihinansyo"
+        },
+        {
+          "end": 26,
+          "id": "1981722018312806400",
+          "start": 12,
+          "username": "kitten718miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025570943566049291",
+    "in_reply_to_user_id": "874922985567784960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025569995996991950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihinansyo @kitten718miao 那也是熬了👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2025473706949070857",
+        "created_at": "2026-02-22T13:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025570943566049291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            },
+            {
+              "end": 26,
+              "id": "1981722018312806400",
+              "start": 12,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025570943566049291",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025569995996991950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo @kitten718miao 那也是熬了👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874922985567784960",
+        "conversation_id": "2025473706949070857",
+        "created_at": "2026-02-22T13:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025569995996991950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981722018312806400",
+              "start": 0,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025569995996991950",
+        "in_reply_to_user_id": "1981722018312806400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025484842490835089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitten718miao 醒了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 69,
+          "like_count": 16496,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 4943
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "平安喜乐 幸福安康｜避难所",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "2009928568902693286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014049599795703809/TnHvEIFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 178,
+          "like_count": 20442,
+          "listed_count": 1,
+          "media_count": 373,
+          "tweet_count": 9191
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "Be my lover.｜猫的碎碎念 @laraaa718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "laraaa718"
+              }
+            ]
+          }
+        },
+        "id": "1981722018312806400",
+        "name": "猫睡醒了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024911816070234112/TUSxXY5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 74,
+          "like_count": 976,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 962
+        },
+        "username": "kitten718miao",
+        "verified": false
+      }
+    ]
+  }
+}

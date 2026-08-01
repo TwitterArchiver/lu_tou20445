@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969374321371201537"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1969374336332284263",
+    "created_at": "2025-09-20T12:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969374336332284263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWLlGiwbRT",
+          "end": 83,
+          "expanded_url": "https://x.com/lu_tou20445/status/1969374336332284263/photo/1",
+          "media_key": "3_1969374321371201537",
+          "start": 60,
+          "url": "https://t.co/xWLlGiwbRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969374336332284263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这几天重温了下《若能与你共乘海浪之上》，可能也很巧，跟我原来独处的时候一个人很喜欢想的场景很像，也是能每次都完美代入🫠 https://t.co/xWLlGiwbRT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1575,
+        "media_key": "3_1969374321371201537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SfgtcbQAEOZ10.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969374321371201537"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1969374336332284263",
+        "created_at": "2025-09-20T12:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969374336332284263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWLlGiwbRT",
+              "end": 83,
+              "expanded_url": "https://x.com/lu_tou20445/status/1969374336332284263/photo/1",
+              "media_key": "3_1969374321371201537",
+              "start": 60,
+              "url": "https://t.co/xWLlGiwbRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969374336332284263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天重温了下《若能与你共乘海浪之上》，可能也很巧，跟我原来独处的时候一个人很喜欢想的场景很像，也是能每次都完美代入🫠 https://t.co/xWLlGiwbRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 63,
+          "like_count": 4418,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1733
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

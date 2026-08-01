@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008807310345597363",
+    "created_at": "2026-01-07T07:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T08:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008807988153438472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960382302724452352",
+          "start": 0,
+          "username": "ji_yu81718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008807988153438472",
+    "in_reply_to_user_id": "1960382302724452352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008807310345597363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_yu81718 对方这么说话已经开始难受了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008807310345597363].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008807310345597363",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008807310345597363"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008807310345597363",
+        "created_at": "2026-01-07T07:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008807988153438472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960382302724452352",
+              "start": 0,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008807988153438472",
+        "in_reply_to_user_id": "1960382302724452352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008807310345597363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_yu81718 对方这么说话已经开始难受了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1317,
+          "following_count": 68,
+          "like_count": 13964,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 4027
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T16:42:26.000Z",
+        "description": "不要被命运找到 @tequ1la_sunsett",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "tequ1la_sunsett"
+              }
+            ]
+          }
+        },
+        "id": "1960382302724452352",
+        "name": "那你现在是不是已经被他们淹没",
+        "pinned_tweet_id": "1988507303105188161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005463053115305985/0Fe8FvfB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 142,
+          "like_count": 2415,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1774
+        },
+        "username": "ji_yu81718",
+        "verified": false
+      }
+    ]
+  }
+}

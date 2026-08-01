@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963637780967539039",
+    "created_at": "2025-09-05T00:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T01:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963768444748452342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961537369473245184",
+          "start": 0,
+          "username": "li3844087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963768444748452342",
+    "in_reply_to_user_id": "1961537369473245184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963637780967539039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li3844087 我说个词，你家床像国道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1849,
+        "media_key": "3_1963637770678931456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0A-JgzbkAAdgMZ.jpg",
+        "width": 1387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963637780967539039",
+        "created_at": "2025-09-05T00:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T01:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963768444748452342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961537369473245184",
+              "start": 0,
+              "username": "li3844087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963768444748452342",
+        "in_reply_to_user_id": "1961537369473245184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963637780967539039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li3844087 我说个词，你家床像国道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963637770678931456"
+          ]
+        },
+        "author_id": "1961537369473245184",
+        "conversation_id": "1963637780967539039",
+        "created_at": "2025-09-04T16:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963637780967539039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybGynR3Xne",
+              "end": 32,
+              "expanded_url": "https://x.com/li3844087/status/1963637780967539039/photo/1",
+              "media_key": "3_1963637770678931456",
+              "start": 9,
+              "url": "https://t.co/ybGynR3Xne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963637780967539039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们觉得它像什么 https://t.co/ybGynR3Xne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 62,
+          "like_count": 2622,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1534
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T21:12:15.000Z",
+        "description": "爱好音乐 健身 画画丨互关交朋友请直接私信！看到一定回！我很好说话！丨https://t.co/bEkUepXebh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%95%87%E7%8…",
+                "end": 58,
+                "expanded_url": "https://ngl.link/%E9%95%87%E7%81%B5",
+                "start": 35,
+                "url": "https://t.co/bEkUepXebh"
+              }
+            ]
+          }
+        },
+        "id": "1961537369473245184",
+        "location": "南昌",
+        "name": "镇灵",
+        "pinned_tweet_id": "1962678460448751922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962330357443035136/5plSLBYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 67,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 138
+        },
+        "username": "li3844087",
+        "verified": false
+      }
+    ]
+  }
+}

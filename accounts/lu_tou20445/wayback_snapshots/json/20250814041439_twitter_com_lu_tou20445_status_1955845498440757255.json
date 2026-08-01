@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955840741886058945",
+    "created_at": "2025-08-14T04:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T05:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955845498440757255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944339581341696000",
+          "start": 0,
+          "username": "price9080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955845498440757255",
+    "in_reply_to_user_id": "1944339581341696000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955840741886058945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@price9080 主要是没看出来哪里算暧昧，难道是咬吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_1955840738509643777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GySKygga4AE0XJ6.jpg",
+        "width": 718
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955840741886058945",
+        "created_at": "2025-08-14T04:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T05:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955845498440757255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944339581341696000",
+              "start": 0,
+              "username": "price9080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955845498440757255",
+        "in_reply_to_user_id": "1944339581341696000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955840741886058945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@price9080 主要是没看出来哪里算暧昧，难道是咬吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955840738509643777"
+          ]
+        },
+        "author_id": "1944339581341696000",
+        "conversation_id": "1955840741886058945",
+        "created_at": "2025-08-14T03:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T04:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955840741886058945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iGEfAH8wN",
+              "end": 44,
+              "expanded_url": "https://x.com/price9080/status/1955840741886058945/photo/1",
+              "media_key": "3_1955840738509643777",
+              "start": 21,
+              "url": "https://t.co/8iGEfAH8wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955840741886058945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样算朋友还是暧昧对象啊^-^我服了寶寶 https://t.co/8iGEfAH8wN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 42,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T10:14:54.000Z",
+        "description": "是個愛幻想的悲慘地雷女✡\n                                                    ✟恐慌/無差別傷害✟",
+        "id": "1944339581341696000",
+        "name": "萌え雨",
+        "pinned_tweet_id": "1946623957052076177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946962339275608064/zbyo9PWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 65,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 397
+        },
+        "username": "price9080",
+        "verified": false
+      }
+    ]
+  }
+}

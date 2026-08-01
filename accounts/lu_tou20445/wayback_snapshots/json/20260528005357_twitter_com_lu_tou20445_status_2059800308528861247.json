@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059660792648077313"
+      ],
+      "media_source_tweet_id": [
+        "2059660803322581468"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2059800308528861247",
+    "created_at": "2026-05-28T00:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T01:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059800308528861247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2059659683154067463",
+          "start": 3,
+          "username": "Yuuu66888"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B93wbCYfBz",
+          "end": 81,
+          "expanded_url": "https://x.com/Yuuu66888/status/2059660803322581468/photo/1",
+          "media_key": "3_2059660792648077313",
+          "start": 58,
+          "url": "https://t.co/B93wbCYfBz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059800308528861247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059660803322581468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuuu66888: 朋友们请删除这个号，这个号被盗了，如果这个号私信了一些东西的话请不要点开！不要相信！ https://t.co/B93wbCYfBz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2059660792648077313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVilA-WkAE1aNy.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059660792648077313"
+          ],
+          "media_source_tweet_id": [
+            "2059660803322581468"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2059800308528861247",
+        "created_at": "2026-05-28T00:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T01:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059800308528861247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059659683154067463",
+              "start": 3,
+              "username": "Yuuu66888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B93wbCYfBz",
+              "end": 81,
+              "expanded_url": "https://x.com/Yuuu66888/status/2059660803322581468/photo/1",
+              "media_key": "3_2059660792648077313",
+              "start": 58,
+              "url": "https://t.co/B93wbCYfBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059800308528861247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059660803322581468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuuu66888: 朋友们请删除这个号，这个号被盗了，如果这个号私信了一些东西的话请不要点开！不要相信！ https://t.co/B93wbCYfBz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059660792648077313"
+          ]
+        },
+        "author_id": "2059659683154067463",
+        "conversation_id": "2059660803322581468",
+        "created_at": "2026-05-27T15:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059660803322581468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B93wbCYfBz",
+              "end": 66,
+              "expanded_url": "https://x.com/Yuuu66888/status/2059660803322581468/photo/1",
+              "media_key": "3_2059660792648077313",
+              "start": 43,
+              "url": "https://t.co/B93wbCYfBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059660803322581468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1177,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们请删除这个号，这个号被盗了，如果这个号私信了一些东西的话请不要点开！不要相信！ https://t.co/B93wbCYfBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 70,
+          "like_count": 20966,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 5974
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-27T15:36:26.000Z",
+        "description": "",
+        "id": "2059659683154067463",
+        "name": "Yuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059660147266347010/R6i6wWYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 22,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "Yuuu66888",
+        "verified": false
+      }
+    ]
+  }
+}

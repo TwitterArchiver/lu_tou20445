@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955821844684267842",
+    "created_at": "2025-08-14T02:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955826574894490106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870918717607120896",
+          "start": 0,
+          "username": "ssw1235394"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955826574894490106",
+    "in_reply_to_user_id": "1870918717607120896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955826150028259832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ssw1235394 好耶！我全职业证明终于有用武之地了，我将开着我的蝙蝠车狠狠出街"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1955826143497740294",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyR9g92a4AYqx4Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955821844684267842",
+        "created_at": "2025-08-14T02:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955826574894490106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870918717607120896",
+              "start": 0,
+              "username": "ssw1235394"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955826574894490106",
+        "in_reply_to_user_id": "1870918717607120896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955826150028259832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ssw1235394 好耶！我全职业证明终于有用武之地了，我将开着我的蝙蝠车狠狠出街"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955826143497740294"
+          ]
+        },
+        "author_id": "1870918717607120896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1955821844684267842",
+        "created_at": "2025-08-14T02:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955826150028259832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PUtSGv58eU",
+              "end": 50,
+              "expanded_url": "https://x.com/ssw1235394/status/1955826150028259832/photo/1",
+              "media_key": "3_1955826143497740294",
+              "start": 27,
+              "url": "https://t.co/PUtSGv58eU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955826150028259832",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955824479772319957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 可以！这个超好玩啊啊啊啊啊 https://t.co/PUtSGv58eU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 41,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T19:46:09.000Z",
+        "description": "さよなら夏 君との思い出",
+        "id": "1870918717607120896",
+        "location": "在你心里",
+        "name": "速速蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949401775553036288/WVsJY3s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 247,
+          "like_count": 5961,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 646
+        },
+        "username": "ssw1235394",
+        "verified": false
+      }
+    ]
+  }
+}

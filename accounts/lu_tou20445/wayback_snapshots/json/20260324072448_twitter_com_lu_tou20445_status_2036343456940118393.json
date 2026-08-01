@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2036138634710229444",
+    "created_at": "2026-03-24T07:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036343456940118393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1535592955758759936",
+          "start": 0,
+          "username": "ningmen61121106"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036343456940118393",
+    "in_reply_to_user_id": "1535592955758759936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036343174122315993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ningmen61121106 怎么连吃带拿呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2036138634710229444",
+        "created_at": "2026-03-24T07:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036343456940118393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1535592955758759936",
+              "start": 0,
+              "username": "ningmen61121106"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036343456940118393",
+        "in_reply_to_user_id": "1535592955758759936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036343174122315993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ningmen61121106 怎么连吃带拿呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535592955758759936",
+        "conversation_id": "2036138634710229444",
+        "created_at": "2026-03-24T07:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036343174122315993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036343174122315993",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036260473960890409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 先猛猛地做，然后抱在一起贤者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 72,
+          "like_count": 19147,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 5573
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T12:01:16.000Z",
+        "description": "桃李春风一杯酒，江湖夜雨十年灯\n有猫无狗/有对象/喜欢腹肌胸肌/偶尔健身/拖延症/很宅😢/私信都会回😋请和我聊天",
+        "id": "1535592955758759936",
+        "location": "California, USA",
+        "name": "想喝茶百道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990413393480880128/R_AQwfvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 233,
+          "like_count": 669,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 288
+        },
+        "username": "ningmen61121106",
+        "verified": false
+      }
+    ]
+  }
+}

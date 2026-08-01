@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1952578489976328340",
+    "created_at": "2025-08-05T04:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T05:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952594689925755111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941449280344281088",
+          "start": 0,
+          "username": "Paisherenow_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952594689925755111",
+    "in_reply_to_user_id": "1941449280344281088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952578489976328340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paisherenow_w 下次帮我也骂msk两句，他无缘无故封我一个号我记他一辈子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1952578489976328340",
+        "created_at": "2025-08-05T04:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T05:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952594689925755111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941449280344281088",
+              "start": 0,
+              "username": "Paisherenow_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952594689925755111",
+        "in_reply_to_user_id": "1941449280344281088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952578489976328340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paisherenow_w 下次帮我也骂msk两句，他无缘无故封我一个号我记他一辈子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941449280344281088",
+        "conversation_id": "1952578489976328340",
+        "created_at": "2025-08-05T03:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T04:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952578489976328340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952578489976328340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被这个msk做局了，听什么都卡😡😡😡😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T10:49:39.000Z",
+        "description": "Love wins all｜我上推就是为了看黄🥵和发牢骚😅",
+        "id": "1941449280344281088",
+        "location": "space",
+        "name": "Patricia Stryker（准备8️⃣🈷️旅游.ver）",
+        "pinned_tweet_id": "1945161425489424841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941449455733002240/FdwmugA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 80,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 561
+        },
+        "username": "Paisherenow_w",
+        "verified": false
+      }
+    ]
+  }
+}

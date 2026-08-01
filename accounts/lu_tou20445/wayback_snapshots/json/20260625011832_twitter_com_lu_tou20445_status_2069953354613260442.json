@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2069927598822486222",
+    "created_at": "2026-06-25T01:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T02:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069953354613260442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069953354613260442",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069927598822486222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@77ninini 这期有感觉奥👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2069927571815280640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLncKNzWMAAl24M.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2069927598822486222",
+        "created_at": "2026-06-25T01:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069953354613260442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069953354613260442",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069927598822486222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@77ninini 这期有感觉奥👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069927571815280640"
+          ]
+        },
+        "author_id": "1907355599232274432",
+        "conversation_id": "2069927598822486222",
+        "created_at": "2026-06-24T23:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069927598822486222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0OC1h0aDgw",
+              "end": 23,
+              "expanded_url": "https://x.com/77ninini/status/2069927598822486222/photo/1",
+              "media_key": "3_2069927571815280640",
+              "start": 0,
+              "url": "https://t.co/0OC1h0aDgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069927598822486222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/0OC1h0aDgw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 70,
+          "like_count": 21720,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 6202
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "多数都是一些照片和吐糟，不喜欢屏蔽就好\n非常非常喜欢猫，也喜欢对小动物好的人💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069900481955012608/3elFJSKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 182,
+          "like_count": 54936,
+          "listed_count": 2,
+          "media_count": 921,
+          "tweet_count": 15687
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

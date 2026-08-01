@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004459054484390016",
+    "created_at": "2025-12-27T05:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004794121945272728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700431492575592448",
+          "start": 0,
+          "username": "mnghww145737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004794121945272728",
+    "in_reply_to_user_id": "1700431492575592448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004792137486049661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnghww145737 怎么你们都看到过身边人在玩🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004459054484390016",
+        "created_at": "2025-12-27T05:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004794121945272728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700431492575592448",
+              "start": 0,
+              "username": "mnghww145737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004794121945272728",
+        "in_reply_to_user_id": "1700431492575592448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004792137486049661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnghww145737 怎么你们都看到过身边人在玩🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700431492575592448",
+        "conversation_id": "2004459054484390016",
+        "created_at": "2025-12-27T05:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004792137486049661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004792137486049661",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004459054484390016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 一个办公室的女同事在玩，互相也知道对方在玩推，但是互相绝口不提"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 72,
+          "like_count": 12667,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T08:51:24.000Z",
+        "description": "窃钩者诛，窃国者为诸侯",
+        "id": "1700431492575592448",
+        "name": "山坡羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764580890397822976/Kmm2wi3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 179,
+          "like_count": 6988,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1825
+        },
+        "username": "mnghww145737",
+        "verified": false
+      }
+    ]
+  }
+}

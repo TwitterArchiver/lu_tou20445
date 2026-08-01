@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955282950628495536",
+    "created_at": "2025-08-12T15:17:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T16:17:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955287493143630052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952985552845959168",
+          "start": 0,
+          "username": "YM00991166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955287493143630052",
+    "in_reply_to_user_id": "1952985552845959168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955286128673554880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YM00991166 bro听起来像切换的时候忘了怎么呼吸晕过去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955282950628495536",
+        "created_at": "2025-08-12T15:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955287493143630052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952985552845959168",
+              "start": 0,
+              "username": "YM00991166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955287493143630052",
+        "in_reply_to_user_id": "1952985552845959168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955286128673554880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YM00991166 bro听起来像切换的时候忘了怎么呼吸晕过去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952985552845959168",
+        "conversation_id": "1955282950628495536",
+        "created_at": "2025-08-12T15:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955286128673554880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955286128673554880",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955284012835991721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我有天晚上想怎么样把手动呼吸变成自动呼吸 结果试着试着睡着了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 40,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T06:50:25.000Z",
+        "description": "ISFJ 欢迎互关 说话直 性格内向",
+        "id": "1952985552845959168",
+        "location": "爱毛球",
+        "name": "玉米",
+        "pinned_tweet_id": "1952999802293371059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952989401333809152/PZsXI-oe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 31,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 65
+        },
+        "username": "YM00991166",
+        "verified": false
+      }
+    ]
+  }
+}

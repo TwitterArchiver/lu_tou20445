@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1985750486268723241",
+    "created_at": "2025-11-05T02:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T03:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985895957696037210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985895957696037210",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985884657351868551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 那我们的生活在时间线上简单重合了一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985884537012752384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49HdvmWEAAyH8j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1985750486268723241",
+        "created_at": "2025-11-05T02:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985895957696037210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985895957696037210",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985884657351868551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 那我们的生活在时间线上简单重合了一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985884537012752384"
+          ]
+        },
+        "author_id": "1904003547756146688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1985750486268723241",
+        "created_at": "2025-11-05T01:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T02:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985884657351868551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5tGaIaqVk",
+              "end": 46,
+              "expanded_url": "https://x.com/kkt12138/status/1985884657351868551/photo/1",
+              "media_key": "3_1985884537012752384",
+              "start": 23,
+              "url": "https://t.co/d5tGaIaqVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985884657351868551",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985750486268723241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 老师 我也吃过这个 https://t.co/d5tGaIaqVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 73,
+          "like_count": 7844,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 2444
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "多喝热水早点睡",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982644211867426816/5xq2qwKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 146,
+          "like_count": 1031,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 405
+        },
+        "username": "kkt12138",
+        "verified": false
+      }
+    ]
+  }
+}

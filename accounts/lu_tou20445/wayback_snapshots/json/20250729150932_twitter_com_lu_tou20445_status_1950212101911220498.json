@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950206634049097890",
+    "created_at": "2025-07-29T15:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-29T16:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950212101911220498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833807027887595520",
+          "start": 0,
+          "username": "coldheart0077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950212101911220498",
+    "in_reply_to_user_id": "1833807027887595520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950206634049097890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldheart0077 没有想过创造羁绊就不会深陷，想创造羁绊就要承受掉眼泪的风险"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950206634049097890",
+        "created_at": "2025-07-29T15:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T16:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950212101911220498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833807027887595520",
+              "start": 0,
+              "username": "coldheart0077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950212101911220498",
+        "in_reply_to_user_id": "1833807027887595520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950206634049097890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldheart0077 没有想过创造羁绊就不会深陷，想创造羁绊就要承受掉眼泪的风险"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833807027887595520",
+        "conversation_id": "1950206634049097890",
+        "created_at": "2025-07-29T14:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T15:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950206634049097890"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "每日碎碎念"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950206634049097890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "存在一个悖论：理解情感创伤的深度和规避风险的能力往往是互斥的\n那些最能规避风险的人，通常是因为未曾真正投入；而真正理解爱的人，必然要承受赤脚走过碎玻璃的可能\n好像从来不存在一个“全知上帝视角”的完美解\n#每日碎碎念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T09:57:33.000Z",
+        "description": "时常发疯的infj/抽象先锋/国产正版纯爱战士/163 62不是排骨精也不是肌肉战士",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/coldheart0077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/coldheart0077",
+                "start": 0,
+                "url": "https://t.co/PTZemDWLRW"
+              }
+            ]
+          }
+        },
+        "id": "1833807027887595520",
+        "location": "beijing",
+        "name": "coldheart0077",
+        "pinned_tweet_id": "1948054014505148846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884679639295307776/TP3TiVIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 88
+        },
+        "url": "https://t.co/PTZemDWLRW",
+        "username": "coldheart0077",
+        "verified": false
+      }
+    ]
+  }
+}

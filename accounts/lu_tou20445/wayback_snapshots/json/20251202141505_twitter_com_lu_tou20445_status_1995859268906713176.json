@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995858468402782481",
+    "created_at": "2025-12-02T14:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995859268906713176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1970310825501171713",
+          "start": 0,
+          "username": "hahaha8208820"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995859268906713176",
+    "in_reply_to_user_id": "1970310825501171713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995858994599235713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahaha8208820 对的对的，哪怕只是简单的勾勾手指"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-02T14:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995859268906713176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1970310825501171713",
+              "start": 0,
+              "username": "hahaha8208820"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995859268906713176",
+        "in_reply_to_user_id": "1970310825501171713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995858994599235713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahaha8208820 对的对的，哪怕只是简单的勾勾手指"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970310825501171713",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-02T14:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995858994599235713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995858994599235713",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995858468402782481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我懂🥲我可太懂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 69,
+          "like_count": 10171,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 3065
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T02:14:55.000Z",
+        "description": "无聊的话找我聊聊天    不过我擅长把天聊死     只回有礼貌的私信 我学着一个人 （盗图司马）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tiantian820882…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tiantian82088201",
+                "start": 0,
+                "url": "https://t.co/4iQdWZ4mn0"
+              }
+            ]
+          }
+        },
+        "id": "1970310825501171713",
+        "location": "Hong Kong",
+        "name": "哈哈（我不瘦 我不瘦 我不瘦）",
+        "pinned_tweet_id": "1972186496276066547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971935530721087488/CbfQtykL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 42,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/4iQdWZ4mn0",
+        "username": "hahaha8208820",
+        "verified": false
+      }
+    ]
+  }
+}

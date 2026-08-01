@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955547268175761549",
+    "created_at": "2025-08-13T09:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955561853410799916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1554830289897107456",
+          "start": 0,
+          "username": "naiyou38206277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955561853410799916",
+    "in_reply_to_user_id": "1554830289897107456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955547268175761549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyou38206277 🤔你是说你能同时享受两种快乐吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955547268175761549",
+        "created_at": "2025-08-13T09:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955561853410799916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1554830289897107456",
+              "start": 0,
+              "username": "naiyou38206277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955561853410799916",
+        "in_reply_to_user_id": "1554830289897107456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955547268175761549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyou38206277 🤔你是说你能同时享受两种快乐吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554830289897107456",
+        "conversation_id": "1955547268175761549",
+        "created_at": "2025-08-13T08:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955547268175761549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linnyii8964/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/linnyii8964/status/1955488629180281049",
+              "start": 9,
+              "url": "https://t.co/LqvrtBWoq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955547268175761549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955488629180281049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我是小南梁。 https://t.co/LqvrtBWoq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 40,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T14:03:54.000Z",
+        "description": "",
+        "id": "1554830289897107456",
+        "name": "奶油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554846971935961088/W8WOKGs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 45,
+          "like_count": 718,
+          "listed_count": 4,
+          "media_count": 79,
+          "tweet_count": 634
+        },
+        "username": "naiyou38206277",
+        "verified": false
+      }
+    ]
+  }
+}

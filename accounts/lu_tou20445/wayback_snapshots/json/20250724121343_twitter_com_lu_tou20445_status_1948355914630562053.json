@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1899066780829495539",
+    "created_at": "2025-07-24T12:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T13:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948355914630562053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813251535859818498",
+          "start": 0,
+          "username": "iotovoaoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948355914630562053",
+    "in_reply_to_user_id": "1813251535859818498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899066780829495539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iotovoaoro 尊重比爱重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1899066780829495539",
+        "created_at": "2025-07-24T12:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948355914630562053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813251535859818498",
+              "start": 0,
+              "username": "iotovoaoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948355914630562053",
+        "in_reply_to_user_id": "1813251535859818498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899066780829495539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iotovoaoro 尊重比爱重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813251535859818498",
+        "conversation_id": "1899066780829495539",
+        "created_at": "2025-03-10T11:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T12:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899066780829495539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899066780829495539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26678,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "熟悉会滋生轻视"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 92
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T16:37:19.000Z",
+        "description": "当树洞发发心情 碎碎念和照片｜私信会随便翻翻 但是基本不回 我很逃避回消息｜碎碎念巨多 看照片点媒体｜偶尔接推广 自辨非本人",
+        "id": "1813251535859818498",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928285899210563584/l7AyzndJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15372,
+          "following_count": 4,
+          "like_count": 599,
+          "listed_count": 42,
+          "media_count": 70,
+          "tweet_count": 2838
+        },
+        "username": "iotovoaoro",
+        "verified": false
+      }
+    ]
+  }
+}

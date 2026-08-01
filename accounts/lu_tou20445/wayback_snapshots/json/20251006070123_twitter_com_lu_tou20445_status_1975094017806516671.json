@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1974832554525282467",
+    "created_at": "2025-10-06T07:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T08:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975094017806516671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1732273196433653760",
+          "start": 0,
+          "username": "ryderlee184283"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975094017806516671",
+    "in_reply_to_user_id": "1732273196433653760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974947519454142761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ryderlee184283 如果真一起走到幸福门前，希望能跟对方有一起推门的勇气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1974832554525282467",
+        "created_at": "2025-10-06T07:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975094017806516671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1732273196433653760",
+              "start": 0,
+              "username": "ryderlee184283"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975094017806516671",
+        "in_reply_to_user_id": "1732273196433653760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974947519454142761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ryderlee184283 如果真一起走到幸福门前，希望能跟对方有一起推门的勇气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732273196433653760",
+        "conversation_id": "1974832554525282467",
+        "created_at": "2025-10-05T21:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T22:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974947519454142761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974947519454142761",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 472,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974832554525282467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 刚分手啊老大，我真是这样你别骂了😭我真觉得我这个样子会拖累那个幸福的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 66,
+          "like_count": 5791,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T05:38:22.000Z",
+        "description": "我不会说话，所以在这乱说点。",
+        "id": "1732273196433653760",
+        "name": "Empty notes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772691741604454403/gpBVBYpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 505,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 70
+        },
+        "username": "ryderlee184283",
+        "verified": false
+      }
+    ]
+  }
+}

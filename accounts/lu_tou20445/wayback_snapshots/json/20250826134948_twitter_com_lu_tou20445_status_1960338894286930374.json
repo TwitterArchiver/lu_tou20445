@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1960271878238724485",
+    "created_at": "2025-08-26T13:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T14:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960338894286930374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934928841476378624",
+          "start": 0,
+          "username": "uwv1eiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960338894286930374",
+    "in_reply_to_user_id": "1934928841476378624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960335826388500915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwv1eiy 没什么问题，只不过选择变得强大大部分情况下会丢掉性格中柔软的部分甚至人性，要选择温柔就要放弃很多力量，所以说温柔的人才是真的强大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1960271878238724485",
+        "created_at": "2025-08-26T13:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960338894286930374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934928841476378624",
+              "start": 0,
+              "username": "uwv1eiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960338894286930374",
+        "in_reply_to_user_id": "1934928841476378624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960335826388500915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwv1eiy 没什么问题，只不过选择变得强大大部分情况下会丢掉性格中柔软的部分甚至人性，要选择温柔就要放弃很多力量，所以说温柔的人才是真的强大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934928841476378624",
+        "conversation_id": "1960271878238724485",
+        "created_at": "2025-08-26T13:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960335826388500915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960335826388500915",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960273980251906362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 有道理，但我觉得温柔是成为强者才能有资格拥有的品格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 52,
+          "like_count": 1362,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T10:59:34.000Z",
+        "description": "抖音：uwv1eiy / 门槛52",
+        "id": "1934928841476378624",
+        "location": "乌鲁木齐",
+        "name": "换",
+        "pinned_tweet_id": "1956321336936316941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955661827490426880/iqLI2y-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 46,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 118
+        },
+        "username": "uwv1eiy",
+        "verified": false
+      }
+    ]
+  }
+}

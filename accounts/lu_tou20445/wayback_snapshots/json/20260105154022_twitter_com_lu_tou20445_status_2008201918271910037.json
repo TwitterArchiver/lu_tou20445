@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008161106901282854",
+    "created_at": "2026-01-05T15:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T16:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008201918271910037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505782362495668224",
+          "start": 0,
+          "username": "miyuu_72187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008201918271910037",
+    "in_reply_to_user_id": "1505782362495668224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008198018244420034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuu_72187 我现在的问题已经变成工作日没空上了，连新版本一整套合适的武器护石都没刷出来，想上就得熬夜🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-05T15:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008201918271910037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505782362495668224",
+              "start": 0,
+              "username": "miyuu_72187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008201918271910037",
+        "in_reply_to_user_id": "1505782362495668224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008198018244420034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuu_72187 我现在的问题已经变成工作日没空上了，连新版本一整套合适的武器护石都没刷出来，想上就得熬夜🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505782362495668224",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-05T15:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T16:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008198018244420034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008198018244420034",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008161106901282854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 论刷不出想要的材料我也是很抑郁的(＊’͜’ )ʕ𐭩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 68,
+          "like_count": 13856,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 3984
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T05:44:47.000Z",
+        "description": "Miyu、子喻、洛洛 隨喜稱呼/INFP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyuu_72187",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyuu_72187",
+                "start": 0,
+                "url": "https://t.co/b2lc3z3f8x"
+              }
+            ]
+          }
+        },
+        "id": "1505782362495668224",
+        "name": "子喻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005686699461165056/e0yRyOAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 150,
+          "like_count": 6493,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/b2lc3z3f8x",
+        "username": "miyuu_72187",
+        "verified": false
+      }
+    ]
+  }
+}

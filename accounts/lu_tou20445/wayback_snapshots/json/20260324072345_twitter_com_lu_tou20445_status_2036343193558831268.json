@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2036108355866112428",
+    "created_at": "2026-03-24T07:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036343193558831268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893487513479864320",
+          "start": 0,
+          "username": "linn_QY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036343193558831268",
+    "in_reply_to_user_id": "1893487513479864320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036108355866112428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linn_QY 如果是手机或者电脑是苹果的话可以直接用它的备忘录去自动转，很方便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2036108355866112428",
+        "created_at": "2026-03-24T07:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036343193558831268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893487513479864320",
+              "start": 0,
+              "username": "linn_QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036343193558831268",
+        "in_reply_to_user_id": "1893487513479864320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036108355866112428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linn_QY 如果是手机或者电脑是苹果的话可以直接用它的备忘录去自动转，很方便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893487513479864320",
+        "conversation_id": "2036108355866112428",
+        "created_at": "2026-03-23T15:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036108355866112428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036108355866112428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1463,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么实时视频语音转文字且准确率高的软件推荐吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 72,
+          "like_count": 19145,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 5570
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T02:27:17.000Z",
+        "description": "我是纯清水碎碎念｜不聊骚不鉴🐔｜你们可以叫我栗栗或LL👆｜",
+        "id": "1893487513479864320",
+        "name": "linnne",
+        "pinned_tweet_id": "1950377621646373274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949125997045088256/GWYU5dOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 456,
+          "like_count": 8107,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1592
+        },
+        "username": "linn_QY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1960199493397422262",
+    "created_at": "2025-08-27T15:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960723042256216376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668085069418995712",
+          "start": 0,
+          "username": "miki1029333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960723042256216376",
+    "in_reply_to_user_id": "1668085069418995712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960719610644455769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miki1029333 体验到今天还不错😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1960199493397422262",
+        "created_at": "2025-08-27T15:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960723042256216376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668085069418995712",
+              "start": 0,
+              "username": "miki1029333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960723042256216376",
+        "in_reply_to_user_id": "1668085069418995712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960719610644455769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miki1029333 体验到今天还不错😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668085069418995712",
+        "conversation_id": "1960199493397422262",
+        "created_at": "2025-08-27T15:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960719610644455769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960719610644455769",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960199493397422262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 真美食家了😋😋下次照这个点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 54,
+          "like_count": 1421,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T02:37:45.000Z",
+        "description": "秘密基地/别关注🈲/别关注🈲/碎碎碎碎碎碎碎碎碎碎碎碎碎碎碎念/日记本",
+        "id": "1668085069418995712",
+        "name": "糖渍番茄",
+        "pinned_tweet_id": "1959173149716541596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958041666419585028/o5Sx1f9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 78,
+          "like_count": 879,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 495
+        },
+        "username": "miki1029333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956290665689575660",
+    "created_at": "2025-08-15T17:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T18:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956406970421854314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1691791250670895105",
+          "start": 0,
+          "username": "kilig_i777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956406970421854314",
+    "in_reply_to_user_id": "1691791250670895105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956290665689575660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kilig_i777 去玩抖音小游戏吧，种类繁多数不胜数，从弱智到挑战应有尽有，即开即玩无需下载无需存档，只有你想不到的玩法，没有他们做不出来的破烂，快点开体验吧😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956290665689575660",
+        "created_at": "2025-08-15T17:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T18:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956406970421854314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1691791250670895105",
+              "start": 0,
+              "username": "kilig_i777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956406970421854314",
+        "in_reply_to_user_id": "1691791250670895105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956290665689575660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kilig_i777 去玩抖音小游戏吧，种类繁多数不胜数，从弱智到挑战应有尽有，即开即玩无需下载无需存档，只有你想不到的玩法，没有他们做不出来的破烂，快点开体验吧😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691791250670895105",
+        "conversation_id": "1956290665689575660",
+        "created_at": "2025-08-15T09:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956290665689575660"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956290665689575660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12694,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底有啥能一个人玩又消磨时间又简单的小游戏啊我真的不想玩金铲铲了我一直连跪我好烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 559,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T12:37:33.000Z",
+        "description": "我就这样自己跟自己玩我就这样一直发疯发情",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%88%91%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%88%91%E6%9C%8D%E4%BA%86%E5%AE%9D%E5%AE%9D",
+                "start": 0,
+                "url": "https://t.co/xEONfKhYzW"
+              }
+            ]
+          }
+        },
+        "id": "1691791250670895105",
+        "location": "答应我会幸福",
+        "name": "我服了宝宝",
+        "pinned_tweet_id": "1953739851590680970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941451907437858818/-TZObtUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15028,
+          "following_count": 372,
+          "like_count": 22724,
+          "listed_count": 25,
+          "media_count": 270,
+          "tweet_count": 13709
+        },
+        "url": "https://t.co/xEONfKhYzW",
+        "username": "kilig_i777",
+        "verified": false
+      }
+    ]
+  }
+}

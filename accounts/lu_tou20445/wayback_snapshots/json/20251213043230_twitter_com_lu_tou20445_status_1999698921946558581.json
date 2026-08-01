@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999698823548141569"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1999698921946558581",
+    "created_at": "2025-12-13T04:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T05:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999698921946558581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8BQwVTNJy6",
+          "end": 31,
+          "expanded_url": "https://x.com/lu_tou20445/status/1999698921946558581/video/1",
+          "media_key": "13_1999698823548141569",
+          "start": 8,
+          "url": "https://t.co/8BQwVTNJy6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999698921946558581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "更一条做饭实录 https://t.co/8BQwVTNJy6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999698921946558581].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999698921946558581",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999698921946558581"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17453,
+        "height": 1280,
+        "media_key": "13_1999698823548141569",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999698823548141569/img/SBgOdf4qgTRnVhif.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999698823548141569/vid/avc1/320x694/dz2TZiv1snwFk4Fu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999698823548141569/vid/avc1/480x1040/3hqfQnRsL4N7AOs9.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999698823548141569/vid/avc1/590x1280/U6iblP_aPUKndsMr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999698823548141569/pl/Gu9xDSah71N7qceQ.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 66,
+          "like_count": 11133,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 3219
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

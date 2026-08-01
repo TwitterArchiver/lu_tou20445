@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2059923840353132812",
+    "created_at": "2026-05-28T10:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059939256014151736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696051859545280512",
+          "start": 0,
+          "username": "yzrnb000000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059939256014151736",
+    "in_reply_to_user_id": "1696051859545280512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059924301378158688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzrnb000000 找一个怀里能容得下一个枕头的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2059923840353132812",
+        "created_at": "2026-05-28T10:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059939256014151736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696051859545280512",
+              "start": 0,
+              "username": "yzrnb000000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059939256014151736",
+        "in_reply_to_user_id": "1696051859545280512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059924301378158688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzrnb000000 找一个怀里能容得下一个枕头的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696051859545280512",
+        "conversation_id": "2059923840353132812",
+        "created_at": "2026-05-28T09:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059924301378158688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059924301378158688",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059923840353132812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我脑袋大，我自己就得睡一个枕头呢🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 70,
+          "like_count": 21001,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 5979
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:48:02.000Z",
+        "description": "等老公同意离婚立马和情人分手去找爱人@moji1867甜蜜中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "moji1867"
+              }
+            ]
+          }
+        },
+        "id": "1696051859545280512",
+        "location": "啥时候瘦到120呢！",
+        "name": "椰子瑞纳冰",
+        "pinned_tweet_id": "2040163248771920302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004384477364056064/KWHJqlHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 159,
+          "like_count": 59308,
+          "listed_count": 0,
+          "media_count": 489,
+          "tweet_count": 14285
+        },
+        "username": "yzrnb000000",
+        "verified": false
+      }
+    ]
+  }
+}

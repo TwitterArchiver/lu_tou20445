@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T14:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T15:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026296096943935708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001875316244123649",
+          "start": 0,
+          "username": "HarGow131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026296096943935708",
+    "in_reply_to_user_id": "2001875316244123649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026290250969145361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarGow131 这也是独居的好处之一，写的东西能让你笑出来🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T14:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026296096943935708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001875316244123649",
+              "start": 0,
+              "username": "HarGow131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026296096943935708",
+        "in_reply_to_user_id": "2001875316244123649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026290250969145361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarGow131 这也是独居的好处之一，写的东西能让你笑出来🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001875316244123649",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T13:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026290250969145361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026290250969145361",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我一邊唸給媽咪聽一邊笑到咳嗽完全唸不出來"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 70,
+          "like_count": 16721,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5024
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T04:40:55.000Z",
+        "description": "碎碎念探索日記📝但是幾乎都在讚嘆自己家小朋友怎麼會這麼可愛✨世界好有趣喔",
+        "id": "2001875316244123649",
+        "location": "Taichung",
+        "name": "蝦餃好吃啊嗚啊嗚",
+        "pinned_tweet_id": "2023771652253982963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019017353187717120/CHL0u87e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 72,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1095
+        },
+        "username": "HarGow131",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950907463265366172",
+    "created_at": "2025-08-01T06:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T07:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951164178892271780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951164178892271780",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950907463265366172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 恭喜上主页，另外，有股子圣贤时刻的真诚劲儿，还真不好继续骂hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1950907443849969668",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMD-9xXwAQCufl.jpg",
+        "width": 1112
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950907443824779266",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMD-9rXYAI6e8j.jpg",
+        "width": 1108
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950907443803795456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxMD-9mXMAADuj_.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950907463265366172",
+        "created_at": "2025-08-01T06:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951164178892271780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951164178892271780",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950907463265366172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 恭喜上主页，另外，有股子圣贤时刻的真诚劲儿，还真不好继续骂hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950907443849969668",
+            "3_1950907443824779266",
+            "3_1950907443803795456"
+          ]
+        },
+        "author_id": "1904003547756146688",
+        "conversation_id": "1950907463265366172",
+        "created_at": "2025-07-31T13:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T14:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950907463265366172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7u3WNNWWd",
+              "end": 35,
+              "expanded_url": "https://x.com/kkt12138/status/1950907463265366172/photo/1",
+              "media_key": "3_1950907443849969668",
+              "start": 12,
+              "url": "https://t.co/q7u3WNNWWd"
+            },
+            {
+              "display_url": "pic.x.com/q7u3WNNWWd",
+              "end": 35,
+              "expanded_url": "https://x.com/kkt12138/status/1950907463265366172/photo/1",
+              "media_key": "3_1950907443824779266",
+              "start": 12,
+              "url": "https://t.co/q7u3WNNWWd"
+            },
+            {
+              "display_url": "pic.x.com/q7u3WNNWWd",
+              "end": 35,
+              "expanded_url": "https://x.com/kkt12138/status/1950907463265366172/photo/1",
+              "media_key": "3_1950907443803795456",
+              "start": 12,
+              "url": "https://t.co/q7u3WNNWWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950907463265366172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4084,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何尝不是一种刷推的乐趣 https://t.co/q7u3WNNWWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950813728988868608/E0qFmr5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 114,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 56
+        },
+        "username": "kkt12138",
+        "verified": false
+      }
+    ]
+  }
+}

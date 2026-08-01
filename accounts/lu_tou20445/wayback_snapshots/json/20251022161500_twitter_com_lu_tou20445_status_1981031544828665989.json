@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1981001666020422000",
+    "created_at": "2025-10-22T16:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T17:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981031544828665989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981031544828665989",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981030037814981009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77ninini 不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1981001666020422000",
+        "created_at": "2025-10-22T16:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981031544828665989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981031544828665989",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981030037814981009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77ninini 不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907355599232274432",
+        "conversation_id": "1981001666020422000",
+        "created_at": "2025-10-22T16:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T17:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981030037814981009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981030037814981009",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981029678686056925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我咋觉得接受你这个夸奖，显得我很窝囊🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 70,
+          "like_count": 7044,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "不道苦楚，莫問前程\n（不开私信，不加VX，不礼貌回关，取关随意）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐（在心情好和心情差之间反复横跳，努力找平衡）",
+        "pinned_tweet_id": "1980666206907691462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980026205236600832/fjo0VpMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 177,
+          "like_count": 37313,
+          "listed_count": 3,
+          "media_count": 512,
+          "tweet_count": 12045
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

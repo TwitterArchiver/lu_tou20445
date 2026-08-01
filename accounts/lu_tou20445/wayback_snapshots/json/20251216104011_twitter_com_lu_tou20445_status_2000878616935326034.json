@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000878601974243336",
+        "3_2000878601974243334"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2000878616935326034",
+    "created_at": "2025-12-16T10:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T11:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000878616935326034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0TnrwtKfEm",
+          "end": 31,
+          "expanded_url": "https://x.com/lu_tou20445/status/2000878616935326034/photo/1",
+          "media_key": "3_2000878601974243336",
+          "start": 8,
+          "url": "https://t.co/0TnrwtKfEm"
+        },
+        {
+          "display_url": "pic.x.com/0TnrwtKfEm",
+          "end": 31,
+          "expanded_url": "https://x.com/lu_tou20445/status/2000878616935326034/photo/1",
+          "media_key": "3_2000878601974243334",
+          "start": 8,
+          "url": "https://t.co/0TnrwtKfEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000878616935326034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我像无能的丈夫 https://t.co/0TnrwtKfEm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2000878601974243336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SMfMVa4AgRYBJ.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2000878601974243334",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8SMfMVa4AYEnOB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000878601974243336",
+            "3_2000878601974243334"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2000878616935326034",
+        "created_at": "2025-12-16T10:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T11:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000878616935326034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0TnrwtKfEm",
+              "end": 31,
+              "expanded_url": "https://x.com/lu_tou20445/status/2000878616935326034/photo/1",
+              "media_key": "3_2000878601974243336",
+              "start": 8,
+              "url": "https://t.co/0TnrwtKfEm"
+            },
+            {
+              "display_url": "pic.x.com/0TnrwtKfEm",
+              "end": 31,
+              "expanded_url": "https://x.com/lu_tou20445/status/2000878616935326034/photo/1",
+              "media_key": "3_2000878601974243334",
+              "start": 8,
+              "url": "https://t.co/0TnrwtKfEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000878616935326034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我像无能的丈夫 https://t.co/0TnrwtKfEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 69,
+          "like_count": 11595,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 3334
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

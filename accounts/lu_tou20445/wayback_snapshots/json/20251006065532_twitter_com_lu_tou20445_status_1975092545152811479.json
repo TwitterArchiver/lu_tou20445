@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1975075823360365028",
+    "created_at": "2025-10-06T06:55:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T07:55:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975092545152811479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955305837465116672",
+          "start": 0,
+          "username": "kiki_0368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975092545152811479",
+    "in_reply_to_user_id": "1955305837465116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975086648661889403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_0368 请🥢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1975075823360365028",
+        "created_at": "2025-10-06T06:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975092545152811479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955305837465116672",
+              "start": 0,
+              "username": "kiki_0368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975092545152811479",
+        "in_reply_to_user_id": "1955305837465116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975086648661889403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_0368 请🥢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955305837465116672",
+        "conversation_id": "1975075823360365028",
+        "created_at": "2025-10-06T06:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975086648661889403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975086648661889403",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975075823360365028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 路过我吃一口排骨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 66,
+          "like_count": 5786,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T16:30:23.000Z",
+        "description": "01 1i 我的碎碎念小天地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiyokiii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiyokiii",
+                "start": 0,
+                "url": "https://t.co/eNTdssAiBT"
+              }
+            ]
+          }
+        },
+        "id": "1955305837465116672",
+        "location": "不聊 不约 无属性 提问箱👉🏻",
+        "name": "kiyoki",
+        "pinned_tweet_id": "1958548138719096903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955310439526699012/CBEjyfD5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 130,
+          "like_count": 1406,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/eNTdssAiBT",
+        "username": "kiki_0368",
+        "verified": false
+      }
+    ]
+  }
+}

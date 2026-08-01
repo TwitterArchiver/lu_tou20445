@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1981687309646041213",
+    "created_at": "2025-10-24T11:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T12:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981688652943266078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874922985567784960",
+          "start": 0,
+          "username": "xihinansyo"
+        },
+        {
+          "end": 22,
+          "id": "904752319773892608",
+          "start": 12,
+          "username": "Laraaa718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981688652943266078",
+    "in_reply_to_user_id": "874922985567784960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981688536379404381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihinansyo @Laraaa718 请来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1981687309646041213",
+        "created_at": "2025-10-24T11:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981688652943266078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            },
+            {
+              "end": 22,
+              "id": "904752319773892608",
+              "start": 12,
+              "username": "Laraaa718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981688652943266078",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981688536379404381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo @Laraaa718 请来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874922985567784960",
+        "conversation_id": "1981687309646041213",
+        "created_at": "2025-10-24T11:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981688536379404381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981688536379404381",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981688415616946493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 买了新的你帮我消耗一下旧的🙂‍↕️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 70,
+          "like_count": 7217,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1979154228879769901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 257,
+          "like_count": 16341,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 6698
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T17:05:37.000Z",
+        "description": "Be my eyes.｜可以叫我猫猫或者小K｜什么都会发",
+        "id": "904752319773892608",
+        "name": "kitten",
+        "pinned_tweet_id": "1972969852571992348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960549452835651584/8OudCR7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2917,
+          "following_count": 180,
+          "like_count": 24559,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 8345
+        },
+        "username": "Laraaa718",
+        "verified": false
+      }
+    ]
+  }
+}

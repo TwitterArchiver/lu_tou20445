@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955177123922031006",
+    "created_at": "2025-08-12T08:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T09:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955189216901562657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1562501245180338176",
+          "start": 0,
+          "username": "1luquiet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955189216901562657",
+    "in_reply_to_user_id": "1562501245180338176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955188998030098543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1luquiet 你也是呀陆陆！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955177123922031006",
+        "created_at": "2025-08-12T08:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955189216901562657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1562501245180338176",
+              "start": 0,
+              "username": "1luquiet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955189216901562657",
+        "in_reply_to_user_id": "1562501245180338176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955188998030098543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1luquiet 你也是呀陆陆！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562501245180338176",
+        "conversation_id": "1955177123922031006",
+        "created_at": "2025-08-12T08:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T09:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955188998030098543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955188998030098543",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955178526946009239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 不客气不客气，祝你每天都快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 39,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-24T18:05:13.000Z",
+        "description": "以下是我对自己的注解，希望我们能成为朋友。",
+        "id": "1562501245180338176",
+        "name": "周陆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951117332312629250/THTXVSSh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 66,
+          "like_count": 2590,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 82
+        },
+        "username": "1luquiet",
+        "verified": false
+      }
+    ]
+  }
+}

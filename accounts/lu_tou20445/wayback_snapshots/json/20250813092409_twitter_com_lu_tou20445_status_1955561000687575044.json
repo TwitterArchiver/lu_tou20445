@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955558808446742552",
+    "created_at": "2025-08-13T09:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955561000687575044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928868189917818880",
+          "start": 0,
+          "username": "ZLing99320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955561000687575044",
+    "in_reply_to_user_id": "1928868189917818880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955559708057895245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZLing99320 麦当劳薯条！条条条！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955558808446742552",
+        "created_at": "2025-08-13T09:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955561000687575044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928868189917818880",
+              "start": 0,
+              "username": "ZLing99320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955561000687575044",
+        "in_reply_to_user_id": "1928868189917818880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955559708057895245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZLing99320 麦当劳薯条！条条条！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928868189917818880",
+        "conversation_id": "1955558808446742552",
+        "created_at": "2025-08-13T09:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955559708057895245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955559708057895245",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955559343350493594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我爱吃！我爱吃麦当劳薯条！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 40,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T17:37:20.000Z",
+        "description": "",
+        "id": "1928868189917818880",
+        "name": "linv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955262564767870976/jlZOdUyO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 123,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 274
+        },
+        "username": "ZLing99320",
+        "verified": false
+      }
+    ]
+  }
+}

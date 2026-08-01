@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2053531085657809218",
+    "created_at": "2026-05-12T03:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054040857935040635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946918922445598720",
+          "start": 0,
+          "username": "mlyjx_0408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054040857935040635",
+    "in_reply_to_user_id": "1946918922445598720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053531085657809218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mlyjx_0408 练到斜方就是海绵宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2053531085657809218",
+        "created_at": "2026-05-12T03:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054040857935040635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946918922445598720",
+              "start": 0,
+              "username": "mlyjx_0408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054040857935040635",
+        "in_reply_to_user_id": "1946918922445598720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053531085657809218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mlyjx_0408 练到斜方就是海绵宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946918922445598720",
+        "conversation_id": "2053531085657809218",
+        "created_at": "2026-05-10T17:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053531085657809218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053531085657809218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 155301,
+          "like_count": 1376,
+          "quote_count": 18,
+          "reply_count": 288,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "其实长得矮的男生很可怜 不管练的多大看起来都是一个小方块"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 70,
+          "like_count": 20668,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5843
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T13:03:53.000Z",
+        "description": "",
+        "id": "1946918922445598720",
+        "location": "Tianjin",
+        "name": "麻辣郁金香",
+        "pinned_tweet_id": "1966338301226529020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959864812747558912/oojOp-Au_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 46,
+          "like_count": 4677,
+          "listed_count": 4,
+          "media_count": 78,
+          "tweet_count": 129
+        },
+        "username": "mlyjx_0408",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949147460640891336",
+    "created_at": "2025-07-26T16:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T17:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949149259980238960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924098812643364864",
+          "start": 0,
+          "username": "gunainai13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949149259980238960",
+    "in_reply_to_user_id": "1924098812643364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949147460640891336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunainai13 两个办法第一个空调打高点倒杯温水喝点然后揉揉肚子，第二个就光脚往柜子角上踢一脚，这样你肠胃就顾不上痛了，来吧，choose"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949147460640891336",
+        "created_at": "2025-07-26T16:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T17:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949149259980238960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924098812643364864",
+              "start": 0,
+              "username": "gunainai13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949149259980238960",
+        "in_reply_to_user_id": "1924098812643364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949147460640891336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunainai13 两个办法第一个空调打高点倒杯温水喝点然后揉揉肚子，第二个就光脚往柜子角上踢一脚，这样你肠胃就顾不上痛了，来吧，choose"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924098812643364864",
+        "conversation_id": "1949147460640891336",
+        "created_at": "2025-07-26T16:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T17:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949147460640891336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949147460640891336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陷入了一轮肠绞痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 157
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:44:58.000Z",
+        "description": "好无聊 来个女人给我抱｜我不喜歡男的謝謝😊非要聊天先去照片裡找到讚賞碼打點錢給這個拉拉一些精神損失費行嗎，讓我翻出來你是男的你就完了｜搞笑苦情拉拉唱歌博主❤️‍🔥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8F%87%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8F%87%E8%80%90%E8%80%90",
+                "start": 0,
+                "url": "https://t.co/C8GCOELK5r"
+              }
+            ]
+          }
+        },
+        "id": "1924098812643364864",
+        "location": "北京",
+        "name": "菇耐耐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945854997901742080/blj21c9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 169,
+          "like_count": 2322,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1140
+        },
+        "url": "https://t.co/C8GCOELK5r",
+        "username": "gunainai13",
+        "verified": false
+      }
+    ]
+  }
+}

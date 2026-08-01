@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1984586505533472884",
+    "created_at": "2025-11-01T16:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T17:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984651696761712813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1941784912199061504",
+          "start": 0,
+          "username": "CshxkyKavya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984651696761712813",
+    "in_reply_to_user_id": "1941784912199061504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984641121608511747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CshxkyKavya 太好品了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1984586505533472884",
+        "created_at": "2025-11-01T16:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984651696761712813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1941784912199061504",
+              "start": 0,
+              "username": "CshxkyKavya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984651696761712813",
+        "in_reply_to_user_id": "1941784912199061504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984641121608511747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CshxkyKavya 太好品了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941784912199061504",
+        "conversation_id": "1984586505533472884",
+        "created_at": "2025-11-01T15:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984641121608511747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984641121608511747",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984586505533472884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也刷到这个了 我的天 我看了这么多年言情我也说不出来这样的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 73,
+          "like_count": 7632,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-06T09:03:30.000Z",
+        "description": "@Ccshxxxky_Kavya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Ccshxxxky_Kavya"
+              }
+            ]
+          }
+        },
+        "id": "1941784912199061504",
+        "name": "Kavyaaa",
+        "pinned_tweet_id": "1973749476008636866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973707266072420354/8IbDeSQV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 71,
+          "like_count": 1524,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 678
+        },
+        "username": "CshxkyKavya",
+        "verified": false
+      }
+    ]
+  }
+}

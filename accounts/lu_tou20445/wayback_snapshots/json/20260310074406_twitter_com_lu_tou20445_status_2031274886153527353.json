@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2031265967502930070",
+    "created_at": "2026-03-10T07:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T08:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031274886153527353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959253313087782912",
+          "start": 0,
+          "username": "ffffcm12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031274886153527353",
+    "in_reply_to_user_id": "1959253313087782912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031273495758516558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffffcm12138 药效发没发作我不知道，打那一下头是真疼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T07:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031274886153527353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959253313087782912",
+              "start": 0,
+              "username": "ffffcm12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031274886153527353",
+        "in_reply_to_user_id": "1959253313087782912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031273495758516558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffffcm12138 药效发没发作我不知道，打那一下头是真疼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959253313087782912",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T07:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031273495758516558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031273495758516558",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031265967502930070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 感觉头脑发懵我就开始吃止疼药了，顺势再打一下头让止疼药知道是他妈头疼，然后躺在床上安安静静的看是药效先发作还是头疼先发作，但是大部分都是头疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 71,
+          "like_count": 18231,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 5350
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T13:56:25.000Z",
+        "description": "没人问我也挂 https://t.co/mAE2EUbHSN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easondon",
+                "end": 30,
+                "expanded_url": "https://ngl.link/easondon",
+                "start": 7,
+                "url": "https://t.co/mAE2EUbHSN"
+              }
+            ]
+          }
+        },
+        "id": "1959253313087782912",
+        "location": "xian",
+        "name": "eason don",
+        "pinned_tweet_id": "2003111599255793838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959539083849637888/CcIcDZE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 57,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 622
+        },
+        "username": "ffffcm12138",
+        "verified": false
+      }
+    ]
+  }
+}

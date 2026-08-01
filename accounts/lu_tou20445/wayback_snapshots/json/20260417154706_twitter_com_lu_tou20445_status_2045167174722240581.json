@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2045158494240989254",
+    "created_at": "2026-04-17T15:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045167174722240581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante1077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045167174722240581",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045161771820863746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante1077 让他包圆你的早餐，不然就砸了他的豆浆机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2045158494240989254",
+        "created_at": "2026-04-17T15:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045167174722240581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante1077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045167174722240581",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045161771820863746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante1077 让他包圆你的早餐，不然就砸了他的豆浆机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217846927036837890",
+        "conversation_id": "2045158494240989254",
+        "created_at": "2026-04-17T15:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045161771820863746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045161771820863746",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045158494240989254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 放下羞耻心，我楼下有个王八蛋早上四点起来打豆浆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1855,
+          "following_count": 71,
+          "like_count": 20261,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 5721
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "开始亦是结束的开始/男/另一个我：@pass76961526454",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "pass76961526454"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1970792758362411145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041908765176557569/6piIgxEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5173,
+          "following_count": 199,
+          "like_count": 16433,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 1542
+        },
+        "username": "Andante1077",
+        "verified": false
+      }
+    ]
+  }
+}

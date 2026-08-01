@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963639113925726525",
+    "created_at": "2025-09-09T15:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T16:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965442165783626068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956369686624669696",
+          "start": 0,
+          "username": "yuyuyu9777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965442165783626068",
+    "in_reply_to_user_id": "1956369686624669696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965440976908156960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuyu9777 丝之歌游戏体验"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963639113925726525",
+        "created_at": "2025-09-09T15:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965442165783626068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956369686624669696",
+              "start": 0,
+              "username": "yuyuyu9777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965442165783626068",
+        "in_reply_to_user_id": "1956369686624669696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965440976908156960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuyu9777 丝之歌游戏体验"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956369686624669696",
+        "conversation_id": "1963639113925726525",
+        "created_at": "2025-09-09T15:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T16:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965440976908156960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965440976908156960",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965245606903120031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你在说什么，呃呃呃，没看懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 65,
+          "like_count": 3386,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T14:57:44.000Z",
+        "description": "赛博抽象搞笑女，当朋友圈，偶尔发牢骚，大家喜欢可以投喂点，多少无所谓。很喜欢钱，但是大家爆米前要先照顾好自己，终究是网友，不是真的，现实里遇到我这样的看都不会看我一眼。谢谢大家",
+        "id": "1956369686624669696",
+        "name": "yu吖yu",
+        "pinned_tweet_id": "1961742936506540235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956373778759639040/DUphG3z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 14,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 52
+        },
+        "username": "yuyuyu9777",
+        "verified": false
+      }
+    ]
+  }
+}

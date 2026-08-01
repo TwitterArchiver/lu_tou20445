@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2036404057418707081",
+    "created_at": "2026-03-24T13:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036435600778338620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019365364552065024",
+          "start": 0,
+          "username": "nizaiwanli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036435600778338620",
+    "in_reply_to_user_id": "2019365364552065024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036432214540558661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nizaiwanli 你的可能已经开始进化了，小心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2036404057418707081",
+        "created_at": "2026-03-24T13:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036435600778338620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019365364552065024",
+              "start": 0,
+              "username": "nizaiwanli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036435600778338620",
+        "in_reply_to_user_id": "2019365364552065024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036432214540558661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nizaiwanli 你的可能已经开始进化了，小心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019365364552065024",
+        "conversation_id": "2036404057418707081",
+        "created_at": "2026-03-24T13:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036432214540558661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036432214540558661",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036404057418707081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 有一次我当着华为的面叫错了叫siri ，然后叫小艺，明显的她的回答带着怨气不耐烦……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 72,
+          "like_count": 19183,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 5580
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T11:00:26.000Z",
+        "description": "有些关系，不必惊动爱情💓。（常驻沪/陆家嘴ol /江浙2h内🚄可去/🈶🚪）",
+        "id": "2019365364552065024",
+        "location": "上海",
+        "name": "Camellia 苏",
+        "pinned_tweet_id": "2034496683678314811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029035628118364160/urs2vuao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 83,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 463
+        },
+        "username": "nizaiwanli",
+        "verified": false
+      }
+    ]
+  }
+}

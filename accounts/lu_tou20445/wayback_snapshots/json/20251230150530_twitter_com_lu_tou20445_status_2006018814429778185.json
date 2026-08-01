@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2006002825722233152",
+    "created_at": "2025-12-30T15:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T16:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006018814429778185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400872292",
+          "start": 0,
+          "username": "apple115521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006018814429778185",
+    "in_reply_to_user_id": "1400872292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006012110099054969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple115521 有时候吧🫠，完全不定时炸弹来的，灵感来的莫名其妙，走的也莫名其妙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2006002825722233152",
+        "created_at": "2025-12-30T15:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006018814429778185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400872292",
+              "start": 0,
+              "username": "apple115521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006018814429778185",
+        "in_reply_to_user_id": "1400872292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006012110099054969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple115521 有时候吧🫠，完全不定时炸弹来的，灵感来的莫名其妙，走的也莫名其妙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400872292",
+        "conversation_id": "2006002825722233152",
+        "created_at": "2025-12-30T14:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006012110099054969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006012110099054969",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006002825722233152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 😑disclaimer：我感觉你其实文字驾驭力还蛮强的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 70,
+          "like_count": 13345,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 3883
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-03T22:24:41.000Z",
+        "description": "30代 ⭐️ Alles hat ein Ende, nur die Wurst hat zwei ⭐️ 自我提升中 ｜停更ing",
+        "id": "1400872292",
+        "location": "Jupiter",
+        "name": "Glückskatze🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979390804310265856/2eN_DLJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 266,
+          "like_count": 8151,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 820
+        },
+        "username": "apple115521",
+        "verified": false
+      }
+    ]
+  }
+}

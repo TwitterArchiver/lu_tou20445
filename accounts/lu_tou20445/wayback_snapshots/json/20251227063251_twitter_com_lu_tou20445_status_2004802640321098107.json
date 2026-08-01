@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004614123146088753",
+    "created_at": "2025-12-27T06:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T07:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004802640321098107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682995921272074240",
+          "start": 0,
+          "username": "Shadow220756168"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004802640321098107",
+    "in_reply_to_user_id": "1682995921272074240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004802237181346214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shadow220756168 所以手工礼物才更挑人，对的东西要在对的时间送给对的人才有价值，不然只会成为两个人之间的阔剑地雷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004614123146088753",
+        "created_at": "2025-12-27T06:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004802640321098107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682995921272074240",
+              "start": 0,
+              "username": "Shadow220756168"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004802640321098107",
+        "in_reply_to_user_id": "1682995921272074240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004802237181346214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shadow220756168 所以手工礼物才更挑人，对的东西要在对的时间送给对的人才有价值，不然只会成为两个人之间的阔剑地雷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682995921272074240",
+        "conversation_id": "2004614123146088753",
+        "created_at": "2025-12-27T06:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T07:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004802237181346214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004802237181346214",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004614123146088753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我觉得珍贵之处在于“不可见的东西”，也就是送礼的人在制作礼物的过程中倾注的情感，而这个礼物相当于是个具象的载体，比起收礼物人那一瞬间的感动，做礼物人过程中的喜悦获得的快乐程度更强烈，但是很多做礼物的人搞错了动机容易自我感动，期待收礼物人的回馈本身就是一种自我绑架"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 72,
+          "like_count": 12702,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 3666
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T06:08:00.000Z",
+        "description": "",
+        "id": "1682995921272074240",
+        "name": "Shadow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861124174848001/ZFE-D48q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 387,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 54
+        },
+        "username": "Shadow220756168",
+        "verified": false
+      }
+    ]
+  }
+}

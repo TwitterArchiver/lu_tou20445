@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1968547281147416914",
+    "created_at": "2025-09-19T13:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T14:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969035868112646537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1716663497046855680",
+          "start": 0,
+          "username": "Web3Andy01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969035868112646537",
+    "in_reply_to_user_id": "1716663497046855680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968547281147416914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Web3Andy01 兄弟，性别随机的，我也没办法"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1555,
+        "media_key": "3_1968527502885974016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1GdVYwa8AAP6d_.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1968547281147416914",
+        "created_at": "2025-09-19T13:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969035868112646537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1716663497046855680",
+              "start": 0,
+              "username": "Web3Andy01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969035868112646537",
+        "in_reply_to_user_id": "1716663497046855680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968547281147416914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Web3Andy01 兄弟，性别随机的，我也没办法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968527502885974016"
+          ]
+        },
+        "author_id": "1716663497046855680",
+        "conversation_id": "1968547281147416914",
+        "created_at": "2025-09-18T05:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968547281147416914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wst0hElBJ4",
+              "end": 39,
+              "expanded_url": "https://x.com/Web3Andy01/status/1968547281147416914/photo/1",
+              "media_key": "3_1968527502885974016",
+              "start": 16,
+              "url": "https://t.co/Wst0hElBJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968547281147416914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 271906,
+          "like_count": 1962,
+          "quote_count": 7,
+          "reply_count": 158,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我兄弟想要什么性别我还不知道吗 https://t.co/Wst0hElBJ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 63,
+          "like_count": 4358,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1722
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T03:50:58.000Z",
+        "description": "#Defi #NFT #GameFi | #Binance 广场创作者\n推文内容均不构成投资建议",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "Defi"
+              },
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "NFT"
+              },
+              {
+                "end": 18,
+                "start": 11,
+                "tag": "GameFi"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "tag": "Binance"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Web3Andy01",
+                "end": 23,
+                "expanded_url": "http://t.me/Web3Andy01",
+                "start": 0,
+                "url": "https://t.co/t7vUAqHumy"
+              }
+            ]
+          }
+        },
+        "id": "1716663497046855680",
+        "location": "社交媒体影响者",
+        "name": "Web3Andy 🦅🟠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799261957092147200/sy2YdG7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21064,
+          "following_count": 7774,
+          "like_count": 46512,
+          "listed_count": 27,
+          "media_count": 744,
+          "tweet_count": 48194
+        },
+        "url": "https://t.co/t7vUAqHumy",
+        "username": "Web3Andy01",
+        "verified": true
+      }
+    ]
+  }
+}

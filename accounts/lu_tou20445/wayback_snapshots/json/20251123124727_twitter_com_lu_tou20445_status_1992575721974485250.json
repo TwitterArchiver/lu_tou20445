@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1992497025938809026",
+    "created_at": "2025-11-23T12:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T13:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992575721974485250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1670421800726024193",
+          "start": 0,
+          "username": "ajuju999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992575721974485250",
+    "in_reply_to_user_id": "1670421800726024193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992575416843080100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ajuju999 诶，在偷偷摸摸卷是吧，罚你下次就吃到想吃的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1992497025938809026",
+        "created_at": "2025-11-23T12:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992575721974485250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1670421800726024193",
+              "start": 0,
+              "username": "ajuju999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992575721974485250",
+        "in_reply_to_user_id": "1670421800726024193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992575416843080100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ajuju999 诶，在偷偷摸摸卷是吧，罚你下次就吃到想吃的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670421800726024193",
+        "conversation_id": "1992497025938809026",
+        "created_at": "2025-11-23T12:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992575416843080100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992575416843080100",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992497025938809026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 每一个都想吃 然而我在啃鸡胸肉丸艹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 70,
+          "like_count": 9503,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T13:23:05.000Z",
+        "description": "橘/橘子/阿橘/xp复杂/关系简单\n❌小橘子/不约拍/不接受拍视频📷/不玩大\n超级brat/165/55kg/狼尾/jk/isfj/🪢被缚新手⭕️小圈十年 💘玉玉💊💪健身小白🥾徒步入门🥹像鱼一样的记忆😡迟到大王🥲酒蒙子😋又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajuju9992",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajuju9992",
+                "start": 0,
+                "url": "https://t.co/zAfyNRmash"
+              }
+            ]
+          }
+        },
+        "id": "1670421800726024193",
+        "location": "guangzhou",
+        "name": "阿橘橘橘999",
+        "pinned_tweet_id": "1988161919522603151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977420366273445888/BmBGCD6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 193,
+          "like_count": 3005,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/zAfyNRmash",
+        "username": "ajuju999",
+        "verified": false
+      }
+    ]
+  }
+}

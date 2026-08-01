@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1965730097450881395",
+    "created_at": "2025-09-10T11:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T12:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965735148286255264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1706860686893252608",
+          "start": 0,
+          "username": "Epiphany_Karma"
+        },
+        {
+          "end": 27,
+          "id": "874922985567784960",
+          "start": 16,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965735148286255264",
+    "in_reply_to_user_id": "1706860686893252608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965731498734313829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epiphany_Karma @xihinansyo +1，不过还有一点是平等的认为所有人都是👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1965730097450881395",
+        "created_at": "2025-09-10T11:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T12:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965735148286255264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1706860686893252608",
+              "start": 0,
+              "username": "Epiphany_Karma"
+            },
+            {
+              "end": 27,
+              "id": "874922985567784960",
+              "start": 16,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965735148286255264",
+        "in_reply_to_user_id": "1706860686893252608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965731498734313829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epiphany_Karma @xihinansyo +1，不过还有一点是平等的认为所有人都是👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706860686893252608",
+        "conversation_id": "1965730097450881395",
+        "created_at": "2025-09-10T10:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T11:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965731498734313829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965731498734313829",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965730097450881395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo 我的魔力就是我是个傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 66,
+          "like_count": 3486,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1635
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T02:38:00.000Z",
+        "description": "没有你，我对生活没有任何想象。\n宠物、书摘博主，INFJ-A，ED男\nngl：https://t.co/xYED5lgi2r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ele60878",
+                "end": 62,
+                "expanded_url": "https://ngl.link/ele60878",
+                "start": 39,
+                "url": "https://t.co/xYED5lgi2r"
+              }
+            ]
+          }
+        },
+        "id": "1706860686893252608",
+        "location": "Pluto",
+        "name": "Epiphany",
+        "pinned_tweet_id": "1962918975417033076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955672827497209856/Tkt9fUgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 280,
+          "like_count": 13678,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 3440
+        },
+        "username": "Epiphany_Karma",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1958480667957776533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 199,
+          "like_count": 8337,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": true
+      }
+    ]
+  }
+}

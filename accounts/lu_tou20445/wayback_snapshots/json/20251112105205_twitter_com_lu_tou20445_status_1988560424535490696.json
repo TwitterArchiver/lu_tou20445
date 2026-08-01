@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T10:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988560424535490696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1078730362597957632",
+          "start": 0,
+          "username": "izvva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988560424535490696",
+    "in_reply_to_user_id": "1078730362597957632",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988560024612884957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@izvva 🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_1988559996825817089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5jIyAFa0AEkUXW.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T10:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988560424535490696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1078730362597957632",
+              "start": 0,
+              "username": "izvva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988560424535490696",
+        "in_reply_to_user_id": "1078730362597957632",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988560024612884957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@izvva 🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988559996825817089"
+          ]
+        },
+        "author_id": "1078730362597957632",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T10:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988560024612884957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3gj4dVz29",
+              "end": 42,
+              "expanded_url": "https://x.com/izvva/status/1988560024612884957/photo/1",
+              "media_key": "3_1988559996825817089",
+              "start": 19,
+              "url": "https://t.co/Y3gj4dVz29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988560024612884957",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我靠，真是 https://t.co/Y3gj4dVz29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 74,
+          "like_count": 8320,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2646
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-28T19:12:15.000Z",
+        "description": "暂不发推，天亮再说",
+        "id": "1078730362597957632",
+        "location": "North-East Region, Singapore",
+        "name": "IƵvva",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893267978252361731/w-4l8ePG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 476,
+          "like_count": 6363,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 2699
+        },
+        "username": "izvva",
+        "verified": false
+      }
+    ]
+  }
+}

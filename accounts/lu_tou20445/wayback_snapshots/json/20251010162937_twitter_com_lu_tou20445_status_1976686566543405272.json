@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1976530448722678013",
+    "created_at": "2025-10-10T16:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976686566543405272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1646091301019095040",
+          "start": 0,
+          "username": "Heizegezi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976686566543405272",
+    "in_reply_to_user_id": "1646091301019095040",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976685067310436763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Heizegezi no🙉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-10T16:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976686566543405272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1646091301019095040",
+              "start": 0,
+              "username": "Heizegezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976686566543405272",
+        "in_reply_to_user_id": "1646091301019095040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976685067310436763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Heizegezi no🙉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646091301019095040",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-10T16:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976685067310436763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976685067310436763",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976530448722678013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 是老头本人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 67,
+          "like_count": 6305,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2053
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T10:02:10.000Z",
+        "description": "好想幸福啊",
+        "id": "1646091301019095040",
+        "location": "顶级brat",
+        "name": "歌歌大王",
+        "pinned_tweet_id": "1849725949467889955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916792867659608064/H-NW6mZu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 124,
+          "like_count": 14619,
+          "listed_count": 7,
+          "media_count": 249,
+          "tweet_count": 5513
+        },
+        "username": "Heizegezi",
+        "verified": false
+      }
+    ]
+  }
+}

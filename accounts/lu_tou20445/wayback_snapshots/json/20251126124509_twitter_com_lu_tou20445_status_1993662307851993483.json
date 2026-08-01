@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1993641450542862623",
+    "created_at": "2025-11-26T12:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993662307851993483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        },
+        {
+          "end": 21,
+          "id": "874922985567784960",
+          "start": 10,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993662307851993483",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993659193921061181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 @xihinansyo 这地儿下午睡觉最暖和最舒坦了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993659190209060864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rmeHuaoAAjt7r.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1993641450542862623",
+        "created_at": "2025-11-26T12:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993662307851993483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            },
+            {
+              "end": 21,
+              "id": "874922985567784960",
+              "start": 10,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993662307851993483",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993659193921061181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 @xihinansyo 这地儿下午睡觉最暖和最舒坦了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993659190209060864"
+          ]
+        },
+        "author_id": "1525341238223855616",
+        "conversation_id": "1993641450542862623",
+        "created_at": "2025-11-26T12:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993659193921061181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Vzko9OaAi",
+              "end": 37,
+              "expanded_url": "https://x.com/zz160268/status/1993659193921061181/photo/1",
+              "media_key": "3_1993659190209060864",
+              "start": 14,
+              "url": "https://t.co/2Vzko9OaAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993659193921061181",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993658821882073223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo 来 https://t.co/2Vzko9OaAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 69,
+          "like_count": 9783,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "翻不过去的最后一页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/napgodzz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/napgodzz",
+                "start": 0,
+                "url": "https://t.co/SSYPt5dq7c"
+              }
+            ]
+          }
+        },
+        "id": "1525341238223855616",
+        "location": "华夏古文明 山西好风光",
+        "name": "🛶",
+        "pinned_tweet_id": "1992176578818949628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 243,
+          "like_count": 27531,
+          "listed_count": 0,
+          "media_count": 612,
+          "tweet_count": 8685
+        },
+        "url": "https://t.co/SSYPt5dq7c",
+        "username": "zz160268",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1979154228879769901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 244,
+          "like_count": 18725,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 7848
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2031889312124383330",
+    "created_at": "2026-03-13T01:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T02:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032272842927284352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1469083083861336066",
+          "start": 0,
+          "username": "Ocean_azureView"
+        },
+        {
+          "end": 33,
+          "id": "2029368618711171073",
+          "start": 17,
+          "username": "ticklemaster127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032272842927284352",
+    "in_reply_to_user_id": "1469083083861336066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032272523186880684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ocean_azureView @ticklemaster127 或者你可以叫他的新名字，叫太股达人😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2031889312124383330",
+        "created_at": "2026-03-13T01:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032272842927284352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1469083083861336066",
+              "start": 0,
+              "username": "Ocean_azureView"
+            },
+            {
+              "end": 33,
+              "id": "2029368618711171073",
+              "start": 17,
+              "username": "ticklemaster127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032272842927284352",
+        "in_reply_to_user_id": "1469083083861336066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032272523186880684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ocean_azureView @ticklemaster127 或者你可以叫他的新名字，叫太股达人😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469083083861336066",
+        "conversation_id": "2031889312124383330",
+        "created_at": "2026-03-13T01:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032272523186880684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 29,
+              "id": "2029368618711171073",
+              "start": 13,
+              "username": "ticklemaster127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032272523186880684",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032271770624147909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @ticklemaster127 而且的确用简单利索的方式介绍了游戏核心玩法与卖点呐（思考）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 71,
+          "like_count": 18426,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 5396
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T23:14:46.000Z",
+        "description": "🌈智系中性0+switch偏sub，写虚构荤段子的，很愿意认识新朋友欢迎敲私信闲聊，赛博八字entp，坐标🇺🇸，❌任何ai创作，匿名箱https://t.co/mRretZUdxx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ocean18002",
+                "end": 90,
+                "expanded_url": "https://ngl.link/ocean18002",
+                "start": 67,
+                "url": "https://t.co/mRretZUdxx"
+              }
+            ]
+          }
+        },
+        "id": "1469083083861336066",
+        "name": "慕归凌",
+        "pinned_tweet_id": "2026233501024932080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025719342487248896/JVgRPt9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 24,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 89
+        },
+        "username": "Ocean_azureView",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T01:29:29.000Z",
+        "description": "",
+        "id": "2029368618711171073",
+        "location": "i fb",
+        "name": "aren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030186612420669440/TbWcCtM4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 228,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 132
+        },
+        "username": "ticklemaster127",
+        "verified": false
+      }
+    ]
+  }
+}

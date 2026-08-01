@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950889177802850630",
+    "created_at": "2025-08-13T05:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T06:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955508475401765362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1842506923481968640",
+          "start": 0,
+          "username": "A8436636137041"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955508475401765362",
+    "in_reply_to_user_id": "1842506923481968640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950889177802850630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A8436636137041 下雨天的雨声听起来像炸鸡的声音🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950889177802850630",
+        "created_at": "2025-08-13T05:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T06:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955508475401765362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1842506923481968640",
+              "start": 0,
+              "username": "A8436636137041"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955508475401765362",
+        "in_reply_to_user_id": "1842506923481968640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950889177802850630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A8436636137041 下雨天的雨声听起来像炸鸡的声音🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842506923481968640",
+        "conversation_id": "1950889177802850630",
+        "created_at": "2025-07-31T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950889177802850630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950889177802850630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16340,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下雨的声音太好听了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T10:07:50.000Z",
+        "description": "纯纯熏赏寄几｜不缺钱 没有🚪门 。只回帅哥^不要给我发牛子，不要给我发牛子，不要给我发牛子牛子禁区。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/koiiok66?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/koiiok66?s=21",
+                "start": 0,
+                "url": "https://t.co/YLrO2Ji4LP"
+              }
+            ]
+          }
+        },
+        "id": "1842506923481968640",
+        "location": "ctrl z",
+        "name": "Keiio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950247342797463552/GHQRMviJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24539,
+          "following_count": 0,
+          "like_count": 27,
+          "listed_count": 84,
+          "media_count": 56,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/YLrO2Ji4LP",
+        "username": "A8436636137041",
+        "verified": false
+      }
+    ]
+  }
+}

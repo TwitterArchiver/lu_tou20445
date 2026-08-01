@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2035254739362095573",
+    "created_at": "2026-03-21T08:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T09:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035270053147598878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035270053147598878",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035254739362095573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 不做作，语气里全是享受，完全能胜任了说是"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 140713,
+        "height": 1080,
+        "media_key": "7_2035254652011520004",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2035254652011520004/pu/img/cN4qeHyPZKVn_vWe.jpg",
+        "public_metrics": {
+          "view_count": 50
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035254652011520004/pu/vid/avc1/640x360/UznCV8ZJA1tAsSiG.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035254652011520004/pu/vid/avc1/480x270/MDpQNPlwzBTovR1O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035254652011520004/pu/vid/avc1/1280x720/5pIbaf6Kwo9IjORs.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2035254652011520004/pu/vid/avc1/1920x1080/vE5TTWZl7U0XcYxh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2035254652011520004/pu/pl/dhnmONsI-wijmx4I.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2035254739362095573",
+        "created_at": "2026-03-21T08:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035270053147598878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035270053147598878",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035254739362095573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 不做作，语气里全是享受，完全能胜任了说是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2035254652011520004"
+          ]
+        },
+        "author_id": "1525341238223855616",
+        "conversation_id": "2035254739362095573",
+        "created_at": "2026-03-21T07:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035254739362095573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwMMWw7RsN",
+              "end": 40,
+              "expanded_url": "https://x.com/zz160268/status/2035254739362095573/video/1",
+              "media_key": "7_2035254652011520004",
+              "start": 17,
+              "url": "https://t.co/rwMMWw7RsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035254739362095573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 162,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "够不够进军女喘赛道（但不会再录了 https://t.co/rwMMWw7RsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 71,
+          "like_count": 18919,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 5507
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "翻不过去的最后一页",
+        "id": "1525341238223855616",
+        "name": "🛶",
+        "pinned_tweet_id": "2028471482092044762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 225,
+          "like_count": 36839,
+          "listed_count": 0,
+          "media_count": 914,
+          "tweet_count": 12529
+        },
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023082196714872832"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2023082564232290395",
+    "created_at": "2026-02-15T17:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023082564232290395"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oj5B646GQH",
+          "end": 26,
+          "expanded_url": "https://x.com/lu_tou20445/status/2023082564232290395/video/1",
+          "media_key": "13_2023082196714872832",
+          "start": 3,
+          "url": "https://t.co/Oj5B646GQH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023082564232290395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "转载 https://t.co/Oj5B646GQH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27900,
+        "height": 660,
+        "media_key": "13_2023082196714872832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023082196714872832/img/3nAyIQkZAzHK944-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023082196714872832/vid/avc1/292x270/i2wOL2aF5IrNGiHe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023082196714872832/vid/avc1/390x360/6ZLHgnUemO1ORn6n.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023082196714872832/vid/avc1/716x660/BPdd-OihJxy7rIDy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023082196714872832/pl/twEE0Mk_Z_JvY_V_.m3u8"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023082196714872832"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2023082564232290395",
+        "created_at": "2026-02-15T17:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023082564232290395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oj5B646GQH",
+              "end": 26,
+              "expanded_url": "https://x.com/lu_tou20445/status/2023082564232290395/video/1",
+              "media_key": "13_2023082196714872832",
+              "start": 3,
+              "url": "https://t.co/Oj5B646GQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023082564232290395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "转载 https://t.co/Oj5B646GQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 70,
+          "like_count": 15945,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 4794
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

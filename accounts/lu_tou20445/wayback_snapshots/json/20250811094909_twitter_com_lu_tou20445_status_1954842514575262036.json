@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954838345554567417",
+    "created_at": "2025-08-11T09:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T10:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954842514575262036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1914575147874574338",
+          "start": 0,
+          "username": "auvebj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954842514575262036",
+    "in_reply_to_user_id": "1914575147874574338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954838345554567417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auvebj 有点像灯罩子被凿破了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954838333793927168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyD7G38agAAu7UE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954838345554567417",
+        "created_at": "2025-08-11T09:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954842514575262036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1914575147874574338",
+              "start": 0,
+              "username": "auvebj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954842514575262036",
+        "in_reply_to_user_id": "1914575147874574338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954838345554567417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auvebj 有点像灯罩子被凿破了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954838333793927168"
+          ]
+        },
+        "author_id": "1914575147874574338",
+        "conversation_id": "1954838345554567417",
+        "created_at": "2025-08-11T09:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954838345554567417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q7BUJnVBeN",
+              "end": 36,
+              "expanded_url": "https://x.com/auvebj/status/1954838345554567417/photo/1",
+              "media_key": "3_1954838333793927168",
+              "start": 13,
+              "url": "https://t.co/q7BUJnVBeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954838345554567417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai的天外来光好幽默😇😇 https://t.co/q7BUJnVBeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 37,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T07:01:15.000Z",
+        "description": "只是一个存图自留地｜私信已关｜不会礼貌回关｜废话人格：@neikupifa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "neikupifa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/auvebj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/auvebj",
+                "start": 0,
+                "url": "https://t.co/hd0dvS0GeJ"
+              }
+            ]
+          }
+        },
+        "id": "1914575147874574338",
+        "location": "无🚪无v 悄悄话➡️",
+        "name": "冰皮薄脆饼🫓",
+        "pinned_tweet_id": "1952214418240205138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950034936301506560/0ZFhTvh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 95,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/hd0dvS0GeJ",
+        "username": "auvebj",
+        "verified": false
+      }
+    ]
+  }
+}

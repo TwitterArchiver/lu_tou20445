@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2015631201386819909",
+    "created_at": "2026-01-26T07:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015689437821403355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933153092712976384",
+          "start": 0,
+          "username": "kurice__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015689437821403355",
+    "in_reply_to_user_id": "1933153092712976384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015631201386819909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurice__ 能第一时间看懂完全是受当年八级大狂风的影响🤦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2015631201386819909",
+        "created_at": "2026-01-26T07:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015689437821403355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933153092712976384",
+              "start": 0,
+              "username": "kurice__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015689437821403355",
+        "in_reply_to_user_id": "1933153092712976384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015631201386819909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurice__ 能第一时间看懂完全是受当年八级大狂风的影响🤦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933153092712976384",
+        "conversation_id": "2015631201386819909",
+        "created_at": "2026-01-26T03:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015631201386819909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015631201386819909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷个抖音。刷到了个新词  八级甲..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 70,
+          "like_count": 14644,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 4373
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T13:23:28.000Z",
+        "description": "好景常在",
+        "id": "1933153092712976384",
+        "location": "许愿一个永远陪着我的人",
+        "name": "宇宙超级无敌噼里啪啦懒洋洋大王",
+        "pinned_tweet_id": "2013586381390414057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015560371093057536/Hs60zZTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 92,
+          "like_count": 730,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 724
+        },
+        "username": "kurice__",
+        "verified": false
+      }
+    ]
+  }
+}

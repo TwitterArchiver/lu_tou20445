@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962178266951016722",
+    "created_at": "2025-08-31T15:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T16:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962179410028818721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597119365282791425",
+          "start": 0,
+          "username": "Keljiaoshenme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962179410028818721",
+    "in_reply_to_user_id": "1597119365282791425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962178266951016722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keljiaoshenme 你这个照片质感和环境，有点像路边站街带上去的小房间了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1962178248886161408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsOuKbbkAAxl9I.jpg",
+        "width": 737
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962178266951016722",
+        "created_at": "2025-08-31T15:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962179410028818721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597119365282791425",
+              "start": 0,
+              "username": "Keljiaoshenme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962179410028818721",
+        "in_reply_to_user_id": "1597119365282791425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962178266951016722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keljiaoshenme 你这个照片质感和环境，有点像路边站街带上去的小房间了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962178248886161408"
+          ]
+        },
+        "author_id": "1597119365282791425",
+        "conversation_id": "1962178266951016722",
+        "created_at": "2025-08-31T15:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962178266951016722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mj8FAQfVaq",
+              "end": 31,
+              "expanded_url": "https://x.com/Keljiaoshenme/status/1962178266951016722/photo/1",
+              "media_key": "3_1962178248886161408",
+              "start": 8,
+              "url": "https://t.co/mj8FAQfVaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962178266951016722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发什么文案好呢 https://t.co/mj8FAQfVaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 58,
+          "like_count": 1859,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:45:18.000Z",
+        "description": "V：68｜188tj｜520主人｜不谈｜不感兴趣｜没人问你｜已有对象｜只回感兴趣的｜管我哪的｜没有线下（言语羞辱我吧，喜欢）",
+        "id": "1597119365282791425",
+        "location": "🚪68｜188｜520",
+        "name": "kel",
+        "pinned_tweet_id": "1932109681910292853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954548018637905920/Bo5Ksn9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22814,
+          "following_count": 62,
+          "like_count": 1634,
+          "listed_count": 41,
+          "media_count": 76,
+          "tweet_count": 368
+        },
+        "username": "Keljiaoshenme",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2000232894435148134",
+    "created_at": "2025-12-14T16:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000236027739594784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999062281326669826",
+          "start": 0,
+          "username": "tCYYUgSllF26087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000236027739594784",
+    "in_reply_to_user_id": "1999062281326669826",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000232894435148134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tCYYUgSllF26087 你等的我好苦啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2000232894435148134",
+        "created_at": "2025-12-14T16:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000236027739594784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999062281326669826",
+              "start": 0,
+              "username": "tCYYUgSllF26087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000236027739594784",
+        "in_reply_to_user_id": "1999062281326669826",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000232894435148134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tCYYUgSllF26087 你等的我好苦啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999062281326669826",
+        "conversation_id": "2000232894435148134",
+        "created_at": "2025-12-14T15:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T16:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000232894435148134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000232894435148134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我将抄写对话列表的互关的id并关注到这个号码上来.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 69,
+          "like_count": 11381,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 3297
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:24:22.000Z",
+        "description": "唉 我不得劲儿",
+        "id": "1999062281326669826",
+        "name": "菇耐耐（也还好）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999854465168674816/D-bzSuxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "tCYYUgSllF26087",
+        "verified": false
+      }
+    ]
+  }
+}

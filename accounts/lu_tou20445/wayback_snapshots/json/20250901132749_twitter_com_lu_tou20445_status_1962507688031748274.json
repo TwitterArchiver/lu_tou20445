@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962443389514952842",
+    "created_at": "2025-09-01T13:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T14:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962507688031748274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante34872865"
+        },
+        {
+          "end": 28,
+          "id": "1960382302724452352",
+          "start": 17,
+          "username": "ji_yu81718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962507688031748274",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962444611848446169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante34872865 @ji_yu81718 雪豹闭嘴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962443389514952842",
+        "created_at": "2025-09-01T13:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962507688031748274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante34872865"
+            },
+            {
+              "end": 28,
+              "id": "1960382302724452352",
+              "start": 17,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962507688031748274",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962444611848446169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante34872865 @ji_yu81718 雪豹闭嘴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217846927036837890",
+        "conversation_id": "1962443389514952842",
+        "created_at": "2025-09-01T09:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962444611848446169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960382302724452352",
+              "start": 0,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962444611848446169",
+        "in_reply_to_user_id": "1960382302724452352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962443389514952842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_yu81718 我似顶针，我需要五十块钱买电子烟，事成之后我将命你为理塘节度使"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 58,
+          "like_count": 1994,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1414
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "你要离开吗，我们一起离开。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andante63573",
+                "end": 23,
+                "expanded_url": "https://ngl.link/andante63573",
+                "start": 0,
+                "url": "https://t.co/pzv46WS6sw"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1951480793827778963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961763842184335361/tlNlyQFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 149,
+          "like_count": 2705,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 264
+        },
+        "url": "https://t.co/pzv46WS6sw",
+        "username": "Andante34872865",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T16:42:26.000Z",
+        "description": "黑暗之中闭上眼",
+        "id": "1960382302724452352",
+        "name": "那你现在是不是已经被他们淹没",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961299620711321600/b9rD2AdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 16,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 186
+        },
+        "username": "ji_yu81718",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2016859146348613893",
+    "created_at": "2026-01-30T01:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T02:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017051749732012469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1762501323495231488",
+          "start": 0,
+          "username": "ac520_like"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017051749732012469",
+    "in_reply_to_user_id": "1762501323495231488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017048563684176069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ac520_like 如果比我尝的早请来反馈🙌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-30T01:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017051749732012469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762501323495231488",
+              "start": 0,
+              "username": "ac520_like"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017051749732012469",
+        "in_reply_to_user_id": "1762501323495231488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017048563684176069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ac520_like 如果比我尝的早请来反馈🙌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762501323495231488",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-30T01:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017048563684176069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017048563684176069",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016859146348613893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我去！我将尝尝如此美味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 71,
+          "like_count": 14787,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 4448
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T15:34:12.000Z",
+        "description": "155 42kg 80 54 85\n约拍约绳私，付定金(🚪99）加v私口令\n私信没回就是被吞了",
+        "id": "1762501323495231488",
+        "location": "-3cm",
+        "name": "阿次",
+        "pinned_tweet_id": "2013848660535119977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899379238572290048/DKOzhyPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 142,
+          "like_count": 148,
+          "listed_count": 14,
+          "media_count": 17,
+          "tweet_count": 70
+        },
+        "username": "ac520_like",
+        "verified": false
+      }
+    ]
+  }
+}

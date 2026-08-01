@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954862125505028175",
+    "created_at": "2025-08-11T13:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T14:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954899724315578489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1927042473118818304",
+          "start": 0,
+          "username": "harper4art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954899724315578489",
+    "in_reply_to_user_id": "1927042473118818304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954899014564061217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harper4art 那来点玄学点的说法，在被牵引做什么的时候如果不做就会把资源花到其他更没必要的地方，哦还有一个现实版本：三百八只能买一罐奶粉😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954862125505028175",
+        "created_at": "2025-08-11T13:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954899724315578489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1927042473118818304",
+              "start": 0,
+              "username": "harper4art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954899724315578489",
+        "in_reply_to_user_id": "1927042473118818304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954899014564061217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harper4art 那来点玄学点的说法，在被牵引做什么的时候如果不做就会把资源花到其他更没必要的地方，哦还有一个现实版本：三百八只能买一罐奶粉😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927042473118818304",
+        "conversation_id": "1954862125505028175",
+        "created_at": "2025-08-11T13:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T14:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954899014564061217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954899014564061217",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954873400372994357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 呜呜呜，我是一个纠结的人，老是会东想西想，买东西的时候会很开心，但是我自己把这个情绪压下去了就感觉被憋住了，反而对自己身体不好了，害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 38,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 663
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T16:42:35.000Z",
+        "description": "ദ⎚⩊⎚✧",
+        "id": "1927042473118818304",
+        "name": "harperagain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927043136246702080/b2HLw736_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 37,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 251
+        },
+        "username": "harper4art",
+        "verified": false
+      }
+    ]
+  }
+}

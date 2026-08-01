@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953364891676319899",
+    "created_at": "2025-08-07T10:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T11:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953405019237040153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611322522670346241",
+          "start": 0,
+          "username": "caixiayu1hao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953405019237040153",
+    "in_reply_to_user_id": "1611322522670346241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953364891676319899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixiayu1hao 没有，发来😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953364876933402624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxu_AZZXEAAueW4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953364891676319899",
+        "created_at": "2025-08-07T10:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T11:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953405019237040153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611322522670346241",
+              "start": 0,
+              "username": "caixiayu1hao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953405019237040153",
+        "in_reply_to_user_id": "1611322522670346241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953364891676319899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixiayu1hao 没有，发来😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953364876933402624"
+          ]
+        },
+        "author_id": "1611322522670346241",
+        "conversation_id": "1953364891676319899",
+        "created_at": "2025-08-07T07:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T08:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953364891676319899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cDK9QF0HcF",
+              "end": 34,
+              "expanded_url": "https://x.com/caixiayu1hao/status/1953364891676319899/photo/1",
+              "media_key": "3_1953364876933402624",
+              "start": 11,
+              "url": "https://t.co/cDK9QF0HcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953364891676319899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯。你没有小狗抱吗？ https://t.co/cDK9QF0HcF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 38,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T11:23:30.000Z",
+        "description": "07/你可以叫我小虾🦐/纯文，完蛋了我被工科录取了……/两只🐶两只🐭两只🦔/喜欢我就给我打钱。/挑战每一条评论都回，如果没回就是没看到不是故意的，你可以跟我说/近期在打工。心情不美丽，感觉会发很多吐槽的阴暗面，不要讨厌我好吗😢/欢迎和我玩，但是不欢迎骚扰🐱@caixiayu2hao 可以向我小号点歌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "caixiayu2hao"
+              }
+            ]
+          }
+        },
+        "id": "1611322522670346241",
+        "location": "主动关注你就是喜欢你……",
+        "name": "才下雨🌧️⛈️☔️（距离打工结束还有18天版）",
+        "pinned_tweet_id": "1942631010954535261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947951383032016896/5O7eO2sQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4591,
+          "following_count": 532,
+          "like_count": 2940,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 4868
+        },
+        "username": "caixiayu1hao",
+        "verified": false
+      }
+    ]
+  }
+}

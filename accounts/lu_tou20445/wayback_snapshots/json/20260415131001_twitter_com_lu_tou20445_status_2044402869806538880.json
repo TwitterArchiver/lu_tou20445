@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2044090186016104959",
+    "created_at": "2026-04-15T13:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T14:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044402869806538880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1409564127916224512",
+          "start": 0,
+          "username": "VgWgypKER24wJEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044402869806538880",
+    "in_reply_to_user_id": "1409564127916224512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044090186016104959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VgWgypKER24wJEX 那请问在哪里能亲得到呢😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2044090186016104959",
+        "created_at": "2026-04-15T13:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044402869806538880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1409564127916224512",
+              "start": 0,
+              "username": "VgWgypKER24wJEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044402869806538880",
+        "in_reply_to_user_id": "1409564127916224512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044090186016104959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VgWgypKER24wJEX 那请问在哪里能亲得到呢😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409564127916224512",
+        "conversation_id": "2044090186016104959",
+        "created_at": "2026-04-14T16:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044090186016104959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rymas77434/sta…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/rymas77434/status/2043772416078557554",
+              "start": 116,
+              "url": "https://t.co/SfU5Y4wXjn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044090186016104959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11528,
+          "impression_count": 2169060,
+          "like_count": 15363,
+          "quote_count": 164,
+          "reply_count": 206,
+          "retweet_count": 608
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043772416078557554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来和大家说一下亲吻感觉是甜甜的，两嘴巴贴着一起，很软很甜的感觉。触碰到对方嘴唇的时候，几乎都感觉不到对方的嘴唇，因为特别软。亲吻的时候真正的就像你用嘴唇亲果冻一模一样。又甜又软又舒服。闭上眼睛去享受，更能体验到对方的体香和温柔。 https://t.co/SfU5Y4wXjn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 71,
+          "like_count": 20240,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 5714
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T17:27:45.000Z",
+        "description": "万达广场野生抽象🧑‍🍳｜平时写点什么关于爱与生活的！#谈谈 提问箱📩https://t.co/V22SZQXdgV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 26,
+                "tag": "谈谈"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aidou68117",
+                "end": 57,
+                "expanded_url": "https://ngl.link/aidou68117",
+                "start": 34,
+                "url": "https://t.co/V22SZQXdgV"
+              }
+            ]
+          }
+        },
+        "id": "1409564127916224512",
+        "location": "距离800m",
+        "name": "Aiduo",
+        "pinned_tweet_id": "2036826855203016802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956171892169302017/ktOwPGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 3537,
+          "like_count": 98439,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 5110
+        },
+        "username": "VgWgypKER24wJEX",
+        "verified": false
+      }
+    ]
+  }
+}

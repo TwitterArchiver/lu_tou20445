@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950398015040106853",
+    "created_at": "2025-07-30T03:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T04:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950402370938216584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948649552543969280",
+          "start": 0,
+          "username": "horizonKaze"
+        },
+        {
+          "end": 21,
+          "id": "1846508619858354176",
+          "start": 13,
+          "username": "Yan_u33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950402370938216584",
+    "in_reply_to_user_id": "1948649552543969280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950401142271496585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@horizonKaze @Yan_u33 我愿称魏家凉皮的汉堡为最汉堡的汉堡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950398015040106853",
+        "created_at": "2025-07-30T03:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950402370938216584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948649552543969280",
+              "start": 0,
+              "username": "horizonKaze"
+            },
+            {
+              "end": 21,
+              "id": "1846508619858354176",
+              "start": 13,
+              "username": "Yan_u33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950402370938216584",
+        "in_reply_to_user_id": "1948649552543969280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950401142271496585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@horizonKaze @Yan_u33 我愿称魏家凉皮的汉堡为最汉堡的汉堡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948649552543969280",
+        "conversation_id": "1950398015040106853",
+        "created_at": "2025-07-30T03:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950401142271496585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1846508619858354176",
+              "start": 0,
+              "username": "Yan_u33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950401142271496585",
+        "in_reply_to_user_id": "1846508619858354176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950398015040106853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_u33 dy上看过很多魏家凉皮感觉他们家啥都看着好吃汉堡我也想尝尝...可惜好像只有北方城市有啥时候开南方来啊😭实名制羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T07:40:45.000Z",
+        "description": "02 Chinese ♏ male\n不定时更新日常 谢谢你关注我！",
+        "id": "1948649552543969280",
+        "location": "Nomanland",
+        "name": "HorizonKaze",
+        "pinned_tweet_id": "1949017881720881630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948651217326145536/bRBiDfbj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 96,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 35
+        },
+        "username": "horizonKaze",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T11:09:11.000Z",
+        "description": "esfp 快乐天蝎小狗 吐槽信箱/树洞🥺🥺\nSwitch\n叫我不厌/小厌/都可以!!!!\nhttps://t.co/AGb8KiwxEU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan_u332",
+                "end": 68,
+                "expanded_url": "https://ngl.link/yan_u332",
+                "start": 45,
+                "url": "https://t.co/AGb8KiwxEU"
+              }
+            ]
+          }
+        },
+        "id": "1846508619858354176",
+        "name": "不厌（私信上限版 无能狂怒!",
+        "pinned_tweet_id": "1897957044118077905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876950335971024896/IwaV_7Ar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 168,
+          "like_count": 16640,
+          "listed_count": 1,
+          "media_count": 455,
+          "tweet_count": 5923
+        },
+        "username": "Yan_u33",
+        "verified": false
+      }
+    ]
+  }
+}

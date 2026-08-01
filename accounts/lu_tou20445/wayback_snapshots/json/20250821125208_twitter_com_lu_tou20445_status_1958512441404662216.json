@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958503427530535304",
+    "created_at": "2025-08-21T12:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T13:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958512441404662216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482923379438936064",
+          "start": 0,
+          "username": "qing_qing97"
+        },
+        {
+          "end": 23,
+          "id": "1784887323211280384",
+          "start": 13,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958512441404662216",
+    "in_reply_to_user_id": "1482923379438936064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958506267498139657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_qing97 @ljng15760 工业糖精说是😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-08-21T12:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958512441404662216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482923379438936064",
+              "start": 0,
+              "username": "qing_qing97"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958512441404662216",
+        "in_reply_to_user_id": "1482923379438936064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958506267498139657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_qing97 @ljng15760 工业糖精说是😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482923379438936064",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-08-21T12:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958506267498139657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958506267498139657",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958503427530535304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @ljng15760 好甜好甜😌😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 51,
+          "like_count": 956,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1060
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T03:51:06.000Z",
+        "description": "(。•ω -)ε・ ｡)女宝的消息都会回，男的随缘",
+        "id": "1482923379438936064",
+        "name": "朝時飲露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936762977278984192/WjWcnBQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 107,
+          "like_count": 6257,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1704
+        },
+        "username": "qing_qing97",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/9PJ5FnV3Eg不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂时不接新的了）/搬运、抄袭替我挡灾（部分短打不上菜）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=NsOxJjaN",
+                "start": 39,
+                "url": "https://t.co/9PJ5FnV3Eg"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "爱是陪伴",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956030588256968707/1wjKy8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63741,
+          "following_count": 273,
+          "like_count": 10013,
+          "listed_count": 64,
+          "media_count": 574,
+          "tweet_count": 7957
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

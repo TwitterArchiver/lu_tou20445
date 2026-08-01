@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2002039040149971250",
+    "created_at": "2025-12-20T03:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T04:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002224482963107963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990287033190039553",
+          "start": 0,
+          "username": "CaTnnySssss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002224482963107963",
+    "in_reply_to_user_id": "1990287033190039553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002055361331892363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaTnnySssss 没办法，小时候没判断能力父母也不觉得这是错就是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2002039040149971250",
+        "created_at": "2025-12-20T03:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002224482963107963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990287033190039553",
+              "start": 0,
+              "username": "CaTnnySssss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002224482963107963",
+        "in_reply_to_user_id": "1990287033190039553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002055361331892363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaTnnySssss 没办法，小时候没判断能力父母也不觉得这是错就是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990287033190039553",
+        "conversation_id": "2002039040149971250",
+        "created_at": "2025-12-19T16:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002055361331892363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002055361331892363",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002039040149971250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 被规训，，，被教育集体主义，让我们要考虑别人的感受，，，但实际上大部分时间这个玩意就是纯狗屁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 68,
+          "like_count": 11891,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3421
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T05:13:18.000Z",
+        "description": "from Guangdong广东/Mygo，GBC love🥰/あのそよansy LOVE🤤🤤🤤🤤/Learning English and Japanese but still poor./大学生一只/不混圈子，爱好很多，喜欢/主玩射击游戏",
+        "id": "1990287033190039553",
+        "name": "张猫小姐拜托了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990673865329291271/GV2jlhlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 124,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 143
+        },
+        "username": "CaTnnySssss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2027696378055692770",
+    "created_at": "2026-02-28T11:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027707799481061718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777345731130777600",
+          "start": 0,
+          "username": "wildowlxiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027707799481061718",
+    "in_reply_to_user_id": "1777345731130777600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027696674018304313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wildowlxiao 包的👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2027696378055692770",
+        "created_at": "2026-02-28T11:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027707799481061718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777345731130777600",
+              "start": 0,
+              "username": "wildowlxiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027707799481061718",
+        "in_reply_to_user_id": "1777345731130777600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027696674018304313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wildowlxiao 包的👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777345731130777600",
+        "conversation_id": "2027696378055692770",
+        "created_at": "2026-02-28T10:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027696674018304313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027696674018304313",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027696378055692770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 天才啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 72,
+          "like_count": 17289,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 5153
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T14:40:28.000Z",
+        "description": "| 小鸮🦉的学习/发疯推  |  ENTP  |\n philosophy / politics / economics  |  \n\n 主修 分析哲学（Analytic Philosophy）  |   自由意志主义者（Libertarian） | \n\n 以雅典娜之名…… |",
+        "id": "1777345731130777600",
+        "location": "帕特农",
+        "name": "小鸮在睡觉",
+        "pinned_tweet_id": "1781204184559444317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777362669869367296/ZvvWtP7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 180,
+          "like_count": 6159,
+          "listed_count": 4,
+          "media_count": 131,
+          "tweet_count": 3813
+        },
+        "username": "wildowlxiao",
+        "verified": false
+      }
+    ]
+  }
+}

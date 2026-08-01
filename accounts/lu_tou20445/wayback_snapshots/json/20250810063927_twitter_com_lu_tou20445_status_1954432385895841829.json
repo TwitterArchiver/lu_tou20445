@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954430520198357296",
+    "created_at": "2025-08-10T06:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T07:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954432385895841829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924098812643364864",
+          "start": 0,
+          "username": "gunainai13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954432385895841829",
+    "in_reply_to_user_id": "1924098812643364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954430520198357296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunainai13 是这样的呀，水象总是会通过这种不经意的在意和奇奇怪怪的细节然后爱上一个具体的人，我完全能够理解了说是🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954430520198357296",
+        "created_at": "2025-08-10T06:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954432385895841829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924098812643364864",
+              "start": 0,
+              "username": "gunainai13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954432385895841829",
+        "in_reply_to_user_id": "1924098812643364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954430520198357296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunainai13 是这样的呀，水象总是会通过这种不经意的在意和奇奇怪怪的细节然后爱上一个具体的人，我完全能够理解了说是🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924098812643364864",
+        "conversation_id": "1954430520198357296",
+        "created_at": "2025-08-10T06:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T07:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954430520198357296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954430520198357296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚才在聊我俩的感情转折点，她说是我手被打火机烫伤那次。\n去小卖部买冰水敷手，顺便给她买了一瓶她总是选的，我教她左撇子怎么拧瓶盖“用右手握住瓶身的话，用左手的大拇指肌肉困住瓶盖，然后左手别动用右手逆时针拧瓶身。”她一边听我说一边按照步骤做成功了。\n她说，那会儿开始爱我。我陷入完全的震惊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 37,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:44:58.000Z",
+        "description": "追妻成功版｜匿名可点下方链接⬇️｜互fo可以来匿名点歌｜我老婆叫优崽（悠哉）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8F%87%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8F%87%E8%80%90%E8%80%90",
+                "start": 0,
+                "url": "https://t.co/C8GCOEMhUZ"
+              }
+            ]
+          }
+        },
+        "id": "1924098812643364864",
+        "name": "开心菇·耐耐（小百灵鸟版）",
+        "pinned_tweet_id": "1952039805732438260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953326317166051330/ZYP8OFu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 194,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/C8GCOEMhUZ",
+        "username": "gunainai13",
+        "verified": false
+      }
+    ]
+  }
+}

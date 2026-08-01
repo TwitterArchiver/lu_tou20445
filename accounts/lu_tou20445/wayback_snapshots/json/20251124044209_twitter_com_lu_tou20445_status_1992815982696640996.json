@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958503427530535304",
+    "created_at": "2025-11-24T04:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992815982696640996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        },
+        {
+          "end": 20,
+          "id": "1784887323211280384",
+          "start": 10,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992815982696640996",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992732855223627832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77ninini @ljng15760 回归不了了，老头嗓子捐了已经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-11-24T04:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992815982696640996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            },
+            {
+              "end": 20,
+              "id": "1784887323211280384",
+              "start": 10,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992815982696640996",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992732855223627832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77ninini @ljng15760 回归不了了，老头嗓子捐了已经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907355599232274432",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-11-23T23:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T00:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992732855223627832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992732855223627832",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958503427530535304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @ljng15760 这个节目什么时候可以回归一下呢🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 70,
+          "like_count": 9578,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2897
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "简单记录生活，记录心情，喜欢小猫小狗🥰\n（私信请发小猫小狗谢谢，发恶心图的这辈子发不了财，不加VX，不礼貌回关，取关随意）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐",
+        "pinned_tweet_id": "1992619001349083443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987567256109277185/JL05nIaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 179,
+          "like_count": 41898,
+          "listed_count": 3,
+          "media_count": 626,
+          "tweet_count": 13280
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/5POqV5PI2E不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=l5JiAadv",
+                "start": 39,
+                "url": "https://t.co/5POqV5PI2E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bohe15760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bohe15760",
+                "start": 0,
+                "url": "https://t.co/7Wg9tCsfXq"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975786182387900416/_TTGLVKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83711,
+          "following_count": 272,
+          "like_count": 10344,
+          "listed_count": 92,
+          "media_count": 678,
+          "tweet_count": 8854
+        },
+        "url": "https://t.co/7Wg9tCsfXq",
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

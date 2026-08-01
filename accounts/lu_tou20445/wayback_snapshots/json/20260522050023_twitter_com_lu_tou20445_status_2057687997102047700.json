@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2057253269035180279",
+    "created_at": "2026-05-22T05:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057687997102047700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1580767946179194882",
+          "start": 0,
+          "username": "kfk_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057687997102047700",
+    "in_reply_to_user_id": "1580767946179194882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057253269035180279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfk_ai 新的劳动力进入市场前，资本总会为他们准备一场盛大的欢迎仪式让他们以为自己是这个市场的主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 911,
+        "media_key": "3_2057253262311743488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIzU8Tka4AA__5x.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2057253269035180279",
+        "created_at": "2026-05-22T05:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057687997102047700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580767946179194882",
+              "start": 0,
+              "username": "kfk_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057687997102047700",
+        "in_reply_to_user_id": "1580767946179194882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057253269035180279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfk_ai 新的劳动力进入市场前，资本总会为他们准备一场盛大的欢迎仪式让他们以为自己是这个市场的主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057253262311743488"
+          ]
+        },
+        "author_id": "1580767946179194882",
+        "conversation_id": "2057253269035180279",
+        "created_at": "2026-05-21T00:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T01:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057253269035180279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiGD75u48C",
+              "end": 44,
+              "expanded_url": "https://x.com/kfk_ai/status/2057253269035180279/photo/1",
+              "media_key": "3_2057253262311743488",
+              "start": 21,
+              "url": "https://t.co/PiGD75u48C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057253269035180279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 358302,
+          "like_count": 1894,
+          "quote_count": 2,
+          "reply_count": 81,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "为什么\n\n现在很少听到\n\n00后整顿职场 https://t.co/PiGD75u48C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 69,
+          "like_count": 20766,
+          "listed_count": 5,
+          "media_count": 270,
+          "tweet_count": 5915
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "🇺🇸 美国八年｜💻 CS 科班 \n🤖 AI Builder｜Build in Public\n🌱 记录从 0 开始做自媒体\n🌊 深度大于速度 \n🍺 精酿爱好者\n👇 咨询合作注明来意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/yGdKyTsZp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/yGdKyTsZp",
+                "start": 0,
+                "url": "https://t.co/OEFumiBsHU"
+              }
+            ]
+          }
+        },
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2054840791584133551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047190090401939456/aEcmSiyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5743,
+          "following_count": 212,
+          "like_count": 5596,
+          "listed_count": 28,
+          "media_count": 180,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/OEFumiBsHU",
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

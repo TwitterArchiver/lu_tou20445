@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2076008969097871513",
+    "created_at": "2026-07-12T03:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T04:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076149250682225115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558541027450839040",
+          "start": 0,
+          "username": "sfPeterPan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076149250682225115",
+    "in_reply_to_user_id": "1558541027450839040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076008969097871513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfPeterPan 蜀堰老妈砂锅串串，乐二妹火锅，夺爷炒螺蛳，小雅古早"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2076008969097871513",
+        "created_at": "2026-07-12T03:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076149250682225115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558541027450839040",
+              "start": 0,
+              "username": "sfPeterPan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076149250682225115",
+        "in_reply_to_user_id": "1558541027450839040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076008969097871513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfPeterPan 蜀堰老妈砂锅串串，乐二妹火锅，夺爷炒螺蛳，小雅古早"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558541027450839040",
+        "conversation_id": "2076008969097871513",
+        "created_at": "2026-07-11T18:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076008969097871513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7thasylum/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/7thasylum/status/2075820343407886783",
+              "start": 11,
+              "url": "https://t.co/EzvPfjq3Ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076008969097871513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 774,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075820343407886783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求推我也要去成都🤲🏻 https://t.co/EzvPfjq3Ve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 71,
+          "like_count": 21292,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 6271
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T19:49:07.000Z",
+        "description": "你好呀，欢迎进入小熊的世界。（🚪请敲门 随缘）|【自用🪜：https://t.co/rXf7cKvLe2】/互关请进：@kidultPP😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "kidultPP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "us5.av8dcloud.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://us5.av8dcloud.top/#/register?code=kkA9j3Qy",
+                "start": 29,
+                "url": "https://t.co/rXf7cKvLe2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "小小熊要加油啊.com",
+                "end": 23,
+                "expanded_url": "http://xn--yfrw5dr2ia544sltg9l9b.com",
+                "start": 0,
+                "url": "https://t.co/gPaV7kD2y3"
+              }
+            ]
+          }
+        },
+        "id": "1558541027450839040",
+        "location": "寻梦的路上（钱多多的来🤤🤲🏻）",
+        "name": "Peter Pan",
+        "pinned_tweet_id": "1879205338345594897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004571942712684545/saBk3grR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4321,
+          "following_count": 1172,
+          "like_count": 522679,
+          "listed_count": 52,
+          "media_count": 4593,
+          "tweet_count": 83076
+        },
+        "url": "https://t.co/gPaV7kD2y3",
+        "username": "sfPeterPan",
+        "verified": true
+      }
+    ]
+  }
+}

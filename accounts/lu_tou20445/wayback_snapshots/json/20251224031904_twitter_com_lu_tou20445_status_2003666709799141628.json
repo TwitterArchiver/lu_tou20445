@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2003457249319297449",
+    "created_at": "2025-12-24T03:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T04:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003666709799141628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840061282676027394",
+          "start": 0,
+          "username": "tiedademowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003666709799141628",
+    "in_reply_to_user_id": "1840061282676027394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003662786505867474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiedademowang 这不是你的问题，对方是带着审视你的感觉要你低头顺从的，正常互相沟通是不会这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-24T03:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003666709799141628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1840061282676027394",
+              "start": 0,
+              "username": "tiedademowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003666709799141628",
+        "in_reply_to_user_id": "1840061282676027394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003662786505867474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiedademowang 这不是你的问题，对方是带着审视你的感觉要你低头顺从的，正常互相沟通是不会这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840061282676027394",
+        "conversation_id": "2003457249319297449",
+        "created_at": "2025-12-24T03:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003662786505867474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003662786505867474",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003457249319297449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我高中的第一个班主任，和她说话就一直问我为什么要瞪她眼睛，她说我应该低着头“你是不是傻姑娘”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 69,
+          "like_count": 12292,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3524
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T16:09:47.000Z",
+        "description": "超级不好👊🏻🚬",
+        "id": "1840061282676027394",
+        "location": "一般都在床上",
+        "name": "迷路迴",
+        "pinned_tweet_id": "1993019528482374092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982861554979586048/04cap8Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 151,
+          "like_count": 7798,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 123
+        },
+        "username": "tiedademowang",
+        "verified": false
+      }
+    ]
+  }
+}

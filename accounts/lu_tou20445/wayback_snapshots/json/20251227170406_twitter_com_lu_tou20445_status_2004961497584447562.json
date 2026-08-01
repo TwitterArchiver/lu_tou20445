@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004961161096372399",
+    "created_at": "2025-12-27T17:04:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T18:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004961497584447562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004961497584447562",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004961161096372399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77ninini 给我丢进去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2004961151336017920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MNi13XcAAHqgS.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004961161096372399",
+        "created_at": "2025-12-27T17:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004961497584447562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004961497584447562",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004961161096372399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77ninini 给我丢进去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004961151336017920"
+          ]
+        },
+        "author_id": "1907355599232274432",
+        "conversation_id": "2004961161096372399",
+        "created_at": "2025-12-27T17:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004961161096372399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfC6JbGVUd",
+              "end": 44,
+              "expanded_url": "https://x.com/77ninini/status/2004961161096372399/photo/1",
+              "media_key": "3_2004961151336017920",
+              "start": 21,
+              "url": "https://t.co/SfC6JbGVUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004961161096372399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平安夜的大火，再靠近一点我就要被烤干了🌚 https://t.co/SfC6JbGVUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 72,
+          "like_count": 12857,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 3738
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "如果有一天我不见了，请不要意外",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐",
+        "pinned_tweet_id": "2003886229524566233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003462556665446400/Ka7m9JjW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 169,
+          "like_count": 45006,
+          "listed_count": 3,
+          "media_count": 694,
+          "tweet_count": 13907
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

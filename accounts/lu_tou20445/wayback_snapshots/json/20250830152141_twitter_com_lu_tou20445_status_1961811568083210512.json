@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959961910255800393",
+    "created_at": "2025-08-30T15:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T16:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961811568083210512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante34872865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961811568083210512",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959961910255800393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante34872865 也是一颗超大的黄油爆米花😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959961906476912640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzMu-DjakAAHb02.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959961910255800393",
+        "created_at": "2025-08-30T15:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961811568083210512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante34872865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961811568083210512",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959961910255800393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante34872865 也是一颗超大的黄油爆米花😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959961906476912640"
+          ]
+        },
+        "author_id": "1217846927036837890",
+        "conversation_id": "1959961910255800393",
+        "created_at": "2025-08-25T12:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T13:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959961910255800393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9D3tuUSOoA",
+              "end": 39,
+              "expanded_url": "https://x.com/Andante34872865/status/1959961910255800393/photo/1",
+              "media_key": "3_1959961906476912640",
+              "start": 16,
+              "url": "https://t.co/9D3tuUSOoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959961910255800393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天没饭吃，但是有橘子味棉花糖 https://t.co/9D3tuUSOoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 56,
+          "like_count": 1694,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "你要离开吗，我们一起离开。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andante63573",
+                "end": 23,
+                "expanded_url": "https://ngl.link/andante63573",
+                "start": 0,
+                "url": "https://t.co/pzv46WS6sw"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1951480793827778963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961763842184335361/tlNlyQFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 307,
+          "like_count": 2284,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 182
+        },
+        "url": "https://t.co/pzv46WS6sw",
+        "username": "Andante34872865",
+        "verified": false
+      }
+    ]
+  }
+}

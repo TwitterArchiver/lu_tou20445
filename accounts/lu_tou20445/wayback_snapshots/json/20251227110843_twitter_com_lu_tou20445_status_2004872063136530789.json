@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004846724477796734",
+    "created_at": "2025-12-27T11:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T12:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004872063136530789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920463847716237316",
+          "start": 0,
+          "username": "Wenqqq1627661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004872063136530789",
+    "in_reply_to_user_id": "1920463847716237316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004868661056852348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wenqqq1627661 那不行，得省点时间吃别的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004846724477796734",
+        "created_at": "2025-12-27T11:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004872063136530789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920463847716237316",
+              "start": 0,
+              "username": "Wenqqq1627661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004872063136530789",
+        "in_reply_to_user_id": "1920463847716237316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004868661056852348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wenqqq1627661 那不行，得省点时间吃别的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920463847716237316",
+        "conversation_id": "2004846724477796734",
+        "created_at": "2025-12-27T10:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004868661056852348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004868661056852348",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004846724477796734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 让我吃一口 晕碳五个小时我也愿意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 72,
+          "like_count": 12775,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 3698
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T13:01:03.000Z",
+        "description": "我不知道",
+        "id": "1920463847716237316",
+        "name": "吾乃天之饺子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991414251408486404/vwzeC8NP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 45,
+          "like_count": 2035,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 259
+        },
+        "username": "Wenqqq1627661",
+        "verified": false
+      }
+    ]
+  }
+}

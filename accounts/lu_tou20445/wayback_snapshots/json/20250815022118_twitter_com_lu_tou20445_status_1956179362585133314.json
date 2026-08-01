@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956175900279759080",
+    "created_at": "2025-08-15T02:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T03:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956179362585133314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904752319773892608",
+          "start": 0,
+          "username": "Laraaa718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956179362585133314",
+    "in_reply_to_user_id": "904752319773892608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956178403746570497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laraaa718 第一时间赶到现场贺喜👏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956175900279759080",
+        "created_at": "2025-08-15T02:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T03:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956179362585133314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904752319773892608",
+              "start": 0,
+              "username": "Laraaa718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956179362585133314",
+        "in_reply_to_user_id": "904752319773892608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956178403746570497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laraaa718 第一时间赶到现场贺喜👏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "904752319773892608",
+        "conversation_id": "1956175900279759080",
+        "created_at": "2025-08-15T02:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T03:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956178403746570497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956178403746570497",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956178190118084868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 是的诶！！哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 531,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T17:05:37.000Z",
+        "description": "Be my eyes.｜可以叫我猫猫或者小K｜什么都会发\nhttps://t.co/S8KYtcIl1d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laraaa718",
+                "end": 52,
+                "expanded_url": "https://ngl.link/laraaa718",
+                "start": 29,
+                "url": "https://t.co/S8KYtcIl1d"
+              }
+            ]
+          }
+        },
+        "id": "904752319773892608",
+        "location": "Hong Kong",
+        "name": "kitten",
+        "pinned_tweet_id": "1951603105013133630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324022911385051136/loicj0N5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 153,
+          "like_count": 2752,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1225
+        },
+        "username": "Laraaa718",
+        "verified": false
+      }
+    ]
+  }
+}

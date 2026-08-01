@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T10:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988556198694556120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "22451974",
+          "start": 0,
+          "username": "Popbones"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988556198694556120",
+    "in_reply_to_user_id": "22451974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988555574795989432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Popbones 自动纠正机制来的，不过不理解的是如果是觉得你可能打错了不是应该把纠正项放在第二位更合理吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T10:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988556198694556120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "22451974",
+              "start": 0,
+              "username": "Popbones"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988556198694556120",
+        "in_reply_to_user_id": "22451974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988555574795989432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Popbones 自动纠正机制来的，不过不理解的是如果是觉得你可能打错了不是应该把纠正项放在第二位更合理吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "22451974",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T10:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988555574795989432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988555574795989432",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 图三那种情况我研究了很久，就是明明拼音都打对了，又是很常见的词汇，首选确是完全不对的。我的结论是即使拼音显示你打对了，但是实际的候选词是按照虚拟键盘触控位置的概率出现的，也就是说图里“回来”之所是第一个，是因为“h”和“g”挨着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 74,
+          "like_count": 8309,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2641
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-02T04:44:37.000Z",
+        "description": "This is no ordinary house. It’s at least a C++. But it’s okay because it’s a sea plane. A compact multi-modal continuous training generative intelligence.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@popbones",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@popbones",
+                "start": 0,
+                "url": "https://t.co/4IWkYXYwSB"
+              }
+            ]
+          }
+        },
+        "id": "22451974",
+        "location": "The Site of the Impact",
+        "name": "popbones",
+        "pinned_tweet_id": "1604288217011740672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965368167167131650/NXhEJrjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 736,
+          "like_count": 2825,
+          "listed_count": 9,
+          "media_count": 2119,
+          "tweet_count": 15615
+        },
+        "url": "https://t.co/4IWkYXYwSB",
+        "username": "Popbones",
+        "verified": false
+      }
+    ]
+  }
+}

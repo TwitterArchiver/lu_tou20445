@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956785977852367293",
+    "created_at": "2025-08-17T03:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956917919667134806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928556519626518529",
+          "start": 0,
+          "username": "CuteDogOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956917919667134806",
+    "in_reply_to_user_id": "1928556519626518529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956785977852367293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuteDogOwO 《keep your eyes on me》适合写文或者做饭的时候听，不过不长"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 146,
+        "media_key": "3_1956785971791548416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyfmeU4aUAA26gO.jpg",
+        "width": 160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956785977852367293",
+        "created_at": "2025-08-17T03:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956917919667134806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928556519626518529",
+              "start": 0,
+              "username": "CuteDogOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956917919667134806",
+        "in_reply_to_user_id": "1928556519626518529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956785977852367293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuteDogOwO 《keep your eyes on me》适合写文或者做饭的时候听，不过不长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956785971791548416"
+          ]
+        },
+        "author_id": "1928556519626518529",
+        "conversation_id": "1956785977852367293",
+        "created_at": "2025-08-16T18:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T19:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956785977852367293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QL4btLBN7I",
+              "end": 63,
+              "expanded_url": "https://x.com/CuteDogOwO/status/1956785977852367293/photo/1",
+              "media_key": "3_1956785971791548416",
+              "start": 40,
+              "url": "https://t.co/QL4btLBN7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956785977852367293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11289,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们可以推一点私藏的好歌吗🥹😭\n我写文的时候找不到歌听真的好煎熬\n求推！！！ https://t.co/QL4btLBN7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 47,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 929
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T20:58:10.000Z",
+        "description": "🚪88/188/520/5200，希望下次流泪是因为幸福",
+        "id": "1928556519626518529",
+        "name": "御泥",
+        "pinned_tweet_id": "1955179738567524703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928557559566196737/zmSZOiM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27177,
+          "following_count": 4,
+          "like_count": 48,
+          "listed_count": 16,
+          "media_count": 124,
+          "tweet_count": 463
+        },
+        "username": "CuteDogOwO",
+        "verified": false
+      }
+    ]
+  }
+}

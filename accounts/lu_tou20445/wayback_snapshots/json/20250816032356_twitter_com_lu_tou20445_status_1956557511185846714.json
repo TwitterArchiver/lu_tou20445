@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956554887011213722",
+    "created_at": "2025-08-16T03:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T04:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956557511185846714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853614045535883264",
+          "start": 0,
+          "username": "sailerinto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956557511185846714",
+    "in_reply_to_user_id": "1853614045535883264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956554887011213722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sailerinto 💩味的巧克力和巧克力味的💩的区别吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956554887011213722",
+        "created_at": "2025-08-16T03:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956557511185846714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853614045535883264",
+              "start": 0,
+              "username": "sailerinto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956557511185846714",
+        "in_reply_to_user_id": "1853614045535883264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956554887011213722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sailerinto 💩味的巧克力和巧克力味的💩的区别吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853614045535883264",
+        "conversation_id": "1956554887011213722",
+        "created_at": "2025-08-16T03:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956554887011213722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956554887011213722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一看书就困\n一玩手机就能熬好久"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 44,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T01:43:32.000Z",
+        "description": "“爱你就像爱生命” 05 isfj ♍️东北读书的南方人 希望认识有趣的人 主side 不歧视 健身 喝酒 吃饭 心态平和 好好生活",
+        "id": "1853614045535883264",
+        "name": "渡海",
+        "pinned_tweet_id": "1956002486399197596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955303837423763456/M55uunYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 349,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 82
+        },
+        "username": "sailerinto",
+        "verified": false
+      }
+    ]
+  }
+}

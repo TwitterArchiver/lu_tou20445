@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2047622198274499034",
+    "created_at": "2026-04-24T16:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047722056041791576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657693850700509185",
+          "start": 0,
+          "username": "553078693Meng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047722056041791576",
+    "in_reply_to_user_id": "1657693850700509185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047622198274499034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@553078693Meng 缠腰龙，就是带状疱疹，去医院挂个皮肤科就可以直接处理然后开软膏抹段时间就好了，免疫力降低的表现"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1506,
+        "media_key": "3_2047622189915226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqdiHAawAAb-8u.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2047622198274499034",
+        "created_at": "2026-04-24T16:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047722056041791576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657693850700509185",
+              "start": 0,
+              "username": "553078693Meng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047722056041791576",
+        "in_reply_to_user_id": "1657693850700509185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047622198274499034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@553078693Meng 缠腰龙，就是带状疱疹，去医院挂个皮肤科就可以直接处理然后开软膏抹段时间就好了，免疫力降低的表现"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047622189915226112"
+          ]
+        },
+        "author_id": "1657693850700509185",
+        "conversation_id": "2047622198274499034",
+        "created_at": "2026-04-24T10:22:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T11:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047622198274499034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHDVA1HRfV",
+              "end": 60,
+              "expanded_url": "https://x.com/553078693Meng/status/2047622198274499034/photo/1",
+              "media_key": "3_2047622189915226112",
+              "start": 37,
+              "url": "https://t.co/jHDVA1HRfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047622198274499034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 179,
+          "impression_count": 2056976,
+          "like_count": 1018,
+          "quote_count": 57,
+          "reply_count": 3489,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "这是什么，下午睡了一觉起来就这样了，而且很痒啊  \n兄弟们\n这是什么啊？ https://t.co/jHDVA1HRfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 71,
+          "like_count": 20414,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 5752
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-14T10:26:53.000Z",
+        "description": "做时间的朋友，而非波动的囚徒。",
+        "id": "1657693850700509185",
+        "name": "招财猫",
+        "pinned_tweet_id": "2046888948312768866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998597079430742016/mCfSLsRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4614,
+          "following_count": 4602,
+          "like_count": 2903,
+          "listed_count": 7,
+          "media_count": 643,
+          "tweet_count": 6041
+        },
+        "username": "553078693Meng",
+        "verified": true
+      }
+    ]
+  }
+}

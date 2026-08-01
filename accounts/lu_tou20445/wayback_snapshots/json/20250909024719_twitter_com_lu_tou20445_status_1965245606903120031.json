@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963639113925726525",
+    "created_at": "2025-09-09T02:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T03:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965245606903120031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956369686624669696",
+          "start": 0,
+          "username": "yuyuyu9777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965245606903120031",
+    "in_reply_to_user_id": "1956369686624669696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963639113925726525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuyu9777 四天折磨你还好吗？我四天已经让折磨的不成样子了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_1963639110213734400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0A_Xe9akAA4t6J.jpg",
+        "width": 2240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963639113925726525",
+        "created_at": "2025-09-09T02:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965245606903120031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956369686624669696",
+              "start": 0,
+              "username": "yuyuyu9777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965245606903120031",
+        "in_reply_to_user_id": "1956369686624669696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963639113925726525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuyu9777 四天折磨你还好吗？我四天已经让折磨的不成样子了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963639110213734400"
+          ]
+        },
+        "author_id": "1956369686624669696",
+        "conversation_id": "1963639113925726525",
+        "created_at": "2025-09-04T16:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963639113925726525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqNANPs9qm",
+              "end": 34,
+              "expanded_url": "https://x.com/yuyuyu9777/status/1963639113925726525/photo/1",
+              "media_key": "3_1963639110213734400",
+              "start": 11,
+              "url": "https://t.co/OqNANPs9qm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963639113925726525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也是买到了，战绩可查 https://t.co/OqNANPs9qm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 65,
+          "like_count": 3326,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-15T14:57:44.000Z",
+        "description": "赛博抽象搞笑女，当朋友圈，偶尔发牢骚，大家喜欢可以投喂点，多少无所谓。很喜欢钱，但是大家爆米前要先照顾好自己，终究是网友，不是真的，现实里遇到我这样的看都不会看我一眼。谢谢大家",
+        "id": "1956369686624669696",
+        "name": "yu吖yu",
+        "pinned_tweet_id": "1961742936506540235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956373778759639040/DUphG3z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 14,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 48
+        },
+        "username": "yuyuyu9777",
+        "verified": false
+      }
+    ]
+  }
+}

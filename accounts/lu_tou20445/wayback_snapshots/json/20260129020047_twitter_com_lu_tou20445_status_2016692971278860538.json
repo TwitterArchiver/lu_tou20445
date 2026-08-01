@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2016339040593969249",
+    "created_at": "2026-01-29T02:00:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T03:00:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016692971278860538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933153092712976384",
+          "start": 0,
+          "username": "kurice__"
+        },
+        {
+          "end": 19,
+          "id": "1909188649125810177",
+          "start": 10,
+          "username": "ddpattaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016692971278860538",
+    "in_reply_to_user_id": "1933153092712976384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016413687649862018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurice__ @ddpattaa 说盗汗👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2016339040593969249",
+        "created_at": "2026-01-29T02:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016692971278860538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933153092712976384",
+              "start": 0,
+              "username": "kurice__"
+            },
+            {
+              "end": 19,
+              "id": "1909188649125810177",
+              "start": 10,
+              "username": "ddpattaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016692971278860538",
+        "in_reply_to_user_id": "1933153092712976384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016413687649862018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurice__ @ddpattaa 说盗汗👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933153092712976384",
+        "conversation_id": "2016339040593969249",
+        "created_at": "2026-01-28T07:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016413687649862018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1909188649125810177",
+              "start": 0,
+              "username": "ddpattaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016413687649862018",
+        "in_reply_to_user_id": "1909188649125810177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1182,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016339040593969249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddpattaa ✋🏻停停停。我玩完小玩具想换床单我妈问我为什么最近换床单这么勤快..此局怎解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 71,
+          "like_count": 14793,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 4410
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T13:23:28.000Z",
+        "description": "𓆡𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓇼𓈒𓏸𓇬幸福島島民( ˃ ᵕ ˂ )✰.ᐟ.ᐟ",
+        "id": "1933153092712976384",
+        "location": "许愿一个永远陪着我的人",
+        "name": "宇宙超级无敌噼里啪啦懒洋洋大王",
+        "pinned_tweet_id": "2016477782013092137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015560371093057536/Hs60zZTV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 99,
+          "like_count": 782,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 871
+        },
+        "username": "kurice__",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T10:17:06.000Z",
+        "description": "大号@dd_bbls，这是防炸小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "dd_bbls"
+              }
+            ]
+          }
+        },
+        "id": "1909188649125810177",
+        "name": "ddpat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927425571539099649/bYzjNhyY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6069,
+          "following_count": 9,
+          "like_count": 94,
+          "listed_count": 8,
+          "media_count": 39,
+          "tweet_count": 326
+        },
+        "username": "ddpattaa",
+        "verified": false
+      }
+    ]
+  }
+}

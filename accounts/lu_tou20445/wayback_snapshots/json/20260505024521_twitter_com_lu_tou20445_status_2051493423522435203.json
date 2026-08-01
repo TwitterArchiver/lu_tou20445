@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2051338717458256367",
+    "created_at": "2026-05-05T02:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T03:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051493423522435203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828632343680294916",
+          "start": 0,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051493423522435203",
+    "in_reply_to_user_id": "1828632343680294916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051338717458256367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianlvya 有的家长最会在孩子秩序敏感期的时候摧毁孩子的秩序"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2957,
+        "media_key": "3_2051338708125929473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHfRr8Pa0AEiAo4.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2051338717458256367",
+        "created_at": "2026-05-05T02:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051493423522435203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051493423522435203",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051338717458256367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 有的家长最会在孩子秩序敏感期的时候摧毁孩子的秩序"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051338708125929473"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2051338717458256367",
+        "created_at": "2026-05-04T16:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051338717458256367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PzMi4JBMCE",
+              "end": 39,
+              "expanded_url": "https://x.com/jianlvya/status/2051338717458256367/photo/1",
+              "media_key": "3_2051338708125929473",
+              "start": 16,
+              "url": "https://t.co/PzMi4JBMCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051338717458256367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 109382,
+          "like_count": 292,
+          "quote_count": 8,
+          "reply_count": 147,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "为什么女儿的反应会这么强烈呢？ https://t.co/PzMi4JBMCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 70,
+          "like_count": 20597,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5789
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 私信互关\n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2051338717458256367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5899,
+          "following_count": 1010,
+          "like_count": 22144,
+          "listed_count": 18,
+          "media_count": 926,
+          "tweet_count": 1727
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

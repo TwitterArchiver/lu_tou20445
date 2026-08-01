@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1964589641799242038",
+    "created_at": "2025-09-07T07:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T08:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964590269988556978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876304588623740928",
+          "start": 0,
+          "username": "bunnybunnyii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964590269988556978",
+    "in_reply_to_user_id": "1876304588623740928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964589641799242038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bunnybunnyii 有新手福利期的，狠狠胡牌了要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1964589629312802816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Of2-ibIAAaIgV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1964589641799242038",
+        "created_at": "2025-09-07T07:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T08:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964590269988556978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876304588623740928",
+              "start": 0,
+              "username": "bunnybunnyii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964590269988556978",
+        "in_reply_to_user_id": "1876304588623740928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964589641799242038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bunnybunnyii 有新手福利期的，狠狠胡牌了要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964589629312802816"
+          ]
+        },
+        "author_id": "1876304588623740928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964589641799242038",
+        "created_at": "2025-09-07T07:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T08:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964589641799242038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KtIJm1IfLb",
+              "end": 27,
+              "expanded_url": "https://x.com/bunnybunnyii/status/1964589641799242038/photo/1",
+              "media_key": "3_1964589629312802816",
+              "start": 4,
+              "url": "https://t.co/KtIJm1IfLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964589641799242038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再战！ https://t.co/KtIJm1IfLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 64,
+          "like_count": 3099,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1586
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T16:27:43.000Z",
+        "description": "看心情不定时更新 小小备忘录\n                                     🚪288｜接11 ｜喜欢有礼貌的人  ｜ 盗图/冒充死全家",
+        "id": "1876304588623740928",
+        "location": "不回坐标/不卖号/不出原",
+        "name": "bunnybunny",
+        "pinned_tweet_id": "1945998839875522561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963297601815736320/ovvrVa-b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26011,
+          "following_count": 1230,
+          "like_count": 1182,
+          "listed_count": 55,
+          "media_count": 96,
+          "tweet_count": 267
+        },
+        "username": "bunnybunnyii",
+        "verified": false
+      }
+    ]
+  }
+}

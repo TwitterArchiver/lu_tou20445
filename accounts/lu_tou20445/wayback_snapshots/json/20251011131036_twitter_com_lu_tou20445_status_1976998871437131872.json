@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1976978329510318084",
+    "created_at": "2025-10-11T13:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976998871437131872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1670421800726024193",
+          "start": 0,
+          "username": "ajuju999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976998871437131872",
+    "in_reply_to_user_id": "1670421800726024193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976998592922763579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ajuju999 好消息是做完饭灶台很干净，坏消息是这样下去做不完饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1976978329510318084",
+        "created_at": "2025-10-11T13:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976998871437131872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1670421800726024193",
+              "start": 0,
+              "username": "ajuju999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976998871437131872",
+        "in_reply_to_user_id": "1670421800726024193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976998592922763579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ajuju999 好消息是做完饭灶台很干净，坏消息是这样下去做不完饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670421800726024193",
+        "conversation_id": "1976978329510318084",
+        "created_at": "2025-10-11T13:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976998592922763579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976998592922763579",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976978329510318084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 对 我就是这样一直用洗洁精洗 全程不停地洗手洗各种锅碗瓢盆🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 71,
+          "like_count": 6430,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T13:23:05.000Z",
+        "description": "不知道什么时候会消失/\n在isfj阴湿病娇和enfp快乐小狗里随机切换。\n可以叫我橘/阿橘/橘子。\n生理性话很多请包容👉👈/摩羯/sp纯小⭕️/硕毕/入圈10years+/尝试玩绑绑中😋/暂时不约sj/不处长期/酒蒙子/brat/看黄但不玩大⭕️/人菜瘾大/大概率是姐姐但我当腻了👌/吃美丽多长大的/健身小白",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ajuju9992",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ajuju9992",
+                "start": 0,
+                "url": "https://t.co/zAfyNRmIhP"
+              }
+            ]
+          }
+        },
+        "id": "1670421800726024193",
+        "location": "guangzhou",
+        "name": "阿橘橘橘橘橘橘",
+        "pinned_tweet_id": "1975473746095059156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968371992991764480/TI1qdC8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 154,
+          "like_count": 2236,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/zAfyNRmIhP",
+        "username": "ajuju999",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026116961596547114",
+    "created_at": "2026-02-24T04:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026150144060871015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002241057241907200",
+          "start": 0,
+          "username": "xiaoxiongOvO_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026150144060871015",
+    "in_reply_to_user_id": "2002241057241907200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026150017225093478",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongOvO_ 那我只能说一句好似👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026116961596547114",
+        "created_at": "2026-02-24T04:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026150144060871015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002241057241907200",
+              "start": 0,
+              "username": "xiaoxiongOvO_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026150144060871015",
+        "in_reply_to_user_id": "2002241057241907200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026150017225093478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongOvO_ 那我只能说一句好似👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002241057241907200",
+        "conversation_id": "2026116961596547114",
+        "created_at": "2026-02-24T04:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026150017225093478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026150017225093478",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026116961596547114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 msk死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 70,
+          "like_count": 16626,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 4991
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T04:54:10.000Z",
+        "description": "鹅鸭杀梦女 文案复制来的",
+        "id": "2002241057241907200",
+        "location": "纯绿🚪88",
+        "name": "小熊（鹅鸭杀何时统治地球）",
+        "pinned_tweet_id": "2014653827384016985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015334768427327488/88zT6ZTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 60,
+          "like_count": 4591,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2908
+        },
+        "username": "xiaoxiongOvO_",
+        "verified": false
+      }
+    ]
+  }
+}

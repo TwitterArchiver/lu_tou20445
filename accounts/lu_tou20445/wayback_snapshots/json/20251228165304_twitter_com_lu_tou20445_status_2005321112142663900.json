@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2005244340185211162",
+    "created_at": "2025-12-28T16:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T17:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005321112142663900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764126015843172352",
+          "start": 0,
+          "username": "Stepbystep_1107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005321112142663900",
+    "in_reply_to_user_id": "1764126015843172352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005292825383154084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stepbystep_1107 看来是得一直在跟每个人的相处之间找平衡了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2005244340185211162",
+        "created_at": "2025-12-28T16:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005321112142663900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764126015843172352",
+              "start": 0,
+              "username": "Stepbystep_1107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005321112142663900",
+        "in_reply_to_user_id": "1764126015843172352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005292825383154084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stepbystep_1107 看来是得一直在跟每个人的相处之间找平衡了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764126015843172352",
+        "conversation_id": "2005244340185211162",
+        "created_at": "2025-12-28T15:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005292825383154084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005292825383154084",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005244340185211162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 完全同意。在怕太有边界感会显得自己无聊+冷漠的同时 也怕别人对自己太没边界感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 71,
+          "like_count": 12992,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3782
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T03:10:03.000Z",
+        "description": "悲观主义者在祈祷happy ending.",
+        "id": "1764126015843172352",
+        "name": "LMLY",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004238421628248064/QS7fOXCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 62,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "Stepbystep_1107",
+        "verified": false
+      }
+    ]
+  }
+}

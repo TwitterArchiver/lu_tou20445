@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2017287131161629075",
+    "created_at": "2026-01-31T04:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017462315629838703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505782362495668224",
+          "start": 0,
+          "username": "miyuu_72187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017462315629838703",
+    "in_reply_to_user_id": "1505782362495668224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017462007646319028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuu_72187 片手只要会按y 和格挡就已经算会玩了🤣，你可以试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2017287131161629075",
+        "created_at": "2026-01-31T04:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017462315629838703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505782362495668224",
+              "start": 0,
+              "username": "miyuu_72187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017462315629838703",
+        "in_reply_to_user_id": "1505782362495668224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017462007646319028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuu_72187 片手只要会按y 和格挡就已经算会玩了🤣，你可以试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505782362495668224",
+        "conversation_id": "2017287131161629075",
+        "created_at": "2026-01-31T04:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017462007646319028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017462007646319028",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017299816804745482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 那也得先等我会玩双刀或片手՞߹ - ߹՞\n还在努力成长为一个老练的猎人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 71,
+          "like_count": 14910,
+          "listed_count": 3,
+          "media_count": 211,
+          "tweet_count": 4506
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T05:44:47.000Z",
+        "description": "发想发的ฅ(`ꈊ´ฅ) /看心情回私信/心情不好就爱删帖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyuu_72187",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyuu_72187",
+                "start": 0,
+                "url": "https://t.co/b2lc3z3f8x"
+              }
+            ]
+          }
+        },
+        "id": "1505782362495668224",
+        "name": "子喻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005686699461165056/e0yRyOAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 160,
+          "like_count": 7010,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/b2lc3z3f8x",
+        "username": "miyuu_72187",
+        "verified": false
+      }
+    ]
+  }
+}

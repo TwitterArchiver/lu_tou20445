@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T16:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988640562556375375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2624981869",
+          "start": 0,
+          "username": "jthua89"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988640562556375375",
+    "in_reply_to_user_id": "2624981869",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988638361796427953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jthua89 +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T16:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988640562556375375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2624981869",
+              "start": 0,
+              "username": "jthua89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988640562556375375",
+        "in_reply_to_user_id": "2624981869",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988638361796427953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jthua89 +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2624981869",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T16:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988638361796427953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988638361796427953",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 该说不说，微信输入法挺好用的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 74,
+          "like_count": 8416,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2658
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-12T13:14:36.000Z",
+        "description": "愿众生安好",
+        "id": "2624981869",
+        "location": "Michigan, USA",
+        "name": "𝓙𝓤𝓢𝓒𝓘𝓔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/868140042245480448/o_AMWcuX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 342,
+          "like_count": 12507,
+          "listed_count": 6,
+          "media_count": 221,
+          "tweet_count": 7640
+        },
+        "username": "jthua89",
+        "verified": false
+      }
+    ]
+  }
+}

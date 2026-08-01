@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1990336977825337437",
+    "created_at": "2025-11-17T16:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T17:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990456539921125826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1274703175996465152",
+          "start": 0,
+          "username": "YYLG9991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990456539921125826",
+    "in_reply_to_user_id": "1274703175996465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990455997165641948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YYLG9991 天地间还有阴阳轮换呢，人有点阴暗面很正常，不影响到其他人的程度试试去做就好，比如在这更新"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1990336977825337437",
+        "created_at": "2025-11-17T16:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990456539921125826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1274703175996465152",
+              "start": 0,
+              "username": "YYLG9991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990456539921125826",
+        "in_reply_to_user_id": "1274703175996465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990455997165641948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YYLG9991 天地间还有阴阳轮换呢，人有点阴暗面很正常，不影响到其他人的程度试试去做就好，比如在这更新"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274703175996465152",
+        "conversation_id": "1990336977825337437",
+        "created_at": "2025-11-17T16:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990455997165641948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990455997165641948",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990455652771373555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 因为我也会有很多奇奇怪怪的想法，邪恶黑暗，只是胆子小才不会实践😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 75,
+          "like_count": 8920,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T13:58:38.000Z",
+        "description": "🧣歩俗  喜欢关注有活气的人",
+        "id": "1274703175996465152",
+        "location": "中原",
+        "name": "低速时区位",
+        "pinned_tweet_id": "1836705945818423511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476320850202673152/s-1xFJoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 174,
+          "like_count": 2798,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1798
+        },
+        "username": "YYLG9991",
+        "verified": false
+      }
+    ]
+  }
+}

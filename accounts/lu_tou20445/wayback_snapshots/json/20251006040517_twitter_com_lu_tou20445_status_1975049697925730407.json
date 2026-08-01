@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1975043707784266209",
+    "created_at": "2025-10-06T04:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T05:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975049697925730407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1217846927036837890",
+          "start": 0,
+          "username": "Andante34872865"
+        },
+        {
+          "end": 33,
+          "id": "1910238065576357888",
+          "start": 17,
+          "username": "tequ1la_sunsett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975049697925730407",
+    "in_reply_to_user_id": "1217846927036837890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975044331246678403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andante34872865 @tequ1la_sunsett a老师演我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1975043707784266209",
+        "created_at": "2025-10-06T04:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975049697925730407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante34872865"
+            },
+            {
+              "end": 33,
+              "id": "1910238065576357888",
+              "start": 17,
+              "username": "tequ1la_sunsett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975049697925730407",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975044331246678403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante34872865 @tequ1la_sunsett a老师演我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217846927036837890",
+        "conversation_id": "1975043707784266209",
+        "created_at": "2025-10-06T03:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975044331246678403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910238065576357888",
+              "start": 0,
+              "username": "tequ1la_sunsett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975044331246678403",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975043707784266209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tequ1la_sunsett 我说不出啥话，一直在傻笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 66,
+          "like_count": 5758,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 1958
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "性别男/私信已关，请不要给我发生殖器官！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andante75279",
+                "end": 23,
+                "expanded_url": "https://ngl.link/andante75279",
+                "start": 0,
+                "url": "https://t.co/rmsDh4OtVV"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1970792758362411145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973628807291740161/O3Au6dtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 178,
+          "like_count": 7857,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/rmsDh4OtVV",
+        "username": "Andante34872865",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "在时间将其本质铸成日子之前，海，永恒之海，早已在此。",
+        "id": "1910238065576357888",
+        "location": "Revachol",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1972977012957687853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953700372482338820/iw5KhKrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 151,
+          "like_count": 9643,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 4792
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      }
+    ]
+  }
+}

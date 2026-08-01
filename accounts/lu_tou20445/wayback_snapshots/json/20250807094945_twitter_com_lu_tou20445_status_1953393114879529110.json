@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1952648640172089585",
+    "created_at": "2025-08-07T09:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953393114879529110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876304588623740928",
+          "start": 0,
+          "username": "bunnybunnyii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953393114879529110",
+    "in_reply_to_user_id": "1876304588623740928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952648640172089585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bunnybunnyii 好美的发色"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1901,
+        "media_key": "3_1952648628943949824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxkzlRtbkAA1Mnh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1952648640172089585",
+        "created_at": "2025-08-07T09:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953393114879529110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876304588623740928",
+              "start": 0,
+              "username": "bunnybunnyii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953393114879529110",
+        "in_reply_to_user_id": "1876304588623740928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952648640172089585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bunnybunnyii 好美的发色"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952648628943949824"
+          ]
+        },
+        "author_id": "1876304588623740928",
+        "conversation_id": "1952648640172089585",
+        "created_at": "2025-08-05T08:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952648640172089585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGj0ScskOS",
+              "end": 33,
+              "expanded_url": "https://x.com/bunnybunnyii/status/1952648640172089585/photo/1",
+              "media_key": "3_1952648628943949824",
+              "start": 10,
+              "url": "https://t.co/nGj0ScskOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952648640172089585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3289,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阳光落在我的发尾. https://t.co/nGj0ScskOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 38,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-06T16:27:43.000Z",
+        "description": "看心情不定时更新 小小备忘录｜\n                                     🚪288 ｜1v1麻烦单独私问价 ｜喜欢有礼貌的人                 欢迎投喂｜ 盗图/冒充死全家",
+        "id": "1876304588623740928",
+        "location": "不线下/不卖号/不出原",
+        "name": "bunnybunny",
+        "pinned_tweet_id": "1952648640172089585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876306096899637248/Cyk4UAh1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25796,
+          "following_count": 1142,
+          "like_count": 850,
+          "listed_count": 54,
+          "media_count": 91,
+          "tweet_count": 261
+        },
+        "username": "bunnybunnyii",
+        "verified": false
+      }
+    ]
+  }
+}

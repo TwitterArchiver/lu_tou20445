@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009959243861074179",
+    "created_at": "2026-01-11T03:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010191725269266518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897385240735240192",
+          "start": 0,
+          "username": "Shen20020210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010191725269266518",
+    "in_reply_to_user_id": "1897385240735240192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010162387580858871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shen20020210 其实是不同的数据分开存"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009959243861074179",
+        "created_at": "2026-01-11T03:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010191725269266518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897385240735240192",
+              "start": 0,
+              "username": "Shen20020210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010191725269266518",
+        "in_reply_to_user_id": "1897385240735240192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010162387580858871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shen20020210 其实是不同的数据分开存"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897385240735240192",
+        "conversation_id": "2009959243861074179",
+        "created_at": "2026-01-11T01:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T02:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010162387580858871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010162387580858871",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009959243861074179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我是记在邮箱里，这样换手机不用导数据了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 69,
+          "like_count": 14310,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 4139
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T20:34:49.000Z",
+        "description": "懒大王没招了想要抱抱 | 水瓶座 | ENTJ-A |同性浪漫异性恋 | cai 沉浸式聊天玩家|生酪拿铁你快点上架行不行|不yp 不聊骚|当朋友圈什么都发| 大量胡说八道| 提问箱：https://t.co/nhgGIeVhgB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/s_far02",
+                "end": 115,
+                "expanded_url": "http://ngl.link/s_far02",
+                "start": 92,
+                "url": "https://t.co/nhgGIeVhgB"
+              }
+            ]
+          }
+        },
+        "id": "1897385240735240192",
+        "location": "距离你1008km ",
+        "name": "懒大王",
+        "pinned_tweet_id": "2007443764260815208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553048597880832/wF2u16g2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 495,
+          "like_count": 24005,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 3070
+        },
+        "username": "Shen20020210",
+        "verified": false
+      }
+    ]
+  }
+}

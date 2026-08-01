@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1961048761301655773",
+    "created_at": "2025-08-30T04:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T05:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961642312926367860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787125501288431616",
+          "start": 0,
+          "username": "Rrrrmula"
+        },
+        {
+          "end": 21,
+          "id": "1960382302724452352",
+          "start": 10,
+          "username": "ji_yu81718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961642312926367860",
+    "in_reply_to_user_id": "1787125501288431616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961641386119500052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rrrrmula @ji_yu81718 我不是流氓吗，居然是纯爱吗🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1961048761301655773",
+        "created_at": "2025-08-30T04:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961642312926367860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787125501288431616",
+              "start": 0,
+              "username": "Rrrrmula"
+            },
+            {
+              "end": 21,
+              "id": "1960382302724452352",
+              "start": 10,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961642312926367860",
+        "in_reply_to_user_id": "1787125501288431616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961641386119500052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rrrrmula @ji_yu81718 我不是流氓吗，居然是纯爱吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787125501288431616",
+        "conversation_id": "1961048761301655773",
+        "created_at": "2025-08-30T04:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961641386119500052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 24,
+              "id": "1960382302724452352",
+              "start": 13,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961641386119500052",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961056293835395084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @ji_yu81718 不，这叫纯爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 56,
+          "like_count": 1595,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T14:21:57.000Z",
+        "description": "",
+        "id": "1787125501288431616",
+        "name": "求你睡点觉吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946760274796548098/u6_gLhXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 43,
+          "like_count": 5890,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 1774
+        },
+        "username": "Rrrrmula",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T16:42:26.000Z",
+        "description": "黑暗之中闭上眼",
+        "id": "1960382302724452352",
+        "name": "那你现在是不是已经被他们淹没",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961299620711321600/b9rD2AdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 89
+        },
+        "username": "ji_yu81718",
+        "verified": false
+      }
+    ]
+  }
+}

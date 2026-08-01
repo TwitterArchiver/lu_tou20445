@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061048421474328822",
+    "created_at": "2026-06-02T01:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T02:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061616853458501678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2052787908969680901",
+          "start": 0,
+          "username": "eiotyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061616853458501678",
+    "in_reply_to_user_id": "2052787908969680901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061438760907374995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eiotyuu 如果有小狗喜欢的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-02T01:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T02:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061616853458501678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2052787908969680901",
+              "start": 0,
+              "username": "eiotyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061616853458501678",
+        "in_reply_to_user_id": "2052787908969680901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061438760907374995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eiotyuu 如果有小狗喜欢的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052787908969680901",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-01T13:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061438760907374995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061438760907374995",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061048421474328822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 下次做个蓝的，会不会有小狗舔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 69,
+          "like_count": 21238,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6037
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T16:29:51.000Z",
+        "description": "已过各大博主认证，小众门姐，反差女大，大三/165/98/c，胸大特别扫，很听话，会喷水会陪聊陪玩会打视频打语音，会接话会起话题，萝御双修，入门解锁线上线下，过门不退，欢迎私信，等我的第一个门哥",
+        "id": "2052787908969680901",
+        "name": "吱吱叫",
+        "pinned_tweet_id": "2061364091281867090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055193475872940032/ZOLsPbAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 49,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 306
+        },
+        "username": "eiotyuu",
+        "verified": false
+      }
+    ]
+  }
+}

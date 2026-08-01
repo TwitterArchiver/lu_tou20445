@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2036404057418707081",
+    "created_at": "2026-03-24T18:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T19:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036506668281033062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779332050325217280",
+          "start": 0,
+          "username": "l1820332660097"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036506668281033062",
+    "in_reply_to_user_id": "1779332050325217280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036458167316759022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l1820332660097 给它磕了两个求它别生气👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2036404057418707081",
+        "created_at": "2026-03-24T18:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036506668281033062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779332050325217280",
+              "start": 0,
+              "username": "l1820332660097"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036506668281033062",
+        "in_reply_to_user_id": "1779332050325217280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036458167316759022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l1820332660097 给它磕了两个求它别生气👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779332050325217280",
+        "conversation_id": "2036404057418707081",
+        "created_at": "2026-03-24T15:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036458167316759022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036458167316759022",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036404057418707081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 所以有对华为更好一点吗(bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1766,
+          "following_count": 72,
+          "like_count": 19201,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 5582
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T02:13:23.000Z",
+        "description": "下一站幸福",
+        "id": "1779332050325217280",
+        "name": "金鱼木桶饭",
+        "pinned_tweet_id": "2029950996940804445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026310647403978752/skbHep6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 33,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 533
+        },
+        "username": "l1820332660097",
+        "verified": false
+      }
+    ]
+  }
+}

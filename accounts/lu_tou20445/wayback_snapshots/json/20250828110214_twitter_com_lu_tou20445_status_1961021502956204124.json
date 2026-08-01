@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1961018127460004169",
+    "created_at": "2025-08-28T11:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T12:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961021502956204124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960382302724452352",
+          "start": 0,
+          "username": "ji_yu81718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961021502956204124",
+    "in_reply_to_user_id": "1960382302724452352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961018127460004169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_yu81718 给我听死了有点🙉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1961018127460004169",
+        "created_at": "2025-08-28T11:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961021502956204124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960382302724452352",
+              "start": 0,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961021502956204124",
+        "in_reply_to_user_id": "1960382302724452352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961018127460004169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_yu81718 给我听死了有点🙉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960382302724452352",
+        "conversation_id": "1961018127460004169",
+        "created_at": "2025-08-28T10:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T11:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961018127460004169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961018127460004169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像总是哭，那次和ex吵架他说得很难听，因为我没有带他想要我穿的衣服（第二天他兄弟结婚）。我当时特别难过，我说我不想这辈子都要和你一直吵架，他说你这样哭让我很想操你。我当时满脑子都是你个傻逼能不能死。但后来莫名其妙还是做了，我一边哭一边给他口，虽然听起来有点色情但是我真恨他。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 55,
+          "like_count": 1481,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1280
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T16:42:26.000Z",
+        "description": "黑暗之中闭上眼",
+        "id": "1960382302724452352",
+        "name": "那你现在是不是已经被他们淹没",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960627087422971904/O_plHPUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 9,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "username": "ji_yu81718",
+        "verified": false
+      }
+    ]
+  }
+}

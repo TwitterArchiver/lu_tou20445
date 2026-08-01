@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985581414499434496"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1985581428642627741",
+    "created_at": "2025-11-04T05:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T06:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985581428642627741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zjLToH8YGN",
+          "end": 119,
+          "expanded_url": "https://x.com/lu_tou20445/status/1985581428642627741/photo/1",
+          "media_key": "3_1985581414499434496",
+          "start": 96,
+          "url": "https://t.co/zjLToH8YGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985581428642627741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "码字的时候边码脑袋里边往出蹦场景、人物、剧情还有对话，原来不觉得兔塑有这么强的可创造性，可能是推刷多了，我都尚且这样，那那几位写本子和写文的，诶嘿，快动笔！参考文献是《兔子的行为健康和护理》 https://t.co/zjLToH8YGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1899,
+        "media_key": "3_1985581414499434496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G44zxsPbQAAUi9C.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985581414499434496"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1985581428642627741",
+        "created_at": "2025-11-04T05:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T06:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985581428642627741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjLToH8YGN",
+              "end": 119,
+              "expanded_url": "https://x.com/lu_tou20445/status/1985581428642627741/photo/1",
+              "media_key": "3_1985581414499434496",
+              "start": 96,
+              "url": "https://t.co/zjLToH8YGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985581428642627741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "码字的时候边码脑袋里边往出蹦场景、人物、剧情还有对话，原来不觉得兔塑有这么强的可创造性，可能是推刷多了，我都尚且这样，那那几位写本子和写文的，诶嘿，快动笔！参考文献是《兔子的行为健康和护理》 https://t.co/zjLToH8YGN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 73,
+          "like_count": 7778,
+          "listed_count": 3,
+          "media_count": 123,
+          "tweet_count": 2427
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

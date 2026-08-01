@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954204012774854945",
+    "created_at": "2025-08-09T17:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T18:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954234283117494390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1611322522670346241",
+          "start": 0,
+          "username": "caixiayu1hao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954234283117494390",
+    "in_reply_to_user_id": "1611322522670346241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954204012774854945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caixiayu1hao 才下班女士不知道有没有才睡觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954203981237927936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx66KshXQAAJb1b.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954204012774854945",
+        "created_at": "2025-08-09T17:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T18:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954234283117494390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611322522670346241",
+              "start": 0,
+              "username": "caixiayu1hao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954234283117494390",
+        "in_reply_to_user_id": "1611322522670346241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954204012774854945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caixiayu1hao 才下班女士不知道有没有才睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954203981237927936"
+          ]
+        },
+        "author_id": "1611322522670346241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1954204012774854945",
+        "created_at": "2025-08-09T15:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T16:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954204012774854945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJgKJe9EMB",
+              "end": 54,
+              "expanded_url": "https://x.com/caixiayu1hao/status/1954204012774854945/photo/1",
+              "media_key": "3_1954203981237927936",
+              "start": 31,
+              "url": "https://t.co/IJgKJe9EMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954204012774854945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重要通知📢：\n在没结束我的暑假工工作之前我将以才下班形式存在 https://t.co/IJgKJe9EMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 37,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T11:23:30.000Z",
+        "description": "07/你可以叫我小虾🦐/纯文，完蛋了我被工科录取了……/两只🐶两只🐭两只🦔/喜欢我就给我打钱。/挑战每一条评论都回，如果没回就是没看到不是故意的，你可以跟我说/近期在打工。心情不美丽，感觉会发很多吐槽的阴暗面，不要讨厌我好吗😢/欢迎和我玩，但是不欢迎骚扰🐱@caixiayu2hao 可以向我小号点歌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "caixiayu2hao"
+              }
+            ]
+          }
+        },
+        "id": "1611322522670346241",
+        "location": "主动关注你就是喜欢你……",
+        "name": "才下班（距离打工结束还有16天版）",
+        "pinned_tweet_id": "1942631010954535261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947951383032016896/5O7eO2sQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4694,
+          "following_count": 535,
+          "like_count": 3036,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 5090
+        },
+        "username": "caixiayu1hao",
+        "verified": false
+      }
+    ]
+  }
+}

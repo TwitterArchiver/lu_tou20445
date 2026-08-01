@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1969374336332284263",
+    "created_at": "2025-09-20T12:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T13:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969379683260383375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822639146869088256",
+          "start": 0,
+          "username": "Annie759930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969379683260383375",
+    "in_reply_to_user_id": "1822639146869088256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969378755903963353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Annie759930 hhh，谢谢小狗，不过这样不太正常，小狗不可以学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1969374336332284263",
+        "created_at": "2025-09-20T12:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969379683260383375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822639146869088256",
+              "start": 0,
+              "username": "Annie759930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969379683260383375",
+        "in_reply_to_user_id": "1822639146869088256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969378755903963353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Annie759930 hhh，谢谢小狗，不过这样不太正常，小狗不可以学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822639146869088256",
+        "conversation_id": "1969374336332284263",
+        "created_at": "2025-09-20T12:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969378755903963353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969378755903963353",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969378240130400395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 啊 被断裂式的在乎才能觉得自己被爱。\n\n小狗伸手摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 63,
+          "like_count": 4427,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1739
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T14:20:25.000Z",
+        "description": "一些性幻想。",
+        "id": "1822639146869088256",
+        "name": "Romi",
+        "pinned_tweet_id": "1954189114129231943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898160499466158081/aWUw7I7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 19,
+          "like_count": 1098,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 591
+        },
+        "username": "Annie759930",
+        "verified": false
+      }
+    ]
+  }
+}

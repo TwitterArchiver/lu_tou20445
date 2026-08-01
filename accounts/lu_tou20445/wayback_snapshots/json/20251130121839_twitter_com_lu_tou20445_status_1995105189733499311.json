@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995099015382516211",
+    "created_at": "2025-11-30T12:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995105189733499311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973009461968248832",
+          "start": 0,
+          "username": "Dongdwyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995105189733499311",
+    "in_reply_to_user_id": "1973009461968248832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995102920292155674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dongdwyy 禁止拿主包试验奥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_1995102909902749696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AHhqsaAAAuEBo.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995099015382516211",
+        "created_at": "2025-11-30T12:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995105189733499311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973009461968248832",
+              "start": 0,
+              "username": "Dongdwyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995105189733499311",
+        "in_reply_to_user_id": "1973009461968248832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995102920292155674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dongdwyy 禁止拿主包试验奥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995102909902749696"
+          ]
+        },
+        "author_id": "1973009461968248832",
+        "conversation_id": "1995099015382516211",
+        "created_at": "2025-11-30T12:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995102920292155674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQk9r8qGFp",
+              "end": 36,
+              "expanded_url": "https://x.com/Dongdwyy/status/1995102920292155674/photo/1",
+              "media_key": "3_1995102909902749696",
+              "start": 13,
+              "url": "https://t.co/FQk9r8qGFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995102920292155674",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995099015382516211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 https://t.co/FQk9r8qGFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 69,
+          "like_count": 10050,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 3041
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T12:58:28.000Z",
+        "description": "4i s 04 entj \n匿名https://t.co/KJ5KVNMbQd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dwy86103",
+                "end": 39,
+                "expanded_url": "https://ngl.link/dwy86103",
+                "start": 16,
+                "url": "https://t.co/KJ5KVNMbQd"
+              }
+            ]
+          }
+        },
+        "id": "1973009461968248832",
+        "name": "动物园",
+        "pinned_tweet_id": "1974845115316437467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974835011624042496/qEhJhTp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 741,
+          "like_count": 15575,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1001
+        },
+        "username": "Dongdwyy",
+        "verified": false
+      }
+    ]
+  }
+}

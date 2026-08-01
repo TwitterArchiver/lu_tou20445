@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1984667142600671528",
+    "created_at": "2025-11-02T06:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984872749677130046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765073212671721472",
+          "start": 0,
+          "username": "AKane930242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984872749677130046",
+    "in_reply_to_user_id": "1765073212671721472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984828956344770948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AKane930242 燃尽了，就此为止了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1984667142600671528",
+        "created_at": "2025-11-02T06:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984872749677130046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765073212671721472",
+              "start": 0,
+              "username": "AKane930242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984872749677130046",
+        "in_reply_to_user_id": "1765073212671721472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984828956344770948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AKane930242 燃尽了，就此为止了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765073212671721472",
+        "conversation_id": "1984667142600671528",
+        "created_at": "2025-11-02T03:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984828956344770948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984828956344770948",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984667142600671528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 更无语的是想要好好沟通，结果根本找不到人。无论是万念俱灰还是暴怒都无处安放，最终会融化进自己的肌肤、骨血。然后情感逐渐模糊凝固，仿佛变成透明的蜡烛。直到对方再次出现在自己面前，点燃，才知道，究竟是悲伤的烛泪；还是愤怒的烛焰。不过或许时间太过久远，蜡烛已经无法点燃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 74,
+          "like_count": 7668,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T17:54:16.000Z",
+        "description": "我爱你，就会接受你的不完美，你的脆弱，挡住你害怕的一切。因为你对我如此重要。🫧",
+        "id": "1765073212671721472",
+        "location": "海洋的最深处",
+        "name": "Aoi海月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785744291660226560/koHBrd4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 126,
+          "like_count": 306,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 381
+        },
+        "username": "AKane930242",
+        "verified": false
+      }
+    ]
+  }
+}

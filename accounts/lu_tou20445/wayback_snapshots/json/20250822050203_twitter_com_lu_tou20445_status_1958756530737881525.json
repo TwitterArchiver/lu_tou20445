@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958748113369538637",
+    "created_at": "2025-08-22T05:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T06:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958756530737881525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1784887323211280384",
+          "start": 0,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958756530737881525",
+    "in_reply_to_user_id": "1784887323211280384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958748113369538637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljng15760 跟宝剑哥是朋友还感受不到幸福，就可以自己去精神病院领个床号了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958748113369538637",
+        "created_at": "2025-08-22T05:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T06:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958756530737881525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1784887323211280384",
+              "start": 0,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958756530737881525",
+        "in_reply_to_user_id": "1784887323211280384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958748113369538637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljng15760 跟宝剑哥是朋友还感受不到幸福，就可以自己去精神病院领个床号了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784887323211280384",
+        "conversation_id": "1958748113369538637",
+        "created_at": "2025-08-22T04:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T05:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958748113369538637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958748113369538637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做enfj 的好朋友（划重点）你们会很幸福的知道吗？（给我说知道！）😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 51,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/9PJ5FnV3Eg不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️（暂时不接新的了）/搬运、抄袭替我挡灾（部分短打不上菜）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=NsOxJjaN",
+                "start": 39,
+                "url": "https://t.co/9PJ5FnV3Eg"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "爱是陪伴",
+        "name": "星星⭐️🫧",
+        "pinned_tweet_id": "1896054832747921456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956030588256968707/1wjKy8Hb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63861,
+          "following_count": 273,
+          "like_count": 10035,
+          "listed_count": 65,
+          "media_count": 574,
+          "tweet_count": 7971
+        },
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

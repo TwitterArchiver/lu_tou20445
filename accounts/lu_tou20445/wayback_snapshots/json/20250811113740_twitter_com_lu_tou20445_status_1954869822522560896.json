@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954849701750051202",
+    "created_at": "2025-08-11T11:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T12:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954869822522560896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886032850463449088",
+          "start": 0,
+          "username": "aconiferioustre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954869822522560896",
+    "in_reply_to_user_id": "1886032850463449088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954868717957120483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aconiferioustre 给他们搭个桥吧，专业对口需求对口，一个痒死一个赢死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954849701750051202",
+        "created_at": "2025-08-11T11:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954869822522560896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886032850463449088",
+              "start": 0,
+              "username": "aconiferioustre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954869822522560896",
+        "in_reply_to_user_id": "1886032850463449088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954868717957120483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aconiferioustre 给他们搭个桥吧，专业对口需求对口，一个痒死一个赢死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886032850463449088",
+        "conversation_id": "1954849701750051202",
+        "created_at": "2025-08-11T11:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954868717957120483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954868717957120483",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954867554247188795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也是🥲然而每次点开都是鸡鸭开会🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 37,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T12:44:24.000Z",
+        "description": "可以喊我小树！瞎发发日常 如果没回可能是我号登不上来了TvT…如果我的一些发言你不喜欢请单取我也没关系的 @coniferioustree",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "coniferioustree"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A0%91",
+                "start": 0,
+                "url": "https://t.co/zvkT7W1hmi"
+              }
+            ]
+          }
+        },
+        "id": "1886032850463449088",
+        "name": "但係雨冇停過",
+        "pinned_tweet_id": "1890793040643555601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950554988977283072/cSJG8P2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 162,
+          "like_count": 2844,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/zvkT7W1hmi",
+        "username": "aconiferioustre",
+        "verified": false
+      }
+    ]
+  }
+}

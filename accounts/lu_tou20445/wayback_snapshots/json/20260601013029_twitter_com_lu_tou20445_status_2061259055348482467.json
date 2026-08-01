@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061048421474328822",
+    "created_at": "2026-06-01T01:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061259055348482467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1310877289182240770",
+          "start": 0,
+          "username": "jimeng_08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061259055348482467",
+    "in_reply_to_user_id": "1310877289182240770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061255906558709955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimeng_08 严肃欣赏🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-01T01:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061259055348482467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1310877289182240770",
+              "start": 0,
+              "username": "jimeng_08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061259055348482467",
+        "in_reply_to_user_id": "1310877289182240770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061255906558709955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimeng_08 严肃欣赏🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310877289182240770",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-01T01:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061255906558709955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061255906558709955",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061048421474328822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 严肃学习"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 69,
+          "like_count": 21135,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6003
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T09:41:24.000Z",
+        "description": "没🚪的意思是加我没门，不回私信就是不想回",
+        "id": "1310877289182240770",
+        "location": "龙隐洞天",
+        "name": "月迟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888743500520505344/LFs2S-7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3871,
+          "following_count": 37,
+          "like_count": 255,
+          "listed_count": 12,
+          "media_count": 99,
+          "tweet_count": 740
+        },
+        "username": "jimeng_08",
+        "verified": false
+      }
+    ]
+  }
+}

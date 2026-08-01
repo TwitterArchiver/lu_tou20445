@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958690571775807871",
+    "created_at": "2025-08-22T01:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T02:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958697187338330376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1841191869675683842",
+          "start": 0,
+          "username": "aabbb1737078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958697187338330376",
+    "in_reply_to_user_id": "1841191869675683842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958696228926919080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aabbb1737078 对味了，这就是热干面精神，致敬🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958690571775807871",
+        "created_at": "2025-08-22T01:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T02:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958697187338330376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1841191869675683842",
+              "start": 0,
+              "username": "aabbb1737078"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958697187338330376",
+        "in_reply_to_user_id": "1841191869675683842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958696228926919080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabbb1737078 对味了，这就是热干面精神，致敬🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841191869675683842",
+        "conversation_id": "1958690571775807871",
+        "created_at": "2025-08-22T01:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T02:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958696228926919080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958696228926919080",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958694771636982145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我会问老板有没有四个头😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 51,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T19:02:17.000Z",
+        "description": "说废话的地方/解梦/算命/塔罗/观影/学习/健身/清水",
+        "id": "1841191869675683842",
+        "location": "香港",
+        "name": "nono（暴怒恐龙版）",
+        "pinned_tweet_id": "1954194891053138302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953866895226286084/ENu_0R05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 65,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1403
+        },
+        "username": "aabbb1737078",
+        "verified": false
+      }
+    ]
+  }
+}

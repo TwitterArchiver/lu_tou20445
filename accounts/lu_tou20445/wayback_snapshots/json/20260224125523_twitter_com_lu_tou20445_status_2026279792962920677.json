@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T12:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026279792962920677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680223572382429185",
+          "start": 0,
+          "username": "__huahuahua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026279792962920677",
+    "in_reply_to_user_id": "1680223572382429185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026279231513113003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__huahuahua 今天的衣服裤子，就穿到这里吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T12:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026279792962920677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680223572382429185",
+              "start": 0,
+              "username": "__huahuahua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026279792962920677",
+        "in_reply_to_user_id": "1680223572382429185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026279231513113003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__huahuahua 今天的衣服裤子，就穿到这里吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680223572382429185",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T12:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026279231513113003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026279231513113003",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 可以不穿衣服！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 70,
+          "like_count": 16688,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5010
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T14:31:41.000Z",
+        "description": "不爱回消息",
+        "id": "1680223572382429185",
+        "name": "h",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731690106849722369/iYOXfRNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 36,
+          "like_count": 3924,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 150
+        },
+        "username": "__huahuahua",
+        "verified": false
+      }
+    ]
+  }
+}

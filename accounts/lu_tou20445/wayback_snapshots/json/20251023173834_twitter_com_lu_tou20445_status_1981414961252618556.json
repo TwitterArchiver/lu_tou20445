@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1981402927941243208",
+    "created_at": "2025-10-23T17:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T18:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981414961252618556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904752319773892608",
+          "start": 0,
+          "username": "Laraaa718"
+        },
+        {
+          "end": 22,
+          "id": "874922985567784960",
+          "start": 11,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981414961252618556",
+    "in_reply_to_user_id": "904752319773892608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981413697252921721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laraaa718 @xihinansyo 顶嘴可不是什么好习惯哦😉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_1981413688327262208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39lQGXX0AAJmTA.jpg",
+        "width": 1175
+      },
+      {
+        "height": 1242,
+        "media_key": "3_1981413688343973888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G39lQGbW0AA2s0V.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1981402927941243208",
+        "created_at": "2025-10-23T17:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981414961252618556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904752319773892608",
+              "start": 0,
+              "username": "Laraaa718"
+            },
+            {
+              "end": 22,
+              "id": "874922985567784960",
+              "start": 11,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981414961252618556",
+        "in_reply_to_user_id": "904752319773892608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981413697252921721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laraaa718 @xihinansyo 顶嘴可不是什么好习惯哦😉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981413688327262208",
+            "3_1981413688343973888"
+          ]
+        },
+        "author_id": "904752319773892608",
+        "conversation_id": "1981402927941243208",
+        "created_at": "2025-10-23T17:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981413697252921721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 24,
+              "id": "874922985567784960",
+              "start": 13,
+              "username": "xihinansyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSjliZzyEr",
+              "end": 76,
+              "expanded_url": "https://x.com/Laraaa718/status/1981413697252921721/photo/1",
+              "media_key": "3_1981413688327262208",
+              "start": 53,
+              "url": "https://t.co/QSjliZzyEr"
+            },
+            {
+              "display_url": "pic.x.com/QSjliZzyEr",
+              "end": 76,
+              "expanded_url": "https://x.com/Laraaa718/status/1981413697252921721/photo/1",
+              "media_key": "3_1981413688343973888",
+              "start": 53,
+              "url": "https://t.co/QSjliZzyEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981413697252921721",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981412932371267680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @xihinansyo 发现说不过你俩之后我现在的表情是这样的，我请求外援支援 https://t.co/QSjliZzyEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 70,
+          "like_count": 7153,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 2204
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T17:05:37.000Z",
+        "description": "Be my eyes.｜可以叫我猫猫或者小K｜什么都会发",
+        "id": "904752319773892608",
+        "name": "kitten",
+        "pinned_tweet_id": "1972969852571992348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960549452835651584/8OudCR7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 181,
+          "like_count": 24405,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 8277
+        },
+        "username": "Laraaa718",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1979154228879769901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 258,
+          "like_count": 16222,
+          "listed_count": 0,
+          "media_count": 298,
+          "tweet_count": 6651
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      }
+    ]
+  }
+}

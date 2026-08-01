@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2005244340185211162",
+    "created_at": "2025-12-28T13:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T14:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005274393061273736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1970511835939143680",
+          "start": 0,
+          "username": "jjng842228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005274393061273736",
+    "in_reply_to_user_id": "1970511835939143680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005273179850424436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jjng842228 那太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2005244340185211162",
+        "created_at": "2025-12-28T13:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005274393061273736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1970511835939143680",
+              "start": 0,
+              "username": "jjng842228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005274393061273736",
+        "in_reply_to_user_id": "1970511835939143680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005273179850424436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jjng842228 那太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970511835939143680",
+        "conversation_id": "2005244340185211162",
+        "created_at": "2025-12-28T13:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005273179850424436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005273179850424436",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005244340185211162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 有边界感很好啊，没有边界感我会很苦恼不知道该怎么去提醒对方，我和我的好朋友都是有边界感的人其实相处起来很舒适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 71,
+          "like_count": 12950,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3769
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:33:40.000Z",
+        "description": "🇨🇳会画一点画但蓝条非常短 可以找我画画可以交朋友❤️此号相当自由但本人高道德感此号乃是分享日常与绘画的",
+        "id": "1970511835939143680",
+        "location": "中国",
+        "name": "蛀牙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004979792375152640/beeDGHK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 190
+        },
+        "username": "jjng842228",
+        "verified": false
+      }
+    ]
+  }
+}

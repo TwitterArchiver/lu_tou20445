@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955536371676053800",
+    "created_at": "2025-08-13T10:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T11:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955580131420049629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473965932158459909",
+          "start": 0,
+          "username": "JiuShengQing520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955580131420049629",
+    "in_reply_to_user_id": "1473965932158459909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955579885478666728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiuShengQing520 那就对了，怎么会有人忍心打扰睡美人呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955536371676053800",
+        "created_at": "2025-08-13T10:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955580131420049629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473965932158459909",
+              "start": 0,
+              "username": "JiuShengQing520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955580131420049629",
+        "in_reply_to_user_id": "1473965932158459909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955579885478666728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiuShengQing520 那就对了，怎么会有人忍心打扰睡美人呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473965932158459909",
+        "conversation_id": "1955536371676053800",
+        "created_at": "2025-08-13T10:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T11:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955579885478666728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955579885478666728",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955539108857786698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 鼠标每天都会睡的很香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T10:38:02.000Z",
+        "description": "“循此苦旅，以达天际。\n穿越逆境，直抵繁星”                                 INFJ‖写文‖日常‖爱人@wen30103055",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "wen30103055"
+              }
+            ]
+          }
+        },
+        "id": "1473965932158459909",
+        "location": "无尘无涤",
+        "name": "久生情",
+        "pinned_tweet_id": "1932857763195203748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955090132287311872/2ANFYyrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 55,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 704
+        },
+        "username": "JiuShengQing520",
+        "verified": false
+      }
+    ]
+  }
+}

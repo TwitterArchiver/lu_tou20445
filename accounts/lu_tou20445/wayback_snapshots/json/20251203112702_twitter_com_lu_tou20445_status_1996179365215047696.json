@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995858468402782481",
+    "created_at": "2025-12-03T11:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996179365215047696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829588980016267276",
+          "start": 0,
+          "username": "333001_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996179365215047696",
+    "in_reply_to_user_id": "1829588980016267276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996172937171485054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@333001_ 诶，超纲了奥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-03T11:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996179365215047696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829588980016267276",
+              "start": 0,
+              "username": "333001_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996179365215047696",
+        "in_reply_to_user_id": "1829588980016267276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996172937171485054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@333001_ 诶，超纲了奥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829588980016267276",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-03T11:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996172937171485054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996172937171485054",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995858468402782481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 轻轻吃对方手指更是🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 69,
+          "like_count": 10289,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 3096
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:36:29.000Z",
+        "description": "已有狗 @clpuppy0 不约 #iiii #i #女性向",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "iiii"
+              },
+              {
+                "end": 25,
+                "start": 23,
+                "tag": "i"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "女性向"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "clpuppy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/clpuppy0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/clpuppy0",
+                "start": 0,
+                "url": "https://t.co/MxN1ibxrFY"
+              }
+            ]
+          }
+        },
+        "id": "1829588980016267276",
+        "location": "快乐星球",
+        "name": "小狗的主人",
+        "pinned_tweet_id": "1961418324803531175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959656100980314112/OMgfC0tX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6117,
+          "following_count": 51,
+          "like_count": 2469,
+          "listed_count": 37,
+          "media_count": 91,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/MxN1ibxrFY",
+        "username": "333001_",
+        "verified": false
+      }
+    ]
+  }
+}

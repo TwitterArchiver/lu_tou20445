@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008756305935430043",
+    "created_at": "2026-01-07T09:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T10:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008839963409068104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1739686913722970112",
+          "start": 0,
+          "username": "nayutaT_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008839963409068104",
+    "in_reply_to_user_id": "1739686913722970112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008830031846601082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nayutaT_T 也是误伤了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008756305935430043",
+        "created_at": "2026-01-07T09:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008839963409068104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1739686913722970112",
+              "start": 0,
+              "username": "nayutaT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008839963409068104",
+        "in_reply_to_user_id": "1739686913722970112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008830031846601082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nayutaT_T 也是误伤了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739686913722970112",
+        "conversation_id": "2008756305935430043",
+        "created_at": "2026-01-07T09:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008830031846601082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008830031846601082",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008756305935430043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 别说了呗我想我前任了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 68,
+          "like_count": 13974,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 4032
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T16:37:51.000Z",
+        "description": "les🏳️‍🌈/单身可约\n男的敢来杀你全家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nayuta8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nayuta8964",
+                "start": 0,
+                "url": "https://t.co/Z8kN6MMs8O"
+              }
+            ]
+          }
+        },
+        "id": "1739686913722970112",
+        "location": "爱碎碎念 想到什么说什么",
+        "name": "ナユタ",
+        "pinned_tweet_id": "2006788738769367337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005714718686863361/YpAPx14f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 645,
+          "like_count": 6920,
+          "listed_count": 0,
+          "media_count": 462,
+          "tweet_count": 3309
+        },
+        "url": "https://t.co/Z8kN6MMs8O",
+        "username": "nayutaT_T",
+        "verified": false
+      }
+    ]
+  }
+}

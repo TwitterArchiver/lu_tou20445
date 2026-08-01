@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986485857432555521",
+        "3_1986485857424162816"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1986485872041337072",
+    "created_at": "2025-11-06T17:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T18:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986485872041337072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1i8fAftIKW",
+          "end": 60,
+          "expanded_url": "https://x.com/lu_tou20445/status/1986485872041337072/photo/1",
+          "media_key": "3_1986485857432555521",
+          "start": 37,
+          "url": "https://t.co/1i8fAftIKW"
+        },
+        {
+          "display_url": "pic.x.com/1i8fAftIKW",
+          "end": 60,
+          "expanded_url": "https://x.com/lu_tou20445/status/1986485872041337072/photo/1",
+          "media_key": "3_1986485857424162816",
+          "start": 37,
+          "url": "https://t.co/1i8fAftIKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986485872041337072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这么一看我上学那会儿定做和买的东西确实都还挺可爱的，现在确实是无聊的大人 https://t.co/1i8fAftIKW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1986485872041337072].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1986485872041337072",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1986485872041337072"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986485857432555521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FqXMua0AEU48i.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986485857424162816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FqXMsawAADMMT.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 73,
+          "like_count": 7870,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 2463
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

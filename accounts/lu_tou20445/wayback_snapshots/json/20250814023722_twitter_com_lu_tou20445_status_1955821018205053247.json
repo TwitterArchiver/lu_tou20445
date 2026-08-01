@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955808541916455301",
+    "created_at": "2025-08-14T02:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955821018205053247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1727119113087242240",
+          "start": 0,
+          "username": "PaiMian25128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955821018205053247",
+    "in_reply_to_user_id": "1727119113087242240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955810833432514700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaiMian25128 我也是j人，可惜我只想无事😦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955808541916455301",
+        "created_at": "2025-08-14T02:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955821018205053247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1727119113087242240",
+              "start": 0,
+              "username": "PaiMian25128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955821018205053247",
+        "in_reply_to_user_id": "1727119113087242240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955810833432514700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaiMian25128 我也是j人，可惜我只想无事😦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727119113087242240",
+        "conversation_id": "1955808541916455301",
+        "created_at": "2025-08-14T01:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T02:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955810833432514700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955810833432514700",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955809648503623937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 j人的执行力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 41,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 781
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T00:18:38.000Z",
+        "description": "一个萌萌的小女孩",
+        "id": "1727119113087242240",
+        "name": "天才少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947622783477026816/hMmlQWtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 291
+        },
+        "username": "PaiMian25128",
+        "verified": false
+      }
+    ]
+  }
+}

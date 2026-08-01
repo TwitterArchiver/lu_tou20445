@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1990236567127089613",
+    "created_at": "2025-11-17T02:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990242081638625784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990242081638625784",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990236567127089613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77ninini 给我吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990236556414599168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G569mnQWwAAfxcj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990236556422971392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G569mnSWgAAa8e5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990236556423024640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G569mnSXUAAdb7u.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990236556439756801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G569mnWWoAEzcBl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1990236567127089613",
+        "created_at": "2025-11-17T02:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990242081638625784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990242081638625784",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990236567127089613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77ninini 给我吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990236556414599168",
+            "3_1990236556422971392",
+            "3_1990236556423024640",
+            "3_1990236556439756801"
+          ]
+        },
+        "author_id": "1907355599232274432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1990236567127089613",
+        "created_at": "2025-11-17T01:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990236567127089613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6O2gpjBMx",
+              "end": 31,
+              "expanded_url": "https://x.com/77ninini/status/1990236567127089613/photo/1",
+              "media_key": "3_1990236556414599168",
+              "start": 8,
+              "url": "https://t.co/V6O2gpjBMx"
+            },
+            {
+              "display_url": "pic.x.com/V6O2gpjBMx",
+              "end": 31,
+              "expanded_url": "https://x.com/77ninini/status/1990236567127089613/photo/1",
+              "media_key": "3_1990236556422971392",
+              "start": 8,
+              "url": "https://t.co/V6O2gpjBMx"
+            },
+            {
+              "display_url": "pic.x.com/V6O2gpjBMx",
+              "end": 31,
+              "expanded_url": "https://x.com/77ninini/status/1990236567127089613/photo/1",
+              "media_key": "3_1990236556423024640",
+              "start": 8,
+              "url": "https://t.co/V6O2gpjBMx"
+            },
+            {
+              "display_url": "pic.x.com/V6O2gpjBMx",
+              "end": 31,
+              "expanded_url": "https://x.com/77ninini/status/1990236567127089613/photo/1",
+              "media_key": "3_1990236556439756801",
+              "start": 8,
+              "url": "https://t.co/V6O2gpjBMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990236567127089613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就一个字：难吃 https://t.co/V6O2gpjBMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 75,
+          "like_count": 8838,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "简单记录生活，记录心情，喜欢小猫小狗🥰\n（不开私信，不加VX，不礼貌回关，取关随意）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐",
+        "pinned_tweet_id": "1989703812269887681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987567256109277185/JL05nIaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 179,
+          "like_count": 40594,
+          "listed_count": 3,
+          "media_count": 590,
+          "tweet_count": 12994
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

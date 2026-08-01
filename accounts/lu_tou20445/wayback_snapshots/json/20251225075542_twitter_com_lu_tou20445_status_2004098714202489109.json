@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004098702026387456"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004098714202489109",
+    "created_at": "2025-12-25T07:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T08:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004098714202489109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrUWbCyBXF",
+          "end": 118,
+          "expanded_url": "https://x.com/lu_tou20445/status/2004098714202489109/photo/1",
+          "media_key": "3_2004098702026387456",
+          "start": 95,
+          "url": "https://t.co/jrUWbCyBXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004098714202489109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我一直觉得如果各种舒服的坐姿，到最后一定会让我腰疼，那这腰，它天生就该疼🫤，工作太久了坐累了，人在椅子上像火锅里狡猾的宽粉已经溜桌子底下了，下一步就是去接水重置坐姿了，又是腰酸背痛的一天🫠 https://t.co/jrUWbCyBXF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004098714202489109].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004098714202489109",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004098714202489109"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004098702026387456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8_9Jr0asAAQ6Fh.jpg",
+        "width": 1128
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 69,
+          "like_count": 12445,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 3558
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

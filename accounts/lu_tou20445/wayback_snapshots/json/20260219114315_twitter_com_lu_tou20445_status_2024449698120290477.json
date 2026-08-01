@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2024441009376260284",
+    "created_at": "2026-02-19T11:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024449698120290477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901212642972217344",
+          "start": 0,
+          "username": "Robin594015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024449698120290477",
+    "in_reply_to_user_id": "1901212642972217344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024447605313511597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Robin594015 来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2024447602029404160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhIXjlaoAADq4V.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2024441009376260284",
+        "created_at": "2026-02-19T11:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024449698120290477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901212642972217344",
+              "start": 0,
+              "username": "Robin594015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024449698120290477",
+        "in_reply_to_user_id": "1901212642972217344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024447605313511597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robin594015 来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024447602029404160"
+          ]
+        },
+        "author_id": "1901212642972217344",
+        "conversation_id": "2024441009376260284",
+        "created_at": "2026-02-19T11:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024447605313511597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEkhddXabC",
+              "end": 36,
+              "expanded_url": "https://x.com/Robin594015/status/2024447605313511597/photo/1",
+              "media_key": "3_2024447602029404160",
+              "start": 13,
+              "url": "https://t.co/uEkhddXabC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024447605313511597",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024441009376260284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 https://t.co/uEkhddXabC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 68,
+          "like_count": 16174,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4840
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T10:03:32.000Z",
+        "description": "…中二病晚期",
+        "id": "1901212642972217344",
+        "name": "伯牙",
+        "pinned_tweet_id": "2012450953178263696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022034065814433792/e67OXF50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 56,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 183
+        },
+        "username": "Robin594015",
+        "verified": false
+      }
+    ]
+  }
+}

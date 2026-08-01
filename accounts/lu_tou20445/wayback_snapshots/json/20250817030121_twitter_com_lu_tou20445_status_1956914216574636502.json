@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956913074977329192",
+    "created_at": "2025-08-17T03:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956914216574636502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1519196893145747456",
+          "start": 0,
+          "username": "yuyu608201071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956914216574636502",
+    "in_reply_to_user_id": "1519196893145747456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956913074977329192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu608201071 有可能是毛囊出了问题，可以去看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956913074977329192",
+        "created_at": "2025-08-17T03:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956914216574636502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1519196893145747456",
+              "start": 0,
+              "username": "yuyu608201071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956914216574636502",
+        "in_reply_to_user_id": "1519196893145747456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956913074977329192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu608201071 有可能是毛囊出了问题，可以去看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519196893145747456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1956913074977329192",
+        "created_at": "2025-08-17T02:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T03:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956913074977329192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956913074977329192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么头发掉的这么厉害。。。感觉自己身体很健康呀，每天都锻炼。心理也很健康，没有什么坏情绪和烦恼，很满意现在的生活，人际关系也没有烦恼，为什么会一直脱发呢….真的有点吓人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 47,
+          "like_count": 644,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 927
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T06:09:07.000Z",
+        "description": "想发啥就发啥",
+        "id": "1519196893145747456",
+        "name": "不喜欢下雨天",
+        "pinned_tweet_id": "1945741349317140765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876154590594572288/iG2cDdWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 5,
+          "like_count": 930,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 2199
+        },
+        "username": "yuyu608201071",
+        "verified": false
+      }
+    ]
+  }
+}

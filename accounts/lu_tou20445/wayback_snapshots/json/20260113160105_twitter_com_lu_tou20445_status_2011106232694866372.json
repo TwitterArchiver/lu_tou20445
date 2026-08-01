@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2011105183967949162",
+    "created_at": "2026-01-13T16:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T17:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011106232694866372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935562290746765315",
+          "start": 0,
+          "username": "yuhe24156661877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011106232694866372",
+    "in_reply_to_user_id": "1935562290746765315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011105183967949162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuhe24156661877 中央气象台预计从明天开始，新一股较强的冷空气即将来袭，这也是今年下半年以来最强的冷空气"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9750,
+        "height": 720,
+        "media_key": "7_2011105149712994305",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2011105149712994305/pu/img/SXJapvd6QnJ-1DLE.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011105149712994305/pu/vid/avc1/480x270/ht9xRSki3XKMRdGb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011105149712994305/pu/vid/avc1/640x360/B-4jmsL2vxhIIQaN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2011105149712994305/pu/vid/avc1/1280x720/ZnEQamJtepe7pKoq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2011105149712994305/pu/pl/x0BxY3-sE-4UoPnY.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2011105183967949162",
+        "created_at": "2026-01-13T16:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T17:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011106232694866372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935562290746765315",
+              "start": 0,
+              "username": "yuhe24156661877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011106232694866372",
+        "in_reply_to_user_id": "1935562290746765315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011105183967949162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuhe24156661877 中央气象台预计从明天开始，新一股较强的冷空气即将来袭，这也是今年下半年以来最强的冷空气"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2011105149712994305"
+          ]
+        },
+        "author_id": "1935562290746765315",
+        "conversation_id": "2011105183967949162",
+        "created_at": "2026-01-13T15:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011105183967949162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gCWn2hPw65",
+              "end": 38,
+              "expanded_url": "https://x.com/yuhe24156661877/status/2011105183967949162/video/1",
+              "media_key": "7_2011105149712994305",
+              "start": 15,
+              "url": "https://t.co/gCWn2hPw65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011105183967949162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去年今天🌨️🌨️🌨️🌨️🌨️ https://t.co/gCWn2hPw65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 68,
+          "like_count": 13929,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 4176
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T04:56:44.000Z",
+        "description": "我经常收不到私信 不是不回😖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/limerence43984",
+                "end": 23,
+                "expanded_url": "http://ngl.link/limerence43984",
+                "start": 0,
+                "url": "https://t.co/8L024WpV83"
+              }
+            ]
+          }
+        },
+        "id": "1935562290746765315",
+        "name": "🌧️🐟🐟",
+        "pinned_tweet_id": "1956734840650252567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960572907362639873/Xkqg4nSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 57,
+          "like_count": 4491,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 728
+        },
+        "url": "https://t.co/8L024WpV83",
+        "username": "yuhe24156661877",
+        "verified": false
+      }
+    ]
+  }
+}

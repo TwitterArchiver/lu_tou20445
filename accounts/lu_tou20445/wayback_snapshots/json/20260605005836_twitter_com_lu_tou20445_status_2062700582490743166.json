@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2062611834205528267",
+    "created_at": "2026-06-05T00:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062700582490743166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1999062281326669826",
+          "start": 0,
+          "username": "tCYYUgSllF26087"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062700582490743166",
+    "in_reply_to_user_id": "1999062281326669826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062611834205528267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tCYYUgSllF26087 你也开始健身了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6233,
+        "height": 1280,
+        "media_key": "13_2062611767461654528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062611767461654528/img/RvZFd4WWytkpvBFN.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062611767461654528/vid/avc1/320x568/x0w4_zclVE3GPJho.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062611767461654528/vid/avc1/480x852/rtDAzfBCHA_3empM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062611767461654528/vid/avc1/720x1280/DzaG9Up_woJRea8L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062611767461654528/pl/pL3eTKjI9EDFXyKX.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2062611834205528267",
+        "created_at": "2026-06-05T00:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062700582490743166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1999062281326669826",
+              "start": 0,
+              "username": "tCYYUgSllF26087"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062700582490743166",
+        "in_reply_to_user_id": "1999062281326669826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062611834205528267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tCYYUgSllF26087 你也开始健身了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062611767461654528"
+          ]
+        },
+        "author_id": "1999062281326669826",
+        "conversation_id": "2062611834205528267",
+        "created_at": "2026-06-04T19:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062611834205528267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9n3QXS1ltm",
+              "end": 30,
+              "expanded_url": "https://x.com/tCYYUgSllF26087/status/2062611834205528267/video/1",
+              "media_key": "13_2062611767461654528",
+              "start": 7,
+              "url": "https://t.co/9n3QXS1ltm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062611834205528267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帅帅的大女孩 https://t.co/9n3QXS1ltm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 69,
+          "like_count": 21355,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 6069
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:24:22.000Z",
+        "description": "我喜欢可爱的东西，如果你也喜欢，可以找我当好朋友",
+        "id": "1999062281326669826",
+        "name": "菇耐耐（混世嬤王）",
+        "pinned_tweet_id": "2000494958760136740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033996767067574273/HxqzP0eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 64,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 752
+        },
+        "username": "tCYYUgSllF26087",
+        "verified": false
+      }
+    ]
+  }
+}

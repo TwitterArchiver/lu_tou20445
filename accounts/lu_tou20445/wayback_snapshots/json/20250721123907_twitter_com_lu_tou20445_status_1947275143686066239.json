@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1947275143686066239",
+    "created_at": "2025-07-21T12:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947275143686066239"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lu_tou20445/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/lu_tou20445/status/1947272033374544164",
+          "start": 10,
+          "url": "https://t.co/YT34XpRlpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947275143686066239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947272033374544164",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好耶，summer https://t.co/YT34XpRlpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102096,
+        "height": 720,
+        "media_key": "13_1947271150293090304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947271150293090304/img/Z3nmXA8Xg7zHqZjz.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947271150293090304/vid/avc1/480x270/nG9q8c_A6WRc9R3i.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947271150293090304/vid/avc1/640x360/nKyv8KiAzHQGjCPM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947271150293090304/vid/avc1/1280x720/EzaTdqSRXqQlJHy-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947271150293090304/pl/0-nZmT6b0rPgUusW.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1947275143686066239",
+        "created_at": "2025-07-21T12:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947275143686066239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lu_tou20445/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lu_tou20445/status/1947272033374544164",
+              "start": 10,
+              "url": "https://t.co/YT34XpRlpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947275143686066239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947272033374544164",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好耶，summer https://t.co/YT34XpRlpZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1947271150293090304"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1947272033374544164",
+        "created_at": "2025-07-21T12:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947272033374544164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bZs8VWMNjc",
+              "end": 101,
+              "expanded_url": "https://x.com/lu_tou20445/status/1947272033374544164/video/1",
+              "media_key": "13_1947271150293090304",
+              "start": 78,
+              "url": "https://t.co/bZs8VWMNjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947272033374544164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "燥热的夏夜，窗外的蝉鸣还有楼下小孩子的嬉闹声，在窗边吹着偶尔飘进来的凉风，夏天在此刻具像化了，夏夜果然还是要听这首歌啊！（希望不要有人注意到后半截我的乱哼 https://t.co/bZs8VWMNjc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

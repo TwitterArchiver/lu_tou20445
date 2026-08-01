@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988641835854795204",
+    "created_at": "2025-11-13T12:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988947993467539644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607271984924135426",
+          "start": 0,
+          "username": "tindshui0408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988947993467539644",
+    "in_reply_to_user_id": "1607271984924135426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988945866057740440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tindshui0408 不至于，我只是单纯好色罢了👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988641835854795204",
+        "created_at": "2025-11-13T12:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988947993467539644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607271984924135426",
+              "start": 0,
+              "username": "tindshui0408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988947993467539644",
+        "in_reply_to_user_id": "1607271984924135426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988945866057740440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tindshui0408 不至于，我只是单纯好色罢了👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607271984924135426",
+        "conversation_id": "1988641835854795204",
+        "created_at": "2025-11-13T12:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988945866057740440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988945866057740440",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988641835854795204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哈哈哈哈哈 我真的觉得你好喜欢萌妹～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 74,
+          "like_count": 8551,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 2681
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T07:08:19.000Z",
+        "description": "",
+        "id": "1607271984924135426",
+        "name": "如果我说我真的爱你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615415948076527616/ajbfRT3W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 125,
+          "like_count": 2784,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 452
+        },
+        "username": "tindshui0408",
+        "verified": false
+      }
+    ]
+  }
+}

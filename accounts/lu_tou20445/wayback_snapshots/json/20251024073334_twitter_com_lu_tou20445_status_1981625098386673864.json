@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1980953042330730717",
+    "created_at": "2025-10-24T07:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T08:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981625098386673864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1948360130594324480",
+          "start": 0,
+          "username": "Kkk00_0500"
+        },
+        {
+          "end": 27,
+          "id": "1821995628874145792",
+          "start": 12,
+          "username": "aoaosaozifasei"
+        },
+        {
+          "end": 42,
+          "id": "1833807027887595520",
+          "start": 28,
+          "username": "coldheart0077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981625098386673864",
+    "in_reply_to_user_id": "1948360130594324480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981623573665169699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kkk00_0500 @aoaosaozifasei @coldheart0077 只能说何不食肉糜，没亲历过不会乱讲的，我老家比这个水平只少不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1980953042330730717",
+        "created_at": "2025-10-24T07:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981625098386673864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1948360130594324480",
+              "start": 0,
+              "username": "Kkk00_0500"
+            },
+            {
+              "end": 27,
+              "id": "1821995628874145792",
+              "start": 12,
+              "username": "aoaosaozifasei"
+            },
+            {
+              "end": 42,
+              "id": "1833807027887595520",
+              "start": 28,
+              "username": "coldheart0077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981625098386673864",
+        "in_reply_to_user_id": "1948360130594324480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981623573665169699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kkk00_0500 @aoaosaozifasei @coldheart0077 只能说何不食肉糜，没亲历过不会乱讲的，我老家比这个水平只少不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948360130594324480",
+        "conversation_id": "1980953042330730717",
+        "created_at": "2025-10-24T07:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981623573665169699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821995628874145792",
+              "start": 0,
+              "username": "aoaosaozifasei"
+            },
+            {
+              "end": 28,
+              "id": "1943288759778447360",
+              "start": 16,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 43,
+              "id": "1833807027887595520",
+              "start": 29,
+              "username": "coldheart0077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981623573665169699",
+        "in_reply_to_user_id": "1821995628874145792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981207435387031569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoaosaozifasei @lu_tou20445 @coldheart0077 就是。。。县城工资哪有这么低 几千块很正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 70,
+          "like_count": 7191,
+          "listed_count": 3,
+          "media_count": 110,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T12:30:41.000Z",
+        "description": "🚪wx52，防止sb私信",
+        "id": "1948360130594324480",
+        "location": "Hong Kong",
+        "name": "Www",
+        "pinned_tweet_id": "1975821369251406141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953707237915959296/xbOaTjDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 46,
+          "like_count": 591,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 72
+        },
+        "username": "Kkk00_0500",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T19:43:16.000Z",
+        "description": "人机土象 无业游民 提问箱https://t.co/7v8KRYnoey\n什么都发谨慎关注 不礼貌互粉了 感谢喜欢也取关随意",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aoaosaozifasei",
+                "end": 36,
+                "expanded_url": "https://ngl.link/aoaosaozifasei",
+                "start": 13,
+                "url": "https://t.co/7v8KRYnoey"
+              }
+            ]
+          }
+        },
+        "id": "1821995628874145792",
+        "name": "我跟你拼啦",
+        "pinned_tweet_id": "1955873871296651717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946123879421734912/c6TrefUX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 103,
+          "like_count": 4797,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 7412
+        },
+        "username": "aoaosaozifasei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T09:57:33.000Z",
+        "description": "礼貌夸夸彩虹屁互助小组资深组员/时常发疯的infj/抽象先锋/国产正版纯爱战士/163 62不是排骨精也不是肌肉战士/switch/拒绝没礼貌☝️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/coldheart0077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/coldheart0077",
+                "start": 0,
+                "url": "https://t.co/PTZemDWLRW"
+              }
+            ]
+          }
+        },
+        "id": "1833807027887595520",
+        "location": "beijing",
+        "name": "coldheart0077",
+        "pinned_tweet_id": "1948054014505148846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884679639295307776/TP3TiVIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 39,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 526
+        },
+        "url": "https://t.co/PTZemDWLRW",
+        "username": "coldheart0077",
+        "verified": false
+      }
+    ]
+  }
+}

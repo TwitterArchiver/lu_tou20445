@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963165531688812939",
+    "created_at": "2025-09-03T09:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T10:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963166713064587751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850569702046859264",
+          "start": 0,
+          "username": "ERoslon1207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963166713064587751",
+    "in_reply_to_user_id": "1850569702046859264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963166618562990386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ERoslon1207 🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963165531688812939",
+        "created_at": "2025-09-03T09:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963166713064587751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850569702046859264",
+              "start": 0,
+              "username": "ERoslon1207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963166713064587751",
+        "in_reply_to_user_id": "1850569702046859264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963166618562990386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ERoslon1207 🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850569702046859264",
+        "conversation_id": "1963165531688812939",
+        "created_at": "2025-09-03T09:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963166618562990386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963166618562990386",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963165531688812939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这对嘛，我才看到，太惨了这个老头😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 60,
+          "like_count": 2451,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T16:06:27.000Z",
+        "description": "想到什么发什么的精神不稳定的入ʕ ᵔᴥᵔ ʔ",
+        "id": "1850569702046859264",
+        "location": "不想开学",
+        "name": "渝.",
+        "pinned_tweet_id": "1959074042654466439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938082579741347843/3ETNBzZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 699,
+          "like_count": 2858,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 335
+        },
+        "username": "ERoslon1207",
+        "verified": false
+      }
+    ]
+  }
+}

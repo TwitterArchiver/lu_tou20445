@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1994443232617365661",
+    "created_at": "2025-11-29T05:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994647366834819284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1923368047966048256",
+          "start": 0,
+          "username": "zuoxiehuangbao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994647366834819284",
+    "in_reply_to_user_id": "1923368047966048256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994528089024729101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuoxiehuangbao 我不道啊！我也熬穿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1994443232617365661",
+        "created_at": "2025-11-29T05:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994647366834819284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1923368047966048256",
+              "start": 0,
+              "username": "zuoxiehuangbao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994647366834819284",
+        "in_reply_to_user_id": "1923368047966048256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994528089024729101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuoxiehuangbao 我不道啊！我也熬穿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923368047966048256",
+        "conversation_id": "1994443232617365661",
+        "created_at": "2025-11-28T22:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T23:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994528089024729101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994528089024729101",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994443232617365661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 TM真熬穿了，梦在哪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 68,
+          "like_count": 9948,
+          "listed_count": 3,
+          "media_count": 148,
+          "tweet_count": 3001
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T13:21:24.000Z",
+        "description": "入机的朋友圈，私信看心情骂",
+        "id": "1923368047966048256",
+        "location": "比奇堡",
+        "name": "蟹黄堡制作者",
+        "pinned_tweet_id": "1990955177038213346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986469946466136064/sy86fwcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 13,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 466
+        },
+        "username": "zuoxiehuangbao",
+        "verified": false
+      }
+    ]
+  }
+}

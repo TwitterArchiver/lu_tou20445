@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1965586730247246271",
+    "created_at": "2025-09-10T01:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T02:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965587037429662189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762399735644921856",
+          "start": 0,
+          "username": "shrnyygu114514"
+        },
+        {
+          "end": 31,
+          "id": "1904810780467294208",
+          "start": 16,
+          "username": "bixiawoxinande"
+        },
+        {
+          "end": 44,
+          "id": "1818598560033538048",
+          "start": 32,
+          "username": "HuaiBu66276"
+        },
+        {
+          "end": 60,
+          "id": "1877992679453454336",
+          "start": 45,
+          "username": "BladeStarr0714"
+        },
+        {
+          "end": 71,
+          "id": "1881766065900077056",
+          "start": 61,
+          "username": "Xin369556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965587037429662189",
+    "in_reply_to_user_id": "1762399735644921856",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965586730247246271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrnyygu114514 @bixiawoxinande @HuaiBu66276 @BladeStarr0714 @Xin369556 🫵？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1965586726703046656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0cqtrxboAAW2KH.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1965586730247246271",
+        "created_at": "2025-09-10T01:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T02:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965587037429662189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762399735644921856",
+              "start": 0,
+              "username": "shrnyygu114514"
+            },
+            {
+              "end": 31,
+              "id": "1904810780467294208",
+              "start": 16,
+              "username": "bixiawoxinande"
+            },
+            {
+              "end": 44,
+              "id": "1818598560033538048",
+              "start": 32,
+              "username": "HuaiBu66276"
+            },
+            {
+              "end": 60,
+              "id": "1877992679453454336",
+              "start": 45,
+              "username": "BladeStarr0714"
+            },
+            {
+              "end": 71,
+              "id": "1881766065900077056",
+              "start": 61,
+              "username": "Xin369556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965587037429662189",
+        "in_reply_to_user_id": "1762399735644921856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965586730247246271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrnyygu114514 @bixiawoxinande @HuaiBu66276 @BladeStarr0714 @Xin369556 🫵？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965586726703046656"
+          ]
+        },
+        "author_id": "1762399735644921856",
+        "conversation_id": "1965586730247246271",
+        "created_at": "2025-09-10T01:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T02:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965586730247246271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1904810780467294208",
+              "start": 22,
+              "username": "bixiawoxinande"
+            },
+            {
+              "end": 50,
+              "id": "1818598560033538048",
+              "start": 38,
+              "username": "HuaiBu66276"
+            },
+            {
+              "end": 72,
+              "id": "1877992679453454336",
+              "start": 57,
+              "username": "BladeStarr0714"
+            },
+            {
+              "end": 91,
+              "id": "1943288759778447360",
+              "start": 79,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 102,
+              "id": "1881766065900077056",
+              "start": 92,
+              "username": "Xin369556"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 130,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1963565950453911556/SjMe6-in?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963565950453911556/SjMe6-in?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/8j5xH9QWtU"
+            },
+            {
+              "display_url": "pic.x.com/2DAYRh4zNX",
+              "end": 154,
+              "expanded_url": "https://x.com/shrnyygu114514/status/1965586730247246271/photo/1",
+              "media_key": "3_1965586726703046656",
+              "start": 131,
+              "url": "https://t.co/2DAYRh4zNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965586730247246271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @bixiawoxinande @HuaiBu66276\n👰 配偶: @BladeStarr0714\n👶 孩子: @lu_tou20445 @Xin369556\n\n➡️ https://t.co/8j5xH9QWtU https://t.co/2DAYRh4zNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 65,
+          "like_count": 3395,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1623
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "话少，爱点赞 ，好吧其实话也挺多的/很温良除非遇到贱人/抑郁治疗ing/爱看电影/板绘学习ing/废柴尼特/欢迎交朋友",
+        "id": "1762399735644921856",
+        "location": "在无爱之森呐喊",
+        "name": "好吃麻辣烫大王",
+        "pinned_tweet_id": "1965260071388303732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963472708647489543/aGUXEb4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 553,
+          "like_count": 31329,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2049
+        },
+        "username": "shrnyygu114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T08:21:01.000Z",
+        "description": "直fo都会回 fo你是喜欢你 皮下男与男同之始祖@bixiawoxihuanni 全网最尊重皮下男的账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "bixiawoxihuanni"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com",
+                "end": 23,
+                "expanded_url": "http://YouTube.com",
+                "start": 0,
+                "url": "https://t.co/eFpc7pFzLi"
+              }
+            ]
+          }
+        },
+        "id": "1904810780467294208",
+        "location": "谁敢想谁敢想，同担爸爸死掉了，不曾想不曾想，对家爸爸也死了",
+        "name": "阿姨哟哦哦阿姨哟哦哦",
+        "pinned_tweet_id": "1936618336714137778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963801393963352064/xop5MO4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 2375,
+          "like_count": 2807,
+          "listed_count": 3,
+          "media_count": 749,
+          "tweet_count": 5023
+        },
+        "url": "https://t.co/eFpc7pFzLi",
+        "username": "bixiawoxinande",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T10:44:39.000Z",
+        "description": "流水账和日记",
+        "id": "1818598560033538048",
+        "location": "吾乃雄性。",
+        "name": "小白（叨叨叨）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940725321617031168/O6OL7Jk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 36,
+          "like_count": 1204,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 906
+        },
+        "username": "HuaiBu66276",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T08:15:31.000Z",
+        "description": "呱呱蛙蛙🐸叭叭夸夸👍🏻咔咔花花🌸嘛嘛哈哈😋\n还没想明白要干什么的小号 @Frogly2887只过互关！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "Frogly2887"
+              }
+            ]
+          }
+        },
+        "id": "1877992679453454336",
+        "name": "ff",
+        "pinned_tweet_id": "1929559181884887192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924760681330704384/xQ-xUWFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 503,
+          "like_count": 33343,
+          "listed_count": 13,
+          "media_count": 311,
+          "tweet_count": 21539
+        },
+        "username": "BladeStarr0714",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。",
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "信",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 244,
+          "like_count": 12111,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1158
+        },
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T16:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026341137519432028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1953896745953566720",
+          "start": 0,
+          "username": "zhenxiyue"
+        },
+        {
+          "end": 21,
+          "id": "1850750350111993856",
+          "start": 11,
+          "username": "Celia400z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026341137519432028",
+    "in_reply_to_user_id": "1953896745953566720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026338623705198887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhenxiyue @Celia400z 油盐不进是吧🫵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T16:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026341137519432028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1953896745953566720",
+              "start": 0,
+              "username": "zhenxiyue"
+            },
+            {
+              "end": 21,
+              "id": "1850750350111993856",
+              "start": 11,
+              "username": "Celia400z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026341137519432028",
+        "in_reply_to_user_id": "1953896745953566720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026338623705198887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhenxiyue @Celia400z 油盐不进是吧🫵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953896745953566720",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T16:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026338623705198887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 23,
+              "id": "1850750350111993856",
+              "start": 13,
+              "username": "Celia400z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026338623705198887",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026338046489383155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @Celia400z 好吧 但是我还是要给你一拳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 70,
+          "like_count": 16805,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5051
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T19:11:16.000Z",
+        "description": "只回🚪 其他勿扰 纯绿",
+        "id": "1953896745953566720",
+        "name": "红碟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953897510579351552/VWRXgqa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 7,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 134
+        },
+        "username": "zhenxiyue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T04:04:13.000Z",
+        "description": "haaaaapy",
+        "id": "1850750350111993856",
+        "location": "0.5km",
+        "name": "Celia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941433926570115072/HGkuykuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 66,
+          "like_count": 2588,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 269
+        },
+        "username": "Celia400z",
+        "verified": false
+      }
+    ]
+  }
+}

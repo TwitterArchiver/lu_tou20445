@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2001868805308645465",
+    "created_at": "2025-12-19T04:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001870199402934384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1598199054709637121",
+          "start": 0,
+          "username": "GnIRr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001870199402934384",
+    "in_reply_to_user_id": "1598199054709637121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001868805308645465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GnIRr_ 坏了，我小时候喝这个就是闷一口苦一下然后嘴里甜甜的，还蛮喜欢，难道我小时候就已经大时候了？🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2001868797964357632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gREL2akAABN3O.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2001868805308645465",
+        "created_at": "2025-12-19T04:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001870199402934384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1598199054709637121",
+              "start": 0,
+              "username": "GnIRr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001870199402934384",
+        "in_reply_to_user_id": "1598199054709637121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001868805308645465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GnIRr_ 坏了，我小时候喝这个就是闷一口苦一下然后嘴里甜甜的，还蛮喜欢，难道我小时候就已经大时候了？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001868797964357632"
+          ]
+        },
+        "author_id": "1598199054709637121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001868805308645465",
+        "created_at": "2025-12-19T04:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001868805308645465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Gpky2iu51",
+              "end": 69,
+              "expanded_url": "https://x.com/GnIRr_/status/2001868805308645465/photo/1",
+              "media_key": "3_2001868797964357632",
+              "start": 46,
+              "url": "https://t.co/2Gpky2iu51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001868805308645465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候喝茉莉清茶只能喝出来苦涩滋味，可现在，我已经到了这岁数了吗…现在竟然尝出来了丝丝甜蜜 https://t.co/2Gpky2iu51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 69,
+          "like_count": 11805,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3395
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:16:21.000Z",
+        "description": "我是不会流眼泪的",
+        "id": "1598199054709637121",
+        "name": "早已泪",
+        "pinned_tweet_id": "1961491841129316793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983162625283461121/kNwv0iRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 816,
+          "like_count": 1334,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 1334
+        },
+        "username": "GnIRr_",
+        "verified": false
+      }
+    ]
+  }
+}

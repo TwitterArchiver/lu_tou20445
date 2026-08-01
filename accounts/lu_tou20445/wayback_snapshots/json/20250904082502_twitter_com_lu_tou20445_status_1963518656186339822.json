@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962848250178028030",
+    "created_at": "2025-09-04T08:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T09:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963518656186339822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1623330103605493766",
+          "start": 0,
+          "username": "NuoApril"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963518656186339822",
+    "in_reply_to_user_id": "1623330103605493766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963518190367191225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuoApril 来，看看是不是悄咪咪自己把震动关了，没关就私我，我多喊几个人帮你震🫶🏻😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962848250178028030",
+        "created_at": "2025-09-04T08:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963518656186339822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1623330103605493766",
+              "start": 0,
+              "username": "NuoApril"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963518656186339822",
+        "in_reply_to_user_id": "1623330103605493766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963518190367191225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuoApril 来，看看是不是悄咪咪自己把震动关了，没关就私我，我多喊几个人帮你震🫶🏻😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623330103605493766",
+        "conversation_id": "1962848250178028030",
+        "created_at": "2025-09-04T08:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963518190367191225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963518190367191225",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962848250178028030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 为什么我放兜里不震，震的另有其物吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 62,
+          "like_count": 2586,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1529
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T14:37:23.000Z",
+        "description": "🇰🇷04 infp 0.5 p 4i 1i ｜礼貌私信 扩列中 看到喜欢的小宝会回｜💌提问https://t.co/FKXfkLLhXw｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nuo_kylie",
+                "end": 68,
+                "expanded_url": "https://ngl.link/nuo_kylie",
+                "start": 45,
+                "url": "https://t.co/FKXfkLLhXw"
+              }
+            ]
+          }
+        },
+        "id": "1623330103605493766",
+        "location": "seoul,Korean",
+        "name": "猫毛",
+        "pinned_tweet_id": "1814019761740890600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961833582294695937/DNTN382p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 61,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 101
+        },
+        "username": "NuoApril",
+        "verified": false
+      }
+    ]
+  }
+}

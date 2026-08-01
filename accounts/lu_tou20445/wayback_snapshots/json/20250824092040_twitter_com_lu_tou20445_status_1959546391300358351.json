@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959266165332803662",
+    "created_at": "2025-08-24T09:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T10:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959546391300358351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "906858739667427328",
+          "start": 0,
+          "username": "OtSSn0rXEo7Zod8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959546391300358351",
+    "in_reply_to_user_id": "906858739667427328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959266165332803662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OtSSn0rXEo7Zod8 感觉它，能被引导到考上清北的程度🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959266157820833792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzC2MJ1a8AA-TWd.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959266165332803662",
+        "created_at": "2025-08-24T09:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T10:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959546391300358351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "906858739667427328",
+              "start": 0,
+              "username": "OtSSn0rXEo7Zod8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959546391300358351",
+        "in_reply_to_user_id": "906858739667427328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959266165332803662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OtSSn0rXEo7Zod8 感觉它，能被引导到考上清北的程度🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959266157820833792"
+          ]
+        },
+        "author_id": "906858739667427328",
+        "conversation_id": "1959266165332803662",
+        "created_at": "2025-08-23T14:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T15:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959266165332803662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ogIPaCAUk",
+              "end": 32,
+              "expanded_url": "https://x.com/OtSSn0rXEo7Zod8/status/1959266165332803662/photo/1",
+              "media_key": "3_1959266157820833792",
+              "start": 9,
+              "url": "https://t.co/5ogIPaCAUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959266165332803662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 14017,
+          "like_count": 166,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "东亚式羞辱这一块 https://t.co/5ogIPaCAUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 51,
+          "like_count": 1204,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T12:35:46.000Z",
+        "description": "差一度热血沸腾，少一寸百步穿杨。 手凉吗朋友给你暖暖啊。infp，逻辑渣，意识流小作文玩家。祝各位所求皆如愿。",
+        "id": "906858739667427328",
+        "location": "主人脚下",
+        "name": "小崽砸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831641849351520256/ifTeBDuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 863,
+          "like_count": 23677,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 4562
+        },
+        "username": "OtSSn0rXEo7Zod8",
+        "verified": false
+      }
+    ]
+  }
+}

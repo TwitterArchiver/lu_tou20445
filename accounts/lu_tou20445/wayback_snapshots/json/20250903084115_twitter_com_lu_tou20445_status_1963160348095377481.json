@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963119437235556593",
+    "created_at": "2025-09-03T08:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963160348095377481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450290533193093120",
+          "start": 0,
+          "username": "DonnyaMoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963160348095377481",
+    "in_reply_to_user_id": "1450290533193093120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963154240764776864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DonnyaMoon doi也要加速城市化吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963119437235556593",
+        "created_at": "2025-09-03T08:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963160348095377481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450290533193093120",
+              "start": 0,
+              "username": "DonnyaMoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963160348095377481",
+        "in_reply_to_user_id": "1450290533193093120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963154240764776864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DonnyaMoon doi也要加速城市化吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450290533193093120",
+        "conversation_id": "1963119437235556593",
+        "created_at": "2025-09-03T08:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963154240764776864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963154240764776864",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963150478734221640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 给我们川普一条路。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 60,
+          "like_count": 2441,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-19T02:40:02.000Z",
+        "description": "I am everything I post🍎🐰🍍                                   非常善用一键屏蔽ʕ ᵔᴥᵔ ʔ",
+        "id": "1450290533193093120",
+        "name": "Sara",
+        "pinned_tweet_id": "1961429792579846388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723796500967425/foj6p7c9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 67,
+          "like_count": 6777,
+          "listed_count": 1,
+          "media_count": 430,
+          "tweet_count": 1656
+        },
+        "username": "DonnyaMoon",
+        "verified": false
+      }
+    ]
+  }
+}

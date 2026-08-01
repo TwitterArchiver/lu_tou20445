@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2065049057220010110",
+    "created_at": "2026-06-11T12:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065054226385129570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1861125808221495298",
+          "start": 0,
+          "username": "Bessy_Lumos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065054226385129570",
+    "in_reply_to_user_id": "1861125808221495298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065049057220010110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bessy_Lumos 各种热门网游，可以搜下大众点评，去个环境好服务好有包厢的禁烟网吧，点一些吃的喝的看电影打游戏一条龙，消费还不贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2065049057220010110",
+        "created_at": "2026-06-11T12:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065054226385129570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1861125808221495298",
+              "start": 0,
+              "username": "Bessy_Lumos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065054226385129570",
+        "in_reply_to_user_id": "1861125808221495298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049057220010110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bessy_Lumos 各种热门网游，可以搜下大众点评，去个环境好服务好有包厢的禁烟网吧，点一些吃的喝的看电影打游戏一条龙，消费还不贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861125808221495298",
+        "conversation_id": "2065049057220010110",
+        "created_at": "2026-06-11T12:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065049057220010110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065049057220010110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想去网吧玩啊\n从来没去过网吧\n可以玩什么捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 69,
+          "like_count": 21555,
+          "listed_count": 5,
+          "media_count": 279,
+          "tweet_count": 6138
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T19:12:50.000Z",
+        "description": "ISTP-T 💎丨不定期转帖喜欢的涩涩视频🥵丨白煮蛋型女生丨🚪123",
+        "id": "1861125808221495298",
+        "name": "呱呱Ya~",
+        "pinned_tweet_id": "1987521637969961125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974786451771682816/kl6m2EQU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 198,
+          "like_count": 25794,
+          "listed_count": 2,
+          "media_count": 249,
+          "tweet_count": 2131
+        },
+        "username": "Bessy_Lumos",
+        "verified": false
+      }
+    ]
+  }
+}

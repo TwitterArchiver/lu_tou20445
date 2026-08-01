@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T15:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026315791143194978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1886816146252554247",
+          "start": 0,
+          "username": "YunLi4959"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026315791143194978",
+    "in_reply_to_user_id": "1886816146252554247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026306218806186354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunLi4959 更狂野的为了维持形象还不能写😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T15:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026315791143194978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1886816146252554247",
+              "start": 0,
+              "username": "YunLi4959"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026315791143194978",
+        "in_reply_to_user_id": "1886816146252554247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026306218806186354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunLi4959 更狂野的为了维持形象还不能写😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886816146252554247",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T14:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026306218806186354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026306218806186354",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 太狂野了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 70,
+          "like_count": 16734,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5032
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:37:00.000Z",
+        "description": "可能是Dom | 女的",
+        "id": "1886816146252554247",
+        "name": "現在是睡覺時間",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886827237917515779/Z2ByZnnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 16,
+          "like_count": 6938,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 752
+        },
+        "username": "YunLi4959",
+        "verified": false
+      }
+    ]
+  }
+}

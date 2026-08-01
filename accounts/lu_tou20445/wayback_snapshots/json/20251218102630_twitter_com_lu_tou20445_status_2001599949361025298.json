@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2001590172081852522",
+    "created_at": "2025-12-18T10:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T11:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001599949361025298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1319306555691552768",
+          "start": 0,
+          "username": "NYi_Zyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001599949361025298",
+    "in_reply_to_user_id": "1319306555691552768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001599438889140303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NYi_Zyc 对不起我错怪你了，我这就走窗户下楼去看看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_2001599435667877888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ccFPGbMAAwu7S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2001590172081852522",
+        "created_at": "2025-12-18T10:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001599949361025298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1319306555691552768",
+              "start": 0,
+              "username": "NYi_Zyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001599949361025298",
+        "in_reply_to_user_id": "1319306555691552768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001599438889140303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NYi_Zyc 对不起我错怪你了，我这就走窗户下楼去看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001599435667877888"
+          ]
+        },
+        "author_id": "1319306555691552768",
+        "conversation_id": "2001590172081852522",
+        "created_at": "2025-12-18T10:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001599438889140303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvHReuZEWE",
+              "end": 51,
+              "expanded_url": "https://x.com/NYi_Zyc/status/2001599438889140303/photo/1",
+              "media_key": "3_2001599435667877888",
+              "start": 28,
+              "url": "https://t.co/gvHReuZEWE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001599438889140303",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001598514363797838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 看看日子出去走一走😎比如这样 https://t.co/gvHReuZEWE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 69,
+          "like_count": 11757,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3380
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-22T15:56:21.000Z",
+        "description": "“请不要轻易离开这世界”",
+        "id": "1319306555691552768",
+        "location": "无拘束",
+        "name": "Nacht.",
+        "pinned_tweet_id": "2001102792690425892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459925097196580866/RDBBi2QM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 42,
+          "like_count": 3259,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 122
+        },
+        "username": "NYi_Zyc",
+        "verified": false
+      }
+    ]
+  }
+}

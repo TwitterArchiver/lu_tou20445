@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963415592976928846",
+    "created_at": "2025-09-04T01:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T02:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963416886038942183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960927101781204993",
+          "start": 0,
+          "username": "myloveiswater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963416886038942183",
+    "in_reply_to_user_id": "1960927101781204993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963415592976928846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myloveiswater 开蓝v，不然就跟昨天一样，强行闭麦🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963415592976928846",
+        "created_at": "2025-09-04T01:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T02:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963416886038942183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960927101781204993",
+              "start": 0,
+              "username": "myloveiswater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963416886038942183",
+        "in_reply_to_user_id": "1960927101781204993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963415592976928846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myloveiswater 开蓝v，不然就跟昨天一样，强行闭麦🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960927101781204993",
+        "conversation_id": "1963415592976928846",
+        "created_at": "2025-09-04T01:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T02:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963415592976928846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963415592976928846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私信上限什么时候能解开…🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 61,
+          "like_count": 2533,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1523
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T04:47:21.000Z",
+        "description": "可以叫我小o^^｜淡淡的infp🚺｜追星、运动、搞黄、碎碎念｜你让让我吧行吗｜不约｜不礼貌回关",
+        "id": "1960927101781204993",
+        "name": "O泡果奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960927480300363778/iRtU7jXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 33
+        },
+        "username": "myloveiswater",
+        "verified": false
+      }
+    ]
+  }
+}

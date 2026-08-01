@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955554002655187413",
+    "created_at": "2025-08-13T09:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955560767241216117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898283206194937856",
+          "start": 0,
+          "username": "insomnidealist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955560767241216117",
+    "in_reply_to_user_id": "1898283206194937856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955554002655187413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@insomnidealist 建在地势高的地方，干燥通风蚊虫少，池子有水会有蚊子幼虫，会养鱼，鱼会吃蚊子卵，再在寨子周围种一些芳香类植物比如艾蒿茱萸那些来当气味屏障，再用火绳当蚊香，再搞个水缸养一点青蛙，基本就不会有蚊虫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955554002655187413",
+        "created_at": "2025-08-13T09:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955560767241216117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898283206194937856",
+              "start": 0,
+              "username": "insomnidealist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955560767241216117",
+        "in_reply_to_user_id": "1898283206194937856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955554002655187413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@insomnidealist 建在地势高的地方，干燥通风蚊虫少，池子有水会有蚊子幼虫，会养鱼，鱼会吃蚊子卵，再在寨子周围种一些芳香类植物比如艾蒿茱萸那些来当气味屏障，再用火绳当蚊香，再搞个水缸养一点青蛙，基本就不会有蚊虫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898283206194937856",
+        "conversation_id": "1955554002655187413",
+        "created_at": "2025-08-13T08:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955554002655187413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955554002655187413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇古代夏天四合院里是怎么处理蚊虫的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 40,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T08:02:56.000Z",
+        "description": "03 185 75 | 地球online微氪 | 学术垃圾 | 随便写点旅游健身生活文艺 | 去码头整点薯条",
+        "id": "1898283206194937856",
+        "location": "目前在北京",
+        "name": "白衣卿相",
+        "pinned_tweet_id": "1944427151106707651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898285047842512897/bfMzCHeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 28,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "insomnidealist",
+        "verified": false
+      }
+    ]
+  }
+}

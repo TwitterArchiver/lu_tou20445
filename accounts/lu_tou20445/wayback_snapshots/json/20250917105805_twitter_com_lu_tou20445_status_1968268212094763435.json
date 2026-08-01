@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1968265093940191456",
+    "created_at": "2025-09-17T10:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T11:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968268212094763435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968268212094763435",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968267108107874686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 眼里没有一丝恭维全是对能发现美好事物的羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1968265093940191456",
+        "created_at": "2025-09-17T10:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968268212094763435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968268212094763435",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968267108107874686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 眼里没有一丝恭维全是对能发现美好事物的羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904003547756146688",
+        "conversation_id": "1968265093940191456",
+        "created_at": "2025-09-17T10:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968267108107874686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968267108107874686",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968266470200365457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 今天又得到了绿老师的夸夸🤏🏿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 63,
+          "like_count": 4176,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1715
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "祝我们永远有打破僵局的勇气",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967939067439464448/1SNvMiWy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 148,
+          "like_count": 798,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 351
+        },
+        "username": "kkt12138",
+        "verified": false
+      }
+    ]
+  }
+}

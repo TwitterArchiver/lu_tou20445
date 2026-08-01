@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948751217040982168",
+    "created_at": "2025-08-07T08:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T09:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953369800765251970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601192545568133120",
+          "start": 0,
+          "username": "wozhixiangshuiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953369800765251970",
+    "in_reply_to_user_id": "1601192545568133120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948751217040982168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozhixiangshuiu 甚至还有自己加的即兴片段，乐坛要变天了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60066,
+        "height": 720,
+        "media_key": "7_1948751179141251072",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1948751179141251072/pu/img/dGF0krJejZU4qOj4.jpg",
+        "public_metrics": {
+          "view_count": 268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948751179141251072/pu/vid/avc1/320x320/lQGr1x9HGBF6lteR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948751179141251072/pu/vid/avc1/540x540/1ge7w499466AIr56.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1948751179141251072/pu/vid/avc1/720x720/DYkVaegke_RvYPwT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1948751179141251072/pu/pl/4MyvwDflbkU5Tptp.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948751217040982168",
+        "created_at": "2025-08-07T08:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953369800765251970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601192545568133120",
+              "start": 0,
+              "username": "wozhixiangshuiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953369800765251970",
+        "in_reply_to_user_id": "1601192545568133120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948751217040982168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozhixiangshuiu 甚至还有自己加的即兴片段，乐坛要变天了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1948751179141251072"
+          ]
+        },
+        "author_id": "1601192545568133120",
+        "conversation_id": "1948751217040982168",
+        "created_at": "2025-07-25T14:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948751217040982168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XGFtafuNVD",
+              "end": 48,
+              "expanded_url": "https://x.com/wozhixiangshuiu/status/1948751217040982168/video/1",
+              "media_key": "7_1948751179141251072",
+              "start": 25,
+              "url": "https://t.co/XGFtafuNVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948751217040982168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 745,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不错，我随便整两句都这么美妙。\n哼哼，我很棒嘛！ https://t.co/XGFtafuNVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 36,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T12:30:35.000Z",
+        "description": "(´•ω•̥`) 瞎写就是瞎写，请勿代入我。但是你们愿意的话可以代入你们的♡",
+        "id": "1601192545568133120",
+        "name": "哼哼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917648547521986560/IN9iauvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 34,
+          "like_count": 5151,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 405
+        },
+        "username": "wozhixiangshuiu",
+        "verified": false
+      }
+    ]
+  }
+}

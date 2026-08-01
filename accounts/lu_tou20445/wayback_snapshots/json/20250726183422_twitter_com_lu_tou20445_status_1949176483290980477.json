@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949175638809891179",
+    "created_at": "2025-07-26T18:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T19:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949176483290980477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484077799678050305",
+          "start": 0,
+          "username": "soaweerl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949176483290980477",
+    "in_reply_to_user_id": "1484077799678050305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949176319935459455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soaweerl 他真的把你养的很好我哭了🙁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949175638809891179",
+        "created_at": "2025-07-26T18:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T19:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949176483290980477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484077799678050305",
+              "start": 0,
+              "username": "soaweerl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949176483290980477",
+        "in_reply_to_user_id": "1484077799678050305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949176319935459455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soaweerl 他真的把你养的很好我哭了🙁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484077799678050305",
+        "conversation_id": "1949175638809891179",
+        "created_at": "2025-07-26T18:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T19:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949176319935459455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949176319935459455",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949176253329895789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哈哈哈哈哈哈哈哈哈哈哈哈哈哈我支持！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 182
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T08:18:22.000Z",
+        "description": "分享生活且碎碎念的日常号 宝宝们来互关•͈ ₃ •͈",
+        "id": "1484077799678050305",
+        "name": "衣姨",
+        "pinned_tweet_id": "1946982277168386539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943392083810615296/W1GM-YJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 168,
+          "like_count": 1910,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1358
+        },
+        "username": "soaweerl",
+        "verified": true
+      }
+    ]
+  }
+}

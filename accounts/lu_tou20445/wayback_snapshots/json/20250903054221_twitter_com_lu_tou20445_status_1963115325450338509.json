@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963115314692136960"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963103470539653442",
+    "created_at": "2025-09-03T05:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T06:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963115325450338509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960382302724452352",
+          "start": 0,
+          "username": "ji_yu81718"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/johRbfW8wf",
+          "end": 65,
+          "expanded_url": "https://x.com/lu_tou20445/status/1963115325450338509/photo/1",
+          "media_key": "3_1963115314692136960",
+          "start": 42,
+          "url": "https://t.co/johRbfW8wf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963115325450338509",
+    "in_reply_to_user_id": "1960382302724452352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963103470539653442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_yu81718 在我昨天发了day67之后，好像全世界的美味佳肴都端上来了 https://t.co/johRbfW8wf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1963115314692136960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5i-klaoAA8VIJ.jpg",
+        "width": 560
+      },
+      {
+        "duration_ms": 326291,
+        "height": 716,
+        "media_key": "13_1963102983681716224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963102983681716224/img/ZWT05JoOlOe1O8qP.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963102983681716224/vid/avc1/320x476/mpg7iACMfi6jSh07.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963102983681716224/vid/avc1/480x716/bnQjtNPcd52b6574.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963102983681716224/pl/sxtDRifeqoyyomDE.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963115314692136960"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963103470539653442",
+        "created_at": "2025-09-03T05:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963115325450338509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960382302724452352",
+              "start": 0,
+              "username": "ji_yu81718"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/johRbfW8wf",
+              "end": 65,
+              "expanded_url": "https://x.com/lu_tou20445/status/1963115325450338509/photo/1",
+              "media_key": "3_1963115314692136960",
+              "start": 42,
+              "url": "https://t.co/johRbfW8wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963115325450338509",
+        "in_reply_to_user_id": "1960382302724452352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963103470539653442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_yu81718 在我昨天发了day67之后，好像全世界的美味佳肴都端上来了 https://t.co/johRbfW8wf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963102983681716224"
+          ]
+        },
+        "author_id": "1960382302724452352",
+        "conversation_id": "1963103470539653442",
+        "created_at": "2025-09-03T04:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T05:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963103470539653442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSrvJTeIFm",
+              "end": 65,
+              "expanded_url": "https://x.com/ji_yu81718/status/1963103470539653442/video/1",
+              "media_key": "13_1963102983681716224",
+              "start": 42,
+              "url": "https://t.co/RSrvJTeIFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963103470539653442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 111,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "S别听M别听Dom别听Sub别听Switch别听因为od之后再手冲真的很难听❗❗❗ https://t.co/RSrvJTeIFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 60,
+          "like_count": 2411,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T16:42:26.000Z",
+        "description": "黑暗之中闭上眼",
+        "id": "1960382302724452352",
+        "name": "那你现在是不是已经被他们淹没",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961299620711321600/b9rD2AdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 19,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 258
+        },
+        "username": "ji_yu81718",
+        "verified": false
+      }
+    ]
+  }
+}

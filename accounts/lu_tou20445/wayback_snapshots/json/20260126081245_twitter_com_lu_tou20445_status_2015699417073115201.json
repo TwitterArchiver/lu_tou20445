@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2015397873844891864",
+    "created_at": "2026-01-26T08:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015699417073115201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934480682652459009",
+          "start": 0,
+          "username": "tng1715690"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015699417073115201",
+    "in_reply_to_user_id": "1934480682652459009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015397873844891864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tng1715690 原来小时候大家歌单里都会有一首剑心，张杰还在发力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015397870242054144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ghr1jbQAAmHPb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015397870720204801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ghr3VbQAE-OSP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015397870233628672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ghr1hasAAVV1h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015397711630278656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ghimrboAApciI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2015397873844891864",
+        "created_at": "2026-01-26T08:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015699417073115201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934480682652459009",
+              "start": 0,
+              "username": "tng1715690"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015699417073115201",
+        "in_reply_to_user_id": "1934480682652459009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015397873844891864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tng1715690 原来小时候大家歌单里都会有一首剑心，张杰还在发力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015397870242054144",
+            "3_2015397870720204801",
+            "3_2015397870233628672",
+            "3_2015397711630278656"
+          ]
+        },
+        "author_id": "1934480682652459009",
+        "conversation_id": "2015397873844891864",
+        "created_at": "2026-01-25T12:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T13:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015397873844891864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsTobnpHjI",
+              "end": 37,
+              "expanded_url": "https://x.com/tng1715690/status/2015397873844891864/photo/1",
+              "media_key": "3_2015397870242054144",
+              "start": 14,
+              "url": "https://t.co/XsTobnpHjI"
+            },
+            {
+              "display_url": "pic.x.com/XsTobnpHjI",
+              "end": 37,
+              "expanded_url": "https://x.com/tng1715690/status/2015397873844891864/photo/1",
+              "media_key": "3_2015397870720204801",
+              "start": 14,
+              "url": "https://t.co/XsTobnpHjI"
+            },
+            {
+              "display_url": "pic.x.com/XsTobnpHjI",
+              "end": 37,
+              "expanded_url": "https://x.com/tng1715690/status/2015397873844891864/photo/1",
+              "media_key": "3_2015397870233628672",
+              "start": 14,
+              "url": "https://t.co/XsTobnpHjI"
+            },
+            {
+              "display_url": "pic.x.com/XsTobnpHjI",
+              "end": 37,
+              "expanded_url": "https://x.com/tng1715690/status/2015397873844891864/photo/1",
+              "media_key": "3_2015397711630278656",
+              "start": 14,
+              "url": "https://t.co/XsTobnpHjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015397873844891864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1263,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小学没手机我就这样自己玩😅 https://t.co/XsTobnpHjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 70,
+          "like_count": 14652,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 4374
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T05:18:51.000Z",
+        "description": "日记里不能说谎",
+        "id": "1934480682652459009",
+        "name": "别再熬夜了好吗",
+        "pinned_tweet_id": "1976664184265056393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953141295310143488/yWfaUyyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 71,
+          "like_count": 3054,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 965
+        },
+        "username": "tng1715690",
+        "verified": false
+      }
+    ]
+  }
+}

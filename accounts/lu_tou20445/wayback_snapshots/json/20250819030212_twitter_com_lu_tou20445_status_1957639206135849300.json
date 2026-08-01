@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957475121201082510",
+    "created_at": "2025-08-19T03:02:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T04:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957639206135849300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547239678549495813",
+          "start": 0,
+          "username": "pretty594321"
+        },
+        {
+          "end": 24,
+          "id": "373172600",
+          "start": 14,
+          "username": "hmydggsmn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957639206135849300",
+    "in_reply_to_user_id": "1547239678549495813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957482686286835723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pretty594321 @hmydggsmn 大点声有点挑衅的感觉说是hh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957475121201082510",
+        "created_at": "2025-08-19T03:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957639206135849300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547239678549495813",
+              "start": 0,
+              "username": "pretty594321"
+            },
+            {
+              "end": 24,
+              "id": "373172600",
+              "start": 14,
+              "username": "hmydggsmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957639206135849300",
+        "in_reply_to_user_id": "1547239678549495813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957482686286835723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pretty594321 @hmydggsmn 大点声有点挑衅的感觉说是hh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547239678549495813",
+        "conversation_id": "1957475121201082510",
+        "created_at": "2025-08-18T16:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T17:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957482686286835723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "373172600",
+              "start": 0,
+              "username": "hmydggsmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957482686286835723",
+        "in_reply_to_user_id": "373172600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957475121201082510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hmydggsmn 我发现一个南北差异，男方主喜欢说大声点，北方主喜欢说大点儿声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 50,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:21:49.000Z",
+        "description": "一期一会｜自诩为复杂的人类",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pretty594321",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pretty594321",
+                "start": 0,
+                "url": "https://t.co/bdXaUZ91TL"
+              }
+            ]
+          }
+        },
+        "id": "1547239678549495813",
+        "location": "私人日记本",
+        "name": "薄荷巧克力",
+        "pinned_tweet_id": "1753486408290111544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842669399196782592/zjnIhb0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 138,
+          "like_count": 7638,
+          "listed_count": 1,
+          "media_count": 823,
+          "tweet_count": 8085
+        },
+        "url": "https://t.co/bdXaUZ91TL",
+        "username": "pretty594321",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-14T03:36:02.000Z",
+        "description": "Dom/S｜021｜187/85｜智性恋｜直的｜xp是Brat｜是个变态｜暂不约sj｜业余风光/野生动物摄影师｜实践记录以录音&文字为主｜分享自己喜欢的视频｜会不定时清粉｜不喜勿关/推止于推",
+        "id": "373172600",
+        "location": "宛平南路600号",
+        "name": "_卡斯特梅尔的雨季",
+        "pinned_tweet_id": "1909111478315282501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845474992433299457/OGblYZTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8120,
+          "following_count": 1768,
+          "like_count": 1582,
+          "listed_count": 15,
+          "media_count": 361,
+          "tweet_count": 1465
+        },
+        "username": "hmydggsmn",
+        "verified": false
+      }
+    ]
+  }
+}

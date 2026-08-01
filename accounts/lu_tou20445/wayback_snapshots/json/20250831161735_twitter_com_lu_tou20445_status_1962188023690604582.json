@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962182306283827255",
+    "created_at": "2025-08-31T16:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962188023690604582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597119365282791425",
+          "start": 0,
+          "username": "Keljiaoshenme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962188023690604582",
+    "in_reply_to_user_id": "1597119365282791425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962182306283827255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keljiaoshenme 然后第二天因为没开单吃不起饭两眼昏花"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962182306283827255",
+        "created_at": "2025-08-31T16:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962188023690604582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597119365282791425",
+              "start": 0,
+              "username": "Keljiaoshenme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962188023690604582",
+        "in_reply_to_user_id": "1597119365282791425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962182306283827255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keljiaoshenme 然后第二天因为没开单吃不起饭两眼昏花"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597119365282791425",
+        "conversation_id": "1962182306283827255",
+        "created_at": "2025-08-31T15:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962182306283827255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lzukuku/status…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/lzukuku/status/1961691881051754840",
+              "start": 46,
+              "url": "https://t.co/ToCw51p7cT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962182306283827255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 758,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961691881051754840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.翻个白眼 2.有毒3.献唱一曲4.五折 5.打一把mrfz       我真是天赋异禀 https://t.co/ToCw51p7cT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 58,
+          "like_count": 1864,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1393
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:45:18.000Z",
+        "description": "V：68｜188tj｜520主人｜不谈｜不感兴趣｜没人问你｜已有对象｜只回感兴趣的｜管我哪的｜没有线下（言语羞辱我吧，喜欢）",
+        "id": "1597119365282791425",
+        "location": "🚪68｜188｜520",
+        "name": "kel",
+        "pinned_tweet_id": "1932109681910292853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954548018637905920/Bo5Ksn9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22811,
+          "following_count": 62,
+          "like_count": 1638,
+          "listed_count": 41,
+          "media_count": 76,
+          "tweet_count": 370
+        },
+        "username": "Keljiaoshenme",
+        "verified": false
+      }
+    ]
+  }
+}

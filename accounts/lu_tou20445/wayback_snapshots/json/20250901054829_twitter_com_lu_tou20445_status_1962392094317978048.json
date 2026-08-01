@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962369305699586261",
+    "created_at": "2025-09-01T05:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T06:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962392094317978048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910238065576357888",
+          "start": 0,
+          "username": "tequ1la_sunsett"
+        },
+        {
+          "end": 33,
+          "id": "1217846927036837890",
+          "start": 17,
+          "username": "Andante34872865"
+        },
+        {
+          "end": 47,
+          "id": "1257706136611897345",
+          "start": 34,
+          "username": "ForsakenPrx6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962392094317978048",
+    "in_reply_to_user_id": "1910238065576357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962375129629139169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tequ1la_sunsett @Andante34872865 @ForsakenPrx6 见证新时代圣经，合个影先"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962369305699586261",
+        "created_at": "2025-09-01T05:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T06:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962392094317978048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910238065576357888",
+              "start": 0,
+              "username": "tequ1la_sunsett"
+            },
+            {
+              "end": 33,
+              "id": "1217846927036837890",
+              "start": 17,
+              "username": "Andante34872865"
+            },
+            {
+              "end": 47,
+              "id": "1257706136611897345",
+              "start": 34,
+              "username": "ForsakenPrx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962392094317978048",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962375129629139169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tequ1la_sunsett @Andante34872865 @ForsakenPrx6 见证新时代圣经，合个影先"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910238065576357888",
+        "conversation_id": "1962369305699586261",
+        "created_at": "2025-09-01T04:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T05:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962375129629139169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante34872865"
+            },
+            {
+              "end": 30,
+              "id": "1257706136611897345",
+              "start": 17,
+              "username": "ForsakenPrx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962375129629139169",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962375007990120786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante34872865 @ForsakenPrx6 我是big bullshit woman"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 58,
+          "like_count": 1946,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1405
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "Un jour je serai de retour près de toi.",
+        "id": "1910238065576357888",
+        "location": "Revachol",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1961483255095636147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953700372482338820/iw5KhKrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 146,
+          "like_count": 5472,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 3053
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "你要离开吗，我们一起离开。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andante63573",
+                "end": 23,
+                "expanded_url": "https://ngl.link/andante63573",
+                "start": 0,
+                "url": "https://t.co/pzv46WS6sw"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1951480793827778963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961763842184335361/tlNlyQFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 146,
+          "like_count": 2586,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 236
+        },
+        "url": "https://t.co/pzv46WS6sw",
+        "username": "Andante34872865",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T16:18:13.000Z",
+        "description": "不极品青年音 喜欢的话请告诉我",
+        "id": "1257706136611897345",
+        "name": "Forsaken",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921960892738179072/dxuDjROK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 658,
+          "like_count": 1415,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 59
+        },
+        "username": "ForsakenPrx6",
+        "verified": false
+      }
+    ]
+  }
+}

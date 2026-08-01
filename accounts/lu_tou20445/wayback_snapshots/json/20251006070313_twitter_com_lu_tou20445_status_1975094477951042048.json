@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1974832554525282467",
+    "created_at": "2025-10-06T07:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T08:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975094477951042048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680001771014602754",
+          "start": 0,
+          "username": "katarina_f511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975094477951042048",
+    "in_reply_to_user_id": "1680001771014602754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974933717971014107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@katarina_f511 大家都有自己获取幸福的途径，帮助对方变好，看着他一点点变成他自己希望的样子，也是由衷的为他开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1974832554525282467",
+        "created_at": "2025-10-06T07:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975094477951042048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680001771014602754",
+              "start": 0,
+              "username": "katarina_f511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975094477951042048",
+        "in_reply_to_user_id": "1680001771014602754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974933717971014107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@katarina_f511 大家都有自己获取幸福的途径，帮助对方变好，看着他一点点变成他自己希望的样子，也是由衷的为他开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680001771014602754",
+        "conversation_id": "1974832554525282467",
+        "created_at": "2025-10-05T20:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T21:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974933717971014107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974933717971014107",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974832554525282467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 久病成良医？？那为什么不去追求自己的幸福 不理解 但是尊重这种自讨苦吃的大善人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 66,
+          "like_count": 5791,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1969
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T23:50:18.000Z",
+        "description": "身不由己 言不由衷 ｜只想跟有涵养的人交朋友🤍｜ 互关交友私信我",
+        "id": "1680001771014602754",
+        "location": "0.5km",
+        "name": "迟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973656813859110912/-vtTItP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 11,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 148
+        },
+        "username": "katarina_f511",
+        "verified": false
+      }
+    ]
+  }
+}

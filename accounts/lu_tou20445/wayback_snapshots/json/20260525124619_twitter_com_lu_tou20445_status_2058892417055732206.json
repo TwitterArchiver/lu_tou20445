@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2058892417055732206",
+    "created_at": "2026-05-25T12:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058892417055732206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058892417055732206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉我身上有“陌生地重启”的习惯，比如我想健身，但是我会因为附近的健身房有我同事不会去，我想发唱歌音频，在有这个想法前遇到的人一定不会看到我发这个，类似于在新的地方重新开始，至于什么地方叫新，没有我之前认识我的人就叫新，也不知道这算不算逃避的一种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2058892417055732206",
+        "created_at": "2026-05-25T12:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058892417055732206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058892417055732206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我身上有“陌生地重启”的习惯，比如我想健身，但是我会因为附近的健身房有我同事不会去，我想发唱歌音频，在有这个想法前遇到的人一定不会看到我发这个，类似于在新的地方重新开始，至于什么地方叫新，没有我之前认识我的人就叫新，也不知道这算不算逃避的一种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 72,
+          "like_count": 20872,
+          "listed_count": 5,
+          "media_count": 271,
+          "tweet_count": 5954
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

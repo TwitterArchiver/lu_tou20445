@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1999818645262815417",
+    "created_at": "2025-12-13T16:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T17:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999885890148356542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1706173102256709633",
+          "start": 0,
+          "username": "kui0420_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999885890148356542",
+    "in_reply_to_user_id": "1706173102256709633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999870362780377303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kui0420_ 这边建议搜索一下周易呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1999818645262815417",
+        "created_at": "2025-12-13T16:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999885890148356542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1706173102256709633",
+              "start": 0,
+              "username": "kui0420_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999885890148356542",
+        "in_reply_to_user_id": "1706173102256709633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999870362780377303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kui0420_ 这边建议搜索一下周易呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706173102256709633",
+        "conversation_id": "1999818645262815417",
+        "created_at": "2025-12-13T15:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999870362780377303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999870362780377303",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999818645262815417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 要是能有人物性格分析图解就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 68,
+          "like_count": 11239,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 3251
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T05:05:55.000Z",
+        "description": "慕强拜金\n被我视奸会觉得爽吗",
+        "id": "1706173102256709633",
+        "name": "窥",
+        "pinned_tweet_id": "1983022847196074336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865632675794763776/l26MhiJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1524,
+          "following_count": 45,
+          "like_count": 1594,
+          "listed_count": 18,
+          "media_count": 245,
+          "tweet_count": 1444
+        },
+        "username": "kui0420_",
+        "verified": false
+      }
+    ]
+  }
+}

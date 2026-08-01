@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1952657225693991086",
+    "created_at": "2025-08-05T12:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T13:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952702832999567385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1837681963534372864",
+          "start": 0,
+          "username": "LnemiPR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952702832999567385",
+    "in_reply_to_user_id": "1837681963534372864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952657225693991086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LnemiPR 你应当支付我看这段文字的费用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1952657225693991086",
+        "created_at": "2025-08-05T12:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T13:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952702832999567385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1837681963534372864",
+              "start": 0,
+              "username": "LnemiPR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952702832999567385",
+        "in_reply_to_user_id": "1837681963534372864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952657225693991086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LnemiPR 你应当支付我看这段文字的费用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837681963534372864",
+        "conversation_id": "1952657225693991086",
+        "created_at": "2025-08-05T09:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T10:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952657225693991086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952657225693991086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢吞精的人算不算恋童癖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T02:35:07.000Z",
+        "description": "叫我 美团|视奸记得点赞|私信聊黄你妈妈死了\n血图and负能照片 想到什么发什么 @mtwmttsq 不看血图谨慎关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "mtwmttsq"
+              }
+            ]
+          }
+        },
+        "id": "1837681963534372864",
+        "location": "照片在底下 想看的请耐心翻😌有🚪纯绿|互关免费🥺",
+        "name": "永恒谎言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950860475295526912/fTDLu7s8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 225,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1898
+        },
+        "username": "LnemiPR",
+        "verified": false
+      }
+    ]
+  }
+}

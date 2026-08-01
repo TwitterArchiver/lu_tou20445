@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955837081537986730",
+    "created_at": "2025-08-14T07:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T08:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955890576739488227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650478453781856256",
+          "start": 0,
+          "username": "qwqRichest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955890576739488227",
+    "in_reply_to_user_id": "1650478453781856256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955876431755665528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqRichest 就这个feel，我感觉我的肠胃已经开始活动了，阿里嘎多美羊羊桑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955837081537986730",
+        "created_at": "2025-08-14T07:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T08:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955890576739488227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650478453781856256",
+              "start": 0,
+              "username": "qwqRichest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955890576739488227",
+        "in_reply_to_user_id": "1650478453781856256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955876431755665528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqRichest 就这个feel，我感觉我的肠胃已经开始活动了，阿里嘎多美羊羊桑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650478453781856256",
+        "conversation_id": "1955837081537986730",
+        "created_at": "2025-08-14T06:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T07:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955876431755665528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955876431755665528",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955846505715179649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 🫵🏻🫵🏻🫵🏻瘦瘦瘦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 42,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T12:35:12.000Z",
+        "description": "",
+        "id": "1650478453781856256",
+        "location": "南京",
+        "name": "野樱甜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780959555603877888/fUwHbIdF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 51,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 164
+        },
+        "username": "qwqRichest",
+        "verified": false
+      }
+    ]
+  }
+}

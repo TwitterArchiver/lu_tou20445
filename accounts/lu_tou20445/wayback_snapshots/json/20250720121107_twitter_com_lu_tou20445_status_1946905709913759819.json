@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1946668868690444426",
+    "created_at": "2025-07-20T12:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946905709913759819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1365328795972952064",
+          "start": 0,
+          "username": "catshealdeprsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946905709913759819",
+    "in_reply_to_user_id": "1365328795972952064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946668868690444426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catshealdeprsn 委屈成一块方吐司面包，好可爱hhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3761,
+        "height": 960,
+        "media_key": "13_1946614063120949248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946614063120949248/img/tjfF8yyE3eRm52qy.jpg",
+        "public_metrics": {
+          "view_count": 4920
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946614063120949248/vid/avc1/320x568/wHXRHKtwcJhLGZGq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946614063120949248/vid/avc1/480x852/auUEq4txRpzV_6nK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946614063120949248/vid/avc1/540x960/LQobX13ShbhRXPMd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946614063120949248/pl/AO0voujFye7J0uwW.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1946668868690444426",
+        "created_at": "2025-07-20T12:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946905709913759819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1365328795972952064",
+              "start": 0,
+              "username": "catshealdeprsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946905709913759819",
+        "in_reply_to_user_id": "1365328795972952064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946668868690444426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catshealdeprsn 委屈成一块方吐司面包，好可爱hhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946614063120949248"
+          ]
+        },
+        "author_id": "1365328795972952064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          }
+        ],
+        "conversation_id": "1946668868690444426",
+        "created_at": "2025-07-19T20:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T21:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946668868690444426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nHp2boHtw",
+              "end": 23,
+              "expanded_url": "https://x.com/catshealdeprsn/status/1946668868690444426/video/1",
+              "media_key": "13_1946614063120949248",
+              "start": 0,
+              "url": "https://t.co/1nHp2boHtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946668868690444426",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 17513,
+          "like_count": 282,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1nHp2boHtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T15:52:20.000Z",
+        "description": "these cats are threatening. Dm for credit/removal/promo",
+        "id": "1365328795972952064",
+        "location": "United States",
+        "name": "cats with threatening auras",
+        "pinned_tweet_id": "1945380872816885838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939045488558219264/6LwUFYde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135786,
+          "following_count": 91,
+          "like_count": 1298,
+          "listed_count": 3013,
+          "media_count": 11386,
+          "tweet_count": 14440
+        },
+        "username": "catshealdeprsn",
+        "verified": true
+      }
+    ]
+  }
+}

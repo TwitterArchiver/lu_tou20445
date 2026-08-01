@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995032604857569594",
+    "created_at": "2025-11-30T08:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T09:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995041098482483678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938308504017592320",
+          "start": 0,
+          "username": "i_love_ur_soul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995041098482483678",
+    "in_reply_to_user_id": "1938308504017592320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995036296046416061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i_love_ur_soul 五百克是三十块"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995032604857569594",
+        "created_at": "2025-11-30T08:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T09:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995041098482483678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938308504017592320",
+              "start": 0,
+              "username": "i_love_ur_soul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995041098482483678",
+        "in_reply_to_user_id": "1938308504017592320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995036296046416061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_love_ur_soul 五百克是三十块"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938308504017592320",
+        "conversation_id": "1995032604857569594",
+        "created_at": "2025-11-30T07:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995036296046416061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995036296046416061",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995034606664650839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 毕竟摊主教会我一斤是五百克"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 69,
+          "like_count": 10024,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 3030
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T18:49:02.000Z",
+        "description": "",
+        "id": "1938308504017592320",
+        "name": "图图爸爸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957921869920632832/kNKwH5jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 107,
+          "like_count": 3308,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 429
+        },
+        "username": "i_love_ur_soul",
+        "verified": false
+      }
+    ]
+  }
+}

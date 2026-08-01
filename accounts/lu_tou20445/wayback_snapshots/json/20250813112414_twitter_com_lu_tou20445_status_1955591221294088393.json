@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955586815869739177",
+    "created_at": "2025-08-13T11:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955591221294088393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1775942497015042048",
+          "start": 0,
+          "username": "Mar2oeeth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955591221294088393",
+    "in_reply_to_user_id": "1775942497015042048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955586815869739177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mar2oeeth 拉屎不规律的也可以试试😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955586815869739177",
+        "created_at": "2025-08-13T11:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955591221294088393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1775942497015042048",
+              "start": 0,
+              "username": "Mar2oeeth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955591221294088393",
+        "in_reply_to_user_id": "1775942497015042048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955586815869739177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mar2oeeth 拉屎不规律的也可以试试😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775942497015042048",
+        "conversation_id": "1955586815869739177",
+        "created_at": "2025-08-13T11:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955586815869739177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955586815869739177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对 没有尝过屎的可以去试试乳酸菌美式 这个跟屎没有区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T17:44:30.000Z",
+        "description": "好事多磨",
+        "id": "1775942497015042048",
+        "location": "M＆M",
+        "name": "Lin001o^",
+        "pinned_tweet_id": "1873760392322896043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913854179841581056/BPBTpU9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 86,
+          "like_count": 3763,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1097
+        },
+        "username": "Mar2oeeth",
+        "verified": false
+      }
+    ]
+  }
+}

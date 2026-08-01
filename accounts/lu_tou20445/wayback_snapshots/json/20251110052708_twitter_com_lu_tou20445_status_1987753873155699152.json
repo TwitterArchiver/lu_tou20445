@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1987715909503578485",
+    "created_at": "2025-11-10T05:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987753873155699152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482923379438936064",
+          "start": 0,
+          "username": "qing_qing97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987753873155699152",
+    "in_reply_to_user_id": "1482923379438936064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987715909503578485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_qing97 点了，没点到，不管是第一波还是第二波都没有🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1987715909503578485",
+        "created_at": "2025-11-10T05:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987753873155699152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482923379438936064",
+              "start": 0,
+              "username": "qing_qing97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987753873155699152",
+        "in_reply_to_user_id": "1482923379438936064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987715909503578485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_qing97 点了，没点到，不管是第一波还是第二波都没有🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482923379438936064",
+        "conversation_id": "1987715909503578485",
+        "created_at": "2025-11-10T02:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T03:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987715909503578485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987715909503578485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人，都去点肯德基金沙薄脆鸡翅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 73,
+          "like_count": 8030,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2515
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T03:51:06.000Z",
+        "description": "(。•ω -)ε・ ｡)女宝的消息都会回，男的随缘",
+        "id": "1482923379438936064",
+        "name": "譬如朝露去日苦多",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977514962349404160/9vxKFckS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 116,
+          "like_count": 15521,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2514
+        },
+        "username": "qing_qing97",
+        "verified": false
+      }
+    ]
+  }
+}

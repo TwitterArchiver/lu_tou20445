@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032048625149493251"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2032044978688704742",
+    "created_at": "2026-03-12T10:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T11:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032048635970806208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YaTjW22xwa",
+          "end": 45,
+          "expanded_url": "https://x.com/lu_tou20445/status/2032048635970806208/photo/1",
+          "media_key": "3_2032048625149493251",
+          "start": 22,
+          "url": "https://t.co/YaTjW22xwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032048635970806208",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032044978688704742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 耄耋猫的衍生都很有意思🤣 https://t.co/YaTjW22xwa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_2032048625149493251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNJdVRbQAM-2FA.jpg",
+        "width": 504
+      },
+      {
+        "height": 369,
+        "media_key": "3_2032044972237824000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNGItHaoAAuHi4.jpg",
+        "width": 429
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032048625149493251"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2032044978688704742",
+        "created_at": "2026-03-12T10:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032048635970806208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaTjW22xwa",
+              "end": 45,
+              "expanded_url": "https://x.com/lu_tou20445/status/2032048635970806208/photo/1",
+              "media_key": "3_2032048625149493251",
+              "start": 22,
+              "url": "https://t.co/YaTjW22xwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032048635970806208",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032044978688704742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 耄耋猫的衍生都很有意思🤣 https://t.co/YaTjW22xwa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032044972237824000"
+          ]
+        },
+        "author_id": "757578278320300032",
+        "conversation_id": "2032044978688704742",
+        "created_at": "2026-03-12T10:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032044978688704742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPjYDu9PcL",
+              "end": 44,
+              "expanded_url": "https://x.com/trpaomo/status/2032044978688704742/photo/1",
+              "media_key": "3_2032044972237824000",
+              "start": 21,
+              "url": "https://t.co/WPjYDu9PcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032044978688704742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近被这个表情包洗脑，甚至想改成推头像🌚 https://t.co/WPjYDu9PcL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 71,
+          "like_count": 18355,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 5383
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁 \n一定要学会断舍离  消耗自己的就该被舍弃",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "2029865212401344606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952723610927603713/97UlKbMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 235,
+          "like_count": 22149,
+          "listed_count": 8,
+          "media_count": 983,
+          "tweet_count": 7299
+        },
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

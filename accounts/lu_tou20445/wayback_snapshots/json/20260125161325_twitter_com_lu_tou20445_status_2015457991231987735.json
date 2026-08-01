@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2015395811618934838",
+    "created_at": "2026-01-25T16:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T17:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015457991231987735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1845754667860672512",
+          "start": 0,
+          "username": "jnyn295652"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015457991231987735",
+    "in_reply_to_user_id": "1845754667860672512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015444245541446012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jnyn295652 或许你在搜：好朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2015395811618934838",
+        "created_at": "2026-01-25T16:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T17:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015457991231987735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1845754667860672512",
+              "start": 0,
+              "username": "jnyn295652"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015457991231987735",
+        "in_reply_to_user_id": "1845754667860672512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015444245541446012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jnyn295652 或许你在搜：好朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845754667860672512",
+        "conversation_id": "2015395811618934838",
+        "created_at": "2026-01-25T15:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015444245541446012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015444245541446012",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015395811618934838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 已经在思考有没有那种一起休息一起吃饭一起宅着单纯陪伴的伴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 70,
+          "like_count": 14608,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 4362
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T09:15:17.000Z",
+        "description": "不可预知的命运",
+        "id": "1845754667860672512",
+        "location": "Flevoland, Nederland",
+        "name": "Bahati",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978163710796697600/amOqY8Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 25,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 67
+        },
+        "username": "jnyn295652",
+        "verified": false
+      }
+    ]
+  }
+}

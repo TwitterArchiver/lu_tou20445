@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004843062644932654",
+    "created_at": "2025-12-27T14:39:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:39:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004925158583402635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1942965296115159040",
+          "start": 0,
+          "username": "koy561240092328"
+        },
+        {
+          "end": 31,
+          "id": "1996212277423525888",
+          "start": 17,
+          "username": "dearmitt65892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004925158583402635",
+    "in_reply_to_user_id": "1942965296115159040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004922910927151347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koy561240092328 @dearmitt65892 好消息是在我屏蔽词内，在我这里自动屏蔽了已经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004843062644932654",
+        "created_at": "2025-12-27T14:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004925158583402635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1942965296115159040",
+              "start": 0,
+              "username": "koy561240092328"
+            },
+            {
+              "end": 31,
+              "id": "1996212277423525888",
+              "start": 17,
+              "username": "dearmitt65892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004925158583402635",
+        "in_reply_to_user_id": "1942965296115159040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004922910927151347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koy561240092328 @dearmitt65892 好消息是在我屏蔽词内，在我这里自动屏蔽了已经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942965296115159040",
+        "conversation_id": "2004843062644932654",
+        "created_at": "2025-12-27T14:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004922910927151347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1996212277423525888",
+              "start": 0,
+              "username": "dearmitt65892"
+            },
+            {
+              "end": 27,
+              "id": "1943288759778447360",
+              "start": 15,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004922910927151347",
+        "in_reply_to_user_id": "1996212277423525888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004903607494451641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearmitt65892 @lu_tou20445 非常好这边就有一位。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 72,
+          "like_count": 12815,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 3721
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T15:13:28.000Z",
+        "description": "双性恋，可以叫我*休休*",
+        "id": "1942965296115159040",
+        "location": "❤️",
+        "name": "请休息吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004499266887364609/xw_BtbFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 96,
+          "like_count": 1525,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 98
+        },
+        "username": "koy561240092328",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T13:37:50.000Z",
+        "description": "已入驻约p平台:👉https://t.co/lRK4q3i9wU ，只在平台上约，推特绝大部分女主播都入驻的平台，安全可靠，线上约有保障，下载直接搜我名字，日常更新具体位置平台都有显示哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kqh55.top",
+                "end": 32,
+                "expanded_url": "https://kqh55.top",
+                "start": 9,
+                "url": "https://t.co/lRK4q3i9wU"
+              }
+            ]
+          }
+        },
+        "id": "1996212277423525888",
+        "location": "附近2.88km",
+        "name": "一个只想被艹的小烧货",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004906418697342976/M_7vzzet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "username": "dearmitt65892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1970005454257569809",
+    "created_at": "2025-09-23T03:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T04:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970332230603153505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473965932158459909",
+          "start": 0,
+          "username": "JiuShengQing520"
+        },
+        {
+          "end": 32,
+          "id": "1696056573796237312",
+          "start": 17,
+          "username": "tducnmng154550"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970332230603153505",
+    "in_reply_to_user_id": "1473965932158459909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970326249664098555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiuShengQing520 @tducnmng154550 别客气，尽管磕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1970005454257569809",
+        "created_at": "2025-09-23T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970332230603153505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473965932158459909",
+              "start": 0,
+              "username": "JiuShengQing520"
+            },
+            {
+              "end": 32,
+              "id": "1696056573796237312",
+              "start": 17,
+              "username": "tducnmng154550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970332230603153505",
+        "in_reply_to_user_id": "1473965932158459909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970326249664098555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiuShengQing520 @tducnmng154550 别客气，尽管磕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473965932158459909",
+        "conversation_id": "1970005454257569809",
+        "created_at": "2025-09-23T03:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T04:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970326249664098555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 28,
+              "id": "1696056573796237312",
+              "start": 13,
+              "username": "tducnmng154550"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970326249664098555",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970324693128552850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @tducnmng154550 阴阳师玩家表示大为震撼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 63,
+          "like_count": 4718,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T10:38:02.000Z",
+        "description": "“每天觉得最开心的事情就是见到你”      \n                         INFJ‖写文‖日常‖爱人@wen30103055",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "wen30103055"
+              }
+            ]
+          }
+        },
+        "id": "1473965932158459909",
+        "location": "循此苦旅 以达天际 穿越逆境 直抵繁星",
+        "name": "久生情",
+        "pinned_tweet_id": "1932857763195203748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965767238981713920/4dnJVgMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 60,
+          "like_count": 331,
+          "listed_count": 1,
+          "media_count": 378,
+          "tweet_count": 717
+        },
+        "username": "JiuShengQing520",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:37.000Z",
+        "description": "咦，居然被你发现了！你好我是残梦！也可以叫我土豆这样（）\n会在这里说一些乱七八糟的x（指qq空间不发的）\n除中文外均使用翻译器，感谢你的关注！\n目前无恋爱兴趣，可以来2783450359欢迎扩列汪\n男生/Furry/ENFP/🌈/0m\n发一些负能和更擦的地方（嗯）：@canmrng114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "canmrng114514"
+              }
+            ]
+          }
+        },
+        "id": "1696056573796237312",
+        "name": "土豆小狗汪（汪铺招租）",
+        "pinned_tweet_id": "1915444867314164117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964345920725929984/srP6hqft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 671,
+          "like_count": 6614,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 913
+        },
+        "username": "tducnmng154550",
+        "verified": false
+      }
+    ]
+  }
+}

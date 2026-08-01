@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2019725706994012326",
+    "created_at": "2026-02-09T16:26:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020896994680803815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647612416799420419",
+          "start": 0,
+          "username": "suyuzhuo145531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020896994680803815",
+    "in_reply_to_user_id": "1647612416799420419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020883183408148528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suyuzhuo145531 这个探索的过程就要交给你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2019725706994012326",
+        "created_at": "2026-02-09T16:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020896994680803815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1647612416799420419",
+              "start": 0,
+              "username": "suyuzhuo145531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020896994680803815",
+        "in_reply_to_user_id": "1647612416799420419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020883183408148528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suyuzhuo145531 这个探索的过程就要交给你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647612416799420419",
+        "conversation_id": "2019725706994012326",
+        "created_at": "2026-02-09T15:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020883183408148528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020883183408148528",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019806749596004415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 素，所以明天吃什么？🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 71,
+          "like_count": 15491,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 4651
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T14:46:52.000Z",
+        "description": "",
+        "id": "1647612416799420419",
+        "name": "吃星巧杯不用勺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816424491456790528/dJ-ru3cl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 243,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 42
+        },
+        "username": "suyuzhuo145531",
+        "verified": false
+      }
+    ]
+  }
+}

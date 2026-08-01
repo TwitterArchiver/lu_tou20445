@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2000494049481171155",
+    "created_at": "2025-12-15T16:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T17:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000601594086490529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1554830289897107456",
+          "start": 0,
+          "username": "naiyou38206277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000601594086490529",
+    "in_reply_to_user_id": "1554830289897107456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000595994745213385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyou38206277 无力起来抬不起手，有种失去掌控的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2000494049481171155",
+        "created_at": "2025-12-15T16:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T17:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000601594086490529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1554830289897107456",
+              "start": 0,
+              "username": "naiyou38206277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000601594086490529",
+        "in_reply_to_user_id": "1554830289897107456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000595994745213385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyou38206277 无力起来抬不起手，有种失去掌控的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554830289897107456",
+        "conversation_id": "2000494049481171155",
+        "created_at": "2025-12-15T15:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000595994745213385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000595994745213385",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000494049481171155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你说的无力感对我来说好爽 感觉那样我才是真正放松的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 69,
+          "like_count": 11516,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 3319
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T14:03:54.000Z",
+        "description": "",
+        "id": "1554830289897107456",
+        "name": "奶油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554846971935961088/W8WOKGs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 53,
+          "like_count": 951,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 1215
+        },
+        "username": "naiyou38206277",
+        "verified": false
+      }
+    ]
+  }
+}

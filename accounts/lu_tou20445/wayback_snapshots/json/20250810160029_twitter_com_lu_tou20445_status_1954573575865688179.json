@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954548142478606648",
+    "created_at": "2025-08-10T16:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T17:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954573575865688179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597119365282791425",
+          "start": 0,
+          "username": "Keljiaoshenme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954573575865688179",
+    "in_reply_to_user_id": "1597119365282791425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954572213576675532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keljiaoshenme 让我想起那句，你细心呵护她，给她上最好散热，用最好的硅脂，但是殊不知矿老板把她关在暗无天日里扒掉所有衣服蒙住眼睛的时候，是她这辈子叫的最欢的时候"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954548142478606648",
+        "created_at": "2025-08-10T16:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T17:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954573575865688179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597119365282791425",
+              "start": 0,
+              "username": "Keljiaoshenme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954573575865688179",
+        "in_reply_to_user_id": "1597119365282791425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954572213576675532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keljiaoshenme 让我想起那句，你细心呵护她，给她上最好散热，用最好的硅脂，但是殊不知矿老板把她关在暗无天日里扒掉所有衣服蒙住眼睛的时候，是她这辈子叫的最欢的时候"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597119365282791425",
+        "conversation_id": "1954548142478606648",
+        "created_at": "2025-08-10T15:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954572213576675532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954572213576675532",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954551918786691096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 矿卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 37,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:45:18.000Z",
+        "description": "V：68｜188tj｜520dom｜不谈｜不感兴趣｜没人问你｜已有对象｜只回感兴趣的｜管我哪的｜没有线下（言语羞辱我吧，喜欢）",
+        "id": "1597119365282791425",
+        "location": "🚪68｜188｜520",
+        "name": "kel",
+        "pinned_tweet_id": "1932109681910292853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954548018637905920/Bo5Ksn9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20689,
+          "following_count": 61,
+          "like_count": 1477,
+          "listed_count": 40,
+          "media_count": 67,
+          "tweet_count": 312
+        },
+        "username": "Keljiaoshenme",
+        "verified": false
+      }
+    ]
+  }
+}

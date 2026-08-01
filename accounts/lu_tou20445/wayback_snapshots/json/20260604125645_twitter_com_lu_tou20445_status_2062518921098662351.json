@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2062517626195345821",
+    "created_at": "2026-06-04T12:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T13:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062518921098662351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981722018312806400",
+          "start": 0,
+          "username": "kitten718miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062518921098662351",
+    "in_reply_to_user_id": "1981722018312806400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062517626195345821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitten718miao 烧鹅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062517611762679808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-I1xgaAAAPqpN.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062517611368493056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-I1wCbMAAQheV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2062517626195345821",
+        "created_at": "2026-06-04T12:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062518921098662351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981722018312806400",
+              "start": 0,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062518921098662351",
+        "in_reply_to_user_id": "1981722018312806400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062517626195345821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitten718miao 烧鹅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062517611762679808",
+            "3_2062517611368493056"
+          ]
+        },
+        "author_id": "1981722018312806400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062517626195345821",
+        "created_at": "2026-06-04T12:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062517626195345821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oANAy3nMJy",
+              "end": 23,
+              "expanded_url": "https://x.com/kitten718miao/status/2062517626195345821/photo/1",
+              "media_key": "3_2062517611762679808",
+              "start": 0,
+              "url": "https://t.co/oANAy3nMJy"
+            },
+            {
+              "display_url": "pic.x.com/oANAy3nMJy",
+              "end": 23,
+              "expanded_url": "https://x.com/kitten718miao/status/2062517626195345821/photo/1",
+              "media_key": "3_2062517611368493056",
+              "start": 0,
+              "url": "https://t.co/oANAy3nMJy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062517626195345821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oANAy3nMJy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 69,
+          "like_count": 21336,
+          "listed_count": 5,
+          "media_count": 276,
+          "tweet_count": 6063
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "",
+        "id": "1981722018312806400",
+        "name": "想睡一个好觉",
+        "pinned_tweet_id": "1990349790232912199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051408125400633344/ghha4WVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1534,
+          "following_count": 73,
+          "like_count": 2580,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 2376
+        },
+        "username": "kitten718miao",
+        "verified": false
+      }
+    ]
+  }
+}

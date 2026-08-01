@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951666137269465544",
+    "created_at": "2025-08-03T00:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T01:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951804552241631597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939382739352141824",
+          "start": 0,
+          "username": "kun131012435822"
+        },
+        {
+          "end": 30,
+          "id": "1518058830839435264",
+          "start": 17,
+          "username": "yangheyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951804552241631597",
+    "in_reply_to_user_id": "1939382739352141824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951803168305934438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kun131012435822 @yangheyyyyyy 其实我是在攻击我自己（乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951666137269465544",
+        "created_at": "2025-08-03T00:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T01:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951804552241631597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939382739352141824",
+              "start": 0,
+              "username": "kun131012435822"
+            },
+            {
+              "end": 30,
+              "id": "1518058830839435264",
+              "start": 17,
+              "username": "yangheyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951804552241631597",
+        "in_reply_to_user_id": "1939382739352141824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951803168305934438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kun131012435822 @yangheyyyyyy 其实我是在攻击我自己（乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939382739352141824",
+        "conversation_id": "1951666137269465544",
+        "created_at": "2025-08-03T00:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T01:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951803168305934438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 26,
+              "id": "1518058830839435264",
+              "start": 13,
+              "username": "yangheyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951803168305934438",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951686343370723837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @yangheyyyyyy 绿老头👴🏻别攻击我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 32,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T17:57:58.000Z",
+        "description": "entj,欢迎大家和我聊天，有啥可以跟我聊",
+        "id": "1939382739352141824",
+        "name": "k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946923812324507648/EAAuTf4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 50,
+          "like_count": 1336,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 270
+        },
+        "username": "kun131012435822",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T02:46:55.000Z",
+        "description": "",
+        "id": "1518058830839435264",
+        "name": "大脑袋瓜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886107077124521985/z-Z8U40G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 26,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "yangheyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

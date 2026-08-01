@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009654607719682048"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009655190845264233",
+    "created_at": "2026-01-09T15:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T16:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009655190845264233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WgE7m6Zefj",
+          "end": 80,
+          "expanded_url": "https://x.com/lu_tou20445/status/2009655190845264233/video/1",
+          "media_key": "13_2009654607719682048",
+          "start": 57,
+          "url": "https://t.co/WgE7m6Zefj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009655190845264233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非粉，看着他被黑了几年，但是这个视频真的扑面而来的爱意，像是信徒在告诉神明我们会永远需要你一样，鼻子已经开始酸了 https://t.co/WgE7m6Zefj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35759,
+        "height": 1280,
+        "media_key": "13_2009654607719682048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009654607719682048/img/Q2yFFBi3hcnWq3ex.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009654607719682048/vid/avc1/320x690/Txe6Mm0cugQj88-r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009654607719682048/vid/avc1/480x1036/bg5-PRH-jWPYMhlj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009654607719682048/vid/avc1/592x1280/84hp4ZJkz4yZoEsr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009654607719682048/pl/FRw9Za5As6rCTux0.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009654607719682048"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009655190845264233",
+        "created_at": "2026-01-09T15:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009655190845264233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WgE7m6Zefj",
+              "end": 80,
+              "expanded_url": "https://x.com/lu_tou20445/status/2009655190845264233/video/1",
+              "media_key": "13_2009654607719682048",
+              "start": 57,
+              "url": "https://t.co/WgE7m6Zefj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009655190845264233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非粉，看着他被黑了几年，但是这个视频真的扑面而来的爱意，像是信徒在告诉神明我们会永远需要你一样，鼻子已经开始酸了 https://t.co/WgE7m6Zefj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1379,
+          "following_count": 69,
+          "like_count": 14179,
+          "listed_count": 3,
+          "media_count": 193,
+          "tweet_count": 4107
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

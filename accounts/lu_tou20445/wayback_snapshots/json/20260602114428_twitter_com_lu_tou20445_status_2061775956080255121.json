@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061731434486980706",
+    "created_at": "2026-06-02T11:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061775956080255121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874922985567784960",
+          "start": 0,
+          "username": "xihinansyo"
+        },
+        {
+          "end": 26,
+          "id": "1981722018312806400",
+          "start": 12,
+          "username": "kitten718miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061775956080255121",
+    "in_reply_to_user_id": "874922985567784960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061757156118888484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihinansyo @kitten718miao 请把睡觉的含义还给睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061731434486980706",
+        "created_at": "2026-06-02T11:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061775956080255121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            },
+            {
+              "end": 26,
+              "id": "1981722018312806400",
+              "start": 12,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061775956080255121",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061757156118888484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo @kitten718miao 请把睡觉的含义还给睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "874922985567784960",
+        "conversation_id": "2061731434486980706",
+        "created_at": "2026-06-02T10:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061757156118888484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 27,
+              "id": "1981722018312806400",
+              "start": 13,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061757156118888484",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061739647857037477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @kitten718miao 我是直女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 69,
+          "like_count": 21308,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6048
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "平安喜乐 幸福安康｜避难所",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "2009928568902693286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014049599795703809/TnHvEIFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 176,
+          "like_count": 20459,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 9727
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "",
+        "id": "1981722018312806400",
+        "name": "想睡一个好觉",
+        "pinned_tweet_id": "1990349790232912199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051408125400633344/ghha4WVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 73,
+          "like_count": 2547,
+          "listed_count": 2,
+          "media_count": 252,
+          "tweet_count": 2351
+        },
+        "username": "kitten718miao",
+        "verified": false
+      }
+    ]
+  }
+}

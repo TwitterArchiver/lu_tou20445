@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1947196007881613716",
+    "created_at": "2025-07-21T07:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T08:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947200490032202238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1835245953500278784",
+          "start": 0,
+          "username": "yuyu23400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947200490032202238",
+    "in_reply_to_user_id": "1835245953500278784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947196007881613716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu23400 在学你站街挡道🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_1947195997521686528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwXUcWxXsAAKSgT.jpg",
+        "width": 519
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1947196007881613716",
+        "created_at": "2025-07-21T07:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T08:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947200490032202238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1835245953500278784",
+              "start": 0,
+              "username": "yuyu23400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947200490032202238",
+        "in_reply_to_user_id": "1835245953500278784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947196007881613716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu23400 在学你站街挡道🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947195997521686528"
+          ]
+        },
+        "author_id": "1835245953500278784",
+        "conversation_id": "1947196007881613716",
+        "created_at": "2025-07-21T07:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T08:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947196007881613716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoohIEK40c",
+              "end": 28,
+              "expanded_url": "https://x.com/yuyu23400/status/1947196007881613716/photo/1",
+              "media_key": "3_1947195997521686528",
+              "start": 5,
+              "url": "https://t.co/ZoohIEK40c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947196007881613716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都在干嘛 https://t.co/ZoohIEK40c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T09:15:16.000Z",
+        "description": "小秒/i人/玩推纯无聊，私信没有回就是上限了，现实与网络不符，我不好看也不会聊天，让你感觉到不舒服就给我说我给你毕业。有门 纯圈 嘻嘻^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E7%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E7%A7%92",
+                "start": 0,
+                "url": "https://t.co/LTW8XyWsS9"
+              }
+            ]
+          }
+        },
+        "id": "1835245953500278784",
+        "location": "匿名箱子_",
+        "name": "前夫跟现任在gay吧相遇互相看上去开房",
+        "pinned_tweet_id": "1940767650512359577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911991793706467328/Wdlim8fJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 260,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1563
+        },
+        "url": "https://t.co/LTW8XyWsS9",
+        "username": "yuyu23400",
+        "verified": false
+      }
+    ]
+  }
+}

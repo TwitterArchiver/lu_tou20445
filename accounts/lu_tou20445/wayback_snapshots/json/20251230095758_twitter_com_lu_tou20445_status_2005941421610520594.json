@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2005927808644862450",
+    "created_at": "2025-12-30T09:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T10:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005941421610520594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505782362495668224",
+          "start": 0,
+          "username": "miyuu_72187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005941421610520594",
+    "in_reply_to_user_id": "1505782362495668224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005940007278727575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuu_72187 加油！等我今晚回去重启一下荒野，如果能进去我也得重头开始刷赶进度了，虽然白炽龙毕业了已经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2005927808644862450",
+        "created_at": "2025-12-30T09:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005941421610520594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505782362495668224",
+              "start": 0,
+              "username": "miyuu_72187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005941421610520594",
+        "in_reply_to_user_id": "1505782362495668224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005940007278727575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuu_72187 加油！等我今晚回去重启一下荒野，如果能进去我也得重头开始刷赶进度了，虽然白炽龙毕业了已经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505782362495668224",
+        "conversation_id": "2005927808644862450",
+        "created_at": "2025-12-30T09:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T10:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005940007278727575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005940007278727575",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005934593510088881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 是的 我今晚要屠杀白炽龙\n目标是在跨年前把四件套做完٩( ᐛ )و"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 70,
+          "like_count": 13293,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 3867
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T05:44:47.000Z",
+        "description": "Miyu/子喻/洛洛 随喜称呼｜INFP｜没啥自信会删随机掉落｜不约不聊黄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miyuu_72187",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miyuu_72187",
+                "start": 0,
+                "url": "https://t.co/b2lc3z3f8x"
+              }
+            ]
+          }
+        },
+        "id": "1505782362495668224",
+        "name": "子喻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005686699461165056/e0yRyOAS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 146,
+          "like_count": 6128,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/b2lc3z3f8x",
+        "username": "miyuu_72187",
+        "verified": false
+      }
+    ]
+  }
+}

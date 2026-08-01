@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1943337357866078626",
+    "created_at": "2025-07-19T15:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T16:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946594488949903365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1778429469742829568",
+          "start": 0,
+          "username": "Malone_1099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946594488949903365",
+    "in_reply_to_user_id": "1778429469742829568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943337357866078626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Malone_1099 北京的小姐姐感兴趣想试试的可以私我，经验丰富，可推荐线路，安全有分寸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1943337357866078626",
+        "created_at": "2025-07-19T15:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T16:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946594488949903365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1778429469742829568",
+              "start": 0,
+              "username": "Malone_1099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946594488949903365",
+        "in_reply_to_user_id": "1778429469742829568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943337357866078626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Malone_1099 北京的小姐姐感兴趣想试试的可以私我，经验丰富，可推荐线路，安全有分寸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1943337353541750784"
+          ]
+        },
+        "author_id": "1778429469742829568",
+        "conversation_id": "1943337357866078626",
+        "created_at": "2025-07-10T15:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T16:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943337357866078626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943337357866078626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5682,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有多少人在地铁被顶或者摸过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T14:26:48.000Z",
+        "description": "for fun",
+        "id": "1778429469742829568",
+        "name": "Malone",
+        "pinned_tweet_id": "1925557510624436451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844399754115227648/m5j7ccq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 12,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 96
+        },
+        "username": "Malone_1099",
+        "verified": false
+      }
+    ]
+  }
+}

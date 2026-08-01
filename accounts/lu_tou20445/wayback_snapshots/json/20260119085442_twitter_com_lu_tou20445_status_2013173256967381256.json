@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2013153865885949972",
+    "created_at": "2026-01-19T08:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T09:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013173256967381256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1908777776087478272",
+          "start": 0,
+          "username": "qmzjxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013173256967381256",
+    "in_reply_to_user_id": "1908777776087478272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013172482014896371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qmzjxh 不听老头言要吃亏的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2013153865885949972",
+        "created_at": "2026-01-19T08:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013173256967381256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1908777776087478272",
+              "start": 0,
+              "username": "qmzjxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013173256967381256",
+        "in_reply_to_user_id": "1908777776087478272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013172482014896371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qmzjxh 不听老头言要吃亏的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908777776087478272",
+        "conversation_id": "2013153865885949972",
+        "created_at": "2026-01-19T08:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T09:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013172482014896371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013172482014896371",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013153865885949972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 69,
+          "like_count": 14326,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 4287
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T07:04:32.000Z",
+        "description": "黄和日常混杂 | ISFP白羊 | 匿名 https://t.co/Q8i2MeyJ8z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qmzjxh1",
+                "end": 44,
+                "expanded_url": "https://ngl.link/qmzjxh1",
+                "start": 21,
+                "url": "https://t.co/Q8i2MeyJ8z"
+              }
+            ]
+          }
+        },
+        "id": "1908777776087478272",
+        "name": "小木头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989204364649742336/eISL18X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 168,
+          "like_count": 10348,
+          "listed_count": 9,
+          "media_count": 347,
+          "tweet_count": 1600
+        },
+        "username": "qmzjxh",
+        "verified": false
+      }
+    ]
+  }
+}

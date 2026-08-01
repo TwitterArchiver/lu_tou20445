@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1984158295935050182",
+    "created_at": "2025-10-31T07:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T08:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984163537858785533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975078886557069312",
+          "start": 0,
+          "username": "cuzicovet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984163537858785533",
+    "in_reply_to_user_id": "1975078886557069312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984163087830937755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuzicovet 那也不行🫵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 221,
+        "media_key": "3_1984163084341276672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4kp0Aqa8AAKQBu.jpg",
+        "width": 226
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1984158295935050182",
+        "created_at": "2025-10-31T07:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984163537858785533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975078886557069312",
+              "start": 0,
+              "username": "cuzicovet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984163537858785533",
+        "in_reply_to_user_id": "1975078886557069312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984163087830937755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuzicovet 那也不行🫵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984163084341276672"
+          ]
+        },
+        "author_id": "1975078886557069312",
+        "conversation_id": "1984158295935050182",
+        "created_at": "2025-10-31T07:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T08:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984163087830937755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JSqhU9JRHc",
+              "end": 44,
+              "expanded_url": "https://x.com/cuzicovet/status/1984163087830937755/photo/1",
+              "media_key": "3_1984163084341276672",
+              "start": 21,
+              "url": "https://t.co/JSqhU9JRHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984163087830937755",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984158295935050182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 可是…可是…😭 https://t.co/JSqhU9JRHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 73,
+          "like_count": 7503,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T06:01:56.000Z",
+        "description": "目前勞贖aka心碎小丑借屍還魂🐭🤡｜不要轉發我貼文👊🏻｜個性差脾氣差😡｜本體是一顆味島飯糰🍙在這裡寫我想寫的東西｜女｜沒有要ㄩㄆ｜不是暈船仔就是心碎小狗",
+        "id": "1975078886557069312",
+        "name": "超雄飯糰🍙",
+        "pinned_tweet_id": "1981909796388487170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982172954885505024/Xm2wrVCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 88,
+          "like_count": 1646,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 226
+        },
+        "username": "cuzicovet",
+        "verified": false
+      }
+    ]
+  }
+}

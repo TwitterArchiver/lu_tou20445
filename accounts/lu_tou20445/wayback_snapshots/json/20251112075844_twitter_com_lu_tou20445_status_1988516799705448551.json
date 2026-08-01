@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T07:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988516799705448551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3079394743",
+          "start": 0,
+          "username": "HHaoCZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988516799705448551",
+    "in_reply_to_user_id": "3079394743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988515919690076644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HHaoCZJ 多了，半句都得一个一个字找"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T07:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988516799705448551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3079394743",
+              "start": 0,
+              "username": "HHaoCZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988516799705448551",
+        "in_reply_to_user_id": "3079394743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988515919690076644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HHaoCZJ 多了，半句都得一个一个字找"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3079394743",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T07:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988515919690076644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988515919690076644",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我真的受不了了 一句话要删除重新输入好几次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 74,
+          "like_count": 8234,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2604
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-14T04:40:39.000Z",
+        "description": "infj | 更新一大堆碎碎念",
+        "id": "3079394743",
+        "location": "Shanghai",
+        "name": "黒きし✨",
+        "pinned_tweet_id": "1826216076428120077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425437019849871370/G58psvH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 98
+        },
+        "username": "HHaoCZJ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1971475332235661386",
+    "created_at": "2025-09-27T03:34:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T04:34:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971780533307977828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647926893226885122",
+          "start": 0,
+          "username": "moliren8848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971780533307977828",
+    "in_reply_to_user_id": "1647926893226885122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971711227840942372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moliren8848 希望我会有一天变成大胃王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1971475332235661386",
+        "created_at": "2025-09-27T03:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T04:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971780533307977828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647926893226885122",
+              "start": 0,
+              "username": "moliren8848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971780533307977828",
+        "in_reply_to_user_id": "1647926893226885122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971711227840942372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moliren8848 希望我会有一天变成大胃王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647926893226885122",
+        "conversation_id": "1971475332235661386",
+        "created_at": "2025-09-26T22:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T23:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971711227840942372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971711227840942372",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971475332235661386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你是真的\n幸福是真的\n糖果也是真的\n你只是没来得及吃下罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 63,
+          "like_count": 5091,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T11:36:10.000Z",
+        "description": "养诸多动物系和植物系宝可梦的路人",
+        "id": "1647926893226885122",
+        "location": "上海",
+        "name": "陌子酒",
+        "pinned_tweet_id": "1958159111251804173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876304286511996932/AYEywmXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 142,
+          "like_count": 1733,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 1563
+        },
+        "username": "moliren8848",
+        "verified": false
+      }
+    ]
+  }
+}

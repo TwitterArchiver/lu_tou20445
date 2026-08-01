@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2036339016266817953",
+    "created_at": "2026-03-24T09:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T10:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036374485499257145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1483240208376397825",
+          "start": 0,
+          "username": "CarlChang32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036374485499257145",
+    "in_reply_to_user_id": "1483240208376397825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036339016266817953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlChang32 人你在家吗？哦你在！被摸的闭眼展毛也太可爱了，像来串门的邻居家小朋友"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 100775,
+        "height": 720,
+        "media_key": "13_2036338839565008896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036338839565008896/img/OfkwfWAUVIDwZKWl.jpg",
+        "public_metrics": {
+          "view_count": 449
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036338839565008896/vid/avc1/480x270/oMo4KPlZVsJZZ-Lz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036338839565008896/vid/avc1/640x360/YfIAKsw_L-jdZhqM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036338839565008896/vid/avc1/1280x720/12gtHLxxRMW4bBJI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036338839565008896/pl/dZ30-3vtFnS3htoY.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2036339016266817953",
+        "created_at": "2026-03-24T09:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T10:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036374485499257145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1483240208376397825",
+              "start": 0,
+              "username": "CarlChang32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036374485499257145",
+        "in_reply_to_user_id": "1483240208376397825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036339016266817953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlChang32 人你在家吗？哦你在！被摸的闭眼展毛也太可爱了，像来串门的邻居家小朋友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036338839565008896"
+          ]
+        },
+        "author_id": "1483240208376397825",
+        "conversation_id": "2036339016266817953",
+        "created_at": "2026-03-24T07:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036339016266817953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYzzZS1bYd",
+              "end": 39,
+              "expanded_url": "https://x.com/CarlChang32/status/2036339016266817953/video/1",
+              "media_key": "13_2036338839565008896",
+              "start": 16,
+              "url": "https://t.co/sYzzZS1bYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036339016266817953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1534,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟就这样鬼鬼祟祟的来找人贴贴 https://t.co/sYzzZS1bYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 72,
+          "like_count": 19156,
+          "listed_count": 5,
+          "media_count": 257,
+          "tweet_count": 5577
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T00:50:09.000Z",
+        "description": "这里是卡尔森！ / Petrol head / Furry / 业余摄影 /业余画手/ 日本語勉強中 /🚙日常垢，爱车是Peugeot 206 | 如果只期待色图的话那请不要关注我了🤨",
+        "id": "1483240208376397825",
+        "location": "Hyrule",
+        "name": "Carlson",
+        "pinned_tweet_id": "1825189312956396001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898315159828852736/WgF7PlLE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12903,
+          "following_count": 1763,
+          "like_count": 30588,
+          "listed_count": 17,
+          "media_count": 1296,
+          "tweet_count": 5284
+        },
+        "username": "CarlChang32",
+        "verified": false
+      }
+    ]
+  }
+}

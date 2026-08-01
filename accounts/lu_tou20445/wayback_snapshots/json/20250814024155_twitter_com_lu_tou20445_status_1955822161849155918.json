@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955817977699573831",
+    "created_at": "2025-08-14T02:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955822161849155918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644694688723779584",
+          "start": 0,
+          "username": "yunyuan0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955822161849155918",
+    "in_reply_to_user_id": "1644694688723779584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955817977699573831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyuan0122 点了，甚至不如你告诉我你要什么我买给你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955817977699573831",
+        "created_at": "2025-08-14T02:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955822161849155918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644694688723779584",
+              "start": 0,
+              "username": "yunyuan0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955822161849155918",
+        "in_reply_to_user_id": "1644694688723779584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955817977699573831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyuan0122 点了，甚至不如你告诉我你要什么我买给你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644694688723779584",
+        "conversation_id": "1955817977699573831",
+        "created_at": "2025-08-14T02:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955817977699573831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955817977699573831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得送礼没有送到人的心巴上，然后又花费了很贵的价格，需要人家去还这份情谊的话，简直就是灾难级别的开始。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 41,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T13:32:41.000Z",
+        "description": "赛博无条件发疯大王 抽象女\nINTJ水瓶座♒                                                             别问门槛，问就是18,888",
+        "id": "1644694688723779584",
+        "name": "予安🥐",
+        "pinned_tweet_id": "1955329492144230653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933521838635876352/lNFo5W6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 168,
+          "like_count": 12982,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2682
+        },
+        "username": "yunyuan0122",
+        "verified": false
+      }
+    ]
+  }
+}

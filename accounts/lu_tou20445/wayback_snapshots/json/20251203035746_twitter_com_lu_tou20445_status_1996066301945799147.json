@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1996066014954758562",
+    "created_at": "2025-12-03T03:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996066301945799147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996066301945799147",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996066014954758562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 相当用心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1996066014954758562",
+        "created_at": "2025-12-03T03:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996066301945799147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996066301945799147",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996066014954758562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 相当用心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525341238223855616",
+        "conversation_id": "1996066014954758562",
+        "created_at": "2025-12-03T03:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996066014954758562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trpaomo/status…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/trpaomo/status/1996059001801633925",
+              "start": 144,
+              "url": "https://t.co/TNcBP44u5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996066014954758562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996059001801633925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "左边那个胸针是端午节戴的“马符”，在大同流传一句话：“背个符，有人扶”寓意一生有贵人相助，明年又是马年所以我选了这个。中间的是平遥的镶嵌了螺钿贝壳的推光漆器首饰盒，图案是双牡丹。右边的是运城的琉璃冰箱贴，山西是中国琉璃最早的产地，算是地方特色了。醋和台蘑酱味道也不错的，希望姐姐喜欢❤️ https://t.co/TNcBP44u5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 69,
+          "like_count": 10254,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 3085
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "翻不过去的最后一页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/napgodzz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/napgodzz",
+                "start": 0,
+                "url": "https://t.co/SSYPt5dq7c"
+              }
+            ]
+          }
+        },
+        "id": "1525341238223855616",
+        "location": "华夏古文明 山西好风光",
+        "name": "🛶",
+        "pinned_tweet_id": "1995417009786675663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 240,
+          "like_count": 28414,
+          "listed_count": 0,
+          "media_count": 649,
+          "tweet_count": 9099
+        },
+        "url": "https://t.co/SSYPt5dq7c",
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

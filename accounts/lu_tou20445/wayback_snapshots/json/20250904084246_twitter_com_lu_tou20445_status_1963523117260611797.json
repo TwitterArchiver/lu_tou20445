@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1961416955065221413",
+    "created_at": "2025-09-04T08:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T09:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963523117260611797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944184588492058624",
+          "start": 0,
+          "username": "lingling0_0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963523117260611797",
+    "in_reply_to_user_id": "1944184588492058624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961416955065221413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingling0_0v 请活着回来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1961416698025611265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhaGEZWEAEaNQ1.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1961416698050883584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhaGEfXsAA-Ge5.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1961416955065221413",
+        "created_at": "2025-09-04T08:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963523117260611797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944184588492058624",
+              "start": 0,
+              "username": "lingling0_0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963523117260611797",
+        "in_reply_to_user_id": "1944184588492058624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961416955065221413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingling0_0v 请活着回来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961416698025611265",
+            "3_1961416698050883584"
+          ]
+        },
+        "author_id": "1944184588492058624",
+        "conversation_id": "1961416955065221413",
+        "created_at": "2025-08-29T13:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961416955065221413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3kmV9wroC",
+              "end": 39,
+              "expanded_url": "https://x.com/lingling0_0v/status/1961416955065221413/photo/1",
+              "media_key": "3_1961416698025611265",
+              "start": 16,
+              "url": "https://t.co/Y3kmV9wroC"
+            },
+            {
+              "display_url": "pic.x.com/Y3kmV9wroC",
+              "end": 39,
+              "expanded_url": "https://x.com/lingling0_0v/status/1961416955065221413/photo/1",
+              "media_key": "3_1961416698050883584",
+              "start": 16,
+              "url": "https://t.co/Y3kmV9wroC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961416955065221413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没上推的日子其实是偷偷有点死了 https://t.co/Y3kmV9wroC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 62,
+          "like_count": 2592,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T23:58:35.000Z",
+        "description": "不🈷️不聊骚 纯来网上发疯🚪88无福利 纯圈｜bart统治世界！",
+        "id": "1944184588492058624",
+        "location": "1.2km",
+        "name": "小凌ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944194161269211136/srTJE8Od_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 48,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 198
+        },
+        "username": "lingling0_0v",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1978444220353372567",
+    "created_at": "2025-10-15T13:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T14:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978447073021210828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        },
+        {
+          "end": 26,
+          "id": "1910238065576357888",
+          "start": 10,
+          "username": "tequ1la_sunsett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978447073021210828",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978446829713768807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77ninini @tequ1la_sunsett 应该的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1978444220353372567",
+        "created_at": "2025-10-15T13:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T14:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978447073021210828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            },
+            {
+              "end": 26,
+              "id": "1910238065576357888",
+              "start": 10,
+              "username": "tequ1la_sunsett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978447073021210828",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978446829713768807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77ninini @tequ1la_sunsett 应该的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907355599232274432",
+        "conversation_id": "1978444220353372567",
+        "created_at": "2025-10-15T13:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T14:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978446829713768807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 29,
+              "id": "1910238065576357888",
+              "start": 13,
+              "username": "tequ1la_sunsett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978446829713768807",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978445784925253884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @tequ1la_sunsett 你很骄傲🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 70,
+          "like_count": 6758,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 2137
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "相识于人海，相忘于江湖\n（不开私信，不加VX，不礼貌回关，取关随意）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐",
+        "pinned_tweet_id": "1974109827325456473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975282806285557760/K5Dl13h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 160,
+          "like_count": 35531,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 11538
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "在时间将其本质铸成日子之前，海，永恒之海，早已在此。",
+        "id": "1910238065576357888",
+        "location": "置顶推广真假自辩",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1978414669183201589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953700372482338820/iw5KhKrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 152,
+          "like_count": 11008,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 5353
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      }
+    ]
+  }
+}

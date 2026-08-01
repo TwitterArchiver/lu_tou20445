@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1966294684692832338",
+    "created_at": "2025-09-12T10:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T11:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966448762353524840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1820860465020592128",
+          "start": 0,
+          "username": "Vir_NOX92"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966448762353524840",
+    "in_reply_to_user_id": "1820860465020592128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966294684692832338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vir_NOX92 听起来下次要准备双份火鸡面了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966294678434877440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0mul5faEAAzLRO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1966294684692832338",
+        "created_at": "2025-09-12T10:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T11:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966448762353524840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820860465020592128",
+              "start": 0,
+              "username": "Vir_NOX92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966448762353524840",
+        "in_reply_to_user_id": "1820860465020592128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966294684692832338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vir_NOX92 听起来下次要准备双份火鸡面了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966294678434877440"
+          ]
+        },
+        "author_id": "1820860465020592128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1966294684692832338",
+        "created_at": "2025-09-12T00:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T01:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966294684692832338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2AtQcfr79",
+              "end": 56,
+              "expanded_url": "https://x.com/Vir_NOX92/status/1966294684692832338/photo/1",
+              "media_key": "3_1966294678434877440",
+              "start": 33,
+              "url": "https://t.co/C2AtQcfr79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966294684692832338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早饭是牛奶芝士火鸡面🤓（被念叨了，但是我用火鸡面堵住了我妈的嘴🤌 https://t.co/C2AtQcfr79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 65,
+          "like_count": 3714,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T16:32:36.000Z",
+        "description": "你开心的话 我也开心｜最喜欢小猫｜日常碎碎念｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xsxsxs992",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xsxsxs992",
+                "start": 0,
+                "url": "https://t.co/X0avVeX72Q"
+              }
+            ]
+          }
+        },
+        "id": "1820860465020592128",
+        "location": "Kazan",
+        "name": "蔓越莓布朗尼",
+        "pinned_tweet_id": "1943269322723594400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937065996264636417/d2tBtYqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 122,
+          "like_count": 2845,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/X0avVeX72Q",
+        "username": "Vir_NOX92",
+        "verified": false
+      }
+    ]
+  }
+}

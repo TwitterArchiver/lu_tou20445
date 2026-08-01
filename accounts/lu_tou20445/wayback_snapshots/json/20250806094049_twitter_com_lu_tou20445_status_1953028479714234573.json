@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950967493440549210",
+    "created_at": "2025-08-06T09:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T10:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953028479714234573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1095944494191587328",
+          "start": 0,
+          "username": "lingjingchong24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953028479714234573",
+    "in_reply_to_user_id": "1095944494191587328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950967493440549210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingjingchong24 点赞助力每一个梦想，记得许愿长大一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950967493440549210",
+        "created_at": "2025-08-06T09:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T10:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953028479714234573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1095944494191587328",
+              "start": 0,
+              "username": "lingjingchong24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953028479714234573",
+        "in_reply_to_user_id": "1095944494191587328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950967493440549210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingjingchong24 点赞助力每一个梦想，记得许愿长大一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1095944494191587328",
+        "conversation_id": "1950967493440549210",
+        "created_at": "2025-07-31T17:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T18:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950967493440549210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950967493440549210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要来月经\n我要长鸡巴\n我要🦌管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 488
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T07:15:03.000Z",
+        "description": "🖤",
+        "id": "1095944494191587328",
+        "name": "linlin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907455192620257280/E2S6lS3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 88,
+          "like_count": 8597,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 148
+        },
+        "username": "lingjingchong24",
+        "verified": false
+      }
+    ]
+  }
+}

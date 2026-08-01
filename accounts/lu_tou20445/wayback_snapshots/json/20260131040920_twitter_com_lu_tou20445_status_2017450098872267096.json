@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2017135796298666015",
+    "created_at": "2026-01-31T04:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T05:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017450098872267096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1859851258729037824",
+          "start": 0,
+          "username": "liuqi1493428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017450098872267096",
+    "in_reply_to_user_id": "1859851258729037824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017395695221936249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuqi1493428 +1，我脑子里第一时间浮现的也是那张"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2017135796298666015",
+        "created_at": "2026-01-31T04:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T05:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017450098872267096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1859851258729037824",
+              "start": 0,
+              "username": "liuqi1493428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017450098872267096",
+        "in_reply_to_user_id": "1859851258729037824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017395695221936249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuqi1493428 +1，我脑子里第一时间浮现的也是那张"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859851258729037824",
+        "conversation_id": "2017135796298666015",
+        "created_at": "2026-01-31T00:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017395695221936249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017395695221936249",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017135796298666015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 救命，我现在又想起来赫鲁晓夫举着玉米的那张图…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 71,
+          "like_count": 14898,
+          "listed_count": 3,
+          "media_count": 211,
+          "tweet_count": 4501
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T06:48:06.000Z",
+        "description": "这只是一个梦而已",
+        "id": "1859851258729037824",
+        "location": "梦",
+        "name": "小mi不是小mo",
+        "pinned_tweet_id": "1993851935485776085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010517115783241728/HpCOhWcj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 12,
+          "like_count": 694,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2055
+        },
+        "username": "liuqi1493428",
+        "verified": false
+      }
+    ]
+  }
+}

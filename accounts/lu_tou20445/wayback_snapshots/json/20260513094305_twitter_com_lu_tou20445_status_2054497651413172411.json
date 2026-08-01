@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2054495026579947929",
+    "created_at": "2026-05-13T09:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054497651413172411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981722018312806400",
+          "start": 0,
+          "username": "kitten718miao"
+        },
+        {
+          "end": 25,
+          "id": "1964688703118544896",
+          "start": 15,
+          "username": "imhidinxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054497651413172411",
+    "in_reply_to_user_id": "1981722018312806400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054496454694391824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitten718miao @imhidinxi 可怜的猫被直女玩弄于股掌之间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2054495026579947929",
+        "created_at": "2026-05-13T09:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054497651413172411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981722018312806400",
+              "start": 0,
+              "username": "kitten718miao"
+            },
+            {
+              "end": 25,
+              "id": "1964688703118544896",
+              "start": 15,
+              "username": "imhidinxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054497651413172411",
+        "in_reply_to_user_id": "1981722018312806400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054496454694391824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitten718miao @imhidinxi 可怜的猫被直女玩弄于股掌之间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981722018312806400",
+        "conversation_id": "2054495026579947929",
+        "created_at": "2026-05-13T09:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054496454694391824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964688703118544896",
+              "start": 0,
+              "username": "imhidinxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054496454694391824",
+        "in_reply_to_user_id": "1964688703118544896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054496115924349391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imhidinxi 你们直女太可怕了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 71,
+          "like_count": 20715,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5861
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "@laraaa718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "laraaa718"
+              }
+            ]
+          }
+        },
+        "id": "1981722018312806400",
+        "name": "猫睡醒了",
+        "pinned_tweet_id": "1990349790232912199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051408125400633344/ghha4WVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 74,
+          "like_count": 2342,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2124
+        },
+        "username": "kitten718miao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:54:31.000Z",
+        "description": "I'm truly hiding myself",
+        "id": "1964688703118544896",
+        "name": "西特了",
+        "pinned_tweet_id": "1964690481365065937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011973613654560768/rUwlnWvN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2983
+        },
+        "username": "imhidinxi",
+        "verified": false
+      }
+    ]
+  }
+}

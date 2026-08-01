@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2064142788191465654",
+    "created_at": "2026-06-09T01:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T02:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064159898930462880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400872292",
+          "start": 0,
+          "username": "apple115521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064159898930462880",
+    "in_reply_to_user_id": "1400872292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064142788191465654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple115521 G 菲特了这下是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2064142788191465654",
+        "created_at": "2026-06-09T01:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T02:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064159898930462880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400872292",
+              "start": 0,
+              "username": "apple115521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064159898930462880",
+        "in_reply_to_user_id": "1400872292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064142788191465654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple115521 G 菲特了这下是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400872292",
+        "conversation_id": "2064142788191465654",
+        "created_at": "2026-06-09T00:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064142788191465654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reuters/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/reuters/status/2064112793951908332",
+              "start": 11,
+              "url": "https://t.co/KTsBJtKYBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064142788191465654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064112793951908332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我昨天说什么来着🤞🏼 https://t.co/KTsBJtKYBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 69,
+          "like_count": 21480,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 6115
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-03T22:24:41.000Z",
+        "description": "30代 ⭐️ 高能量｜旅行 | 健身 | 医药行业 | Eine Wurst hat zwei Enden⭐️ 近况：plank 挑战记录27’10”， leadership进修",
+        "id": "1400872292",
+        "location": "Jupiter",
+        "name": "Glückskuh🐮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063835270491815936/yFXw3KSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 84,
+          "like_count": 13654,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1844
+        },
+        "username": "apple115521",
+        "verified": false
+      }
+    ]
+  }
+}

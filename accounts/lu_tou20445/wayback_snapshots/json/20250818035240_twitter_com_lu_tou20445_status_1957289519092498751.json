@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957261979082695037",
+    "created_at": "2025-08-18T03:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957289519092498751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934564473320415233",
+          "start": 0,
+          "username": "ouo3oyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957289519092498751",
+    "in_reply_to_user_id": "1934564473320415233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957261979082695037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouo3oyi 这什么人类群星闪耀时刻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1623,
+        "media_key": "3_1957261966411730944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GymXY3BakAA_8qj.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957261979082695037",
+        "created_at": "2025-08-18T03:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957289519092498751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934564473320415233",
+              "start": 0,
+              "username": "ouo3oyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957289519092498751",
+        "in_reply_to_user_id": "1934564473320415233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957261979082695037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouo3oyi 这什么人类群星闪耀时刻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957261966411730944"
+          ]
+        },
+        "author_id": "1934564473320415233",
+        "conversation_id": "1957261979082695037",
+        "created_at": "2025-08-18T02:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T03:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957261979082695037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kz0i3sNnKx",
+              "end": 31,
+              "expanded_url": "https://x.com/ouo3oyi/status/1957261979082695037/photo/1",
+              "media_key": "3_1957261966411730944",
+              "start": 8,
+              "url": "https://t.co/kz0i3sNnKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957261979082695037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真求你们了。 https://t.co/kz0i3sNnKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 49,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 965
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T10:51:37.000Z",
+        "description": "大概是日常😇",
+        "id": "1934564473320415233",
+        "location": "﹦﹃ ＝",
+        "name": "冰冰无理",
+        "pinned_tweet_id": "1952313058577297702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954243322236809216/O5Qg1M5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 126,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 938
+        },
+        "username": "ouo3oyi",
+        "verified": false
+      }
+    ]
+  }
+}

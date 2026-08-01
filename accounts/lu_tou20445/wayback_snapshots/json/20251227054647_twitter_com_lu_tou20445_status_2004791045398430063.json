@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004520343982231700",
+    "created_at": "2025-12-27T05:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004791045398430063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515957885611565059",
+          "start": 0,
+          "username": "wy161111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004791045398430063",
+    "in_reply_to_user_id": "1515957885611565059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004760793850753384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wy161111 不是，别讲🫵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-27T05:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004791045398430063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515957885611565059",
+              "start": 0,
+              "username": "wy161111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004791045398430063",
+        "in_reply_to_user_id": "1515957885611565059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004760793850753384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wy161111 不是，别讲🫵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515957885611565059",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-27T03:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T04:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004760793850753384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004760793850753384",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004520343982231700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 原来是搓脸吗 还意思搓…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 72,
+          "like_count": 12641,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T07:38:26.000Z",
+        "description": "/•᷅•᷄\\୭",
+        "id": "1515957885611565059",
+        "location": "Amsterdam, Nederland",
+        "name": "小猫今天你可以吃碳水",
+        "pinned_tweet_id": "1923447923347427503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915990088997343234/jm062-cI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 63,
+          "like_count": 4542,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 833
+        },
+        "username": "wy161111",
+        "verified": false
+      }
+    ]
+  }
+}

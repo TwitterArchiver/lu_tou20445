@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2003538985851978147",
+    "created_at": "2025-12-24T01:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T02:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003643198338728155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935562290746765315",
+          "start": 0,
+          "username": "yuhe24156661877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003643198338728155",
+    "in_reply_to_user_id": "1935562290746765315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003538985851978147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuhe24156661877 我在别的平台跳过了淡，完全是死的🫤，从来没更新过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2003538985851978147",
+        "created_at": "2025-12-24T01:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003643198338728155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935562290746765315",
+              "start": 0,
+              "username": "yuhe24156661877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003643198338728155",
+        "in_reply_to_user_id": "1935562290746765315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003538985851978147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuhe24156661877 我在别的平台跳过了淡，完全是死的🫤，从来没更新过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935562290746765315",
+        "conversation_id": "2003538985851978147",
+        "created_at": "2025-12-23T18:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T19:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003538985851978147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003538985851978147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "而且就是我其实推上算很活力的状态了，我平时还有在别的平台上，如果不是社交要求，都是很淡淡的死死的。。。我就是这样的。😖😖😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 69,
+          "like_count": 12279,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3519
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T04:56:44.000Z",
+        "description": "想发啥发啥 不想发发芽/不发h且承受能力很差请不要折磨/现实里的朋友补药认出我啊/止推于推 推上是我的第三人格 敏感脆弱人格/都在推上了希望大家都轻轻松松随意一点 我也是",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/limerence43984",
+                "end": 23,
+                "expanded_url": "http://ngl.link/limerence43984",
+                "start": 0,
+                "url": "https://t.co/8L024WpV83"
+              }
+            ]
+          }
+        },
+        "id": "1935562290746765315",
+        "name": "🌧️🐟🐟",
+        "pinned_tweet_id": "1956734840650252567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960572907362639873/Xkqg4nSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 54,
+          "like_count": 4155,
+          "listed_count": 4,
+          "media_count": 121,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/8L024WpV83",
+        "username": "yuhe24156661877",
+        "verified": false
+      }
+    ]
+  }
+}

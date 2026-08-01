@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1965259897853149463",
+    "created_at": "2025-09-09T04:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T05:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965269657801424959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910238065576357888",
+          "start": 0,
+          "username": "tequ1la_sunsett"
+        },
+        {
+          "end": 33,
+          "id": "1217846927036837890",
+          "start": 17,
+          "username": "Andante34872865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965269657801424959",
+    "in_reply_to_user_id": "1910238065576357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965268254085329244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tequ1la_sunsett @Andante34872865 哦痔痔爆热血心中流动~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1965259897853149463",
+        "created_at": "2025-09-09T04:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965269657801424959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910238065576357888",
+              "start": 0,
+              "username": "tequ1la_sunsett"
+            },
+            {
+              "end": 33,
+              "id": "1217846927036837890",
+              "start": 17,
+              "username": "Andante34872865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965269657801424959",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965268254085329244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tequ1la_sunsett @Andante34872865 哦痔痔爆热血心中流动~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910238065576357888",
+        "conversation_id": "1965259897853149463",
+        "created_at": "2025-09-09T04:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T05:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965268254085329244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1217846927036837890",
+              "start": 0,
+              "username": "Andante34872865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965268254085329244",
+        "in_reply_to_user_id": "1217846927036837890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965265413727826190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andante34872865 我恨你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 65,
+          "like_count": 3342,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1619
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "在时间将其本质铸成日子之前，海，永恒之海，早已在此。",
+        "id": "1910238065576357888",
+        "location": "Revachol",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1964296339933569299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953700372482338820/iw5KhKrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 160,
+          "like_count": 6423,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 3408
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "你要离开吗，我们一起离开。\n欢迎提问⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andante63573",
+                "end": 23,
+                "expanded_url": "https://ngl.link/andante63573",
+                "start": 0,
+                "url": "https://t.co/pzv46WSEi4"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1951480793827778963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961763842184335361/tlNlyQFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 160,
+          "like_count": 3993,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/pzv46WSEi4",
+        "username": "Andante34872865",
+        "verified": false
+      }
+    ]
+  }
+}

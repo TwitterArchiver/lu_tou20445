@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949708113470488654",
+    "created_at": "2025-07-28T05:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T06:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949708728124494144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1484077799678050305",
+          "start": 0,
+          "username": "soaweerl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949708728124494144",
+    "in_reply_to_user_id": "1484077799678050305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949708113470488654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soaweerl 在上班不想听领导碎碎念，听听衣衣在说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949708113470488654",
+        "created_at": "2025-07-28T05:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949708728124494144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1484077799678050305",
+              "start": 0,
+              "username": "soaweerl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949708728124494144",
+        "in_reply_to_user_id": "1484077799678050305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949708113470488654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soaweerl 在上班不想听领导碎碎念，听听衣衣在说什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484077799678050305",
+        "conversation_id": "1949708113470488654",
+        "created_at": "2025-07-28T05:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T06:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949708113470488654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "衣姨’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ynKO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ynKOlDrqbkGR",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 蒽",
+              "unwound_url": "https://twitter.com/i/spaces/1ynKOlDrqbkGR/peek",
+              "url": "https://t.co/Qo5IFRJxap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949708113470488654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Qo5IFRJxap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 30,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T08:18:22.000Z",
+        "description": "分享生活且碎碎念的日常号 宝宝们来互关•͈ ₃ •͈",
+        "id": "1484077799678050305",
+        "name": "衣姨",
+        "pinned_tweet_id": "1946982277168386539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943392083810615296/W1GM-YJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 165,
+          "like_count": 1961,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1405
+        },
+        "username": "soaweerl",
+        "verified": true
+      }
+    ]
+  }
+}

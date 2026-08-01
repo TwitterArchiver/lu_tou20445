@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1960987140591948025",
+    "created_at": "2025-08-28T09:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T10:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960998455553429724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960382302724452352",
+          "start": 0,
+          "username": "ji_yu81718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960998455553429724",
+    "in_reply_to_user_id": "1960382302724452352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960987140591948025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_yu81718 让我想起一个梗，《弹道偏左》🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3233,
+        "height": 1280,
+        "media_key": "13_1960987072472473602",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1960987072472473602/img/kP4lcPEnHChOdMNP.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960987072472473602/vid/avc1/320x568/zeYcJI72aIjUCQ-r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960987072472473602/vid/avc1/480x852/muA558foQCoZRgzf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1960987072472473602/vid/avc1/720x1280/JxDd2PQalGE5cNmN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1960987072472473602/pl/Tj-GrjoZWT_wEGor.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1960987140591948025",
+        "created_at": "2025-08-28T09:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T10:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960998455553429724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960382302724452352",
+              "start": 0,
+              "username": "ji_yu81718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960998455553429724",
+        "in_reply_to_user_id": "1960382302724452352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960987140591948025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_yu81718 让我想起一个梗，《弹道偏左》🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1960987072472473602"
+          ]
+        },
+        "author_id": "1960382302724452352",
+        "conversation_id": "1960987140591948025",
+        "created_at": "2025-08-28T08:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960987140591948025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXbG6NLetv",
+              "end": 27,
+              "expanded_url": "https://x.com/ji_yu81718/status/1960987140591948025/video/1",
+              "media_key": "13_1960987072472473602",
+              "start": 4,
+              "url": "https://t.co/VXbG6NLetv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960987140591948025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很快乐 https://t.co/VXbG6NLetv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 55,
+          "like_count": 1480,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1280
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T16:42:26.000Z",
+        "description": "黑暗之中闭上眼",
+        "id": "1960382302724452352",
+        "name": "那你现在是不是已经被他们淹没",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960627087422971904/O_plHPUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 8,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "ji_yu81718",
+        "verified": false
+      }
+    ]
+  }
+}

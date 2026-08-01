@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2014578763489804411",
+    "created_at": "2026-01-23T06:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T07:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014588260551639246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1610289819053330432",
+          "start": 0,
+          "username": "water_life147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014588260551639246",
+    "in_reply_to_user_id": "1610289819053330432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014578763489804411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@water_life147 神经衰弱，听到电话声也是一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2014578763489804411",
+        "created_at": "2026-01-23T06:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014588260551639246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1610289819053330432",
+              "start": 0,
+              "username": "water_life147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014588260551639246",
+        "in_reply_to_user_id": "1610289819053330432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014578763489804411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@water_life147 神经衰弱，听到电话声也是一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610289819053330432",
+        "conversation_id": "2014578763489804411",
+        "created_at": "2026-01-23T05:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014578763489804411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014578763489804411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不喜欢门铃声敲门声 听到会吓一跳或者烦躁 这是为什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 69,
+          "like_count": 14422,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 4319
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T15:00:04.000Z",
+        "description": "电子日记本🐶🐱🐰",
+        "id": "1610289819053330432",
+        "name": "米一兔物",
+        "pinned_tweet_id": "2010789039281225885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947578237930115073/8NL5Mqlf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7724,
+          "following_count": 158,
+          "like_count": 10032,
+          "listed_count": 16,
+          "media_count": 1548,
+          "tweet_count": 17503
+        },
+        "username": "water_life147",
+        "verified": false
+      }
+    ]
+  }
+}

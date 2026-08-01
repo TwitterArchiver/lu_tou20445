@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2016859146348613893",
+    "created_at": "2026-01-29T14:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T15:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016882622014902664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1737688994278969344",
+          "start": 0,
+          "username": "fatrabbit12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016882622014902664",
+    "in_reply_to_user_id": "1737688994278969344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016878658720526502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fatrabbit12138 👌"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2016878658720526502].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2016878658720526502",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2016878658720526502"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-29T14:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016882622014902664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1737688994278969344",
+              "start": 0,
+              "username": "fatrabbit12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016882622014902664",
+        "in_reply_to_user_id": "1737688994278969344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016878658720526502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fatrabbit12138 👌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 71,
+          "like_count": 14847,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 4423
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T04:18:48.000Z",
+        "description": "我心与花同寂 寂寂寂寂babybabybaby~",
+        "id": "1737688994278969344",
+        "name": "吹散月",
+        "pinned_tweet_id": "2004405910001860632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768268985680928768/ouZxboHS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 66,
+          "like_count": 2958,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 635
+        },
+        "username": "fatrabbit12138",
+        "verified": false
+      }
+    ]
+  }
+}

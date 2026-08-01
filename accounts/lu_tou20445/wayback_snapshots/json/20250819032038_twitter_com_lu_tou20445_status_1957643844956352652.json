@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957634237970210872",
+    "created_at": "2025-08-19T03:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T04:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957643844956352652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934928841476378624",
+          "start": 0,
+          "username": "uwv1eiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957643844956352652",
+    "in_reply_to_user_id": "1934928841476378624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957634237970210872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwv1eiy 让未成年不打游戏出去约，是这个👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957634237970210872",
+        "created_at": "2025-08-19T03:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T04:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957643844956352652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934928841476378624",
+              "start": 0,
+              "username": "uwv1eiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957643844956352652",
+        "in_reply_to_user_id": "1934928841476378624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957634237970210872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwv1eiy 让未成年不打游戏出去约，是这个👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934928841476378624",
+        "conversation_id": "1957634237970210872",
+        "created_at": "2025-08-19T02:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T03:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957634237970210872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957634237970210872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么啊，性同意14岁就可以了打游戏同意还得18岁？\n做爱去了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 50,
+          "like_count": 800,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T10:59:34.000Z",
+        "description": "抖音：uwv1eiy / 门槛52",
+        "id": "1934928841476378624",
+        "location": "乌鲁木齐",
+        "name": "换",
+        "pinned_tweet_id": "1956321336936316941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955661827490426880/iqLI2y-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 40,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "username": "uwv1eiy",
+        "verified": false
+      }
+    ]
+  }
+}

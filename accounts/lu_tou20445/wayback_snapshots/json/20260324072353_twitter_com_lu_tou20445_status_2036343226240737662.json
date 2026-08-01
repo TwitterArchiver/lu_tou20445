@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2036138634710229444",
+    "created_at": "2026-03-24T07:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T08:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036343226240737662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893487513479864320",
+          "start": 0,
+          "username": "linn_QY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036343226240737662",
+    "in_reply_to_user_id": "1893487513479864320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036342109494710302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linn_QY 我也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2036138634710229444",
+        "created_at": "2026-03-24T07:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036343226240737662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893487513479864320",
+              "start": 0,
+              "username": "linn_QY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036343226240737662",
+        "in_reply_to_user_id": "1893487513479864320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036342109494710302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linn_QY 我也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893487513479864320",
+        "conversation_id": "2036138634710229444",
+        "created_at": "2026-03-24T07:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T08:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036342109494710302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036342109494710302",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036138634710229444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我都要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 72,
+          "like_count": 19146,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 5571
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T02:27:17.000Z",
+        "description": "我是纯清水碎碎念｜不聊骚不鉴🐔｜你们可以叫我栗栗或LL👆｜",
+        "id": "1893487513479864320",
+        "name": "linnne",
+        "pinned_tweet_id": "1950377621646373274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949125997045088256/GWYU5dOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 456,
+          "like_count": 8107,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1592
+        },
+        "username": "linn_QY",
+        "verified": false
+      }
+    ]
+  }
+}

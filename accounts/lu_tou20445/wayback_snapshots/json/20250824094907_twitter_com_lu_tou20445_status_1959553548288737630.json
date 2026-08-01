@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959495964777238538",
+    "created_at": "2025-08-24T09:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T10:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959553548288737630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1890591824391397376",
+          "start": 0,
+          "username": "YiQuandbn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959553548288737630",
+    "in_reply_to_user_id": "1890591824391397376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959495964777238538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YiQuandbn 为爱做贼，让我们致敬这位伟大的偷子🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959495952001310720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGHL73aoAA5PAK.jpg",
+        "width": 827
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959495952223637504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGHL8sbEAAGscO.jpg",
+        "width": 420
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1959495952714358784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGHL-ha4AAJ4Y3.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959495964777238538",
+        "created_at": "2025-08-24T09:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T10:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959553548288737630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1890591824391397376",
+              "start": 0,
+              "username": "YiQuandbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959553548288737630",
+        "in_reply_to_user_id": "1890591824391397376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959495964777238538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YiQuandbn 为爱做贼，让我们致敬这位伟大的偷子🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959495952001310720",
+            "3_1959495952223637504",
+            "3_1959495952714358784"
+          ]
+        },
+        "author_id": "1890591824391397376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1959495964777238538",
+        "created_at": "2025-08-24T06:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T07:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959495964777238538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i01SDEOObA",
+              "end": 124,
+              "expanded_url": "https://x.com/YiQuandbn/status/1959495964777238538/photo/1",
+              "media_key": "3_1959495952001310720",
+              "start": 101,
+              "url": "https://t.co/i01SDEOObA"
+            },
+            {
+              "display_url": "pic.x.com/i01SDEOObA",
+              "end": 124,
+              "expanded_url": "https://x.com/YiQuandbn/status/1959495964777238538/photo/1",
+              "media_key": "3_1959495952223637504",
+              "start": 101,
+              "url": "https://t.co/i01SDEOObA"
+            },
+            {
+              "display_url": "pic.x.com/i01SDEOObA",
+              "end": 124,
+              "expanded_url": "https://x.com/YiQuandbn/status/1959495964777238538/photo/1",
+              "media_key": "3_1959495952714358784",
+              "start": 101,
+              "url": "https://t.co/i01SDEOObA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959495964777238538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 27579,
+          "like_count": 167,
+          "quote_count": 19,
+          "reply_count": 83,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "近段时间盗图事件频发竟还有人顶风作案\n某位暗示许愿主动私联自己的白富美台本老师\n偷来的人生真的有意义吗\n您不会以为大家翻墙就真的不上内网吧\n人衣服食物日常到底有什么是真的\n致盗图者，你应该有自己的灵魂 https://t.co/i01SDEOObA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 51,
+          "like_count": 1206,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T02:40:08.000Z",
+        "description": "可以叫我小本/小小本传送门：@YiQuanDaBaoN/精神贫瘠爱说废话/不是好人随缘上线/经常在评论区里乱窜/聊天记录存档点/梦想是白皮薄肌眼镜男给我做狗/感谢你的喜欢祝你天天开心/自用VPN：https://t.co/G9qcWkEOrk提问箱在这里↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "YiQuanDaBaoN"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bbb.av8d002.top/#/register?cod…",
+                "end": 121,
+                "expanded_url": "https://bbb.av8d002.top/#/register?code=DU9MN1QV",
+                "start": 98,
+                "url": "https://t.co/G9qcWkEOrk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yiquandbn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yiquandbn",
+                "start": 0,
+                "url": "https://t.co/LITVnMAHfJ"
+              }
+            ]
+          }
+        },
+        "id": "1890591824391397376",
+        "location": "锁推的人关注我会屏蔽",
+        "name": "老子一拳打爆你（低能量版）",
+        "pinned_tweet_id": "1959495964777238538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958684430958305282/r35e-XtZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14250,
+          "following_count": 231,
+          "like_count": 153,
+          "listed_count": 13,
+          "media_count": 605,
+          "tweet_count": 10864
+        },
+        "url": "https://t.co/LITVnMAHfJ",
+        "username": "YiQuandbn",
+        "verified": false
+      }
+    ]
+  }
+}

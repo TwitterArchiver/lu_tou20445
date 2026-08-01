@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-25T02:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026480077912027190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1067869143066587136",
+          "start": 0,
+          "username": "kookminbts12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026480077912027190",
+    "in_reply_to_user_id": "1067869143066587136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026365829185458437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kookminbts12 哦？领地争夺战吗？有点意思😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-25T02:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026480077912027190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1067869143066587136",
+              "start": 0,
+              "username": "kookminbts12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026480077912027190",
+        "in_reply_to_user_id": "1067869143066587136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026365829185458437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kookminbts12 哦？领地争夺战吗？有点意思😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1067869143066587136",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T18:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026365829185458437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026365829185458437",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你别说了，再说就把你的房子给我住🙉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 70,
+          "like_count": 16845,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 5061
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T19:53:38.000Z",
+        "description": "希望你喜欢我和我的味道。",
+        "id": "1067869143066587136",
+        "name": "Zzasleep",
+        "pinned_tweet_id": "2021142168929284176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726209025581404161/B28dhmAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 78,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 531
+        },
+        "username": "kookminbts12",
+        "verified": false
+      }
+    ]
+  }
+}

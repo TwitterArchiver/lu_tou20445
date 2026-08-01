@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988441745810759680",
+        "3_1988441745814851584",
+        "3_1988441745785544705",
+        "3_1988441745793970176"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T03:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T04:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988441756283916550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8IsNM9v81r",
+          "end": 97,
+          "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+          "media_key": "3_1988441745810759680",
+          "start": 74,
+          "url": "https://t.co/8IsNM9v81r"
+        },
+        {
+          "display_url": "pic.x.com/8IsNM9v81r",
+          "end": 97,
+          "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+          "media_key": "3_1988441745814851584",
+          "start": 74,
+          "url": "https://t.co/8IsNM9v81r"
+        },
+        {
+          "display_url": "pic.x.com/8IsNM9v81r",
+          "end": 97,
+          "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+          "media_key": "3_1988441745785544705",
+          "start": 74,
+          "url": "https://t.co/8IsNM9v81r"
+        },
+        {
+          "display_url": "pic.x.com/8IsNM9v81r",
+          "end": 97,
+          "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+          "media_key": "3_1988441745793970176",
+          "start": 74,
+          "url": "https://t.co/8IsNM9v81r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988441756283916550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁来管管苹果自带的输入法，感觉没上过网没经历过社会化训练一样，成语词语长句是不会拼的，常用词是记不住的，还会自己耍点小聪明，打的打的就会变成这样🚬 https://t.co/8IsNM9v81r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_1988441745810759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4uboAAHvWP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1192,
+        "media_key": "3_1988441745814851584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4vaEAA-hWP.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1186,
+        "media_key": "3_1988441745785544705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4oa4AEtl4M.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1189,
+        "media_key": "3_1988441745793970176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hdO4qbcAAX3h6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988441745810759680",
+            "3_1988441745814851584",
+            "3_1988441745785544705",
+            "3_1988441745793970176"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T03:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988441756283916550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745810759680",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            },
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745814851584",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            },
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745785544705",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            },
+            {
+              "display_url": "pic.x.com/8IsNM9v81r",
+              "end": 97,
+              "expanded_url": "https://x.com/lu_tou20445/status/1988441756283916550/photo/1",
+              "media_key": "3_1988441745793970176",
+              "start": 74,
+              "url": "https://t.co/8IsNM9v81r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988441756283916550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来管管苹果自带的输入法，感觉没上过网没经历过社会化训练一样，成语词语长句是不会拼的，常用词是记不住的，还会自己耍点小聪明，打的打的就会变成这样🚬 https://t.co/8IsNM9v81r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 73,
+          "like_count": 8157,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

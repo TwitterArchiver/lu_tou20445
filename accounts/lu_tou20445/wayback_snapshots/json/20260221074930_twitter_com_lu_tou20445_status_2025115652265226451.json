@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2024711906041483769",
+    "created_at": "2026-02-21T07:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025115652265226451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016500866111660032",
+          "start": 0,
+          "username": "mixuebingtao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025115652265226451",
+    "in_reply_to_user_id": "2016500866111660032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024844457242472658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mixuebingtao 《我们没那个能力，你们谁有本事谁就过得好》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2024711906041483769",
+        "created_at": "2026-02-21T07:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025115652265226451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016500866111660032",
+              "start": 0,
+              "username": "mixuebingtao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025115652265226451",
+        "in_reply_to_user_id": "2016500866111660032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024844457242472658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mixuebingtao 《我们没那个能力，你们谁有本事谁就过得好》"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016500866111660032",
+        "conversation_id": "2024711906041483769",
+        "created_at": "2026-02-20T13:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024844457242472658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024844457242472658",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024711906041483769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 刚毕业的时候家人就给我打了预防针：你在外面遇到不好的事情，要么是你能力不行，要么是你人品不行。堵死了我的求助路……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 69,
+          "like_count": 16340,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4902
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T13:17:35.000Z",
+        "description": "04版本/常驻上海/陆家嘴ol/江浙2h内🚄可去/有🚪/下一站@mixuebingtao02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "mixuebingtao02"
+              }
+            ]
+          }
+        },
+        "id": "2016500866111660032",
+        "name": "蜜雪姐姐「上海」",
+        "pinned_tweet_id": "2016509897605878242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020509963173691392/IZ7vj-wg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 63,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 246
+        },
+        "username": "mixuebingtao",
+        "verified": false
+      }
+    ]
+  }
+}

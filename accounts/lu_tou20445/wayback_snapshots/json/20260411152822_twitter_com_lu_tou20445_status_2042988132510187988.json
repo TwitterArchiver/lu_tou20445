@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2042984381250261311",
+    "created_at": "2026-04-11T15:28:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:28:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042988132510187988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874922985567784960",
+          "start": 0,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042988132510187988",
+    "in_reply_to_user_id": "874922985567784960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042984381250261311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihinansyo 这才是正确的骗法，而不是像我一样白水烫完就往嘴里扔🫤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2042984368030068736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFojdWIbsAA74gJ.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2042984367857840128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFojdVfXsAAfOjF.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2042984367870328832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFojdViWQAAqNdt.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3520,
+        "media_key": "3_2042984367996440583",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFojdWAakAchFMl.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2042984381250261311",
+        "created_at": "2026-04-11T15:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042988132510187988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042988132510187988",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042984381250261311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo 这才是正确的骗法，而不是像我一样白水烫完就往嘴里扔🫤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042984368030068736",
+            "3_2042984367857840128",
+            "3_2042984367870328832",
+            "3_2042984367996440583"
+          ]
+        },
+        "author_id": "874922985567784960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042984381250261311",
+        "created_at": "2026-04-11T15:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042984381250261311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2OjBAazGfb",
+              "end": 32,
+              "expanded_url": "https://x.com/xihinansyo/status/2042984381250261311/photo/1",
+              "media_key": "3_2042984368030068736",
+              "start": 9,
+              "url": "https://t.co/2OjBAazGfb"
+            },
+            {
+              "display_url": "pic.x.com/2OjBAazGfb",
+              "end": 32,
+              "expanded_url": "https://x.com/xihinansyo/status/2042984381250261311/photo/1",
+              "media_key": "3_2042984367857840128",
+              "start": 9,
+              "url": "https://t.co/2OjBAazGfb"
+            },
+            {
+              "display_url": "pic.x.com/2OjBAazGfb",
+              "end": 32,
+              "expanded_url": "https://x.com/xihinansyo/status/2042984381250261311/photo/1",
+              "media_key": "3_2042984367870328832",
+              "start": 9,
+              "url": "https://t.co/2OjBAazGfb"
+            },
+            {
+              "display_url": "pic.x.com/2OjBAazGfb",
+              "end": 32,
+              "expanded_url": "https://x.com/xihinansyo/status/2042984381250261311/photo/1",
+              "media_key": "3_2042984367996440583",
+              "start": 9,
+              "url": "https://t.co/2OjBAazGfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042984381250261311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花式骗自己吃蔬菜 https://t.co/2OjBAazGfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 71,
+          "like_count": 20089,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 5696
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "平安喜乐 幸福安康｜避难所",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "2009928568902693286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014049599795703809/TnHvEIFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 179,
+          "like_count": 20677,
+          "listed_count": 1,
+          "media_count": 403,
+          "tweet_count": 9556
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      }
+    ]
+  }
+}

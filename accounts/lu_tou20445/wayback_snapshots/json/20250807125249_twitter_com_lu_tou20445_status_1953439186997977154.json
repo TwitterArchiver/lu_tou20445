@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953416375705260133",
+    "created_at": "2025-08-07T12:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953439186997977154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1941449280344281088",
+          "start": 0,
+          "username": "Paisherenow_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953439186997977154",
+    "in_reply_to_user_id": "1941449280344281088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953416375705260133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paisherenow_w 又是🦐，我忍不了了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1953416312996151296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxvtyXqWwAAD1sc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953416314392895489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxvtyc3XYAEABU2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953416375705260133",
+        "created_at": "2025-08-07T12:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953439186997977154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941449280344281088",
+              "start": 0,
+              "username": "Paisherenow_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953439186997977154",
+        "in_reply_to_user_id": "1941449280344281088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953416375705260133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paisherenow_w 又是🦐，我忍不了了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953416312996151296",
+            "3_1953416314392895489"
+          ]
+        },
+        "author_id": "1941449280344281088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953416375705260133",
+        "created_at": "2025-08-07T11:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T12:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953416375705260133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvHnMRaUEv",
+              "end": 29,
+              "expanded_url": "https://x.com/Paisherenow_w/status/1953416375705260133/photo/1",
+              "media_key": "3_1953416312996151296",
+              "start": 6,
+              "url": "https://t.co/rvHnMRaUEv"
+            },
+            {
+              "display_url": "pic.x.com/rvHnMRaUEv",
+              "end": 29,
+              "expanded_url": "https://x.com/Paisherenow_w/status/1953416375705260133/photo/1",
+              "media_key": "3_1953416314392895489",
+              "start": 6,
+              "url": "https://t.co/rvHnMRaUEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953416375705260133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们请吃 https://t.co/rvHnMRaUEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 38,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T10:49:39.000Z",
+        "description": "Love wins all｜我上推就是为了看黄🥵和发牢骚😅",
+        "id": "1941449280344281088",
+        "location": "space",
+        "name": "Patricia Stryker（准备8️⃣🈷️旅游.ver）",
+        "pinned_tweet_id": "1945161425489424841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941449455733002240/FdwmugA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 85,
+          "like_count": 1547,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 706
+        },
+        "username": "Paisherenow_w",
+        "verified": false
+      }
+    ]
+  }
+}

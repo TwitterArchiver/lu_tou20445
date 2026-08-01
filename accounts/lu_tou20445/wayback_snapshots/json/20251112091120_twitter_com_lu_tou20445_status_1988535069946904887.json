@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T09:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T10:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988535069946904887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "797201408",
+          "start": 0,
+          "username": "0BLADE_RUNNER0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988535069946904887",
+    "in_reply_to_user_id": "797201408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988532516316209223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0BLADE_RUNNER0 听起来不像好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T09:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988535069946904887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "797201408",
+              "start": 0,
+              "username": "0BLADE_RUNNER0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988535069946904887",
+        "in_reply_to_user_id": "797201408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988532516316209223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0BLADE_RUNNER0 听起来不像好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "797201408",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T09:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988532516316209223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988532516316209223",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 其实和微软的swiftkey一样的逻辑可能来自同一个设计逻辑的公司给的共用逻辑词库"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 74,
+          "like_count": 8254,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2615
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-02T00:53:41.000Z",
+        "description": "",
+        "id": "797201408",
+        "name": "BLADERUNNER",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761918011659993088/o3OHY0Ja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 333,
+          "like_count": 16694,
+          "listed_count": 4,
+          "media_count": 103,
+          "tweet_count": 5728
+        },
+        "username": "0BLADE_RUNNER0",
+        "verified": false
+      }
+    ]
+  }
+}

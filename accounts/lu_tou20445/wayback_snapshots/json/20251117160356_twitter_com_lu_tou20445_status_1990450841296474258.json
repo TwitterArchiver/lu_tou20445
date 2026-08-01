@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1990336977825337437",
+    "created_at": "2025-11-17T16:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T17:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990450841296474258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1274703175996465152",
+          "start": 0,
+          "username": "YYLG9991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990450841296474258",
+    "in_reply_to_user_id": "1274703175996465152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990336977825337437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YYLG9991 那如果我们装一辈子呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1990336977825337437",
+        "created_at": "2025-11-17T16:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T17:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990450841296474258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1274703175996465152",
+              "start": 0,
+              "username": "YYLG9991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990450841296474258",
+        "in_reply_to_user_id": "1274703175996465152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990336977825337437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YYLG9991 那如果我们装一辈子呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274703175996465152",
+        "conversation_id": "1990336977825337437",
+        "created_at": "2025-11-17T08:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990336977825337437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990336977825337437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 401,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直很克制自己，像是维持一种人设，比如从来不去私信异性，不会发骚扰评论，顶多是点赞评论夸一夸。所以在看到很多女生透露私信被骚扰轰炸的界面之前，我完全意识不到原来厌男情有可原。\n约束我自己，像是未来女朋友现在一直在监视我一样，我表演出来给她看，我很乖。\n我也分不清这是真的我，还是在装"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 75,
+          "like_count": 8911,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T13:58:38.000Z",
+        "description": "🧣歩俗  喜欢关注有活气的人",
+        "id": "1274703175996465152",
+        "location": "中原",
+        "name": "低速时区位",
+        "pinned_tweet_id": "1836705945818423511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476320850202673152/s-1xFJoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 174,
+          "like_count": 2794,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 1793
+        },
+        "username": "YYLG9991",
+        "verified": false
+      }
+    ]
+  }
+}

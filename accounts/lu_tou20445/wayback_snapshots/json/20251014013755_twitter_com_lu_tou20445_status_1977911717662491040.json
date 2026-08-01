@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1977792356373209294",
+    "created_at": "2025-10-14T01:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T02:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977911717662491040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1386157702787731459",
+          "start": 0,
+          "username": "kiss_o3o_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977911717662491040",
+    "in_reply_to_user_id": "1386157702787731459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977793123289026994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_o3o_ 试试吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1977792356373209294",
+        "created_at": "2025-10-14T01:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T02:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977911717662491040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1386157702787731459",
+              "start": 0,
+              "username": "kiss_o3o_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977911717662491040",
+        "in_reply_to_user_id": "1386157702787731459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977793123289026994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_o3o_ 试试吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386157702787731459",
+        "conversation_id": "1977792356373209294",
+        "created_at": "2025-10-13T17:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T18:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977793123289026994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977793123289026994",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977792356373209294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 太难了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 71,
+          "like_count": 6674,
+          "listed_count": 3,
+          "media_count": 104,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-25T03:19:46.000Z",
+        "description": "可以叫我小树或树｜06 Switch bi 声控｜请多跟我互动吧🥺🤲🏻｜抽象废话多不要骂我｜什么都发@iam_miserable1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "iam_miserable1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A8%B91",
+                "start": 0,
+                "url": "https://t.co/NvNDjIMPTy"
+              }
+            ]
+          }
+        },
+        "id": "1386157702787731459",
+        "location": "要把我当情绪垃圾桶先v我520再说^^",
+        "name": "🌲",
+        "pinned_tweet_id": "1975888717035503987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976939075262185472/X7N8hsoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 358,
+          "like_count": 30097,
+          "listed_count": 7,
+          "media_count": 466,
+          "tweet_count": 9776
+        },
+        "url": "https://t.co/NvNDjIMPTy",
+        "username": "kiss_o3o_",
+        "verified": false
+      }
+    ]
+  }
+}

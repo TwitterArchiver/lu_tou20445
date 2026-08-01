@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995099015382516211",
+    "created_at": "2025-11-30T12:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995101208911163792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929848158697426944",
+          "start": 0,
+          "username": "ovohealing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995101208911163792",
+    "in_reply_to_user_id": "1929848158697426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995100915427381253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovohealing 那太坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995099015382516211",
+        "created_at": "2025-11-30T12:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995101208911163792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929848158697426944",
+              "start": 0,
+              "username": "ovohealing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995101208911163792",
+        "in_reply_to_user_id": "1929848158697426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995100915427381253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovohealing 那太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929848158697426944",
+        "conversation_id": "1995099015382516211",
+        "created_at": "2025-11-30T12:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995100915427381253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995100915427381253",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995099015382516211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 69,
+          "like_count": 10049,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 3040
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T10:30:48.000Z",
+        "description": "清水｜自用vpn：https://t.co/tClG14mcfm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 32,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=0Yr3pX9t",
+                "start": 9,
+                "url": "https://t.co/tClG14mcfm"
+              }
+            ]
+          }
+        },
+        "id": "1929848158697426944",
+        "location": "私信只回口令",
+        "name": "小刀",
+        "pinned_tweet_id": "1986232756008083714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982852109197303808/UjRe7-uY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4015,
+          "following_count": 559,
+          "like_count": 12062,
+          "listed_count": 11,
+          "media_count": 96,
+          "tweet_count": 7506
+        },
+        "username": "ovohealing",
+        "verified": false
+      }
+    ]
+  }
+}

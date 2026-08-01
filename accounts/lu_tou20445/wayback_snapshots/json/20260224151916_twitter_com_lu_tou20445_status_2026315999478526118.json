@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T15:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026315999478526118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "505767300",
+          "start": 0,
+          "username": "xixi2235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026315999478526118",
+    "in_reply_to_user_id": "505767300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026308028354678842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi2235 自己过舒坦了也就没有什么怕不怕没人陪的事儿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T15:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026315999478526118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "505767300",
+              "start": 0,
+              "username": "xixi2235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026315999478526118",
+        "in_reply_to_user_id": "505767300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026308028354678842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi2235 自己过舒坦了也就没有什么怕不怕没人陪的事儿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "505767300",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T14:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026308028354678842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026308028354678842",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 独居真的挺爽的以前怕无聊没人陪，自从大模型上线后这个问题也被解决了，有事没事就和自己家模型聊聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 70,
+          "like_count": 16736,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5034
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-27T11:26:56.000Z",
+        "description": "新年新希望",
+        "id": "505767300",
+        "location": "Old Bridge, NJ",
+        "name": "派大星星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982734049207566336/cG1h0kEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 323,
+          "like_count": 16529,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2288
+        },
+        "username": "xixi2235",
+        "verified": false
+      }
+    ]
+  }
+}

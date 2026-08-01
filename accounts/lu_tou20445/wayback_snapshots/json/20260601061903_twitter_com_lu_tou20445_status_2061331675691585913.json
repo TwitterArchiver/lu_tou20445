@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061295614319595781",
+    "created_at": "2026-06-01T06:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061331675691585913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1400872292",
+          "start": 0,
+          "username": "apple115521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061331675691585913",
+    "in_reply_to_user_id": "1400872292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061295614319595781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple115521 没说错奥👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_2061295611182211074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsxb-mWYAIELPu.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1210,
+        "media_key": "3_2061295610813100033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsxb9OWMAE7LhE.jpg",
+        "width": 1221
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061295614319595781",
+        "created_at": "2026-06-01T06:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061331675691585913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1400872292",
+              "start": 0,
+              "username": "apple115521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061331675691585913",
+        "in_reply_to_user_id": "1400872292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061295614319595781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple115521 没说错奥👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061295611182211074",
+            "3_2061295610813100033"
+          ]
+        },
+        "author_id": "1400872292",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2061295614319595781",
+        "created_at": "2026-06-01T03:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061295614319595781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VJuiXOM4bD",
+              "end": 169,
+              "expanded_url": "https://x.com/apple115521/status/2061295614319595781/photo/1",
+              "media_key": "3_2061295611182211074",
+              "start": 146,
+              "url": "https://t.co/VJuiXOM4bD"
+            },
+            {
+              "display_url": "pic.x.com/VJuiXOM4bD",
+              "end": 169,
+              "expanded_url": "https://x.com/apple115521/status/2061295614319595781/photo/1",
+              "media_key": "3_2061295610813100033",
+              "start": 146,
+              "url": "https://t.co/VJuiXOM4bD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061295614319595781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 610,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五月结尾。\n想起本月一个有意思的经历：在公司餐厅午餐结账排队时，排在身后的一个女生（没见过，大概是别的部门新来的）忽然伸手点了点我后背，说：“哎，哥，经常去 gym 吗？看你身上挺有料啊。”\n我有点莫名，当场大脑宕机，勉强挤出一句：“嗯，有点料…”\n可说完我就想抽死自己，到底回了个什么玩意 https://t.co/VJuiXOM4bD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 69,
+          "like_count": 21169,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6016
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-03T22:24:41.000Z",
+        "description": "30代 ⭐️ 高能量｜旅行 | 健身 | 医药行业 | Eine Wurst hat zwei Enden⭐️ 近况：plank 挑战记录27’10”， leadership进修",
+        "id": "1400872292",
+        "location": "Jupiter",
+        "name": "Glückskuh🐮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057668483056300032/GcQCW2tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 80,
+          "like_count": 13101,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 1722
+        },
+        "username": "apple115521",
+        "verified": false
+      }
+    ]
+  }
+}

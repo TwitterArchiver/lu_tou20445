@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1991759951342235743",
+    "created_at": "2025-11-22T11:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T12:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992192285942140969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1734598399327088640",
+          "start": 0,
+          "username": "lxn2umerical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992192285942140969",
+    "in_reply_to_user_id": "1734598399327088640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992190875787759995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxn2umerical 夸赞我的话少说，左转缴费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1991759951342235743",
+        "created_at": "2025-11-22T11:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992192285942140969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1734598399327088640",
+              "start": 0,
+              "username": "lxn2umerical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992192285942140969",
+        "in_reply_to_user_id": "1734598399327088640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992190875787759995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxn2umerical 夸赞我的话少说，左转缴费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734598399327088640",
+        "conversation_id": "1991759951342235743",
+        "created_at": "2025-11-22T11:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992190875787759995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992190875787759995",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991759951342235743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你咋这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 70,
+          "like_count": 9390,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 2827
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T15:37:47.000Z",
+        "description": "养胃男/纯净版@ln2umerical1 年卡12r自用VPN https://t.co/rmdBaCTYHR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "ln2umerical1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 55,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=gsLtgWTi",
+                "start": 32,
+                "url": "https://t.co/rmdBaCTYHR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/being88129",
+                "end": 23,
+                "expanded_url": "https://ngl.link/being88129",
+                "start": 0,
+                "url": "https://t.co/wlTadpX25v"
+              }
+            ]
+          }
+        },
+        "id": "1734598399327088640",
+        "name": "北",
+        "pinned_tweet_id": "1991396178748141687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982403888222265344/OZI600qH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12353,
+          "following_count": 293,
+          "like_count": 41007,
+          "listed_count": 19,
+          "media_count": 598,
+          "tweet_count": 27547
+        },
+        "url": "https://t.co/wlTadpX25v",
+        "username": "lxn2umerical",
+        "verified": false
+      }
+    ]
+  }
+}

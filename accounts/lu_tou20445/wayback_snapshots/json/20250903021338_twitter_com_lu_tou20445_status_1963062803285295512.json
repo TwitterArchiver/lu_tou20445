@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962535958009762180",
+    "created_at": "2025-09-03T02:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T03:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963062803285295512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511516081726582785",
+          "start": 0,
+          "username": "GreenLaffey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963062803285295512",
+    "in_reply_to_user_id": "1511516081726582785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963062137800012252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenLaffey 太好了，拿到补偿金请我喝奶茶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962535958009762180",
+        "created_at": "2025-09-03T02:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963062803285295512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511516081726582785",
+              "start": 0,
+              "username": "GreenLaffey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963062803285295512",
+        "in_reply_to_user_id": "1511516081726582785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963062137800012252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenLaffey 太好了，拿到补偿金请我喝奶茶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511516081726582785",
+        "conversation_id": "1962535958009762180",
+        "created_at": "2025-09-03T02:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T03:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963062137800012252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963062137800012252",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963061766692229179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 并没有，只是普通发不出工资的小私企（快倒闭了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 59,
+          "like_count": 2373,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1478
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T01:28:30.000Z",
+        "description": "大概是日记本  喜欢一切可爱的事物\n泛性恋/infj/♑/brat\n没意思的私信不回",
+        "id": "1511516081726582785",
+        "location": "树枝孤鸟",
+        "name": "晚沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951148736618569728/fYQ_Kncw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 185,
+          "like_count": 2176,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 110
+        },
+        "username": "GreenLaffey",
+        "verified": false
+      }
+    ]
+  }
+}

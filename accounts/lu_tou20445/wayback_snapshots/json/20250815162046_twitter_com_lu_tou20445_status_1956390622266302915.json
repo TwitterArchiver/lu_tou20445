@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956377753542111297",
+    "created_at": "2025-08-15T16:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T17:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956390622266302915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1928051355085918208",
+          "start": 0,
+          "username": "kk503835284444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956390622266302915",
+    "in_reply_to_user_id": "1928051355085918208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956377753542111297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kk503835284444 能推开小狗一百次的人也不是什么好主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_1956377744260141056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyZzMW0bEAAy_yM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956377753542111297",
+        "created_at": "2025-08-15T16:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T17:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956390622266302915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1928051355085918208",
+              "start": 0,
+              "username": "kk503835284444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956390622266302915",
+        "in_reply_to_user_id": "1928051355085918208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956377753542111297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kk503835284444 能推开小狗一百次的人也不是什么好主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956377744260141056"
+          ]
+        },
+        "author_id": "1928051355085918208",
+        "conversation_id": "1956377753542111297",
+        "created_at": "2025-08-15T15:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T16:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956377753542111297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaYQFCAtqp",
+              "end": 46,
+              "expanded_url": "https://x.com/kk503835284444/status/1956377753542111297/photo/1",
+              "media_key": "3_1956377744260141056",
+              "start": 23,
+              "url": "https://t.co/CaYQFCAtqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956377753542111297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推开小狗100次，小狗也会第101次扑向你。 https://t.co/CaYQFCAtqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T11:30:54.000Z",
+        "description": "♋️不➕V",
+        "id": "1928051355085918208",
+        "name": "舒化奶",
+        "pinned_tweet_id": "1945170092800549010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943475381744603139/gRCJyw-v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 166,
+          "like_count": 251,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 107
+        },
+        "username": "kk503835284444",
+        "verified": false
+      }
+    ]
+  }
+}

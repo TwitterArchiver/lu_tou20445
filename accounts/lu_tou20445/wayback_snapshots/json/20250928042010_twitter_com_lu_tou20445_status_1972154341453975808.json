@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1972154128500772986",
+    "created_at": "2025-09-28T04:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T05:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972154341453975808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972154341453975808",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972154128500772986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo 我将表演一场喝面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972154113032179713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G15_t4Wb0AE2wMj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1972154128500772986",
+        "created_at": "2025-09-28T04:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972154341453975808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972154341453975808",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972154128500772986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo 我将表演一场喝面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972154113032179713"
+          ]
+        },
+        "author_id": "1904949484783841280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1972154128500772986",
+        "created_at": "2025-09-28T04:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T05:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972154128500772986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebzEDwi0eO",
+              "end": 57,
+              "expanded_url": "https://x.com/fuzhuovo/status/1972154128500772986/photo/1",
+              "media_key": "3_1972154113032179713",
+              "start": 34,
+              "url": "https://t.co/ebzEDwi0eO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972154128500772986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随时随地任何时期都爱吃~面面~\n今天是排骨汤面，煮面条真的好方便~ https://t.co/ebzEDwi0eO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 63,
+          "like_count": 5170,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1882
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "双取随意\n自用蜂鸟VPN https://t.co/5tYNEdRop5\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.apifn.xyz/#/register?cod…",
+                "end": 36,
+                "expanded_url": "https://api.apifn.xyz/#/register?code=rFp",
+                "start": 13,
+                "url": "https://t.co/5tYNEdRop5"
+              },
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 66,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 43,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "😶",
+        "pinned_tweet_id": "1971961461493948789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971888549848031232/m4brFRqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2988,
+          "following_count": 629,
+          "like_count": 15866,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 3508
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      }
+    ]
+  }
+}

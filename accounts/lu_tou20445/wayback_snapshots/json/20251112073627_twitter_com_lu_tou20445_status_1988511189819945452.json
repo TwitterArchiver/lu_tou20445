@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T07:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988511189819945452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1684300412994691072",
+          "start": 0,
+          "username": "4Udo007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988511189819945452",
+    "in_reply_to_user_id": "1684300412994691072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988510553464041652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4Udo007 还会被人说“你的输入法比你诚实”🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T07:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988511189819945452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1684300412994691072",
+              "start": 0,
+              "username": "4Udo007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988511189819945452",
+        "in_reply_to_user_id": "1684300412994691072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988510553464041652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4Udo007 还会被人说“你的输入法比你诚实”🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684300412994691072",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T07:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988510553464041652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988510553464041652",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 别太尴尬了，每次打“好吧”都会出现宝宝/宝贝😀不知道的以为我多轻浮呢，见人就喊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 73,
+          "like_count": 8207,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T20:31:36.000Z",
+        "description": "是他的温顺小猫.🈲聊",
+        "id": "1684300412994691072",
+        "location": "🚪1314",
+        "name": "4Udo",
+        "pinned_tweet_id": "1739736304395472903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987491531347931136/Q9YoPWe9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 22,
+          "like_count": 524,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 31
+        },
+        "username": "4Udo007",
+        "verified": false
+      }
+    ]
+  }
+}

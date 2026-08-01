@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955470464903758010",
+    "created_at": "2025-08-13T04:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955482815321215353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751077888139685888",
+          "start": 0,
+          "username": "ph_seskino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955482815321215353",
+    "in_reply_to_user_id": "1751077888139685888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955470464903758010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ph_seskino 等等鸭鸭，你上巴戳我眼睛了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955470451406409729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyM6A9jaEAEfRGp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955470464903758010",
+        "created_at": "2025-08-13T04:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955482815321215353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751077888139685888",
+              "start": 0,
+              "username": "ph_seskino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955482815321215353",
+        "in_reply_to_user_id": "1751077888139685888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955470464903758010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ph_seskino 等等鸭鸭，你上巴戳我眼睛了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955470451406409729"
+          ]
+        },
+        "author_id": "1751077888139685888",
+        "conversation_id": "1955470464903758010",
+        "created_at": "2025-08-13T03:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T04:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955470464903758010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr9EOntiBc",
+              "end": 39,
+              "expanded_url": "https://x.com/ph_seskino/status/1955470464903758010/photo/1",
+              "media_key": "3_1955470451406409729",
+              "start": 16,
+              "url": "https://t.co/Hr9EOntiBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955470464903758010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂 路过的 停下来让鸭亲一口… https://t.co/Hr9EOntiBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 39,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 708
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:01:25.000Z",
+        "description": "徜徉于我所未知的梦境‧*★₊˚☾.˖❍𖧧˒˒.————",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ph_seskino",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ph_seskino",
+                "start": 0,
+                "url": "https://t.co/XNdPsA0kp8"
+              }
+            ]
+          }
+        },
+        "id": "1751077888139685888",
+        "location": "另一个天堂",
+        "name": "chanioseki",
+        "pinned_tweet_id": "1950136213509206500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944322976813400064/kthDD4LZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 275,
+          "like_count": 4596,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/XNdPsA0kp8",
+        "username": "ph_seskino",
+        "verified": false
+      }
+    ]
+  }
+}

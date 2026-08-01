@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1945492206024003605",
+    "created_at": "2025-07-30T06:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T07:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950443086238175599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1813545131112603648",
+          "start": 0,
+          "username": "babyRafayel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950443086238175599",
+    "in_reply_to_user_id": "1813545131112603648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945492206024003605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babyRafayel 在炮火连天的战场里还顶得住嘛😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1945492206024003605",
+        "created_at": "2025-07-30T06:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T07:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950443086238175599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813545131112603648",
+              "start": 0,
+              "username": "babyRafayel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950443086238175599",
+        "in_reply_to_user_id": "1813545131112603648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945492206024003605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babyRafayel 在炮火连天的战场里还顶得住嘛😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813545131112603648",
+        "conversation_id": "1945492206024003605",
+        "created_at": "2025-07-16T14:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T15:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945492206024003605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945492206024003605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合租有对夫妻就算了，现在还有对情侣😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T12:04:06.000Z",
+        "description": "一个🎺/当朋友圈发",
+        "id": "1813545131112603648",
+        "name": "那Jin是烧鸡哈",
+        "pinned_tweet_id": "1813554477376618974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947924035159068672/xvHfhpUQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 184,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 567
+        },
+        "username": "babyRafayel",
+        "verified": false
+      }
+    ]
+  }
+}

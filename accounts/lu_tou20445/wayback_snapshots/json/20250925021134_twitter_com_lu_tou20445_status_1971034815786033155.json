@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1971023985090625653",
+    "created_at": "2025-09-25T02:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T03:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971034815786033155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1838599537625272320",
+          "start": 0,
+          "username": "Lesleytulip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971034815786033155",
+    "in_reply_to_user_id": "1838599537625272320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971023985090625653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lesleytulip 好杀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_1971023981307383808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1p73jmaUAAM1ib.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1971023985090625653",
+        "created_at": "2025-09-25T02:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T03:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971034815786033155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1838599537625272320",
+              "start": 0,
+              "username": "Lesleytulip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971034815786033155",
+        "in_reply_to_user_id": "1838599537625272320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971023985090625653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lesleytulip 好杀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971023981307383808"
+          ]
+        },
+        "author_id": "1838599537625272320",
+        "conversation_id": "1971023985090625653",
+        "created_at": "2025-09-25T01:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971023985090625653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3zofoTXIZ",
+              "end": 30,
+              "expanded_url": "https://x.com/Lesleytulip/status/1971023985090625653/photo/1",
+              "media_key": "3_1971023981307383808",
+              "start": 7,
+              "url": "https://t.co/y3zofoTXIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971023985090625653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "杀死恋爱脑🤬 https://t.co/y3zofoTXIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 63,
+          "like_count": 4958,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1824
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T15:21:38.000Z",
+        "description": "点燃这个该死的世界",
+        "id": "1838599537625272320",
+        "name": "蓝桉",
+        "pinned_tweet_id": "1970546754941788300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950590690670637056/s4OyEOYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 130,
+          "like_count": 3864,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 585
+        },
+        "username": "Lesleytulip",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1982287429479379219",
+    "created_at": "2025-10-26T06:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T07:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982333586004189456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982333586004189456",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982287429479379219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 不会做生意，给老板再加两块希望割爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7566,
+        "height": 960,
+        "media_key": "13_1982287337485656064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1982287337485656064/img/SiQ2kYTEeaoA4DXJ.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982287337485656064/vid/avc1/320x426/uJuRDe9oOq0C4W1y.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982287337485656064/vid/avc1/480x640/PaPV9U1fHkjrTylX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1982287337485656064/vid/avc1/720x960/R5PBU6m5X2gX_6o6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1982287337485656064/pl/zD_mqpUeMGHdIjQs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1982287429479379219",
+        "created_at": "2025-10-26T06:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T07:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982333586004189456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982333586004189456",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982287429479379219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 不会做生意，给老板再加两块希望割爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1982287337485656064"
+          ]
+        },
+        "author_id": "1904003547756146688",
+        "conversation_id": "1982287429479379219",
+        "created_at": "2025-10-26T03:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982287429479379219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TB7x8Ystzq",
+              "end": 33,
+              "expanded_url": "https://x.com/kkt12138/status/1982287429479379219/video/1",
+              "media_key": "13_1982287337485656064",
+              "start": 10,
+              "url": "https://t.co/TB7x8Ystzq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982287429479379219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帽子两块 小猫不卖 https://t.co/TB7x8Ystzq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 71,
+          "like_count": 7306,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "爱是天赋我是废物",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978475069262192640/Fx9FMWJ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 145,
+          "like_count": 998,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 383
+        },
+        "username": "kkt12138",
+        "verified": false
+      }
+    ]
+  }
+}

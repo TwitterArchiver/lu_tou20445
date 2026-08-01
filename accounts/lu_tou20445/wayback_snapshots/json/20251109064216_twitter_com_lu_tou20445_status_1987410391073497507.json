@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1987045671774658638",
+    "created_at": "2025-11-09T06:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987410391073497507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730270055773171713",
+          "start": 0,
+          "username": "evan2791999134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987410391073497507",
+    "in_reply_to_user_id": "1730270055773171713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987407019066986832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@evan2791999134 你就说自不自然吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1987045671774658638",
+        "created_at": "2025-11-09T06:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987410391073497507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730270055773171713",
+              "start": 0,
+              "username": "evan2791999134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987410391073497507",
+        "in_reply_to_user_id": "1730270055773171713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987407019066986832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@evan2791999134 你就说自不自然吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730270055773171713",
+        "conversation_id": "1987045671774658638",
+        "created_at": "2025-11-09T06:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987407019066986832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987407019066986832",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987045671774658638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 不行啊，这样我就会笑的很贱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 73,
+          "like_count": 7999,
+          "listed_count": 3,
+          "media_count": 127,
+          "tweet_count": 2511
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T16:58:35.000Z",
+        "description": "极度话唠",
+        "id": "1730270055773171713",
+        "location": "福建",
+        "name": "变坏之后可爱程度提高了三倍呐.",
+        "pinned_tweet_id": "1985299510567080371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981447012944891904/U8Lxag0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 136,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1031
+        },
+        "username": "evan2791999134",
+        "verified": false
+      }
+    ]
+  }
+}

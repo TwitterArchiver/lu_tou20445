@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948796956236513280",
+        "3_1948796956249112577"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1948796991825145941",
+    "created_at": "2025-07-25T17:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T18:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948796991825145941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zg9F5qAEEj",
+          "end": 76,
+          "expanded_url": "https://x.com/lu_tou20445/status/1948796991825145941/photo/1",
+          "media_key": "3_1948796956236513280",
+          "start": 53,
+          "url": "https://t.co/Zg9F5qAEEj"
+        },
+        {
+          "display_url": "pic.x.com/Zg9F5qAEEj",
+          "end": 76,
+          "expanded_url": "https://x.com/lu_tou20445/status/1948796991825145941/photo/1",
+          "media_key": "3_1948796956249112577",
+          "start": 53,
+          "url": "https://t.co/Zg9F5qAEEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948796991825145941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要再想，要去触碰身边真实的人（北京怀柔的一家小酒馆 ，调酒师蛮帅酒也很好喝，想去试试的可以问我要坐标） https://t.co/Zg9F5qAEEj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1948796956236513280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwuEgavXAAANEP2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1948796956249112577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwuEgayXQAEKRrk.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948796956236513280",
+            "3_1948796956249112577"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948796991825145941",
+        "created_at": "2025-07-25T17:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948796991825145941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zg9F5qAEEj",
+              "end": 76,
+              "expanded_url": "https://x.com/lu_tou20445/status/1948796991825145941/photo/1",
+              "media_key": "3_1948796956236513280",
+              "start": 53,
+              "url": "https://t.co/Zg9F5qAEEj"
+            },
+            {
+              "display_url": "pic.x.com/Zg9F5qAEEj",
+              "end": 76,
+              "expanded_url": "https://x.com/lu_tou20445/status/1948796991825145941/photo/1",
+              "media_key": "3_1948796956249112577",
+              "start": 53,
+              "url": "https://t.co/Zg9F5qAEEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948796991825145941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再想，要去触碰身边真实的人（北京怀柔的一家小酒馆 ，调酒师蛮帅酒也很好喝，想去试试的可以问我要坐标） https://t.co/Zg9F5qAEEj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 128
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

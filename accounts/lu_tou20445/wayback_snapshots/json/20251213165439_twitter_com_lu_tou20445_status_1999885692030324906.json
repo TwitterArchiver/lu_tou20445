@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1999713155375915418",
+    "created_at": "2025-12-13T16:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T17:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999885692030324906"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "恭 喜",
+          "probability": 0.5125,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950933673681076224",
+          "start": 0,
+          "username": "05OEuRGmtL85445"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999885692030324906",
+    "in_reply_to_user_id": "1950933673681076224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999880839166128400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@05OEuRGmtL85445 恭  喜 ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1999713155375915418",
+        "created_at": "2025-12-13T16:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999885692030324906"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "恭 喜",
+              "probability": 0.5125,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950933673681076224",
+              "start": 0,
+              "username": "05OEuRGmtL85445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999885692030324906",
+        "in_reply_to_user_id": "1950933673681076224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999880839166128400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@05OEuRGmtL85445 恭  喜 ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950933673681076224",
+        "conversation_id": "1999713155375915418",
+        "created_at": "2025-12-13T16:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T17:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999880839166128400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999880839166128400",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999713155375915418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我 已经  悟了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 68,
+          "like_count": 11236,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 3249
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T14:56:57.000Z",
+        "description": "08/168/108/巨蟹座/性取向为麦当劳和排骨米饭😋我是双性恋  一个大脑里有很多奇思妙想的小女孩 爱我就给我打钱 偶尔会发一些自己很满意的身材照让本大王的子民膜拜一下嗯对   经常说一些前言不搭后语的话不用管 纯绿88\nhttps://t.co/dVwBsSWlsV匿名",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/05OEuRGmtL8544…",
+                "end": 136,
+                "expanded_url": "https://ngl.link/05OEuRGmtL8544593455",
+                "start": 113,
+                "url": "https://t.co/dVwBsSWlsV"
+              }
+            ]
+          }
+        },
+        "id": "1950933673681076224",
+        "name": "土豆大王（嘴臭爱压力版）",
+        "pinned_tweet_id": "1961292547562901855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997684354244632576/mMSEYzKW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 20,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1357
+        },
+        "username": "05OEuRGmtL85445",
+        "verified": false
+      }
+    ]
+  }
+}

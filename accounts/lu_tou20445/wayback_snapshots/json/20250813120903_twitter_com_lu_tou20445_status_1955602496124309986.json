@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955495966376857875",
+    "created_at": "2025-08-13T12:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T13:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955602496124309986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1506883741456629766",
+          "start": 0,
+          "username": "TXDZ007"
+        },
+        {
+          "end": 17,
+          "id": "1928106671995506692",
+          "start": 9,
+          "username": "zyg6619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955602496124309986",
+    "in_reply_to_user_id": "1506883741456629766",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955602130230022261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TXDZ007 @zyg6619 😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955495966376857875",
+        "created_at": "2025-08-13T12:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955602496124309986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1506883741456629766",
+              "start": 0,
+              "username": "TXDZ007"
+            },
+            {
+              "end": 17,
+              "id": "1928106671995506692",
+              "start": 9,
+              "username": "zyg6619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955602496124309986",
+        "in_reply_to_user_id": "1506883741456629766",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955602130230022261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TXDZ007 @zyg6619 😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506883741456629766",
+        "conversation_id": "1955495966376857875",
+        "created_at": "2025-08-13T12:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T13:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955602130230022261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 21,
+              "id": "1928106671995506692",
+              "start": 13,
+              "username": "zyg6619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955602130230022261",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955543568396980385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @zyg6619 这个解释好棒🤓👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 762
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T06:41:09.000Z",
+        "description": "闲言碎语",
+        "id": "1506883741456629766",
+        "location": "地球",
+        "name": "Lk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954209733411532800/5SDoRmXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 423,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 218
+        },
+        "username": "TXDZ007",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T15:10:54.000Z",
+        "description": "碎碎念 不礼貌回关 喜欢我请打钱。@TbYxxx22598",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "TbYxxx22598"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.fnweb.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn.fnweb.sbs/#/register?code=2r8BbTWc",
+                "start": 0,
+                "url": "https://t.co/2thRDyUFY0"
+              }
+            ]
+          }
+        },
+        "id": "1928106671995506692",
+        "location": "自用蜂鸟VPN：",
+        "name": "我不是海绵宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949357943310491648/yrXu1oca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 145,
+          "like_count": 14072,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/2thRDyUFY0",
+        "username": "zyg6619",
+        "verified": false
+      }
+    ]
+  }
+}

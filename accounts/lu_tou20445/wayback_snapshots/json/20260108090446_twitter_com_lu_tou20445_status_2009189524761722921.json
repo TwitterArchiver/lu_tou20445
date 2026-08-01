@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009146045884940471",
+    "created_at": "2026-01-08T09:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009189524761722921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1836471856649637889",
+          "start": 0,
+          "username": "fanqingwanhuaj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009189524761722921",
+    "in_reply_to_user_id": "1836471856649637889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009161575517835389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanqingwanhuaj 无所谓了，没说什么冒犯的话，后面也唠了两句起码是个真人，推销业务而已，比私信箱里卖叶子的那些人好太多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009146045884940471",
+        "created_at": "2026-01-08T09:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009189524761722921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1836471856649637889",
+              "start": 0,
+              "username": "fanqingwanhuaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009189524761722921",
+        "in_reply_to_user_id": "1836471856649637889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009161575517835389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanqingwanhuaj 无所谓了，没说什么冒犯的话，后面也唠了两句起码是个真人，推销业务而已，比私信箱里卖叶子的那些人好太多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836471856649637889",
+        "conversation_id": "2009146045884940471",
+        "created_at": "2026-01-08T07:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009161575517835389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009161575517835389",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009146045884940471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 对面像皮下男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 68,
+          "like_count": 14059,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T18:26:35.000Z",
+        "description": "",
+        "id": "1836471856649637889",
+        "location": "Beijing",
+        "name": "祀蛇",
+        "pinned_tweet_id": "2005715346771378211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005698281440161792/Hgvqp8aI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 286,
+          "like_count": 11489,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 495
+        },
+        "username": "fanqingwanhuaj",
+        "verified": false
+      }
+    ]
+  }
+}

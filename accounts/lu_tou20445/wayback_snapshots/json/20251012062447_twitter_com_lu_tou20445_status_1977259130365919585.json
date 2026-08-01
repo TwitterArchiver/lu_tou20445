@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1976530448722678013",
+    "created_at": "2025-10-12T06:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T07:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977259130365919585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1256268952826793986",
+          "start": 0,
+          "username": "Daphane_Tany"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977259130365919585",
+    "in_reply_to_user_id": "1256268952826793986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977125630794989882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daphane_Tany 反应力刚好够在说出口的时候觉得不对劲是吗🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-12T06:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977259130365919585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1256268952826793986",
+              "start": 0,
+              "username": "Daphane_Tany"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977259130365919585",
+        "in_reply_to_user_id": "1256268952826793986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977125630794989882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daphane_Tany 反应力刚好够在说出口的时候觉得不对劲是吗🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256268952826793986",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-11T21:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T22:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977125630794989882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977125630794989882",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976530448722678013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 其实是因为意识到这句话很荤的时候已经说出去三秒了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 71,
+          "like_count": 6537,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 2099
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-01T17:07:29.000Z",
+        "description": "欢迎来到我的小小世界 🍾️INFP-T/新手台本娘/4i/1i微dom 喜欢发疯 不常上推",
+        "id": "1256268952826793986",
+        "location": "被窝里",
+        "name": "彻底疯狂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745826667887783936/w8b3iRwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 98,
+          "like_count": 1751,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 394
+        },
+        "username": "Daphane_Tany",
+        "verified": false
+      }
+    ]
+  }
+}

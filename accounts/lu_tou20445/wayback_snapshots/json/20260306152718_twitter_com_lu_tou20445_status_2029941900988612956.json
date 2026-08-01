@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2029717400590164323",
+    "created_at": "2026-03-06T15:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029941900988612956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842783172389445632",
+          "start": 0,
+          "username": "qiqidark139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029941900988612956",
+    "in_reply_to_user_id": "1842783172389445632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029940969899258266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqidark139 补兑😮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2029717400590164323",
+        "created_at": "2026-03-06T15:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029941900988612956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842783172389445632",
+              "start": 0,
+              "username": "qiqidark139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029941900988612956",
+        "in_reply_to_user_id": "1842783172389445632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029940969899258266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqidark139 补兑😮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842783172389445632",
+        "conversation_id": "2029717400590164323",
+        "created_at": "2026-03-06T15:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029940969899258266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029940969899258266",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029717400590164323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 那你还挺可爱的👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 70,
+          "like_count": 17775,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 5291
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T04:25:38.000Z",
+        "description": "我不是健全的，每个人都有自己的病，我也有，你也是，我想要知道更多，告诉我更多，我愿意去安慰你，去尝试爱你，代价是告诉我更多更多……",
+        "id": "1842783172389445632",
+        "location": "no",
+        "name": "假了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970773597661843456/RbMzbFfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 48,
+          "like_count": 7888,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 918
+        },
+        "username": "qiqidark139",
+        "verified": false
+      }
+    ]
+  }
+}

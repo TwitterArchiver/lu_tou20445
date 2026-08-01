@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954466286177845359",
+    "created_at": "2025-08-10T12:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T13:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954522948259151902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859875910197051397",
+          "start": 0,
+          "username": "tCgWVcw9ty86031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954522948259151902",
+    "in_reply_to_user_id": "1859875910197051397",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954466286177845359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tCgWVcw9ty86031 36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 927,
+        "media_key": "3_1954466280020520960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx-oufoaMAAndji.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954466286177845359",
+        "created_at": "2025-08-10T12:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954522948259151902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859875910197051397",
+              "start": 0,
+              "username": "tCgWVcw9ty86031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954522948259151902",
+        "in_reply_to_user_id": "1859875910197051397",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954466286177845359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tCgWVcw9ty86031 36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954466280020520960"
+          ]
+        },
+        "author_id": "1859875910197051397",
+        "conversation_id": "1954466286177845359",
+        "created_at": "2025-08-10T08:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T09:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954466286177845359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDdgE64A3T",
+              "end": 29,
+              "expanded_url": "https://x.com/tCgWVcw9ty86031/status/1954466286177845359/photo/1",
+              "media_key": "3_1954466280020520960",
+              "start": 6,
+              "url": "https://t.co/wDdgE64A3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954466286177845359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁陪我玩! https://t.co/wDdgE64A3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 37,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T08:26:14.000Z",
+        "description": "1i‼️ | 可以叫我小狗或是汪汪🐾 | ENFP🐶 | 常常emo的快乐小狗 | 单身中 | 会到处喊主人 | 粗口万岁❤️ | 碎碎碎念 | 想了解我可以看看置顶 | 匿名找我玩 ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutedog715841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutedog715841",
+                "start": 0,
+                "url": "https://t.co/4to7o0M4sz"
+              }
+            ]
+          }
+        },
+        "id": "1859875910197051397",
+        "name": "小狗汪汪",
+        "pinned_tweet_id": "1947595835711328354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874912828366434304/ZRN0J7hI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 123,
+          "like_count": 4949,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/4to7o0M4sz",
+        "username": "tCgWVcw9ty86031",
+        "verified": false
+      }
+    ]
+  }
+}

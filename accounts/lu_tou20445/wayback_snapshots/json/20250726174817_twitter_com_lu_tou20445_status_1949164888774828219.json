@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949162734253412546",
+    "created_at": "2025-07-26T17:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T18:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949164888774828219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "928720369774497792",
+          "start": 0,
+          "username": "fuxixijialing"
+        },
+        {
+          "end": 27,
+          "id": "1688397365336850432",
+          "start": 15,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949164888774828219",
+    "in_reply_to_user_id": "928720369774497792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949163903138853048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuxixijialing @hongpigu980 大人糖的逗豆鸟，就是有点贵，兔子月是入体不入体的都有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-26T17:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949164888774828219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "928720369774497792",
+              "start": 0,
+              "username": "fuxixijialing"
+            },
+            {
+              "end": 27,
+              "id": "1688397365336850432",
+              "start": 15,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949164888774828219",
+        "in_reply_to_user_id": "928720369774497792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949163903138853048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuxixijialing @hongpigu980 大人糖的逗豆鸟，就是有点贵，兔子月是入体不入体的都有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "928720369774497792",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-26T17:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949163903138853048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949163903138853048",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949162734253412546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 推荐个不入体的小玩具吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 161
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-09T20:26:05.000Z",
+        "description": "xp奇怪 || 29母单 ||不语聊不视频",
+        "id": "928720369774497792",
+        "name": "红烧茄子大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556351460761145344/9voXjdlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 889,
+          "like_count": 3778,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 560
+        },
+        "username": "fuxixijialing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62481,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 58,
+          "media_count": 873,
+          "tweet_count": 1109
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

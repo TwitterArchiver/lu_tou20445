@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957715530024120389",
+    "created_at": "2025-08-19T08:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T09:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957717506929414288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682760560121880581",
+          "start": 0,
+          "username": "ikx_08028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957717506929414288",
+    "in_reply_to_user_id": "1682760560121880581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957715530024120389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ikx_08028 你出来晒会太阳让我待会儿🫠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1957715518594641924",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gysz5EkacAQxOeF.jpg",
+        "width": 1199
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1957715519261536257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gysz5HDacAErIui.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957715530024120389",
+        "created_at": "2025-08-19T08:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957717506929414288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682760560121880581",
+              "start": 0,
+              "username": "ikx_08028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957717506929414288",
+        "in_reply_to_user_id": "1682760560121880581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957715530024120389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ikx_08028 你出来晒会太阳让我待会儿🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957715518594641924",
+            "3_1957715519261536257"
+          ]
+        },
+        "author_id": "1682760560121880581",
+        "conversation_id": "1957715530024120389",
+        "created_at": "2025-08-19T08:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957715530024120389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKqQD8rYyQ",
+              "end": 40,
+              "expanded_url": "https://x.com/ikx_08028/status/1957715530024120389/photo/1",
+              "media_key": "3_1957715518594641924",
+              "start": 17,
+              "url": "https://t.co/JKqQD8rYyQ"
+            },
+            {
+              "display_url": "pic.x.com/JKqQD8rYyQ",
+              "end": 40,
+              "expanded_url": "https://x.com/ikx_08028/status/1957715530024120389/photo/1",
+              "media_key": "3_1957715519261536257",
+              "start": 17,
+              "url": "https://t.co/JKqQD8rYyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957715530024120389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪里在高温？我在屋子里裹紧棉被。 https://t.co/JKqQD8rYyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 51,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T14:32:49.000Z",
+        "description": "☀️一时兴起  三分钟热度︱infp♍︱4i暂时不接受1i︱无趣的人和她无聊的生活︱内容都是无营养的废废废废话",
+        "id": "1682760560121880581",
+        "name": "讲故事给星星",
+        "pinned_tweet_id": "1957003186868244838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952043045886799872/SUPn1H-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 94,
+          "like_count": 4005,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 708
+        },
+        "username": "ikx_08028",
+        "verified": false
+      }
+    ]
+  }
+}

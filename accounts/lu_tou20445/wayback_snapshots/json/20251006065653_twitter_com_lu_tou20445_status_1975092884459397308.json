@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975092876389543936"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1975075823360365028",
+    "created_at": "2025-10-06T06:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T07:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975092884459397308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jf03LXMDcB",
+          "end": 33,
+          "expanded_url": "https://x.com/lu_tou20445/status/1975092884459397308/photo/1",
+          "media_key": "3_1975092876389543936",
+          "start": 10,
+          "url": "https://t.co/Jf03LXMDcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975092884459397308",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975079974052016230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 https://t.co/Jf03LXMDcB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1975092876389543936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jwga-acAAt36w.jpg",
+        "width": 593
+      },
+      {
+        "height": 558,
+        "media_key": "3_1975079969081655296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jkxHgaAAABSxf.jpg",
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975092876389543936"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1975075823360365028",
+        "created_at": "2025-10-06T06:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975092884459397308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jf03LXMDcB",
+              "end": 33,
+              "expanded_url": "https://x.com/lu_tou20445/status/1975092884459397308/photo/1",
+              "media_key": "3_1975092876389543936",
+              "start": 10,
+              "url": "https://t.co/Jf03LXMDcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975092884459397308",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975079974052016230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 https://t.co/Jf03LXMDcB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975079969081655296"
+          ]
+        },
+        "author_id": "1904003547756146688",
+        "conversation_id": "1975075823360365028",
+        "created_at": "2025-10-06T06:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975079974052016230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0CVHr0mtn",
+              "end": 54,
+              "expanded_url": "https://x.com/kkt12138/status/1975079974052016230/photo/1",
+              "media_key": "3_1975079969081655296",
+              "start": 31,
+              "url": "https://t.co/V0CVHr0mtn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975079974052016230",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975075823360365028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 在我饿到不行的时候看到了这个帖子😭 https://t.co/V0CVHr0mtn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 66,
+          "like_count": 5789,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "爱是天赋我是废物",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972146524961361920/1tdopatX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 145,
+          "like_count": 916,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 348
+        },
+        "username": "kkt12138",
+        "verified": false
+      }
+    ]
+  }
+}

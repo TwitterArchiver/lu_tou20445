@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955212774109499696",
+    "created_at": "2025-08-13T04:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T05:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955484853279003002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1717128756207235072",
+          "start": 0,
+          "username": "odelia21360"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955484853279003002",
+    "in_reply_to_user_id": "1717128756207235072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955212774109499696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odelia21360 哥们别死屏幕里😦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1907,
+        "media_key": "3_1955212713489264640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJPmo_a8AAh8xE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955212774109499696",
+        "created_at": "2025-08-13T04:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T05:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955484853279003002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1717128756207235072",
+              "start": 0,
+              "username": "odelia21360"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955484853279003002",
+        "in_reply_to_user_id": "1717128756207235072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955212774109499696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odelia21360 哥们别死屏幕里😦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955212713489264640"
+          ]
+        },
+        "author_id": "1717128756207235072",
+        "conversation_id": "1955212774109499696",
+        "created_at": "2025-08-12T10:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955212774109499696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RqLBWTlX2q",
+              "end": 29,
+              "expanded_url": "https://x.com/odelia21360/status/1955212774109499696/photo/1",
+              "media_key": "3_1955212713489264640",
+              "start": 6,
+              "url": "https://t.co/RqLBWTlX2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955212774109499696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 53226,
+          "like_count": 328,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很能坚持了 https://t.co/RqLBWTlX2q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 39,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 709
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T10:39:44.000Z",
+        "description": "反差且可爱丨赛博小魅魔丨间歇性发情丨谢谢你们的喜欢~丨200r+vx（有大尺度福利群/朋友圈/定制/好多瑟瑟内容）",
+        "id": "1717128756207235072",
+        "location": "不幸福城堡",
+        "name": "甜崽小千",
+        "pinned_tweet_id": "1761365202447069540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769607344537690112/Kv7ofaY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175903,
+          "following_count": 55,
+          "like_count": 3229,
+          "listed_count": 226,
+          "media_count": 244,
+          "tweet_count": 2682
+        },
+        "username": "odelia21360",
+        "verified": false
+      }
+    ]
+  }
+}

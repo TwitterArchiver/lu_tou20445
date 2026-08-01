@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2016859146348613893",
+    "created_at": "2026-01-30T00:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017038209155551467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1727353872757526528",
+          "start": 0,
+          "username": "loveEzbaek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017038209155551467",
+    "in_reply_to_user_id": "1727353872757526528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016934009834786886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveEzbaek 坏了，原来真正的一口一万大卡在这"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-30T00:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017038209155551467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1727353872757526528",
+              "start": 0,
+              "username": "loveEzbaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017038209155551467",
+        "in_reply_to_user_id": "1727353872757526528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016934009834786886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveEzbaek 坏了，原来真正的一口一万大卡在这"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727353872757526528",
+        "conversation_id": "2016859146348613893",
+        "created_at": "2026-01-29T17:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016934009834786886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016934009834786886",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016859146348613893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 奶油火鸡面➕花生酱干拌的袁记云饺简直好吃到爆！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 71,
+          "like_count": 14772,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 4440
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T15:50:45.000Z",
+        "description": "记忆是相见的一种方式",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loveezbaek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loveezbaek",
+                "start": 0,
+                "url": "https://t.co/0cVycUdlOW"
+              }
+            ]
+          }
+        },
+        "id": "1727353872757526528",
+        "name": "我发现睡觉很舒服",
+        "pinned_tweet_id": "2003846741809086496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012018231729672192/A3tBM_t2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 20,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/0cVycUdlOW",
+        "username": "loveEzbaek",
+        "verified": false
+      }
+    ]
+  }
+}

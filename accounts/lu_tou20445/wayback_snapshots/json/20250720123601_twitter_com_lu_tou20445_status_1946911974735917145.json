@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946911960273973248"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1946911974735917145",
+    "created_at": "2025-07-20T12:36:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:36:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946911974735917145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RxqGI13qVs",
+          "end": 96,
+          "expanded_url": "https://x.com/lu_tou20445/status/1946911974735917145/photo/1",
+          "media_key": "3_1946911960273973248",
+          "start": 73,
+          "url": "https://t.co/RxqGI13qVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946911974735917145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好不容易剔除了一部分人机，在主页刷到一段纯爱发言，感觉世界开朗之后想继续看看纯爱故事，点进去发现还是人机皮下男，滚啊！滚出我的主页啊！😭（已老实 https://t.co/RxqGI13qVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946911960273973248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTSHNkW8AAVmDZ.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946911960273973248"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1946911974735917145",
+        "created_at": "2025-07-20T12:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946911974735917145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxqGI13qVs",
+              "end": 96,
+              "expanded_url": "https://x.com/lu_tou20445/status/1946911974735917145/photo/1",
+              "media_key": "3_1946911960273973248",
+              "start": 73,
+              "url": "https://t.co/RxqGI13qVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946911974735917145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好不容易剔除了一部分人机，在主页刷到一段纯爱发言，感觉世界开朗之后想继续看看纯爱故事，点进去发现还是人机皮下男，滚啊！滚出我的主页啊！😭（已老实 https://t.co/RxqGI13qVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

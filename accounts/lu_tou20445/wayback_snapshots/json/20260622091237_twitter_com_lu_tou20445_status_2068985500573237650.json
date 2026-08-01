@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2068983722041643093",
+    "created_at": "2026-06-22T09:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068985500573237650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951667419904434177",
+          "start": 0,
+          "username": "sangshen111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068985500573237650",
+    "in_reply_to_user_id": "1951667419904434177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068983722041643093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sangshen111 没事，god is girl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2068983700919037952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaBtstaMAAJZLP.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2068983722041643093",
+        "created_at": "2026-06-22T09:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068985500573237650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951667419904434177",
+              "start": 0,
+              "username": "sangshen111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068985500573237650",
+        "in_reply_to_user_id": "1951667419904434177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068983722041643093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sangshen111 没事，god is girl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068983700919037952"
+          ]
+        },
+        "author_id": "1951667419904434177",
+        "conversation_id": "2068983722041643093",
+        "created_at": "2026-06-22T09:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068983722041643093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/brz1bLF3cM",
+              "end": 45,
+              "expanded_url": "https://x.com/sangshen111/status/2068983722041643093/photo/1",
+              "media_key": "3_2068983700919037952",
+              "start": 22,
+              "url": "https://t.co/brz1bLF3cM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068983722041643093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么世界对我不公 才发现原来是我不是公的 https://t.co/brz1bLF3cM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 70,
+          "like_count": 21702,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 6195
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T15:32:35.000Z",
+        "description": "比puq还嘴碎的地方..提问箱：https://t.co/YWSl44v3oB无🚪不➕v（互关除外）其余除非给我一百万☺️。不聊骚不线下不接推广不出原味。私信只回关注我的 只关注对主页感兴趣的",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sangshen111",
+                "end": 39,
+                "expanded_url": "https://ngl.link/sangshen111",
+                "start": 16,
+                "url": "https://t.co/YWSl44v3oB"
+              }
+            ]
+          }
+        },
+        "id": "1951667419904434177",
+        "name": "桑葚",
+        "pinned_tweet_id": "2067214567487500529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018401674541535232/p6axfE2k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6733,
+          "following_count": 171,
+          "like_count": 8039,
+          "listed_count": 14,
+          "media_count": 864,
+          "tweet_count": 6531
+        },
+        "url": "",
+        "username": "sangshen111",
+        "verified": false
+      }
+    ]
+  }
+}

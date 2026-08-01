@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2031265967502930070",
+    "created_at": "2026-03-10T13:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031365603303502210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026979465994366976",
+          "start": 0,
+          "username": "Tudoujiaomu006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031365603303502210",
+    "in_reply_to_user_id": "2026979465994366976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031358240324563087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tudoujiaomu006 愿世界没有荨麻疹😑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T13:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031365603303502210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026979465994366976",
+              "start": 0,
+              "username": "Tudoujiaomu006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031365603303502210",
+        "in_reply_to_user_id": "2026979465994366976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031358240324563087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tudoujiaomu006 愿世界没有荨麻疹😑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026979465994366976",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T13:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031358240324563087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031358240324563087",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031265967502930070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 荨麻疹已经严重到基本每种类型都有了，坐着玩手机脸上热热的开始肿我真的没招🥺🥺中成药那个药丸一袋里面跟有300个一样吃完都饱了太恶心了愿世界没有荨麻疹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 71,
+          "like_count": 18254,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 5352
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T11:16:52.000Z",
+        "description": "很爱碎碎念的一个小女孩罢了觉得自己偶尔也很淫荡了",
+        "id": "2026979465994366976",
+        "name": "浢。",
+        "pinned_tweet_id": "2027316871452876918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979981759594496/-jyIE0TD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 15,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 65
+        },
+        "username": "Tudoujiaomu006",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958854161451347968"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958854170548859073",
+    "created_at": "2025-08-22T11:30:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T12:30:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958854170548859073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VCpfNXXqwQ",
+          "end": 119,
+          "expanded_url": "https://x.com/lu_tou20445/status/1958854170548859073/photo/1",
+          "media_key": "3_1958854161451347968",
+          "start": 96,
+          "url": "https://t.co/VCpfNXXqwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958854170548859073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记得之前在主页看到一篇推，说对男推最快的祛魅办法就是点开他的主页，再点开他的回复，不知道点进来我主页的人看到我清水般的生活，再点开我的回复看到我到处夸夸发癫和抽象，会对我祛魅还是会先精神紊乱 https://t.co/VCpfNXXqwQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_1958854161451347968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8_ezwacAA5Poa.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958854161451347968"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958854170548859073",
+        "created_at": "2025-08-22T11:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958854170548859073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCpfNXXqwQ",
+              "end": 119,
+              "expanded_url": "https://x.com/lu_tou20445/status/1958854170548859073/photo/1",
+              "media_key": "3_1958854161451347968",
+              "start": 96,
+              "url": "https://t.co/VCpfNXXqwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958854170548859073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记得之前在主页看到一篇推，说对男推最快的祛魅办法就是点开他的主页，再点开他的回复，不知道点进来我主页的人看到我清水般的生活，再点开我的回复看到我到处夸夸发癫和抽象，会对我祛魅还是会先精神紊乱 https://t.co/VCpfNXXqwQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 51,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

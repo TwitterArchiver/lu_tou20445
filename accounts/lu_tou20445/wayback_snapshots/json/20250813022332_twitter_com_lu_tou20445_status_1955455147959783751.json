@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954926820958298139",
+    "created_at": "2025-08-13T02:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T03:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955455147959783751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1723619501265055744",
+          "start": 0,
+          "username": "Puppy040708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955455147959783751",
+    "in_reply_to_user_id": "1723619501265055744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954926820958298139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Puppy040708 可惜被坚定选择都是有附加条件的，短线下确实做不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954926820958298139",
+        "created_at": "2025-08-13T02:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T03:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955455147959783751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1723619501265055744",
+              "start": 0,
+              "username": "Puppy040708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955455147959783751",
+        "in_reply_to_user_id": "1723619501265055744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954926820958298139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Puppy040708 可惜被坚定选择都是有附加条件的，短线下确实做不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723619501265055744",
+        "conversation_id": "1954926820958298139",
+        "created_at": "2025-08-11T15:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954926820958298139"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "北京"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954926820958298139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3005,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被很多人感兴趣过 但没被坚定选择过 #北京"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 39,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T08:31:39.000Z",
+        "description": "04 isfp｜无需炮友｜傻逼别骚扰我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chifan11043",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chifan11043",
+                "start": 0,
+                "url": "https://t.co/y613GeNgz3"
+              }
+            ]
+          }
+        },
+        "id": "1723619501265055744",
+        "location": "北京",
+        "name": "吃饭叫我",
+        "pinned_tweet_id": "1952729736276267219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945858242971918336/1-0JJNjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 25,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/y613GeNgz3",
+        "username": "Puppy040708",
+        "verified": false
+      }
+    ]
+  }
+}

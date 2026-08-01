@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2028286199199416639",
+    "created_at": "2026-03-02T02:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028297835779969089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1319306555691552768",
+          "start": 0,
+          "username": "NYi_Zyc"
+        },
+        {
+          "end": 21,
+          "id": "1217846927036837890",
+          "start": 9,
+          "username": "Andante1077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028297835779969089",
+    "in_reply_to_user_id": "1319306555691552768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028296020107624527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NYi_Zyc @Andante1077 就是就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2028286199199416639",
+        "created_at": "2026-03-02T02:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028297835779969089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1319306555691552768",
+              "start": 0,
+              "username": "NYi_Zyc"
+            },
+            {
+              "end": 21,
+              "id": "1217846927036837890",
+              "start": 9,
+              "username": "Andante1077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028297835779969089",
+        "in_reply_to_user_id": "1319306555691552768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028296020107624527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NYi_Zyc @Andante1077 就是就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319306555691552768",
+        "conversation_id": "2028286199199416639",
+        "created_at": "2026-03-02T02:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028296020107624527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 25,
+              "id": "1217846927036837890",
+              "start": 13,
+              "username": "Andante1077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028296020107624527",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028290575083151748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @Andante1077 难道你就不想嘬嘬嘬吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 72,
+          "like_count": 17443,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 5196
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-22T15:56:21.000Z",
+        "description": "“请不要轻易离开这世界”\nINFJ-T➡️INFP-T/酒量差/话废/不是好人/很无趣",
+        "id": "1319306555691552768",
+        "location": "无拘束",
+        "name": "Nacht.",
+        "pinned_tweet_id": "2001102792690425892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003732621399064576/hUxR33tp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 57,
+          "like_count": 13777,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 520
+        },
+        "username": "NYi_Zyc",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T16:31:59.000Z",
+        "description": "希望大家都能幸福，都可以天天开心！/男/另一个我：@pass76961526454",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "pass76961526454"
+              }
+            ]
+          }
+        },
+        "id": "1217846927036837890",
+        "name": "Andante",
+        "pinned_tweet_id": "1970792758362411145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025143387658354689/ACykUkH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4630,
+          "following_count": 173,
+          "like_count": 15882,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 1473
+        },
+        "username": "Andante1077",
+        "verified": false
+      }
+    ]
+  }
+}

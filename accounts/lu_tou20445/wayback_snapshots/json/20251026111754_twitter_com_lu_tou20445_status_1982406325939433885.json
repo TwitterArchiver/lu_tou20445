@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982406317198258176"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1982336740305367219",
+    "created_at": "2025-10-26T11:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982406325939433885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3245256230",
+          "start": 0,
+          "username": "sweetbean019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0X8mhhEgFs",
+          "end": 52,
+          "expanded_url": "https://x.com/lu_tou20445/status/1982406325939433885/photo/1",
+          "media_key": "3_1982406317198258176",
+          "start": 29,
+          "url": "https://t.co/0X8mhhEgFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982406325939433885",
+    "in_reply_to_user_id": "3245256230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982364727608332508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweetbean019 你，诶，不是，我，算了，谢谢 https://t.co/0X8mhhEgFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_1982406317198258176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LsCtEXsAA05_h.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982406317198258176"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1982336740305367219",
+        "created_at": "2025-10-26T11:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982406325939433885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3245256230",
+              "start": 0,
+              "username": "sweetbean019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0X8mhhEgFs",
+              "end": 52,
+              "expanded_url": "https://x.com/lu_tou20445/status/1982406325939433885/photo/1",
+              "media_key": "3_1982406317198258176",
+              "start": 29,
+              "url": "https://t.co/0X8mhhEgFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982406325939433885",
+        "in_reply_to_user_id": "3245256230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982364727608332508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweetbean019 你，诶，不是，我，算了，谢谢 https://t.co/0X8mhhEgFs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3245256230",
+        "conversation_id": "1982336740305367219",
+        "created_at": "2025-10-26T08:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982364727608332508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982364727608332508",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982336740305367219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 没关系嘟，这也是优点🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 71,
+          "like_count": 7327,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-14T15:04:45.000Z",
+        "description": "纯恨战士",
+        "id": "3245256230",
+        "name": "sweetbean",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981147317236297728/FMy1WrW8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 18,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 91
+        },
+        "username": "sweetbean019",
+        "verified": false
+      }
+    ]
+  }
+}

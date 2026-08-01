@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026116961596547114",
+    "created_at": "2026-02-24T03:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T04:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026130113000305017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1825012853058998272",
+          "start": 0,
+          "username": "tdu1120606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026130113000305017",
+    "in_reply_to_user_id": "1825012853058998272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026128714808090654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tdu1120606 刷到底+1，而且展示不全🤦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026116961596547114",
+        "created_at": "2026-02-24T03:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T04:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026130113000305017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1825012853058998272",
+              "start": 0,
+              "username": "tdu1120606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026130113000305017",
+        "in_reply_to_user_id": "1825012853058998272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026128714808090654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tdu1120606 刷到底+1，而且展示不全🤦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825012853058998272",
+        "conversation_id": "2026116961596547114",
+        "created_at": "2026-02-24T02:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026128714808090654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026128714808090654",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026116961596547114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也是！！！而且我的关注这栏为什么能刷到底！好多关注发的动态都看不到，点到推荐就能看到😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 70,
+          "like_count": 16614,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 4985
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T03:32:35.000Z",
+        "description": "杂食党",
+        "id": "1825012853058998272",
+        "name": "土豆烧薯条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016208381024071680/KcbEDXQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 40,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 463
+        },
+        "username": "tdu1120606",
+        "verified": false
+      }
+    ]
+  }
+}

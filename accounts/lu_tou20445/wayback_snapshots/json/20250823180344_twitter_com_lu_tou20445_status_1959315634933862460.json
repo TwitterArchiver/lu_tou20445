@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959311702035759282",
+    "created_at": "2025-08-23T18:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T19:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959315634933862460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597119365282791425",
+          "start": 0,
+          "username": "Keljiaoshenme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959315634933862460",
+    "in_reply_to_user_id": "1597119365282791425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959311702035759282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keljiaoshenme 只能算还没臣服于快感和支配的最后抵抗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_1959311693575839744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDfmrvbYAAF134.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1819,
+        "media_key": "3_1959311693571661824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDfmruboAAdc7J.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959311702035759282",
+        "created_at": "2025-08-23T18:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T19:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959315634933862460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597119365282791425",
+              "start": 0,
+              "username": "Keljiaoshenme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959315634933862460",
+        "in_reply_to_user_id": "1597119365282791425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959311702035759282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keljiaoshenme 只能算还没臣服于快感和支配的最后抵抗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959311693575839744",
+            "3_1959311693571661824"
+          ]
+        },
+        "author_id": "1597119365282791425",
+        "conversation_id": "1959311702035759282",
+        "created_at": "2025-08-23T17:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T18:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959311702035759282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSjDwk9NzI",
+              "end": 37,
+              "expanded_url": "https://x.com/Keljiaoshenme/status/1959311702035759282/photo/1",
+              "media_key": "3_1959311693575839744",
+              "start": 14,
+              "url": "https://t.co/rSjDwk9NzI"
+            },
+            {
+              "display_url": "pic.x.com/rSjDwk9NzI",
+              "end": 37,
+              "expanded_url": "https://x.com/Keljiaoshenme/status/1959311702035759282/photo/1",
+              "media_key": "3_1959311693571661824",
+              "start": 14,
+              "url": "https://t.co/rSjDwk9NzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959311702035759282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女上司的秘密（这算臭脸了吧 https://t.co/rSjDwk9NzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 51,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T06:45:18.000Z",
+        "description": "V：68｜188tj｜520主人｜不谈｜不感兴趣｜没人问你｜已有对象｜只回感兴趣的｜管我哪的｜没有线下（言语羞辱我吧，喜欢）",
+        "id": "1597119365282791425",
+        "location": "🚪68｜188｜520",
+        "name": "kel",
+        "pinned_tweet_id": "1932109681910292853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954548018637905920/Bo5Ksn9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20822,
+          "following_count": 62,
+          "like_count": 1578,
+          "listed_count": 40,
+          "media_count": 74,
+          "tweet_count": 353
+        },
+        "username": "Keljiaoshenme",
+        "verified": false
+      }
+    ]
+  }
+}

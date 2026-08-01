@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954226779914448922",
+    "created_at": "2025-08-10T08:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T09:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954454518323634366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949859877825949696",
+          "start": 0,
+          "username": "ChiDe81955"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954454518323634366",
+    "in_reply_to_user_id": "1949859877825949696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954229504270065849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiDe81955 深夜的幸福海底捞，是我向往的日子，我将把它列入我的人生比作清单🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 940,
+        "media_key": "3_1954229486175879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx7RXR0bgAAKQNo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954226779914448922",
+        "created_at": "2025-08-10T08:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T09:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954454518323634366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949859877825949696",
+              "start": 0,
+              "username": "ChiDe81955"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954454518323634366",
+        "in_reply_to_user_id": "1949859877825949696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954229504270065849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiDe81955 深夜的幸福海底捞，是我向往的日子，我将把它列入我的人生比作清单🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954229486175879168"
+          ]
+        },
+        "author_id": "1949859877825949696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1954226779914448922",
+        "created_at": "2025-08-09T17:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T18:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954229504270065849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7XyyfcIRj",
+              "end": 41,
+              "expanded_url": "https://x.com/ChiDe81955/status/1954229504270065849/photo/1",
+              "media_key": "3_1954229486175879168",
+              "start": 18,
+              "url": "https://t.co/U7XyyfcIRj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954229504270065849",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954226779914448922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 刚吃完饭 https://t.co/U7XyyfcIRj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 37,
+          "like_count": 277,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T15:50:12.000Z",
+        "description": "",
+        "id": "1949859877825949696",
+        "name": "一直游到海水变蓝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951725544485367808/1D0PvXJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 72
+        },
+        "username": "ChiDe81955",
+        "verified": false
+      }
+    ]
+  }
+}

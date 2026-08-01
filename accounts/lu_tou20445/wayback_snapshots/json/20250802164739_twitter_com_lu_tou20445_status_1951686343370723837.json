@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951666137269465544",
+    "created_at": "2025-08-02T16:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T17:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951686343370723837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1518058830839435264",
+          "start": 0,
+          "username": "yangheyyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951686343370723837",
+    "in_reply_to_user_id": "1518058830839435264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951666137269465544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangheyyyyyy 因为帅哥都已经被加爆了，留下的就是被挑剩下的捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951666137269465544",
+        "created_at": "2025-08-02T16:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T17:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951686343370723837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1518058830839435264",
+              "start": 0,
+              "username": "yangheyyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951686343370723837",
+        "in_reply_to_user_id": "1518058830839435264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951666137269465544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangheyyyyyy 因为帅哥都已经被加爆了，留下的就是被挑剩下的捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518058830839435264",
+        "conversation_id": "1951666137269465544",
+        "created_at": "2025-08-02T15:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951666137269465544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951666137269465544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么没有可以聊天的帅哥，好悲伤！都去聊那种正常人啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 32,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T02:46:55.000Z",
+        "description": "",
+        "id": "1518058830839435264",
+        "name": "大脑袋瓜子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886107077124521985/z-Z8U40G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 26,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "yangheyyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

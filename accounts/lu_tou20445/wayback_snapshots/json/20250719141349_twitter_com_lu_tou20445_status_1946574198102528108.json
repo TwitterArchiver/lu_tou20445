@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1940756830676045969",
+    "created_at": "2025-07-19T14:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T15:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946574198102528108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827020428562554880",
+          "start": 0,
+          "username": "xiaoyyyyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946574198102528108",
+    "in_reply_to_user_id": "1827020428562554880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940756830676045969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyyyyy_ 诶，那既然条件这么优秀的话，可以搞个申鹤cos服，凑一个开盖即食"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3666,
+        "height": 720,
+        "media_key": "13_1940756772077424641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940756772077424641/img/R4dcFzSXZv0mi097.jpg",
+        "public_metrics": {
+          "view_count": 2121
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940756772077424641/vid/avc1/446x270/AJRxrBNTs4Au4BtZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940756772077424641/vid/avc1/596x360/jIOJaeF68GJRqCaO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940756772077424641/vid/avc1/1194x720/E5QEvO3FtbgVDR7r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940756772077424641/pl/TxVd6zbasTfUIXA6.m3u8"
+          }
+        ],
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1940756830676045969",
+        "created_at": "2025-07-19T14:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T15:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946574198102528108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827020428562554880",
+              "start": 0,
+              "username": "xiaoyyyyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946574198102528108",
+        "in_reply_to_user_id": "1827020428562554880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940756830676045969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyyyyy_ 诶，那既然条件这么优秀的话，可以搞个申鹤cos服，凑一个开盖即食"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940756772077424641"
+          ]
+        },
+        "author_id": "1827020428562554880",
+        "conversation_id": "1940756830676045969",
+        "created_at": "2025-07-03T12:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940756830676045969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATimmK1YSx",
+              "end": 49,
+              "expanded_url": "https://x.com/xiaoyyyyy_/status/1940756830676045969/video/1",
+              "media_key": "13_1940756772077424641",
+              "start": 26,
+              "url": "https://t.co/ATimmK1YSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940756830676045969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4347,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "［第一视角］领口好大，低头一拉就可以开袋即食（？） https://t.co/ATimmK1YSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T16:29:58.000Z",
+        "description": "brat/1i/infp/不闲聊请过🚪/不接线下/另一个我@xiaoxiaoyyyyy_/匿名在下方↘️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "xiaoxiaoyyyyy_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8Fy49519",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8Fy49519",
+                "start": 0,
+                "url": "https://t.co/I1bOiWCBHl"
+              }
+            ]
+          }
+        },
+        "id": "1827020428562554880",
+        "location": "🚪88/188/388/520",
+        "name": "小y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930648164132102144/yjM9Och5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3326,
+          "following_count": 99,
+          "like_count": 3629,
+          "listed_count": 14,
+          "media_count": 66,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/I1bOiWCBHl",
+        "username": "xiaoyyyyy_",
+        "verified": false
+      }
+    ]
+  }
+}

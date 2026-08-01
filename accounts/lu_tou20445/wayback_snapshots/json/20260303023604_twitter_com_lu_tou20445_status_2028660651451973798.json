@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2028348876269519056",
+    "created_at": "2026-03-03T02:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T03:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028660651451973798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1413163370367258626",
+          "start": 0,
+          "username": "OZdwY2pX3PhnsOt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028660651451973798",
+    "in_reply_to_user_id": "1413163370367258626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028658313949540811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OZdwY2pX3PhnsOt 问题不大，看谁不爽可以夹爆他的脑袋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2028348876269519056",
+        "created_at": "2026-03-03T02:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028660651451973798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1413163370367258626",
+              "start": 0,
+              "username": "OZdwY2pX3PhnsOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028660651451973798",
+        "in_reply_to_user_id": "1413163370367258626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028658313949540811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OZdwY2pX3PhnsOt 问题不大，看谁不爽可以夹爆他的脑袋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413163370367258626",
+        "conversation_id": "2028348876269519056",
+        "created_at": "2026-03-03T02:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028658313949540811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028658313949540811",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028348876269519056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我本人：没鲸鱼那么唯美，其实是河马，又要吃陆地的食物，还适应不了阳光，非得躲在水里，进化不出鳃也没有雷霆大肺，只能不停的上岸偷空气再下岸躲太阳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1742,
+          "following_count": 70,
+          "like_count": 17493,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 5233
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-08T15:50:02.000Z",
+        "description": "电子呕吐物｜性爱流水帐｜小学生文笔",
+        "id": "1413163370367258626",
+        "name": "以为头疗是洗头专门没洗头午饭后晕碳躺在按摩店按到睡着打鼾顶着油头头皮屑逃离时摔了个屁墩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783174744776515584/Z-1r-xvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 405,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 140
+        },
+        "username": "OZdwY2pX3PhnsOt",
+        "verified": false
+      }
+    ]
+  }
+}

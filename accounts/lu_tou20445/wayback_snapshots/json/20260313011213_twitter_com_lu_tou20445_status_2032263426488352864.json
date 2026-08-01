@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2028056921639727218",
+    "created_at": "2026-03-13T01:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T02:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032263426488352864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002941421763059712",
+          "start": 0,
+          "username": "Lynn_Ambrosius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032263426488352864",
+    "in_reply_to_user_id": "2002941421763059712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032148992365379995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lynn_Ambrosius 轻弩确实强，t0，会躲就有输出，套装做巨戟 4 保命也很强，片手可以试试在下压的时候凹 jr，打得也蛮快，弓只要不贪精准闪避完打个平刚射也蛮好玩，黑蚀龙那个大翅膀可以伤害全吃🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2028056921639727218",
+        "created_at": "2026-03-13T01:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T02:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032263426488352864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002941421763059712",
+              "start": 0,
+              "username": "Lynn_Ambrosius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032263426488352864",
+        "in_reply_to_user_id": "2002941421763059712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032148992365379995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lynn_Ambrosius 轻弩确实强，t0，会躲就有输出，套装做巨戟 4 保命也很强，片手可以试试在下压的时候凹 jr，打得也蛮快，弓只要不贪精准闪避完打个平刚射也蛮好玩，黑蚀龙那个大翅膀可以伤害全吃🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002941421763059712",
+        "conversation_id": "2028056921639727218",
+        "created_at": "2026-03-12T17:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032148992365379995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032148992365379995",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032026086859817385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我一开始用弓箭一巴掌把我拍死，后来我看到群友说，诶，那你用片手一点点磨过去啊，我用片手举着盾右键，这下是凌迟处死了，轻弩等俺有空了研究一下，看上去好像很强的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1770,
+          "following_count": 71,
+          "like_count": 18416,
+          "listed_count": 5,
+          "media_count": 249,
+          "tweet_count": 5394
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T03:17:23.000Z",
+        "description": "欲提供技术、配装指导请先上舰，或者带主播打过历战王狱焰蛸/帮主播代打历战王黑蚀龙。",
+        "id": "2002941421763059712",
+        "location": "上海",
+        "name": "Lynn_Ambrosius",
+        "pinned_tweet_id": "2027186317332013264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028636585022152704/j77EX9WK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 150,
+          "like_count": 10742,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1113
+        },
+        "username": "Lynn_Ambrosius",
+        "verified": false
+      }
+    ]
+  }
+}

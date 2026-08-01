@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1982419923269046358",
+    "created_at": "2025-10-26T16:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982479502430371844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906057657641058304",
+          "start": 0,
+          "username": "ayura_0108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982479502430371844",
+    "in_reply_to_user_id": "1906057657641058304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982435392763945460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayura_0108 来来来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1982419923269046358",
+        "created_at": "2025-10-26T16:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982479502430371844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906057657641058304",
+              "start": 0,
+              "username": "ayura_0108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982479502430371844",
+        "in_reply_to_user_id": "1906057657641058304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982435392763945460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayura_0108 来来来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906057657641058304",
+        "conversation_id": "1982419923269046358",
+        "created_at": "2025-10-26T13:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982435392763945460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982435392763945460",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982419923269046358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 诶这个真的是，我也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 73,
+          "like_count": 7359,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T18:55:46.000Z",
+        "description": "有施散的，却更增添；有吝惜过度的，反致穷乏。好施舍的，必得丰裕；滋润人的，必得滋润。",
+        "id": "1906057657641058304",
+        "location": "Macdondonald",
+        "name": "小鱼♏️（男的男的男的男的男的男的男的男的男的）",
+        "pinned_tweet_id": "1978450777933820357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980966938244259840/lM1-sUJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 99,
+          "like_count": 9197,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1457
+        },
+        "username": "ayura_0108",
+        "verified": false
+      }
+    ]
+  }
+}

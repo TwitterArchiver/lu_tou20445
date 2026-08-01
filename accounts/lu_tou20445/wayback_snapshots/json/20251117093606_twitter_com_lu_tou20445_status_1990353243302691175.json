@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1990281114142007700",
+    "created_at": "2025-11-17T09:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990353243302691175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1880132235275423744",
+          "start": 0,
+          "username": "Viii2025001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990353243302691175",
+    "in_reply_to_user_id": "1880132235275423744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990281114142007700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viii2025001 如果真是 infj 那这个答案确实难得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 663,
+        "media_key": "3_1990281108475576320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57mH4nbgAAVG8O.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1990281114142007700",
+        "created_at": "2025-11-17T09:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990353243302691175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1880132235275423744",
+              "start": 0,
+              "username": "Viii2025001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990353243302691175",
+        "in_reply_to_user_id": "1880132235275423744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990281114142007700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viii2025001 如果真是 infj 那这个答案确实难得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990281108475576320"
+          ]
+        },
+        "author_id": "1880132235275423744",
+        "conversation_id": "1990281114142007700",
+        "created_at": "2025-11-17T04:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990281114142007700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1WJ1XFenoA",
+              "end": 104,
+              "expanded_url": "https://x.com/Viii2025001/status/1990281114142007700/photo/1",
+              "media_key": "3_1990281108475576320",
+              "start": 81,
+              "url": "https://t.co/1WJ1XFenoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990281114142007700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "INFJ双子男这个回答很出乎意料……\n我以为他会说什么fwb之类的，而且其实我认识的所有双子男都不会正经谈恋爱，所以我回避了他的回答……\n还是那句话，顺其自然吧 https://t.co/1WJ1XFenoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 75,
+          "like_count": 8871,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2742
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T05:58:51.000Z",
+        "description": "大号@VickyYa6464 此号已被盗❗️ / 约会日记📓 / 私聊我之前最好先看看我大号怎么diss男人的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "VickyYa6464"
+              }
+            ]
+          }
+        },
+        "id": "1880132235275423744",
+        "location": "Shanghai",
+        "name": "Viii2025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881945251251945472/6UGaok1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 124,
+          "like_count": 12956,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 336
+        },
+        "username": "Viii2025001",
+        "verified": false
+      }
+    ]
+  }
+}

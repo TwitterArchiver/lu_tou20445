@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993837621886529536",
+        "3_1993837621899051008"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1993837632187752700",
+    "created_at": "2025-11-27T00:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T01:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993837632187752700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WNIMevkrjp",
+          "end": 35,
+          "expanded_url": "https://x.com/lu_tou20445/status/1993837632187752700/photo/1",
+          "media_key": "3_1993837621886529536",
+          "start": 12,
+          "url": "https://t.co/WNIMevkrjp"
+        },
+        {
+          "display_url": "pic.x.com/WNIMevkrjp",
+          "end": 35,
+          "expanded_url": "https://x.com/lu_tou20445/status/1993837632187752700/photo/1",
+          "media_key": "3_1993837621899051008",
+          "start": 12,
+          "url": "https://t.co/WNIMevkrjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993837632187752700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的，这就是今天的天气 https://t.co/WNIMevkrjp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1993837621886529536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uIwNhbMAAX7H9.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1993837621899051008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uIwNkaQAAZUm6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993837621886529536",
+            "3_1993837621899051008"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1993837632187752700",
+        "created_at": "2025-11-27T00:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T01:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993837632187752700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNIMevkrjp",
+              "end": 35,
+              "expanded_url": "https://x.com/lu_tou20445/status/1993837632187752700/photo/1",
+              "media_key": "3_1993837621886529536",
+              "start": 12,
+              "url": "https://t.co/WNIMevkrjp"
+            },
+            {
+              "display_url": "pic.x.com/WNIMevkrjp",
+              "end": 35,
+              "expanded_url": "https://x.com/lu_tou20445/status/1993837632187752700/photo/1",
+              "media_key": "3_1993837621899051008",
+              "start": 12,
+              "url": "https://t.co/WNIMevkrjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993837632187752700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，这就是今天的天气 https://t.co/WNIMevkrjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 69,
+          "like_count": 9811,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 2965
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

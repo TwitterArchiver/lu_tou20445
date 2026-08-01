@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1970093040095338922",
+    "created_at": "2025-09-24T07:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T08:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970757681859436987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1621858556428582915",
+          "start": 0,
+          "username": "XQ12466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970757681859436987",
+    "in_reply_to_user_id": "1621858556428582915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970093040095338922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XQ12466 青筋加大分"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2133,
+        "height": 720,
+        "media_key": "7_1970093027550261250",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1970093027550261250/pu/img/twPOSM0WBi5tvmMe.jpg",
+        "public_metrics": {
+          "view_count": 654
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970093027550261250/pu/vid/avc1/360x270/7zM4tX8WCVe7v7YP.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970093027550261250/pu/vid/avc1/480x360/wZGEo4YGPTYxUbea.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1970093027550261250/pu/vid/avc1/960x720/aM33qRpc1r9kWwSK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1970093027550261250/pu/pl/0kac23Ox9ntmhUGa.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1970093040095338922",
+        "created_at": "2025-09-24T07:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970757681859436987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1621858556428582915",
+              "start": 0,
+              "username": "XQ12466"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970757681859436987",
+        "in_reply_to_user_id": "1621858556428582915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970093040095338922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XQ12466 青筋加大分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1970093027550261250"
+          ]
+        },
+        "author_id": "1621858556428582915",
+        "conversation_id": "1970093040095338922",
+        "created_at": "2025-09-22T11:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970093040095338922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhCKqIwujx",
+              "end": 29,
+              "expanded_url": "https://x.com/XQ12466/status/1970093040095338922/video/1",
+              "media_key": "7_1970093027550261250",
+              "start": 6,
+              "url": "https://t.co/PhCKqIwujx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970093040095338922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2150,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如此丝滑q https://t.co/PhCKqIwujx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 63,
+          "like_count": 4876,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1799
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T13:10:05.000Z",
+        "description": "🚪99/520，本来就是废墟没有塌方这一说",
+        "id": "1621858556428582915",
+        "name": "Boring",
+        "pinned_tweet_id": "1728011877249372427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962549851847315456/NxM4NB06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4294,
+          "following_count": 32,
+          "like_count": 327,
+          "listed_count": 8,
+          "media_count": 43,
+          "tweet_count": 236
+        },
+        "username": "XQ12466",
+        "verified": false
+      }
+    ]
+  }
+}

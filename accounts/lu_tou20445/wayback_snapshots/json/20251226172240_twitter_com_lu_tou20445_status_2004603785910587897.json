@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004520343982231700",
+    "created_at": "2025-12-26T17:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T18:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004603785910587897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1994367065315241984",
+          "start": 0,
+          "username": "kkkkklkuunek777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004603785910587897",
+    "in_reply_to_user_id": "1994367065315241984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004603130231799927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkkklkuunek777 先别在乎那些有的没的👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-26T17:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004603785910587897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1994367065315241984",
+              "start": 0,
+              "username": "kkkkklkuunek777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004603785910587897",
+        "in_reply_to_user_id": "1994367065315241984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004603130231799927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkkklkuunek777 先别在乎那些有的没的👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994367065315241984",
+        "conversation_id": "2004520343982231700",
+        "created_at": "2025-12-26T17:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004603130231799927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004603130231799927",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004520343982231700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 会没鼻梁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 72,
+          "like_count": 12624,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 3629
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T11:25:52.000Z",
+        "description": "你好我是台湾人。使用简体字仅为方便我朋友阅读。原创内容，未经授权请勿转载或搬运。",
+        "id": "1994367065315241984",
+        "name": "普通人",
+        "pinned_tweet_id": "2003780007995507119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504688461504513/6u_0voJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 81,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 199
+        },
+        "username": "kkkkklkuunek777",
+        "verified": true
+      }
+    ]
+  }
+}

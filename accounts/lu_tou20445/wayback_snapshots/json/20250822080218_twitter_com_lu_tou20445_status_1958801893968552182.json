@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958801295860506668",
+    "created_at": "2025-08-22T08:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T09:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958801893968552182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1665732803403603972",
+          "start": 0,
+          "username": "AlexW100231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958801893968552182",
+    "in_reply_to_user_id": "1665732803403603972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958801295860506668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexW100231 我要黄色的那只😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1958801288730484736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy8PZNhboAA9wY2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958801295860506668",
+        "created_at": "2025-08-22T08:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T09:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958801893968552182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1665732803403603972",
+              "start": 0,
+              "username": "AlexW100231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958801893968552182",
+        "in_reply_to_user_id": "1665732803403603972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958801295860506668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexW100231 我要黄色的那只😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958801288730484736"
+          ]
+        },
+        "author_id": "1665732803403603972",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1958801295860506668",
+        "created_at": "2025-08-22T07:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T08:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958801295860506668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TohTw1zxeI",
+              "end": 38,
+              "expanded_url": "https://x.com/AlexW100231/status/1958801295860506668/photo/1",
+              "media_key": "3_1958801288730484736",
+              "start": 15,
+              "url": "https://t.co/TohTw1zxeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958801295860506668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是空气炸锅仙人👼\n谁想吃！ https://t.co/TohTw1zxeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 51,
+          "like_count": 1059,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-05T14:50:40.000Z",
+        "description": "182/165锻炼中，1i/S，喜欢拍拍照片，喜欢和有礼貌的人交谈，喜欢正能量积极的朋友",
+        "id": "1665732803403603972",
+        "name": "Alex W",
+        "pinned_tweet_id": "1947664414246900227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666110379385036800/MHnp3as6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 87,
+          "like_count": 2730,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 184
+        },
+        "username": "AlexW100231",
+        "verified": false
+      }
+    ]
+  }
+}

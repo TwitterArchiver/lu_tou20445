@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956552830166479224",
+    "created_at": "2025-08-16T03:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T04:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956559149233303783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1420786773463080966",
+          "start": 0,
+          "username": "MyPpuppyy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956559149233303783",
+    "in_reply_to_user_id": "1420786773463080966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956552830166479224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyPpuppyy_ 刚看到这句以为是青青叶叶上班去了，我还说谐音梗搞得蛮不错🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1956552814597136384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycSaypaYAAlwcY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956552830166479224",
+        "created_at": "2025-08-16T03:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956559149233303783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1420786773463080966",
+              "start": 0,
+              "username": "MyPpuppyy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956559149233303783",
+        "in_reply_to_user_id": "1420786773463080966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956552830166479224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyPpuppyy_ 刚看到这句以为是青青叶叶上班去了，我还说谐音梗搞得蛮不错🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956552814597136384"
+          ]
+        },
+        "author_id": "1420786773463080966",
+        "conversation_id": "1956552830166479224",
+        "created_at": "2025-08-16T03:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956552830166479224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrVwRDFXlS",
+              "end": 32,
+              "expanded_url": "https://x.com/MyPpuppyy_/status/1956552830166479224/photo/1",
+              "media_key": "3_1956552814597136384",
+              "start": 9,
+              "url": "https://t.co/FrVwRDFXlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956552830166479224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "背着叶叶上班去了 https://t.co/FrVwRDFXlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 44,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T16:42:26.000Z",
+        "description": "秦彻&坂田银时的痴女\n边伯贤/鸣上岚\n死宅二棒\n猫派/ddlg\n梦想是被主人拴在笼子里，每天早上被主人牵出来摸头\n男的女的是人不是人都行只要宠我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/syluskitten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/syluskitten1",
+                "start": 0,
+                "url": "https://t.co/Uu5d1kovoZ"
+              }
+            ]
+          }
+        },
+        "id": "1420786773463080966",
+        "location": "N109区暗点老大脚边",
+        "name": "贝肯尼",
+        "pinned_tweet_id": "1937563460960911647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933216358583709697/8E7VmYQ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 114,
+          "like_count": 2107,
+          "listed_count": 1,
+          "media_count": 635,
+          "tweet_count": 2177
+        },
+        "url": "https://t.co/Uu5d1kovoZ",
+        "username": "MyPpuppyy_",
+        "verified": false
+      }
+    ]
+  }
+}

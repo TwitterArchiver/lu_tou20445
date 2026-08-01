@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008756305935430043",
+    "created_at": "2026-01-07T06:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T07:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008781721760825761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2000183542857510912",
+          "start": 0,
+          "username": "Yi46498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008781721760825761",
+    "in_reply_to_user_id": "2000183542857510912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008757225377198233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yi46498 在记忆墙上狠狠划了一刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008756305935430043",
+        "created_at": "2026-01-07T06:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T07:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008781721760825761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2000183542857510912",
+              "start": 0,
+              "username": "Yi46498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008781721760825761",
+        "in_reply_to_user_id": "2000183542857510912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008757225377198233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yi46498 在记忆墙上狠狠划了一刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000183542857510912",
+        "conversation_id": "2008756305935430043",
+        "created_at": "2026-01-07T04:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008757225377198233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008757225377198233",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008756305935430043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 這種人總是非常快速的插入我的生活又不留下痕跡的離去。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 68,
+          "like_count": 13953,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T12:38:25.000Z",
+        "description": "這裏介紹不了我",
+        "id": "2000183542857510912",
+        "location": "新加坡",
+        "name": "Yi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007013084377022464/0I1QkcWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 21
+        },
+        "username": "Yi46498",
+        "verified": false
+      }
+    ]
+  }
+}

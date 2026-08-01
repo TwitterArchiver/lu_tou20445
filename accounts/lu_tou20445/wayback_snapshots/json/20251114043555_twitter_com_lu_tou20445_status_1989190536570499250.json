@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1989024206269608069",
+    "created_at": "2025-11-14T04:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989190536570499250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1796067307690852352",
+          "start": 0,
+          "username": "zhizhi003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989190536570499250",
+    "in_reply_to_user_id": "1796067307690852352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989190179303874907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizhi003 人之常情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1989024206269608069",
+        "created_at": "2025-11-14T04:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989190536570499250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796067307690852352",
+              "start": 0,
+              "username": "zhizhi003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989190536570499250",
+        "in_reply_to_user_id": "1796067307690852352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989190179303874907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizhi003 人之常情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796067307690852352",
+        "conversation_id": "1989024206269608069",
+        "created_at": "2025-11-14T04:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989190179303874907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989190179303874907",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989024206269608069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我感觉她长的太丑了是个大黑妞我就不喜欢看…（对不起）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 74,
+          "like_count": 8643,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2697
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T06:33:43.000Z",
+        "description": "碎碎念中…\n170 55kg  C杯\n🚪188/288/520/999",
+        "id": "1796067307690852352",
+        "name": "三三 :3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978835973757652992/Dxg2cZUe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 15,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 243
+        },
+        "username": "zhizhi003",
+        "verified": false
+      }
+    ]
+  }
+}

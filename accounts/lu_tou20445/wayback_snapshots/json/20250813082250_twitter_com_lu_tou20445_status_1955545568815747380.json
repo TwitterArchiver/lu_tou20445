@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955497624079081514",
+    "created_at": "2025-08-13T08:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T09:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955545568815747380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1800830982628462592",
+          "start": 0,
+          "username": "shenshunan77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955545568815747380",
+    "in_reply_to_user_id": "1800830982628462592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955497624079081514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenshunan77 那我想养只蓝湾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955497624079081514",
+        "created_at": "2025-08-13T08:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955545568815747380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1800830982628462592",
+              "start": 0,
+              "username": "shenshunan77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955545568815747380",
+        "in_reply_to_user_id": "1800830982628462592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955497624079081514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenshunan77 那我想养只蓝湾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800830982628462592",
+        "conversation_id": "1955497624079081514",
+        "created_at": "2025-08-13T05:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T06:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955497624079081514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955497624079081514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果小狗可以自己遛自己的话 我愿意养只萨摩耶 萨摩耶像一个巨大的棉花糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 421,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T10:02:51.000Z",
+        "description": "是小猫 小猫日记 单身",
+        "id": "1800830982628462592",
+        "name": "关于猫的一切",
+        "pinned_tweet_id": "1873029999420424322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954528555024728064/RBCJzXNv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 271,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 158
+        },
+        "username": "shenshunan77",
+        "verified": false
+      }
+    ]
+  }
+}

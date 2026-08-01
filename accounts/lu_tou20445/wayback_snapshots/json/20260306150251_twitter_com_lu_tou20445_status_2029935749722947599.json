@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2029873821428371701",
+    "created_at": "2026-03-06T15:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029935749722947599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938108852752502784",
+          "start": 0,
+          "username": "520Seulgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029935749722947599",
+    "in_reply_to_user_id": "1938108852752502784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029873821428371701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Seulgi 还有点像 sj 的李赫宰说是😮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4031,
+        "media_key": "3_2029873811076829185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuPefgaUAEPOSZ.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2029873821428371701",
+        "created_at": "2026-03-06T15:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029935749722947599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938108852752502784",
+              "start": 0,
+              "username": "520Seulgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029935749722947599",
+        "in_reply_to_user_id": "1938108852752502784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029873821428371701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Seulgi 还有点像 sj 的李赫宰说是😮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029873811076829185"
+          ]
+        },
+        "author_id": "1938108852752502784",
+        "conversation_id": "2029873821428371701",
+        "created_at": "2026-03-06T10:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T11:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029873821428371701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IeJbfRS82w",
+              "end": 30,
+              "expanded_url": "https://x.com/520Seulgi/status/2029873821428371701/photo/1",
+              "media_key": "3_2029873811076829185",
+              "start": 7,
+              "url": "https://t.co/IeJbfRS82w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029873821428371701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很完美得一张 https://t.co/IeJbfRS82w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 70,
+          "like_count": 17755,
+          "listed_count": 5,
+          "media_count": 243,
+          "tweet_count": 5287
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T05:35:41.000Z",
+        "description": "爱做饭 🍳爱分享🧩 爱姜涩琪🐻（丑逼爱分享）｜我都喜欢红贝贝了还能是什么坏人🦹 ｜我是男的 不是直男🌈｜悉尼🇦🇺老鼠人 抖音：520Seulgi（同名：鸡腿加点辣）｜唯一小号（@WoDui84561）｜（本号纯绿冲浪🏄 随心情互关 私信）｜欢迎匿名私信👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "WoDui84561"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/520seulgi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/520seulgi",
+                "start": 0,
+                "url": "https://t.co/uXGLEeOspz"
+              }
+            ]
+          }
+        },
+        "id": "1938108852752502784",
+        "location": "🚪8.88",
+        "name": "鸡腿加点辣",
+        "pinned_tweet_id": "1955175746487587120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016692815770890240/wMgnuoLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3809,
+          "following_count": 402,
+          "like_count": 11722,
+          "listed_count": 0,
+          "media_count": 2041,
+          "tweet_count": 6767
+        },
+        "url": "https://t.co/uXGLEeOspz",
+        "username": "520Seulgi",
+        "verified": true
+      }
+    ]
+  }
+}

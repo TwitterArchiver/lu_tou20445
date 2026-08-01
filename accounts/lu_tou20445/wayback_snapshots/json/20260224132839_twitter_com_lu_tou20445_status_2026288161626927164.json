@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T13:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026288161626927164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2005960458826874880",
+          "start": 0,
+          "username": "LinLinQianQuanS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026288161626927164",
+    "in_reply_to_user_id": "2005960458826874880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026282676026806651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinLinQianQuanS 不顾及形象的撕咬是对食物和厨师的尊重，还有真正的放松😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T13:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026288161626927164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2005960458826874880",
+              "start": 0,
+              "username": "LinLinQianQuanS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026288161626927164",
+        "in_reply_to_user_id": "2005960458826874880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026282676026806651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinLinQianQuanS 不顾及形象的撕咬是对食物和厨师的尊重，还有真正的放松😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005960458826874880",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T13:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026282676026806651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026282676026806651",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 鬣狗这个比喻就很对味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 70,
+          "like_count": 16704,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5018
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-30T11:15:27.000Z",
+        "description": "我的目光即是你的方向。（原恶魔六点论坛版主，原百度贴吧畜吧小吧主。 已婚，性取向女/男/其它。控制系，微体罚，收女m。姐妹可扩列~不收男的不收男的男的仅限聊天！找不回大号@linlinqianquan2 备用号@linlinqianquan3 ）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "linlinqianquan2"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "linlinqianquan3"
+              }
+            ]
+          }
+        },
+        "id": "2005960458826874880",
+        "name": "蔺蔺缱绻",
+        "pinned_tweet_id": "2023010131718684747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005961482224472064/Ai9VGcps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 166
+        },
+        "username": "LinLinQianQuanS",
+        "verified": false
+      }
+    ]
+  }
+}

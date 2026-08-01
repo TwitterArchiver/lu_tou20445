@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962900374505099378",
+    "created_at": "2025-09-02T15:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T16:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962901271075279268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962901271075279268",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962900374505099378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 你信她还是信我是玉皇大帝能给你封神仙当？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 587,
+        "media_key": "3_1962900367064317953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2fe-RaQAE3G1y.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962900374505099378",
+        "created_at": "2025-09-02T15:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962901271075279268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962901271075279268",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962900374505099378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 你信她还是信我是玉皇大帝能给你封神仙当？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962900367064317953"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1962900374505099378",
+        "created_at": "2025-09-02T15:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962900374505099378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0NzYgQkYz",
+              "end": 33,
+              "expanded_url": "https://x.com/hongpigu980/status/1962900374505099378/photo/1",
+              "media_key": "3_1962900367064317953",
+              "start": 10,
+              "url": "https://t.co/a0NzYgQkYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962900374505099378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷情没销毁作案工具 https://t.co/a0NzYgQkYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 58,
+          "like_count": 2321,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1962425475122548992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75036,
+          "following_count": 59,
+          "like_count": 74,
+          "listed_count": 74,
+          "media_count": 1109,
+          "tweet_count": 1430
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

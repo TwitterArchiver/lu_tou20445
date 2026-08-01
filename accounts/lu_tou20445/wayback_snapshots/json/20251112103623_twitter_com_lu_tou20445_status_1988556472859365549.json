@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1987928401618104334",
+    "created_at": "2025-11-12T10:36:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T11:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988556472859365549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981665053138157568",
+          "start": 0,
+          "username": "ziyi122133"
+        },
+        {
+          "end": 27,
+          "id": "1636584886680293376",
+          "start": 12,
+          "username": "kuailezhinan11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988556472859365549",
+    "in_reply_to_user_id": "1981665053138157568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988555853176193230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziyi122133 @kuailezhinan11 毕竟点了赞就是互动过了👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1987928401618104334",
+        "created_at": "2025-11-12T10:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988556472859365549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981665053138157568",
+              "start": 0,
+              "username": "ziyi122133"
+            },
+            {
+              "end": 27,
+              "id": "1636584886680293376",
+              "start": 12,
+              "username": "kuailezhinan11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988556472859365549",
+        "in_reply_to_user_id": "1981665053138157568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988555853176193230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziyi122133 @kuailezhinan11 毕竟点了赞就是互动过了👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981665053138157568",
+        "conversation_id": "1987928401618104334",
+        "created_at": "2025-11-12T10:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988555853176193230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 28,
+              "id": "1636584886680293376",
+              "start": 13,
+              "username": "kuailezhinan11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988555853176193230",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988470267065385071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @kuailezhinan11 啊哈哈哈哈哈 谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 74,
+          "like_count": 8310,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2642
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T10:12:33.000Z",
+        "description": "爱我老婆",
+        "id": "1981665053138157568",
+        "name": "丢丢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981668898194804736/F_ux3PtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 11,
+          "like_count": 723,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "username": "ziyi122133",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T04:27:07.000Z",
+        "description": "还没玩够，老实人再等等吧",
+        "id": "1636584886680293376",
+        "name": "lou",
+        "pinned_tweet_id": "1830543407439311046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636609713155751936/bZ7CWGxF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 87,
+          "like_count": 9697,
+          "listed_count": 4,
+          "media_count": 1277,
+          "tweet_count": 5692
+        },
+        "username": "kuailezhinan11",
+        "verified": false
+      }
+    ]
+  }
+}

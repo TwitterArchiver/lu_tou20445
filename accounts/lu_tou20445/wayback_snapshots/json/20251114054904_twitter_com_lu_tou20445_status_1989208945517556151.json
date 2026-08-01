@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1989024206269608069",
+    "created_at": "2025-11-14T05:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T06:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989208945517556151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1548978606512095233",
+          "start": 0,
+          "username": "LanYe78245687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989208945517556151",
+    "in_reply_to_user_id": "1548978606512095233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989205686186848468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanYe78245687 铁子你这是猎奇那一挂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_1989205674048561152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sUBXLbIAALgTY.png",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1989024206269608069",
+        "created_at": "2025-11-14T05:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989208945517556151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1548978606512095233",
+              "start": 0,
+              "username": "LanYe78245687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989208945517556151",
+        "in_reply_to_user_id": "1548978606512095233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989205686186848468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanYe78245687 铁子你这是猎奇那一挂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989205674048561152"
+          ]
+        },
+        "author_id": "1548978606512095233",
+        "conversation_id": "1989024206269608069",
+        "created_at": "2025-11-14T05:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989205686186848468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MU8TqFdanW",
+              "end": 36,
+              "expanded_url": "https://x.com/LanYe78245687/status/1989205686186848468/photo/1",
+              "media_key": "3_1989205674048561152",
+              "start": 13,
+              "url": "https://t.co/MU8TqFdanW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989205686186848468",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989024206269608069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 https://t.co/MU8TqFdanW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 74,
+          "like_count": 8647,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2699
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T10:31:05.000Z",
+        "description": "日本語/英語/中国語/電波系/下水道🐭人、日本国内艰难求生。完全没有什么自我时间的社畜，就像树先生一样活着死亡中。",
+        "id": "1548978606512095233",
+        "location": "日本 东京都内",
+        "name": "Lan Ye",
+        "pinned_tweet_id": "1707000070682652792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751858946925887488/cf6Rij1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 102,
+          "like_count": 11064,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 2694
+        },
+        "username": "LanYe78245687",
+        "verified": false
+      }
+    ]
+  }
+}

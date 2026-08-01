@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995858468402782481",
+    "created_at": "2025-12-03T01:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T02:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996025535538102569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1722890300757291008",
+          "start": 0,
+          "username": "baisechenyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996025535538102569",
+    "in_reply_to_user_id": "1722890300757291008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995905264583934021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baisechenyi 感觉触觉在那刻被无限放大，十指连心，是心动的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-03T01:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996025535538102569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1722890300757291008",
+              "start": 0,
+              "username": "baisechenyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996025535538102569",
+        "in_reply_to_user_id": "1722890300757291008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995905264583934021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baisechenyi 感觉触觉在那刻被无限放大，十指连心，是心动的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722890300757291008",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-02T17:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995905264583934021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995905264583934021",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995858468402782481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我靠我特别喜欢玩我喜欢的人的手 就是感觉很舒服 也喜欢被玩手 哎呀好暧昧啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 69,
+          "like_count": 10211,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T08:14:01.000Z",
+        "description": "清水| 双 | 177|esfp| 不厌男不厌女厌傻逼 另一面的我@Babydoll_Nn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Babydoll_Nn"
+              }
+            ]
+          }
+        },
+        "id": "1722890300757291008",
+        "location": "🚪188 不闲聊",
+        "name": "Nn",
+        "pinned_tweet_id": "1985721628446375960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995949516030443522/9e476XBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10975,
+          "following_count": 470,
+          "like_count": 20144,
+          "listed_count": 14,
+          "media_count": 130,
+          "tweet_count": 5954
+        },
+        "username": "baisechenyi",
+        "verified": false
+      }
+    ]
+  }
+}

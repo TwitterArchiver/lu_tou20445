@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061121421028520327",
+    "created_at": "2026-06-01T06:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T07:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061339660786561233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1712151514742214658",
+          "start": 0,
+          "username": "todosmt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061339660786561233",
+    "in_reply_to_user_id": "1712151514742214658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061337524535246958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@todosmt 家暴是以伤害为前提的，上面这种拍打是以激起羞耻心为前提增加情趣的，严肃点说是双方知情且同意，有的还会设置安全词哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061121421028520327",
+        "created_at": "2026-06-01T06:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061339660786561233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1712151514742214658",
+              "start": 0,
+              "username": "todosmt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061339660786561233",
+        "in_reply_to_user_id": "1712151514742214658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061337524535246958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@todosmt 家暴是以伤害为前提的，上面这种拍打是以激起羞耻心为前提增加情趣的，严肃点说是双方知情且同意，有的还会设置安全词哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712151514742214658",
+        "conversation_id": "2061121421028520327",
+        "created_at": "2026-06-01T06:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T07:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061337524535246958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061337524535246958",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061269316558041241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 看起来和家暴没区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 69,
+          "like_count": 21177,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6019
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T17:02:03.000Z",
+        "description": "一个人只是他的思想的产物，他想什么，就会成为什么。",
+        "id": "1712151514742214658",
+        "name": "Yoly🍓",
+        "pinned_tweet_id": "1782288411149406268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041693058560094208/aInSRoDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 193,
+          "like_count": 6764,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 5346
+        },
+        "username": "todosmt",
+        "verified": false
+      }
+    ]
+  }
+}

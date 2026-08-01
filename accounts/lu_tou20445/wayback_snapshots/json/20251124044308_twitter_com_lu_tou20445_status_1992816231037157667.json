@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1992497025938809026",
+    "created_at": "2025-11-24T04:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T05:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992816231037157667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1921860343011434496",
+          "start": 0,
+          "username": "en0393424224229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992816231037157667",
+    "in_reply_to_user_id": "1921860343011434496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992791958507651424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@en0393424224229 作为那顿饭的饮品部分，确实还不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1992497025938809026",
+        "created_at": "2025-11-24T04:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992816231037157667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1921860343011434496",
+              "start": 0,
+              "username": "en0393424224229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992816231037157667",
+        "in_reply_to_user_id": "1921860343011434496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992791958507651424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@en0393424224229 作为那顿饭的饮品部分，确实还不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921860343011434496",
+        "conversation_id": "1992497025938809026",
+        "created_at": "2025-11-24T03:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992791958507651424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992791958507651424",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992497025938809026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 木瓜汁应该不错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 70,
+          "like_count": 9580,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2899
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T09:29:55.000Z",
+        "description": "",
+        "id": "1921860343011434496",
+        "name": "en🪺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922609813688561664/u2KQkT0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 59,
+          "like_count": 199,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 121
+        },
+        "username": "en0393424224229",
+        "verified": false
+      }
+    ]
+  }
+}

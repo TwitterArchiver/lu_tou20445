@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953806597597151583",
+    "created_at": "2025-08-09T03:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T04:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954018223155794378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934564473320415233",
+          "start": 0,
+          "username": "ouo3oyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954018223155794378",
+    "in_reply_to_user_id": "1934564473320415233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953806597597151583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ouo3oyi 旁边几位划拳猜拳喝半天扭头一看你在堆骰子天都塌了😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1953806563996839936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1Qt97bsAAHAIg.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953806597597151583",
+        "created_at": "2025-08-09T03:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T04:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954018223155794378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934564473320415233",
+              "start": 0,
+              "username": "ouo3oyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954018223155794378",
+        "in_reply_to_user_id": "1934564473320415233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953806597597151583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouo3oyi 旁边几位划拳猜拳喝半天扭头一看你在堆骰子天都塌了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953806563996839936"
+          ]
+        },
+        "author_id": "1934564473320415233",
+        "conversation_id": "1953806597597151583",
+        "created_at": "2025-08-08T13:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T14:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953806597597151583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/itUqcfJm5F",
+              "end": 27,
+              "expanded_url": "https://x.com/ouo3oyi/status/1953806597597151583/photo/1",
+              "media_key": "3_1953806563996839936",
+              "start": 4,
+              "url": "https://t.co/itUqcfJm5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953806597597151583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "技术流 https://t.co/itUqcfJm5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 37,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T10:51:37.000Z",
+        "description": "大概是日常😇/不约不调不看屌。",
+        "id": "1934564473320415233",
+        "location": "﹦﹃ ＝",
+        "name": "冰冰无理",
+        "pinned_tweet_id": "1952313058577297702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951955825028960256/5mIUpA7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 117,
+          "like_count": 1622,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 604
+        },
+        "username": "ouo3oyi",
+        "verified": false
+      }
+    ]
+  }
+}

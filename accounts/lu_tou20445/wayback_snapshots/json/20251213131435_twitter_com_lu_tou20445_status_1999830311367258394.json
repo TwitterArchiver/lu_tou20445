@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1998748893677498822",
+    "created_at": "2025-12-13T13:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T14:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999830311367258394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1680945920484216832",
+          "start": 0,
+          "username": "yeppppp24"
+        },
+        {
+          "end": 27,
+          "id": "1935562290746765315",
+          "start": 11,
+          "username": "yuhe24156661877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999830311367258394",
+    "in_reply_to_user_id": "1680945920484216832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999051042399666570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeppppp24 @yuhe24156661877 杯杯倒满"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1998748893677498822",
+        "created_at": "2025-12-13T13:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999830311367258394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1680945920484216832",
+              "start": 0,
+              "username": "yeppppp24"
+            },
+            {
+              "end": 27,
+              "id": "1935562290746765315",
+              "start": 11,
+              "username": "yuhe24156661877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999830311367258394",
+        "in_reply_to_user_id": "1680945920484216832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999051042399666570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeppppp24 @yuhe24156661877 杯杯倒满"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680945920484216832",
+        "conversation_id": "1998748893677498822",
+        "created_at": "2025-12-11T09:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999051042399666570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935562290746765315",
+              "start": 0,
+              "username": "yuhe24156661877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999051042399666570",
+        "in_reply_to_user_id": "1935562290746765315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1307,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998748893677498822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuhe24156661877 借楼蹲，，，，能不能推荐一点对抗性不是很强的双人多人小游戏，星露谷已经玩过了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 67,
+          "like_count": 11208,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 3239
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T14:22:16.000Z",
+        "description": "社畜男娘｜最符合头像的一集｜互联网搬砖推友💻 愿望是悠闲地享受生活☕️ 看我推文体验沉浸式上班｜记录即刻心情 措辞不当敬请谅解",
+        "id": "1680945920484216832",
+        "location": "更好的未来",
+        "name": "小林酱",
+        "pinned_tweet_id": "1975246976544612474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961081840061784065/CEMz6iUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 310,
+          "like_count": 36281,
+          "listed_count": 10,
+          "media_count": 363,
+          "tweet_count": 9827
+        },
+        "username": "yeppppp24",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T04:56:44.000Z",
+        "description": "想发啥发啥 不想发发芽/不发h且承受能力很差请不要折磨/现实里的朋友补药认出我啊/止推于推 推上是我的第三人格 敏感脆弱人格/都在推上了希望大家都轻轻松松随意一点 我也是",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/limerence43984",
+                "end": 23,
+                "expanded_url": "http://ngl.link/limerence43984",
+                "start": 0,
+                "url": "https://t.co/8L024WpV83"
+              }
+            ]
+          }
+        },
+        "id": "1935562290746765315",
+        "name": "🌧️🐟🐟",
+        "pinned_tweet_id": "1956734840650252567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960572907362639873/Xkqg4nSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 52,
+          "like_count": 3874,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 646
+        },
+        "url": "https://t.co/8L024WpV83",
+        "username": "yuhe24156661877",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1957709819344834560"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957697123245310247",
+    "created_at": "2025-08-19T07:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T08:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957709852857225669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1924098812643364864",
+          "start": 0,
+          "username": "gunainai13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/As5ahIPmk9",
+          "end": 60,
+          "expanded_url": "https://x.com/lu_tou20445/status/1957709852857225669/photo/1",
+          "media_key": "16_1957709819344834560",
+          "start": 37,
+          "url": "https://t.co/As5ahIPmk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957709852857225669",
+    "in_reply_to_user_id": "1924098812643364864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957709627556020593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gunainai13 所以说我在跟没出现的人竞争，而且还不配单独的版面 https://t.co/As5ahIPmk9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "16_1957709819344834560",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GysutVNX0AANON5.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GysutVNX0AANON5.mp4"
+          }
+        ],
+        "width": 208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1957709819344834560"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957697123245310247",
+        "created_at": "2025-08-19T07:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957709852857225669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1924098812643364864",
+              "start": 0,
+              "username": "gunainai13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/As5ahIPmk9",
+              "end": 60,
+              "expanded_url": "https://x.com/lu_tou20445/status/1957709852857225669/photo/1",
+              "media_key": "16_1957709819344834560",
+              "start": 37,
+              "url": "https://t.co/As5ahIPmk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957709852857225669",
+        "in_reply_to_user_id": "1924098812643364864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957709627556020593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gunainai13 所以说我在跟没出现的人竞争，而且还不配单独的版面 https://t.co/As5ahIPmk9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924098812643364864",
+        "conversation_id": "1957697123245310247",
+        "created_at": "2025-08-19T07:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T08:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957709627556020593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957709627556020593",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957708631400468711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 还没出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 51,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T13:44:58.000Z",
+        "description": "追妻成功版｜匿名可点下方链接⬇️｜互fo可以来匿名点歌｜我老婆叫优崽（悠哉）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8F%87%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8F%87%E8%80%90%E8%80%90",
+                "start": 0,
+                "url": "https://t.co/C8GCOEMhUZ"
+              }
+            ]
+          }
+        },
+        "id": "1924098812643364864",
+        "name": "菇·耐耐（幸福两夜版）",
+        "pinned_tweet_id": "1952039805732438260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953326317166051330/ZYP8OFu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 201,
+          "like_count": 4656,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/C8GCOEMhUZ",
+        "username": "gunainai13",
+        "verified": false
+      }
+    ]
+  }
+}

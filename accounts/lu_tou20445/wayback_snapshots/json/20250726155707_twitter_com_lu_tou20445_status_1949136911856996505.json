@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949007359868825762",
+    "created_at": "2025-07-26T15:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T16:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949136911856996505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762399735644921856",
+          "start": 0,
+          "username": "shrnyygu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949136911856996505",
+    "in_reply_to_user_id": "1762399735644921856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949007359868825762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrnyygu114514 该花就花，情绪付费还蛮重要的，反正多年亲身经历就是，如果你在某件事情上犹豫要不要花钱，那你大概率会因为乱七八糟曲曲折折的原因加倍把钱花在其他地方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949007359868825762",
+        "created_at": "2025-07-26T15:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T16:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949136911856996505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762399735644921856",
+              "start": 0,
+              "username": "shrnyygu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949136911856996505",
+        "in_reply_to_user_id": "1762399735644921856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949007359868825762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrnyygu114514 该花就花，情绪付费还蛮重要的，反正多年亲身经历就是，如果你在某件事情上犹豫要不要花钱，那你大概率会因为乱七八糟曲曲折折的原因加倍把钱花在其他地方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762399735644921856",
+        "conversation_id": "1949007359868825762",
+        "created_at": "2025-07-26T07:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T08:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949007359868825762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949007359868825762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么才能控制住让自己不给游戏花钱，感觉自己在这方面花太多了很不值。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 153
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "话少，爱点赞 ，好吧其实话也挺多的/很温良除非遇到贱人/抑郁治疗ing/爱看电影/板绘学习ing/废柴尼特/欢迎交朋友",
+        "id": "1762399735644921856",
+        "location": "在无爱之森呐喊",
+        "name": "好吃麻辣烫大王",
+        "pinned_tweet_id": "1935890736362500245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929893492760948745/1zB3Uuaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 465,
+          "like_count": 22783,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1347
+        },
+        "username": "shrnyygu114514",
+        "verified": false
+      }
+    ]
+  }
+}

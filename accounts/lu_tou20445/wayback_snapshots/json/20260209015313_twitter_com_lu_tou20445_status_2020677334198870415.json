@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2020523384921354408",
+    "created_at": "2026-02-09T01:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T02:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020677334198870415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2741431937",
+          "start": 0,
+          "username": "hey_akie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020677334198870415",
+    "in_reply_to_user_id": "2741431937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020676762901127421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hey_akie 不，说明包容性强了👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2020523384921354408",
+        "created_at": "2026-02-09T01:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020677334198870415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2741431937",
+              "start": 0,
+              "username": "hey_akie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020677334198870415",
+        "in_reply_to_user_id": "2741431937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020676762901127421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hey_akie 不，说明包容性强了👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2741431937",
+        "conversation_id": "2020523384921354408",
+        "created_at": "2026-02-09T01:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020676762901127421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020676762901127421",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020676671465283768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 说明年纪到了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 71,
+          "like_count": 15413,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 4631
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-13T03:35:23.000Z",
+        "description": "到处互动，热衷吹牛摸鱼，烧得一手好菜🥘，对象是 👩‍❤️‍👨 @Hanna_yh\n\n长期深耕于各大书单📖，致力于把“买书”和“看书”拆分为两项独立爱好。\n\n键盘演奏家，专业写代码🧑🏻‍💻，业余改 Bug。梦想是写出不需要注释的代码，现实是连昨天的代码都看不懂。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Hanna_yh"
+              }
+            ]
+          }
+        },
+        "id": "2741431937",
+        "location": "Wyoming, USA · Global Service",
+        "name": "萤火 ᕕ( ᐛ )ᕗ",
+        "pinned_tweet_id": "2018632636856680891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938089060574367744/-cWLTSbC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 1096,
+          "like_count": 7088,
+          "listed_count": 1,
+          "media_count": 462,
+          "tweet_count": 4413
+        },
+        "username": "hey_akie",
+        "verified": true
+      }
+    ]
+  }
+}

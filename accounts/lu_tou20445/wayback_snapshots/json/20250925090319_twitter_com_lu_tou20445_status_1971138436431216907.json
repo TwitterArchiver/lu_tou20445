@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1971137705208909988",
+    "created_at": "2025-09-25T09:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T10:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971138436431216907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971138436431216907",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971137705208909988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo 这下2469关注要变成24690关注了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 848,
+        "media_key": "7_1971137678780555264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971137678780555264/pu/img/v22Ly5ZiIef0q2WJ.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971137678780555264/pu/vid/avc1/320x376/IJILC3P6nRIfSVcu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971137678780555264/pu/vid/avc1/480x564/PuECgosdajx2Rv3n.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971137678780555264/pu/vid/avc1/720x848/PXA2MrOk8eMNSLSx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971137678780555264/pu/pl/6wUIfGgncKWWtw1p.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1971137705208909988",
+        "created_at": "2025-09-25T09:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T10:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971138436431216907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971138436431216907",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971137705208909988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo 这下2469关注要变成24690关注了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971137678780555264"
+          ]
+        },
+        "author_id": "1904949484783841280",
+        "conversation_id": "1971137705208909988",
+        "created_at": "2025-09-25T09:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T10:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971137705208909988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EnkRFqmBy",
+              "end": 37,
+              "expanded_url": "https://x.com/fuzhuovo/status/1971137705208909988/video/1",
+              "media_key": "7_1971137678780555264",
+              "start": 14,
+              "url": "https://t.co/5EnkRFqmBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971137705208909988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实苯人长这样（特效挺重的 https://t.co/5EnkRFqmBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 63,
+          "like_count": 4973,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 1827
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "男同别来沾边...新人男喘一枚...\n不！是！那！个！腐！竹！大！王！\n自用蜂鸟VPN https://t.co/5tYNEdRop5\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.apifn.xyz/#/register?cod…",
+                "end": 67,
+                "expanded_url": "https://api.apifn.xyz/#/register?code=rFp",
+                "start": 44,
+                "url": "https://t.co/5tYNEdRop5"
+              },
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 97,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 74,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "😼腐竹（改名版",
+        "pinned_tweet_id": "1971108684890780136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962567126755221504/UpYzGaKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 594,
+          "like_count": 15286,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 3285
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      }
+    ]
+  }
+}

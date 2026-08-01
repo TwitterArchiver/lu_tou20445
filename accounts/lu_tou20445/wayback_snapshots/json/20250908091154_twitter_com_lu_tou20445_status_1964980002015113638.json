@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1964673127033848056",
+    "created_at": "2025-09-08T09:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T10:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964980002015113638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1159523910234148864",
+          "start": 0,
+          "username": "chang65283068"
+        },
+        {
+          "end": 25,
+          "id": "2833494817",
+          "start": 15,
+          "username": "maycat520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964980002015113638",
+    "in_reply_to_user_id": "1159523910234148864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964673127033848056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chang65283068 @maycat520 很像一个房间里的朋友在唱，有种安心的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 158259,
+        "height": 960,
+        "media_key": "13_1964672508260401152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1964672508260401152/img/mSl2Ywj1noYijB47.jpg",
+        "public_metrics": {
+          "view_count": 157
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964672508260401152/vid/avc1/320x710/RAR4JzbXKMeZnAk4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1964672508260401152/vid/avc1/432x960/PScpN6hgsHWQpuBI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1964672508260401152/pl/3IjLqZKI6-Z29Zj1.m3u8?tag=14"
+          }
+        ],
+        "width": 432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1964673127033848056",
+        "created_at": "2025-09-08T09:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964980002015113638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1159523910234148864",
+              "start": 0,
+              "username": "chang65283068"
+            },
+            {
+              "end": 25,
+              "id": "2833494817",
+              "start": 15,
+              "username": "maycat520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964980002015113638",
+        "in_reply_to_user_id": "1159523910234148864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964673127033848056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chang65283068 @maycat520 很像一个房间里的朋友在唱，有种安心的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1964672508260401152"
+          ]
+        },
+        "author_id": "1159523910234148864",
+        "conversation_id": "1964673127033848056",
+        "created_at": "2025-09-07T12:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964673127033848056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "2833494817",
+              "start": 14,
+              "username": "maycat520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fxTTdljqCf",
+              "end": 48,
+              "expanded_url": "https://x.com/chang65283068/status/1964673127033848056/video/1",
+              "media_key": "13_1964672508260401152",
+              "start": 25,
+              "url": "https://t.co/fxTTdljqCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964673127033848056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 561,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是宝贝呀，人生又不止这样🐠@maycat520 https://t.co/fxTTdljqCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 65,
+          "like_count": 3246,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1605
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-08T17:56:57.000Z",
+        "description": "喜欢唱歌，绘画，看电影，看纸质书/欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fox29816",
+                "end": 23,
+                "expanded_url": "http://ngl.link/fox29816",
+                "start": 0,
+                "url": "https://t.co/i1dkjhIual"
+              }
+            ]
+          }
+        },
+        "id": "1159523910234148864",
+        "location": "看得见风景的房间",
+        "name": "f#x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165698907923369990/4rUW74HQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 147,
+          "like_count": 1110,
+          "listed_count": 8,
+          "media_count": 80,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/i1dkjhIual",
+        "username": "chang65283068",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-27T02:33:18.000Z",
+        "description": "潛水的52赫茲鯨魚，\n在深海裡唱著自己的歌。\n\n在沉默與話癆中切換",
+        "id": "2833494817",
+        "location": "星際塵埃",
+        "name": "夜貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946441228964245504/YEdEo7Fe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 147,
+          "like_count": 6167,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 410
+        },
+        "username": "maycat520",
+        "verified": false
+      }
+    ]
+  }
+}

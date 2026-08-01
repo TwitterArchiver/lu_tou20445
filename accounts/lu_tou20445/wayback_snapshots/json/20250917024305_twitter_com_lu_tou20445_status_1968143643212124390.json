@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1968140508729053435",
+    "created_at": "2025-09-17T02:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T03:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968143643212124390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482923379438936064",
+          "start": 0,
+          "username": "qing_qing97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968143643212124390",
+    "in_reply_to_user_id": "1482923379438936064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968140508729053435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_qing97 纯情蟑螂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1968140505159700485",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A9XJ4aEAUL71r.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1968140508729053435",
+        "created_at": "2025-09-17T02:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968143643212124390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482923379438936064",
+              "start": 0,
+              "username": "qing_qing97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968143643212124390",
+        "in_reply_to_user_id": "1482923379438936064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968140508729053435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_qing97 纯情蟑螂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968140505159700485"
+          ]
+        },
+        "author_id": "1482923379438936064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968140508729053435",
+        "created_at": "2025-09-17T02:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968140508729053435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P9VFVzvOn0",
+              "end": 29,
+              "expanded_url": "https://x.com/qing_qing97/status/1968140508729053435/photo/1",
+              "media_key": "3_1968140505159700485",
+              "start": 6,
+              "url": "https://t.co/P9VFVzvOn0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968140508729053435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到🔥🔥🔥 https://t.co/P9VFVzvOn0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 63,
+          "like_count": 4128,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1705
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T03:51:06.000Z",
+        "description": "(。•ω -)ε・ ｡)女宝的消息都会回，男的随缘",
+        "id": "1482923379438936064",
+        "name": "朝時飲露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936762977278984192/WjWcnBQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 115,
+          "like_count": 12442,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 2078
+        },
+        "username": "qing_qing97",
+        "verified": false
+      }
+    ]
+  }
+}

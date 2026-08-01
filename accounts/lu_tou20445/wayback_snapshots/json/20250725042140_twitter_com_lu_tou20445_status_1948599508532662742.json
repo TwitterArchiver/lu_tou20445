@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948589259012931644",
+    "created_at": "2025-07-25T04:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T05:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948599508532662742"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "kongfu",
+          "probability": 0.3544,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935984511948668936",
+          "start": 0,
+          "username": "lucky97090198"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948599508532662742",
+    "in_reply_to_user_id": "1935984511948668936",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948589259012931644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucky97090198 嘟嘟嘟嘟diudiudiu，everybody is kongfu fighting～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_1948589244093509632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrHl-tXMAA4blr.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948589259012931644",
+        "created_at": "2025-07-25T04:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948599508532662742"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "kongfu",
+              "probability": 0.3544,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935984511948668936",
+              "start": 0,
+              "username": "lucky97090198"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948599508532662742",
+        "in_reply_to_user_id": "1935984511948668936",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948589259012931644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucky97090198 嘟嘟嘟嘟diudiudiu，everybody is kongfu fighting～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948589244093509632"
+          ]
+        },
+        "author_id": "1935984511948668936",
+        "conversation_id": "1948589259012931644",
+        "created_at": "2025-07-25T03:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948589259012931644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "kongfu",
+              "probability": 0.4692,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WoD9MR02L",
+              "end": 52,
+              "expanded_url": "https://x.com/lucky97090198/status/1948589259012931644/photo/1",
+              "media_key": "3_1948589244093509632",
+              "start": 29,
+              "url": "https://t.co/4WoD9MR02L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948589259012931644",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "everybody is kongfu fighting https://t.co/4WoD9MR02L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 112
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T08:54:22.000Z",
+        "description": "谢谢大家喜欢/不收门槛 不收口令红包 不加其他任何联系方式/提问箱✉欢迎宝宝们找我️玩🔗https://t.co/FQKUCavf4q",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lili76911",
+                "end": 67,
+                "expanded_url": "https://ngl.link/lili76911",
+                "start": 44,
+                "url": "https://t.co/FQKUCavf4q"
+              }
+            ]
+          }
+        },
+        "id": "1935984511948668936",
+        "location": "青岛",
+        "name": "☝️",
+        "pinned_tweet_id": "1945510535078035881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947679248682258439/pOaQUtwD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 140,
+          "like_count": 1629,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 652
+        },
+        "username": "lucky97090198",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1929710957741461842",
+    "created_at": "2025-07-30T04:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T05:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950413741637443987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847201294748172288",
+          "start": 0,
+          "username": "ejdh383254"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950413741637443987",
+    "in_reply_to_user_id": "1847201294748172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929710957741461842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ejdh383254 雀台，主动，梗概也是仙品"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23701,
+        "height": 720,
+        "media_key": "7_1929710889193951235",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929710889193951235/pu/img/ZDlc-G6S3n435imb.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929710889193951235/pu/vid/avc1/480x270/ofdgNRtwEuew8H3P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929710889193951235/pu/vid/avc1/640x360/tEzHfS_f_6IgvRZ5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929710889193951235/pu/vid/avc1/1280x720/nNfUEcm4R5VfBw7K.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929710889193951235/pu/pl/fR7jkil2ksHnOVGx.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1929710957741461842",
+        "created_at": "2025-07-30T04:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T05:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950413741637443987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847201294748172288",
+              "start": 0,
+              "username": "ejdh383254"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950413741637443987",
+        "in_reply_to_user_id": "1847201294748172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929710957741461842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ejdh383254 雀台，主动，梗概也是仙品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929710889193951235"
+          ]
+        },
+        "author_id": "1847201294748172288",
+        "conversation_id": "1929710957741461842",
+        "created_at": "2025-06-03T01:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T02:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929710957741461842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBUqDrrWfc",
+              "end": 52,
+              "expanded_url": "https://x.com/ejdh383254/status/1929710957741461842/video/1",
+              "media_key": "7_1929710889193951235",
+              "start": 29,
+              "url": "https://t.co/QBUqDrrWfc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929710957741461842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽了啊啊啊啊啊这首歌就是仙品吧，这两句的调调真的是爱死了 https://t.co/QBUqDrrWfc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T09:01:34.000Z",
+        "description": "吐糟号，重度社恐，超级i，人机",
+        "id": "1847201294748172288",
+        "location": "临空市",
+        "name": "小e大王",
+        "pinned_tweet_id": "1946570413578096834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949808403762614272/qQ7zYNkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 315,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 717
+        },
+        "username": "ejdh383254",
+        "verified": false
+      }
+    ]
+  }
+}

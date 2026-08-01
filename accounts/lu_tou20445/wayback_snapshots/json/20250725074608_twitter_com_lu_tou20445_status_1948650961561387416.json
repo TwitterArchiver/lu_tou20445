@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948579714546766215",
+    "created_at": "2025-07-25T07:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T08:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948650961561387416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1868705116909416448",
+          "start": 0,
+          "username": "neikupifa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948650961561387416",
+    "in_reply_to_user_id": "1868705116909416448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948579714546766215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neikupifa 太痛苦咧，先碰到你那个号聊的天再看到这个号的，现在聊会不会显得很假装"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948579714546766215",
+        "created_at": "2025-07-25T07:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T08:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948650961561387416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1868705116909416448",
+              "start": 0,
+              "username": "neikupifa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948650961561387416",
+        "in_reply_to_user_id": "1868705116909416448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948579714546766215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neikupifa 太痛苦咧，先碰到你那个号聊的天再看到这个号的，现在聊会不会显得很假装"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868705116909416448",
+        "conversation_id": "1948579714546766215",
+        "created_at": "2025-07-25T03:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T04:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948579714546766215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948579714546766215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能因为我的文字我的情绪而和我聊天，而不是因为看到我小号的图片而摸到我这个号假装爱我的文字。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 115
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T17:10:05.000Z",
+        "description": "梦到哪句说哪句，不为我的言论负责｜宝宝@Pscouopie4u ｜图片版的我@auvebj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "Pscouopie4u"
+              },
+              {
+                "end": 45,
+                "start": 38,
+                "username": "auvebj"
+              }
+            ]
+          }
+        },
+        "id": "1868705116909416448",
+        "location": "杀爹牛肉铺",
+        "name": "鸭味华夫饼🧇",
+        "pinned_tweet_id": "1932393876859261187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914868966159253504/P0egM9cF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 78,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 2124
+        },
+        "username": "neikupifa",
+        "verified": false
+      }
+    ]
+  }
+}

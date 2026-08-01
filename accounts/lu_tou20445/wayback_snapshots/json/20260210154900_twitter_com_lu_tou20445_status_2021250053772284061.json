@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2020120163920625762",
+    "created_at": "2026-02-10T15:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021250053772284061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1727353872757526528",
+          "start": 0,
+          "username": "loveEzbaek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021250053772284061",
+    "in_reply_to_user_id": "1727353872757526528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021234639990403108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveEzbaek 很难想象还是不是人类的范畴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2020120163920625762",
+        "created_at": "2026-02-10T15:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021250053772284061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1727353872757526528",
+              "start": 0,
+              "username": "loveEzbaek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021250053772284061",
+        "in_reply_to_user_id": "1727353872757526528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021234639990403108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveEzbaek 很难想象还是不是人类的范畴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727353872757526528",
+        "conversation_id": "2020120163920625762",
+        "created_at": "2026-02-10T14:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021234639990403108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021234639990403108",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020120163920625762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 wtf太猎奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 71,
+          "like_count": 15598,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 4668
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T15:50:45.000Z",
+        "description": "记忆是相见的一种方式",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/loveezbaek",
+                "end": 23,
+                "expanded_url": "https://ngl.link/loveezbaek",
+                "start": 0,
+                "url": "https://t.co/0cVycUdlOW"
+              }
+            ]
+          }
+        },
+        "id": "1727353872757526528",
+        "location": "提问箱在这里➡️",
+        "name": "我发现睡觉很舒服",
+        "pinned_tweet_id": "2003846741809086496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019833231206760448/fWI4q_iO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 7,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/0cVycUdlOW",
+        "username": "loveEzbaek",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2035611728281772281",
+    "created_at": "2026-03-22T07:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035617288318275714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1981722018312806400",
+          "start": 0,
+          "username": "kitten718miao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035617288318275714",
+    "in_reply_to_user_id": "1981722018312806400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035616453848891720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitten718miao 本来进行中写完掐着脖子抬头在镜子前边看边明知故问或者再抓着手让你自己亲手一笔一笔写下，边写边做写完让你自己再读出来就很好玩，他却选择了最有松弛感的玩法，全是小巧思，🐂🍺👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2035611728281772281",
+        "created_at": "2026-03-22T07:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035617288318275714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1981722018312806400",
+              "start": 0,
+              "username": "kitten718miao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035617288318275714",
+        "in_reply_to_user_id": "1981722018312806400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035616453848891720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitten718miao 本来进行中写完掐着脖子抬头在镜子前边看边明知故问或者再抓着手让你自己亲手一笔一笔写下，边写边做写完让你自己再读出来就很好玩，他却选择了最有松弛感的玩法，全是小巧思，🐂🍺👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981722018312806400",
+        "conversation_id": "2035611728281772281",
+        "created_at": "2026-03-22T07:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035616453848891720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035616453848891720",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035616008753549312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 买的本意明明就是要在进行中写的 年下可能就是这样狗吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 72,
+          "like_count": 19052,
+          "listed_count": 5,
+          "media_count": 255,
+          "tweet_count": 5544
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T13:58:54.000Z",
+        "description": "Be my lover. @Laraaa718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Laraaa718"
+              }
+            ]
+          }
+        },
+        "id": "1981722018312806400",
+        "name": "猫睡醒了",
+        "pinned_tweet_id": "2034347384818618563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027587083884498946/MZL_8K4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 80,
+          "like_count": 1734,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1510
+        },
+        "username": "kitten718miao",
+        "verified": false
+      }
+    ]
+  }
+}

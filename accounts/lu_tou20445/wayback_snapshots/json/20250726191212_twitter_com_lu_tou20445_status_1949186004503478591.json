@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949116296622129439",
+    "created_at": "2025-07-26T19:12:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T20:12:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949186004503478591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1470429921830862849",
+          "start": 0,
+          "username": "aaaapiooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949186004503478591",
+    "in_reply_to_user_id": "1470429921830862849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949185572381286558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaapiooo 是的，不过这孩子换场地和环境有点应激，晚上带回来换新盒的时候在攻击我，希望以后还能有加深感情的机会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949116296622129439",
+        "created_at": "2025-07-26T19:12:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T20:12:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949186004503478591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1470429921830862849",
+              "start": 0,
+              "username": "aaaapiooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949186004503478591",
+        "in_reply_to_user_id": "1470429921830862849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949185572381286558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaapiooo 是的，不过这孩子换场地和环境有点应激，晚上带回来换新盒的时候在攻击我，希望以后还能有加深感情的机会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470429921830862849",
+        "conversation_id": "1949116296622129439",
+        "created_at": "2025-07-26T19:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T20:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949185572381286558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949185572381286558",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949116296622129439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 蛮可爱的 以前盘过 感觉手感凉凉的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 189
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T16:26:44.000Z",
+        "description": "我在好好生活",
+        "id": "1470429921830862849",
+        "name": "离",
+        "pinned_tweet_id": "1914006856500130246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940816203699589120/EU7fYRMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 71,
+          "like_count": 2014,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 341
+        },
+        "username": "aaaapiooo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2027696378055692770",
+    "created_at": "2026-02-28T12:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027723489768341922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020036022097309698",
+          "start": 0,
+          "username": "vsffhwvmrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027723489768341922",
+    "in_reply_to_user_id": "2020036022097309698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027722467574460591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vsffhwvmrn 是水杯😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2027696378055692770",
+        "created_at": "2026-02-28T12:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027723489768341922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020036022097309698",
+              "start": 0,
+              "username": "vsffhwvmrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027723489768341922",
+        "in_reply_to_user_id": "2020036022097309698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027722467574460591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vsffhwvmrn 是水杯😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020036022097309698",
+        "conversation_id": "2027696378055692770",
+        "created_at": "2026-02-28T12:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027722467574460591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027722467574460591",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027696378055692770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 看了一会儿才发现不是水杯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 72,
+          "like_count": 17308,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 5163
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T07:25:12.000Z",
+        "description": "不懈寻找大奶男…",
+        "id": "2020036022097309698",
+        "name": "Cabbage",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020036198690140160/m4KQgVmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 109,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "username": "vsffhwvmrn",
+        "verified": false
+      }
+    ]
+  }
+}

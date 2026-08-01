@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1964378688058978519",
+    "created_at": "2025-09-06T17:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T18:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964378839578284460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939382739352141824",
+          "start": 0,
+          "username": "kun131012435822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964378839578284460",
+    "in_reply_to_user_id": "1939382739352141824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964378688058978519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kun131012435822 建议是绑在床边，然后睡觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1964378688058978519",
+        "created_at": "2025-09-06T17:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964378839578284460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939382739352141824",
+              "start": 0,
+              "username": "kun131012435822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964378839578284460",
+        "in_reply_to_user_id": "1939382739352141824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964378688058978519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kun131012435822 建议是绑在床边，然后睡觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939382739352141824",
+        "conversation_id": "1964378688058978519",
+        "created_at": "2025-09-06T17:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964378688058978519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964378688058978519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咋说呢，醉两次了，结果这次我还是最清醒的那个还要照顾最不清醒的舍友，快睡着了，今晚都晚安吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 64,
+          "like_count": 3043,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1571
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T17:57:58.000Z",
+        "description": "entj",
+        "id": "1939382739352141824",
+        "name": "k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946923812324507648/EAAuTf4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 53,
+          "like_count": 2234,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 322
+        },
+        "username": "kun131012435822",
+        "verified": false
+      }
+    ]
+  }
+}

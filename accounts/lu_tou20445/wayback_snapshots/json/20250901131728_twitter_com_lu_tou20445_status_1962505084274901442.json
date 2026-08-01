@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962199602234577286",
+    "created_at": "2025-09-01T13:17:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T14:17:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962505084274901442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961537369473245184",
+          "start": 0,
+          "username": "li3844087"
+        },
+        {
+          "end": 26,
+          "id": "1628988822284562438",
+          "start": 11,
+          "username": "Minihinder0425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962505084274901442",
+    "in_reply_to_user_id": "1961537369473245184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962482545096048984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li3844087 @Minihinder0425 两个人在尝试某种会疼痛或者有危险的行为时，设定一个词在受不了的情况下让对方停止当前所有行为的词"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962199602234577286",
+        "created_at": "2025-09-01T13:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962505084274901442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961537369473245184",
+              "start": 0,
+              "username": "li3844087"
+            },
+            {
+              "end": 26,
+              "id": "1628988822284562438",
+              "start": 11,
+              "username": "Minihinder0425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962505084274901442",
+        "in_reply_to_user_id": "1961537369473245184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962482545096048984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li3844087 @Minihinder0425 两个人在尝试某种会疼痛或者有危险的行为时，设定一个词在受不了的情况下让对方停止当前所有行为的词"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961537369473245184",
+        "conversation_id": "1962199602234577286",
+        "created_at": "2025-09-01T11:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962482545096048984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 28,
+              "id": "1628988822284562438",
+              "start": 13,
+              "username": "Minihinder0425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962482545096048984",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962339623943938122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @Minihinder0425 安全词啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 58,
+          "like_count": 1952,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T21:12:15.000Z",
+        "description": "你们来找我交朋友呗，很好说话一个人没啥恶意。",
+        "id": "1961537369473245184",
+        "name": "两仪式",
+        "pinned_tweet_id": "1962329136846062075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962330357443035136/5plSLBYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "li3844087",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-24T05:23:05.000Z",
+        "description": "04｜199考研｜巨蟹座",
+        "id": "1628988822284562438",
+        "location": "我要考研。",
+        "name": "momocry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961358159110696960/5hARwsOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27654,
+          "following_count": 306,
+          "like_count": 1634,
+          "listed_count": 76,
+          "media_count": 51,
+          "tweet_count": 949
+        },
+        "username": "Minihinder0425",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1976148146096046563",
+    "created_at": "2025-10-10T12:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976618950852304902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        },
+        {
+          "end": 19,
+          "id": "1907355599232274432",
+          "start": 10,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976618950852304902",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976613752155111871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo @77ninini 求也得看😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1976148146096046563",
+        "created_at": "2025-10-10T12:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976618950852304902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            },
+            {
+              "end": 19,
+              "id": "1907355599232274432",
+              "start": 10,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976618950852304902",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976613752155111871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo @77ninini 求也得看😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904949484783841280",
+        "conversation_id": "1976148146096046563",
+        "created_at": "2025-10-10T11:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976613752155111871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 22,
+              "id": "1907355599232274432",
+              "start": 13,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976613752155111871",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976545913985462420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @77ninini 我求求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 67,
+          "like_count": 6265,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "自用蜂鸟VPN https://t.co/5tYNEdRop5\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api.apifn.xyz/#/register?cod…",
+                "end": 31,
+                "expanded_url": "https://api.apifn.xyz/#/register?code=rFp",
+                "start": 8,
+                "url": "https://t.co/5tYNEdRop5"
+              },
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 61,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 38,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "疯兔子",
+        "pinned_tweet_id": "1976320980911026401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971888549848031232/m4brFRqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 637,
+          "like_count": 16195,
+          "listed_count": 4,
+          "media_count": 248,
+          "tweet_count": 3576
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "相识于人海，相忘于江湖\n（不开私信，不加VX，不礼貌回关，取关随意）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐",
+        "pinned_tweet_id": "1974109827325456473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975282806285557760/K5Dl13h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 160,
+          "like_count": 34421,
+          "listed_count": 3,
+          "media_count": 475,
+          "tweet_count": 11219
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

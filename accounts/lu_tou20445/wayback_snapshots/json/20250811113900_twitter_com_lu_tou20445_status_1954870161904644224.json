@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954866345025413163",
+    "created_at": "2025-08-11T11:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T12:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954870161904644224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886032850463449088",
+          "start": 0,
+          "username": "aconiferioustre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954870161904644224",
+    "in_reply_to_user_id": "1886032850463449088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954869210955632970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aconiferioustre 冬天不算少，想出片的人还蛮多的，不过北京冬天确实冷，去年最冷今年最热，我推荐可以冬天去老君山"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954866345025413163",
+        "created_at": "2025-08-11T11:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954870161904644224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886032850463449088",
+              "start": 0,
+              "username": "aconiferioustre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954870161904644224",
+        "in_reply_to_user_id": "1886032850463449088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954869210955632970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aconiferioustre 冬天不算少，想出片的人还蛮多的，不过北京冬天确实冷，去年最冷今年最热，我推荐可以冬天去老君山"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886032850463449088",
+        "conversation_id": "1954866345025413163",
+        "created_at": "2025-08-11T11:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954869210955632970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954869210955632970",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954866914217369777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我之前去觉得北京的冬天好冷，但是就是不下雪，我站在路边打车要冻晕了，我其实还想去环球影城（（不知道冬天人多不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 37,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T12:44:24.000Z",
+        "description": "可以喊我小树！瞎发发日常 如果没回可能是我号登不上来了TvT…如果我的一些发言你不喜欢请单取我也没关系的 @coniferioustree",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "coniferioustree"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A0%91",
+                "start": 0,
+                "url": "https://t.co/zvkT7W1hmi"
+              }
+            ]
+          }
+        },
+        "id": "1886032850463449088",
+        "name": "但係雨冇停過",
+        "pinned_tweet_id": "1890793040643555601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950554988977283072/cSJG8P2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 162,
+          "like_count": 2846,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/zvkT7W1hmi",
+        "username": "aconiferioustre",
+        "verified": false
+      }
+    ]
+  }
+}

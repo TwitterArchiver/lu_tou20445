@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2077400240517533912",
+    "created_at": "2026-07-15T15:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077413528353521693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1516022519559450624",
+          "start": 0,
+          "username": "shoufangjun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077413528353521693",
+    "in_reply_to_user_id": "1516022519559450624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077405252966576401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shoufangjun 大力点呐！让她的口条感受风暴中心般的吸力！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2077400240517533912",
+        "created_at": "2026-07-15T15:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077413528353521693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1516022519559450624",
+              "start": 0,
+              "username": "shoufangjun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077413528353521693",
+        "in_reply_to_user_id": "1516022519559450624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077405252966576401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoufangjun 大力点呐！让她的口条感受风暴中心般的吸力！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516022519559450624",
+        "conversation_id": "2077400240517533912",
+        "created_at": "2026-07-15T14:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077405252966576401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077405252966576401",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077400240517533912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 伸舌头啊！快！搅合！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 70,
+          "like_count": 21323,
+          "listed_count": 5,
+          "media_count": 289,
+          "tweet_count": 6287
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T11:58:13.000Z",
+        "description": "男。在日本的中国社畜。普通平淡地活着。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/alibabayushisi…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/alibabayushisigeshishizi",
+                "start": 0,
+                "url": "https://t.co/Dgx0FFOx5V"
+              }
+            ]
+          }
+        },
+        "id": "1516022519559450624",
+        "location": "自己心中",
+        "name": "收放君",
+        "pinned_tweet_id": "2027791981905383747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035933906210578432/x6Pq39Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 95,
+          "like_count": 10490,
+          "listed_count": 0,
+          "media_count": 815,
+          "tweet_count": 4262
+        },
+        "url": "https://t.co/Dgx0FFOx5V",
+        "username": "shoufangjun",
+        "verified": false
+      }
+    ]
+  }
+}

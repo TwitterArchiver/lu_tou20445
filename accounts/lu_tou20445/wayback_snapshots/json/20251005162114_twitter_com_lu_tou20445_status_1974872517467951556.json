@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1974832554525282467",
+    "created_at": "2025-10-05T16:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T17:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974872517467951556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1526242362766282757",
+          "start": 0,
+          "username": "ainn22sun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974872517467951556",
+    "in_reply_to_user_id": "1526242362766282757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974871791253504504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ainn22sun 引导型恋人其实也分很多种，大家现在最能接受也最喜欢的那种是引导的部分多一点，我上面这种是托举多一点，换种说法有点像骑士病，不是什么好东西来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1974832554525282467",
+        "created_at": "2025-10-05T16:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974872517467951556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1526242362766282757",
+              "start": 0,
+              "username": "ainn22sun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974872517467951556",
+        "in_reply_to_user_id": "1526242362766282757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974871791253504504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainn22sun 引导型恋人其实也分很多种，大家现在最能接受也最喜欢的那种是引导的部分多一点，我上面这种是托举多一点，换种说法有点像骑士病，不是什么好东西来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526242362766282757",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1974832554525282467",
+        "created_at": "2025-10-05T16:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T17:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974871791253504504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974871791253504504",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974871244056285230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 但是引导型恋人为啥要坠落啊…这个文案给人的感觉有点像我之前看个电影，但是那个主角是一开始就准备安乐死的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 66,
+          "like_count": 5693,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1952
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T16:45:27.000Z",
+        "description": "讨厌没礼貌的人 …",
+        "id": "1526242362766282757",
+        "name": "Sanri",
+        "pinned_tweet_id": "1923477260243181698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963999587435515904/1xrDZzRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 180,
+          "like_count": 2274,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 492
+        },
+        "username": "ainn22sun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954934130464145635",
+    "created_at": "2025-08-13T02:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T03:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955459840530075662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1459692899990487045",
+          "start": 0,
+          "username": "WinkXINo3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955459840530075662",
+    "in_reply_to_user_id": "1459692899990487045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954934130464145635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinkXINo3o 你爱的吧，能有这种选项说明并不会爱上爱你的人，选自己爱的人起码是真心喜欢，结果好坏也不会后悔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954934130464145635",
+        "created_at": "2025-08-13T02:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T03:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955459840530075662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1459692899990487045",
+              "start": 0,
+              "username": "WinkXINo3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955459840530075662",
+        "in_reply_to_user_id": "1459692899990487045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954934130464145635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinkXINo3o 你爱的吧，能有这种选项说明并不会爱上爱你的人，选自己爱的人起码是真心喜欢，结果好坏也不会后悔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1954934123304476672"
+          ]
+        },
+        "author_id": "1459692899990487045",
+        "conversation_id": "1954934130464145635",
+        "created_at": "2025-08-11T15:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954934130464145635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954934130464145635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1946,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两种对象该怎么选"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 39,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-14T01:21:31.000Z",
+        "description": "",
+        "id": "1459692899990487045",
+        "name": "Moe",
+        "pinned_tweet_id": "1939953370900398156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942613426783612928/aYtMtBrQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11058,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 12,
+          "media_count": 151,
+          "tweet_count": 583
+        },
+        "username": "WinkXINo3o",
+        "verified": false
+      }
+    ]
+  }
+}

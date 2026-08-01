@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970316586155417600",
+        "3_1970316585731792896"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1970316579490627745",
+    "created_at": "2025-09-23T02:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T03:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970316600558657765"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MouoMakMPf",
+          "end": 23,
+          "expanded_url": "https://x.com/lu_tou20445/status/1970316600558657765/photo/1",
+          "media_key": "3_1970316586155417600",
+          "start": 0,
+          "url": "https://t.co/MouoMakMPf"
+        },
+        {
+          "display_url": "pic.x.com/MouoMakMPf",
+          "end": 23,
+          "expanded_url": "https://x.com/lu_tou20445/status/1970316600558657765/photo/1",
+          "media_key": "3_1970316585731792896",
+          "start": 0,
+          "url": "https://t.co/MouoMakMPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970316600558657765",
+    "in_reply_to_user_id": "1943288759778447360",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970316579490627745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/MouoMakMPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970316586155417600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1f4fvTaoAA-Mda.jpg",
+        "width": 826
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970316585731792896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1f4ftuaoAAOU8K.jpg",
+        "width": 826
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970316561383862272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1f4eTBasAAJFGF.jpg",
+        "width": 862
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970316561413230592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1f4eTIa0AA18D9.jpg",
+        "width": 894
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970316561434165248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1f4eTNaQAAveKa.jpg",
+        "width": 850
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1970316561430065152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1f4eTMbsAAj2AT.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970316586155417600",
+            "3_1970316585731792896"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1970316579490627745",
+        "created_at": "2025-09-23T02:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T03:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970316600558657765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MouoMakMPf",
+              "end": 23,
+              "expanded_url": "https://x.com/lu_tou20445/status/1970316600558657765/photo/1",
+              "media_key": "3_1970316586155417600",
+              "start": 0,
+              "url": "https://t.co/MouoMakMPf"
+            },
+            {
+              "display_url": "pic.x.com/MouoMakMPf",
+              "end": 23,
+              "expanded_url": "https://x.com/lu_tou20445/status/1970316600558657765/photo/1",
+              "media_key": "3_1970316585731792896",
+              "start": 0,
+              "url": "https://t.co/MouoMakMPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970316600558657765",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970316579490627745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/MouoMakMPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970316561383862272",
+            "3_1970316561413230592",
+            "3_1970316561434165248",
+            "3_1970316561430065152"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1970316579490627745",
+        "created_at": "2025-09-23T02:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T03:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970316579490627745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUdCGokcJ0",
+              "end": 44,
+              "expanded_url": "https://x.com/lu_tou20445/status/1970316579490627745/photo/1",
+              "media_key": "3_1970316561383862272",
+              "start": 21,
+              "url": "https://t.co/oUdCGokcJ0"
+            },
+            {
+              "display_url": "pic.x.com/oUdCGokcJ0",
+              "end": 44,
+              "expanded_url": "https://x.com/lu_tou20445/status/1970316579490627745/photo/1",
+              "media_key": "3_1970316561413230592",
+              "start": 21,
+              "url": "https://t.co/oUdCGokcJ0"
+            },
+            {
+              "display_url": "pic.x.com/oUdCGokcJ0",
+              "end": 44,
+              "expanded_url": "https://x.com/lu_tou20445/status/1970316579490627745/photo/1",
+              "media_key": "3_1970316561434165248",
+              "start": 21,
+              "url": "https://t.co/oUdCGokcJ0"
+            },
+            {
+              "display_url": "pic.x.com/oUdCGokcJ0",
+              "end": 44,
+              "expanded_url": "https://x.com/lu_tou20445/status/1970316579490627745/photo/1",
+              "media_key": "3_1970316561430065152",
+              "start": 21,
+              "url": "https://t.co/oUdCGokcJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970316579490627745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早高峰事件小吐槽，为了各位的乳腺，甚看🚬 https://t.co/oUdCGokcJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 63,
+          "like_count": 4698,
+          "listed_count": 2,
+          "media_count": 89,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

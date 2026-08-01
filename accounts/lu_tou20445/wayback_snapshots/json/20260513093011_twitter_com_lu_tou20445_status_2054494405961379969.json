@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2054405771425648810",
+    "created_at": "2026-05-13T09:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054494405961379969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045008457687015424",
+          "start": 0,
+          "username": "Miyup01e"
+        },
+        {
+          "end": 20,
+          "id": "1964688703118544896",
+          "start": 10,
+          "username": "imhidinxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054494405961379969",
+    "in_reply_to_user_id": "2045008457687015424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054486870785225172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyup01e @imhidinxi 能表现出来这种样子后备能源都榨干了估计"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2054405771425648810",
+        "created_at": "2026-05-13T09:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054494405961379969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045008457687015424",
+              "start": 0,
+              "username": "Miyup01e"
+            },
+            {
+              "end": 20,
+              "id": "1964688703118544896",
+              "start": 10,
+              "username": "imhidinxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054494405961379969",
+        "in_reply_to_user_id": "2045008457687015424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054486870785225172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyup01e @imhidinxi 能表现出来这种样子后备能源都榨干了估计"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045008457687015424",
+        "conversation_id": "2054405771425648810",
+        "created_at": "2026-05-13T09:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054486870785225172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964688703118544896",
+              "start": 0,
+              "username": "imhidinxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054486870785225172",
+        "in_reply_to_user_id": "1964688703118544896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054405771425648810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imhidinxi 一个月起步"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 71,
+          "like_count": 20713,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5860
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T05:18:10.000Z",
+        "description": "走马敕勒川",
+        "id": "2045008457687015424",
+        "name": "夜宿河床",
+        "pinned_tweet_id": "2045050151937663137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047196152328749056/6vdcxgRq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 43,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 143
+        },
+        "username": "Miyup01e",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:54:31.000Z",
+        "description": "I'm truly hiding myself",
+        "id": "1964688703118544896",
+        "name": "西特了",
+        "pinned_tweet_id": "1964690481365065937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011973613654560768/rUwlnWvN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 22,
+          "like_count": 2651,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 2981
+        },
+        "username": "imhidinxi",
+        "verified": false
+      }
+    ]
+  }
+}

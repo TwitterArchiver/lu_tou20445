@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1940154961691918813",
+    "created_at": "2025-08-12T04:16:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T05:16:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955121197194133746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817508691836317697",
+          "start": 0,
+          "username": "Chun49193You"
+        },
+        {
+          "end": 25,
+          "id": "1830054987688550400",
+          "start": 14,
+          "username": "Carpe_Di1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955121197194133746",
+    "in_reply_to_user_id": "1817508691836317697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940301813737193900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chun49193You @Carpe_Di1m 听起来好棒的金鱼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1940154961691918813",
+        "created_at": "2025-08-12T04:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955121197194133746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817508691836317697",
+              "start": 0,
+              "username": "Chun49193You"
+            },
+            {
+              "end": 25,
+              "id": "1830054987688550400",
+              "start": 14,
+              "username": "Carpe_Di1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955121197194133746",
+        "in_reply_to_user_id": "1817508691836317697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940301813737193900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chun49193You @Carpe_Di1m 听起来好棒的金鱼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817508691836317697",
+        "conversation_id": "1940154961691918813",
+        "created_at": "2025-07-02T06:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T07:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940301813737193900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830054987688550400",
+              "start": 0,
+              "username": "Carpe_Di1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940301813737193900",
+        "in_reply_to_user_id": "1830054987688550400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940154961691918813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Carpe_Di1m 喵喵至少现在不会亏待自己啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 38,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T10:33:43.000Z",
+        "description": "enfp｜快乐小狗｜sub｜天生brat圣体｜恋哥癖｜祝大家天天开心｜上学忙｜不参与任何战争🤓｜",
+        "id": "1817508691836317697",
+        "name": "金鱼捏捏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872722891822813184/ka3S8xoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 260,
+          "like_count": 5532,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 549
+        },
+        "username": "Chun49193You",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T01:28:13.000Z",
+        "description": "人生就是巨大的矛盾体",
+        "id": "1830054987688550400",
+        "location": "玫瑰园",
+        "name": "租客",
+        "pinned_tweet_id": "1844482836746862767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911525219400818688/mTT0U7-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 60,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 164
+        },
+        "username": "Carpe_Di1m",
+        "verified": false
+      }
+    ]
+  }
+}

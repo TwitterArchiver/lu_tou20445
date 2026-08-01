@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009905336032149756",
+    "created_at": "2026-01-11T03:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010199529568792743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951000695454441473",
+          "start": 0,
+          "username": "xiaoxin0000812"
+        },
+        {
+          "end": 27,
+          "id": "874922985567784960",
+          "start": 16,
+          "username": "xihinansyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010199529568792743",
+    "in_reply_to_user_id": "1951000695454441473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010199193974124802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxin0000812 @xihinansyo 是这样的，某人的手写信里写了免责声明，说这是商家的小巧思，不是他的🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009905336032149756",
+        "created_at": "2026-01-11T03:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010199529568792743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951000695454441473",
+              "start": 0,
+              "username": "xiaoxin0000812"
+            },
+            {
+              "end": 27,
+              "id": "874922985567784960",
+              "start": 16,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010199529568792743",
+        "in_reply_to_user_id": "1951000695454441473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010199193974124802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxin0000812 @xihinansyo 是这样的，某人的手写信里写了免责声明，说这是商家的小巧思，不是他的🙂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951000695454441473",
+        "conversation_id": "2009905336032149756",
+        "created_at": "2026-01-11T03:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010199193974124802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 24,
+              "id": "874922985567784960",
+              "start": 13,
+              "username": "xihinansyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010199193974124802",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009906630885064852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @xihinansyo （小声问一句）那个冰箱贴是不是关了灯之后是：别吃了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 69,
+          "like_count": 14325,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 4143
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T19:23:25.000Z",
+        "description": "重生之我的互关回来吧🥲原账号@xiaoxin000812炸了🥲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "xiaoxin000812"
+              }
+            ]
+          }
+        },
+        "id": "1951000695454441473",
+        "name": "Xiner（叫我小xin💕）",
+        "pinned_tweet_id": "2000058424286183661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009196399947329536/9jfqM6gf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 133,
+          "like_count": 1812,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 712
+        },
+        "username": "xiaoxin0000812",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直｜避难所",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1979154228879769901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004344343851855872/0VinQDam_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 240,
+          "like_count": 20127,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 8856
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      }
+    ]
+  }
+}

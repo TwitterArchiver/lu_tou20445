@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2066773246998151442",
+    "created_at": "2026-06-16T08:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066807526134579618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2063543339396603904",
+          "start": 0,
+          "username": "Miyup1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066807526134579618",
+    "in_reply_to_user_id": "2063543339396603904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066773246998151442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyup1e 爱上去做就会有正反馈的感觉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4901,
+        "height": 1280,
+        "media_key": "13_2066773172960313344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066773172960313344/img/c7d5oahmnkYuhS-U.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066773172960313344/vid/avc1/320x568/TD1YP2DVECzPRGiY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066773172960313344/vid/avc1/480x852/xqhJl0p3818H96Bv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066773172960313344/vid/avc1/720x1280/QDDt2nD1XHdJLIgT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066773172960313344/pl/z7p0heImTVqFCUNG.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 3285,
+        "height": 1280,
+        "media_key": "13_2066773172960337920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066773172960337920/img/AemnUhiOsdXoS3Js.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066773172960337920/vid/avc1/320x568/67D0OoArna64fOnc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066773172960337920/vid/avc1/480x852/GqazSHDUnoszFRpQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066773172960337920/vid/avc1/720x1280/wmRpKO3RmahwcYON.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066773172960337920/pl/dogDGngCKsIFon8k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2066773246998151442",
+        "created_at": "2026-06-16T08:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066807526134579618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2063543339396603904",
+              "start": 0,
+              "username": "Miyup1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066807526134579618",
+        "in_reply_to_user_id": "2063543339396603904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066773246998151442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyup1e 爱上去做就会有正反馈的感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066773172960313344",
+            "13_2066773172960337920"
+          ]
+        },
+        "author_id": "2063543339396603904",
+        "conversation_id": "2066773246998151442",
+        "created_at": "2026-06-16T06:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066773246998151442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5AcRqXWY1K",
+              "end": 32,
+              "expanded_url": "https://x.com/Miyup1e/status/2066773246998151442/video/1",
+              "media_key": "13_2066773172960313344",
+              "start": 9,
+              "url": "https://t.co/5AcRqXWY1K"
+            },
+            {
+              "display_url": "pic.x.com/5AcRqXWY1K",
+              "end": 32,
+              "expanded_url": "https://x.com/Miyup1e/status/2066773246998151442/video/1",
+              "media_key": "13_2066773172960337920",
+              "start": 9,
+              "url": "https://t.co/5AcRqXWY1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066773246998151442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱上擦行李箱了 https://t.co/5AcRqXWY1K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 69,
+          "like_count": 21638,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 6169
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T08:48:28.000Z",
+        "description": "",
+        "id": "2063543339396603904",
+        "name": "夜宿河床",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063544958129487872/KqtLpjCD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 26,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "username": "Miyup1e",
+        "verified": false
+      }
+    ]
+  }
+}

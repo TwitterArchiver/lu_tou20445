@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949463204716769749",
+    "created_at": "2025-07-28T04:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T05:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949688563853152623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1804188039465570311",
+          "start": 0,
+          "username": "IXqaq_"
+        },
+        {
+          "end": 19,
+          "id": "1671951520529797120",
+          "start": 8,
+          "username": "sqq1370192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949688563853152623",
+    "in_reply_to_user_id": "1804188039465570311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949463204716769749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXqaq_ @sqq1370192 好一个战火纷飞，点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949463204716769749",
+        "created_at": "2025-07-28T04:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T05:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949688563853152623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1804188039465570311",
+              "start": 0,
+              "username": "IXqaq_"
+            },
+            {
+              "end": 19,
+              "id": "1671951520529797120",
+              "start": 8,
+              "username": "sqq1370192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949688563853152623",
+        "in_reply_to_user_id": "1804188039465570311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949463204716769749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXqaq_ @sqq1370192 好一个战火纷飞，点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804188039465570311",
+        "conversation_id": "1949463204716769749",
+        "created_at": "2025-07-27T13:33:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949463204716769749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949463204716769749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我在这个战火纷飞的软件认识了很多可爱的女孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T16:22:11.000Z",
+        "description": "一切音声皆是陀罗尼。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shennmje_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shennmje_",
+                "start": 0,
+                "url": "https://t.co/WEkE9cMoYC"
+              }
+            ]
+          }
+        },
+        "id": "1804188039465570311",
+        "name": "Ⱄⱄᐝ",
+        "pinned_tweet_id": "1949164253727863060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949430231032291328/vux-51yh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 69,
+          "like_count": 4063,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/WEkE9cMoYC",
+        "username": "IXqaq_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-22T18:41:40.000Z",
+        "description": "很抽象一个人｜选择性话多 ｜infp水瓶座bi｜这里发点限制级的碎碎念 请多多评价私信 私信女孩子一定会回 男的看我心情",
+        "id": "1671951520529797120",
+        "name": "Zzzzzzzi",
+        "pinned_tweet_id": "1947152531140104461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948808689143742465/866SnRBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 76,
+          "like_count": 1399,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 887
+        },
+        "username": "sqq1370192",
+        "verified": false
+      }
+    ]
+  }
+}

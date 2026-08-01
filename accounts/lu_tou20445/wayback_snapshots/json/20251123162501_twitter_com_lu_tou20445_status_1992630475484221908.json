@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1992630428507996160"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1992612516560822759",
+    "created_at": "2025-11-23T16:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992630475484221908"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 12,
+          "normalized_text": "匡威",
+          "probability": 0.7082,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1964688703118544896",
+          "start": 0,
+          "username": "imhidinxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuyvfsXAdh",
+          "end": 42,
+          "expanded_url": "https://x.com/lu_tou20445/status/1992630475484221908/photo/1",
+          "media_key": "16_1992630428507996160",
+          "start": 19,
+          "url": "https://t.co/WuyvfsXAdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992630475484221908",
+    "in_reply_to_user_id": "1964688703118544896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992612516560822759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imhidinxi 匡威不如足力健 https://t.co/WuyvfsXAdh"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992612516560822759].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992612516560822759",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992612516560822759"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "16_1992630428507996160",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G6c-0TvagAAdTFF.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G6c-0TvagAAdTFF.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1992630428507996160"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1992612516560822759",
+        "created_at": "2025-11-23T16:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992630475484221908"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "匡威",
+              "probability": 0.7082,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1964688703118544896",
+              "start": 0,
+              "username": "imhidinxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuyvfsXAdh",
+              "end": 42,
+              "expanded_url": "https://x.com/lu_tou20445/status/1992630475484221908/photo/1",
+              "media_key": "16_1992630428507996160",
+              "start": 19,
+              "url": "https://t.co/WuyvfsXAdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992630475484221908",
+        "in_reply_to_user_id": "1964688703118544896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992612516560822759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imhidinxi 匡威不如足力健 https://t.co/WuyvfsXAdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 70,
+          "like_count": 9543,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T13:54:31.000Z",
+        "description": "我的第二面@xihinansyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "xihinansyo"
+              }
+            ]
+          }
+        },
+        "id": "1964688703118544896",
+        "name": "西2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985839885425561600/NADFjTYo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 16,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 739
+        },
+        "username": "imhidinxi",
+        "verified": false
+      }
+    ]
+  }
+}

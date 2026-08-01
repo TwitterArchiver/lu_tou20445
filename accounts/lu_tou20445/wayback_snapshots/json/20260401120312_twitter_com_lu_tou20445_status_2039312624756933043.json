@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2039305298972921927",
+    "created_at": "2026-04-01T12:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039312624756933043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975895101495996418",
+          "start": 0,
+          "username": "umidaodao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039312624756933043",
+    "in_reply_to_user_id": "1975895101495996418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039312104558383514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umidaodao 失败的 man"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2039312090100596737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0XioybAAEQ-Xn.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2039305298972921927",
+        "created_at": "2026-04-01T12:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039312624756933043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975895101495996418",
+              "start": 0,
+              "username": "umidaodao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039312624756933043",
+        "in_reply_to_user_id": "1975895101495996418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039312104558383514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umidaodao 失败的 man"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039312090100596737"
+          ]
+        },
+        "author_id": "1975895101495996418",
+        "conversation_id": "2039305298972921927",
+        "created_at": "2026-04-01T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039312104558383514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1qkQ9Pwru",
+              "end": 70,
+              "expanded_url": "https://x.com/umidaodao/status/2039312104558383514/photo/1",
+              "media_key": "3_2039312090100596737",
+              "start": 47,
+              "url": "https://t.co/M1qkQ9Pwru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039312104558383514",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039307687381615020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 “勇士”就这种状态飞速拿把菜刀 贴着墙 巡视了一遍家里每个房间…. https://t.co/M1qkQ9Pwru"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 72,
+          "like_count": 19619,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 5641
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T12:04:47.000Z",
+        "description": "关取自由 ｜性别是天地之大金宝元鼎（o_0)｜💭幻想用棍子暴力敲东西谋生",
+        "id": "1975895101495996418",
+        "name": "一一",
+        "pinned_tweet_id": "2030835279280685384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010983150520877056/QHn0PDlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 192,
+          "like_count": 10242,
+          "listed_count": 0,
+          "media_count": 496,
+          "tweet_count": 2067
+        },
+        "username": "umidaodao",
+        "verified": false
+      }
+    ]
+  }
+}

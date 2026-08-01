@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960288808995618816"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1960285852833116259",
+    "created_at": "2025-08-26T10:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T11:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960288820550578435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1953014460207247360",
+          "start": 0,
+          "username": "guominszd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbJm557tRn",
+          "end": 34,
+          "expanded_url": "https://x.com/lu_tou20445/status/1960288820550578435/photo/1",
+          "media_key": "3_1960288808995618816",
+          "start": 11,
+          "url": "https://t.co/GbJm557tRn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960288820550578435",
+    "in_reply_to_user_id": "1953014460207247360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960288614262182087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guominszd https://t.co/GbJm557tRn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1960288808995618816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzRYSSVbgAAGiyz.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960288808995618816"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1960285852833116259",
+        "created_at": "2025-08-26T10:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960288820550578435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1953014460207247360",
+              "start": 0,
+              "username": "guominszd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbJm557tRn",
+              "end": 34,
+              "expanded_url": "https://x.com/lu_tou20445/status/1960288820550578435/photo/1",
+              "media_key": "3_1960288808995618816",
+              "start": 11,
+              "url": "https://t.co/GbJm557tRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960288820550578435",
+        "in_reply_to_user_id": "1953014460207247360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960288614262182087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guominszd https://t.co/GbJm557tRn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953014460207247360",
+        "conversation_id": "1960285852833116259",
+        "created_at": "2025-08-26T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960288614262182087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960288614262182087",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960285852833116259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 好听啊~真的~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 51,
+          "like_count": 1342,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T08:45:33.000Z",
+        "description": "喵喵喵喵喵喵喵~这是一个喜欢发碎碎念的/互动性极强的/追星的/会写点点xp的/偶尔发烧的/确定是个brat的号！ （提问箱链接在下面👇🏻）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guominszd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guominszd",
+                "start": 0,
+                "url": "https://t.co/CkBGUQhI1R"
+              }
+            ]
+          }
+        },
+        "id": "1953014460207247360",
+        "location": "지민이의 삼색고양이입니다",
+        "name": "过敏这样对吗",
+        "pinned_tweet_id": "1957716361406476309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955347286889992195/S9QgBdu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 226,
+          "like_count": 2289,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/CkBGUQhI1R",
+        "username": "guominszd",
+        "verified": true
+      }
+    ]
+  }
+}

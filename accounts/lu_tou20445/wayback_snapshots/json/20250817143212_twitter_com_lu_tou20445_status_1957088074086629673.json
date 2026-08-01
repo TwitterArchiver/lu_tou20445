@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956952241681686598",
+    "created_at": "2025-08-17T14:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T15:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957088074086629673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1644694688723779584",
+          "start": 0,
+          "username": "yunyuan0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957088074086629673",
+    "in_reply_to_user_id": "1644694688723779584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957087671714517438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyuan0122 好，想看窝囊小猫反击"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956952241681686598",
+        "created_at": "2025-08-17T14:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T15:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957088074086629673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1644694688723779584",
+              "start": 0,
+              "username": "yunyuan0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957088074086629673",
+        "in_reply_to_user_id": "1644694688723779584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957087671714517438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyuan0122 好，想看窝囊小猫反击"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644694688723779584",
+        "conversation_id": "1956952241681686598",
+        "created_at": "2025-08-17T14:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T15:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957087671714517438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957087671714517438",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956964279065997728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 ！💢不好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 47,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 950
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-08T13:32:41.000Z",
+        "description": "赛博无条件发疯大王 抽象女\nINTJ水瓶座♒                                                             别问门槛，问就是18,888",
+        "id": "1644694688723779584",
+        "location": "美国",
+        "name": "予安🥐",
+        "pinned_tweet_id": "1952829006421868792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933521838635876352/lNFo5W6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 170,
+          "like_count": 13877,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 2922
+        },
+        "username": "yunyuan0122",
+        "verified": false
+      }
+    ]
+  }
+}

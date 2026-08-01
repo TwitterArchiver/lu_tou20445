@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2011406300190761106",
+    "created_at": "2026-01-14T11:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011406511961186652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986701339628609536",
+          "start": 0,
+          "username": "yoyoOvO6June1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011406511961186652",
+    "in_reply_to_user_id": "1986701339628609536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011406300190761106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyoOvO6June1 格林团长？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2011406300190761106",
+        "created_at": "2026-01-14T11:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011406511961186652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986701339628609536",
+              "start": 0,
+              "username": "yoyoOvO6June1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011406511961186652",
+        "in_reply_to_user_id": "1986701339628609536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011406300190761106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoOvO6June1 格林团长？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986701339628609536",
+        "conversation_id": "2011406300190761106",
+        "created_at": "2026-01-14T11:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011406300190761106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011406300190761106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶哟 这格林咋这么可爱 果然期末周看啥都好玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 68,
+          "like_count": 13973,
+          "listed_count": 3,
+          "media_count": 199,
+          "tweet_count": 4199
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 大号@Yoyonevergiveup 回关眼熟的人 😋不礼貌的没有回复的义务 😈高浓度碎碎念 介意的请直接双取 谢谢 生活愉快😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Yoyonevergiveup"
+              }
+            ]
+          }
+        },
+        "id": "1986701339628609536",
+        "name": "优乐美椰",
+        "pinned_tweet_id": "2010299883509665888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008362600053268481/SRweaEum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 281,
+          "like_count": 4565,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 1953
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1965333643301453884",
+    "created_at": "2025-09-09T08:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T09:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965336452075782493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813251535859818498",
+          "start": 0,
+          "username": "iotovoaoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965336452075782493",
+    "in_reply_to_user_id": "1813251535859818498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965333643301453884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iotovoaoro 别骂了别骂了🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1965333643301453884",
+        "created_at": "2025-09-09T08:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T09:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965336452075782493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813251535859818498",
+              "start": 0,
+              "username": "iotovoaoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965336452075782493",
+        "in_reply_to_user_id": "1813251535859818498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965333643301453884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iotovoaoro 别骂了别骂了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813251535859818498",
+        "conversation_id": "1965333643301453884",
+        "created_at": "2025-09-09T08:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T09:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965333643301453884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965333643301453884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明白了，双鱼座就是顶级恋爱脑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 65,
+          "like_count": 3363,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T16:37:19.000Z",
+        "description": "当树洞发发心情 碎碎念和照片｜私信会随便翻翻 但是基本不回 我很逃避回消息｜碎碎念巨多 纯享版点照片｜偶尔接推广 推广自辨",
+        "id": "1813251535859818498",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954911702015000576/2iy1aacG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21691,
+          "following_count": 9,
+          "like_count": 753,
+          "listed_count": 58,
+          "media_count": 78,
+          "tweet_count": 2986
+        },
+        "username": "iotovoaoro",
+        "verified": false
+      }
+    ]
+  }
+}

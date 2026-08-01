@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2024024374693560828",
+    "created_at": "2026-02-19T02:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T03:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024308014426313182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1198871051788177418",
+          "start": 0,
+          "username": "tonyml07998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024308014426313182",
+    "in_reply_to_user_id": "1198871051788177418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024253763075395986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonyml07998 提前说过，可以看第一句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2024024374693560828",
+        "created_at": "2026-02-19T02:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024308014426313182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1198871051788177418",
+              "start": 0,
+              "username": "tonyml07998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024308014426313182",
+        "in_reply_to_user_id": "1198871051788177418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024253763075395986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonyml07998 提前说过，可以看第一句"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1198871051788177418",
+        "conversation_id": "2024024374693560828",
+        "created_at": "2026-02-18T22:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024253763075395986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024253763075395986",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024024374693560828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 是没跟这个亲戚说嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 68,
+          "like_count": 16145,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 4825
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-25T07:48:39.000Z",
+        "description": "027的中年老马一只，不抽烟，不喝酒，但好色和爱国。上来看看👀",
+        "id": "1198871051788177418",
+        "location": "武汉",
+        "name": "戒糖😱",
+        "pinned_tweet_id": "1451687595918835719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453927580168425475/xMHsRYSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 748,
+          "like_count": 796,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 6682
+        },
+        "username": "tonyml07998",
+        "verified": false
+      }
+    ]
+  }
+}

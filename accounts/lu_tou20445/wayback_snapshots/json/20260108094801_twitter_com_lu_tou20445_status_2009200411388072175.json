@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009146045884940471",
+    "created_at": "2026-01-08T09:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T10:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009200411388072175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975206948930048000",
+          "start": 0,
+          "username": "imalreadydrunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009200411388072175",
+    "in_reply_to_user_id": "1975206948930048000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009199850697707880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imalreadydrunk 算了吧，估计分我的体验卡都得被我放过期"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009146045884940471",
+        "created_at": "2026-01-08T09:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009200411388072175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975206948930048000",
+              "start": 0,
+              "username": "imalreadydrunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009200411388072175",
+        "in_reply_to_user_id": "1975206948930048000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009199850697707880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imalreadydrunk 算了吧，估计分我的体验卡都得被我放过期"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975206948930048000",
+        "conversation_id": "2009146045884940471",
+        "created_at": "2026-01-08T09:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T10:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009199850697707880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009199850697707880",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009146045884940471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 震驚了哥，這都要拿NNN冠軍了吧，我願意分你我三天的量。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 68,
+          "like_count": 14065,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 4078
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T14:30:22.000Z",
+        "description": "20⬆️｜腐｜慾望｜純愛戰士\n\n內文都是幻想妄想不要當真，\n有疑問請找專業資料和問醫生。",
+        "id": "1975206948930048000",
+        "name": "Drunk",
+        "pinned_tweet_id": "2007463835188277594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003859236644962304/-6POp4ln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 48,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 240
+        },
+        "username": "imalreadydrunk",
+        "verified": false
+      }
+    ]
+  }
+}

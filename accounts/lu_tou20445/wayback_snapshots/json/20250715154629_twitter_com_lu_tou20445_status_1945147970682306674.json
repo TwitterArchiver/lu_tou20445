@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1945147482448556385",
+    "created_at": "2025-07-15T15:46:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T16:46:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945147970682306674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1915955832816332800",
+          "start": 0,
+          "username": "bhs520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945147970682306674",
+    "in_reply_to_user_id": "1915955832816332800",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945147482448556385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bhs520 d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1945147482448556385",
+        "created_at": "2025-07-15T15:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945147970682306674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1915955832816332800",
+              "start": 0,
+              "username": "bhs520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945147970682306674",
+        "in_reply_to_user_id": "1915955832816332800",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945147482448556385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bhs520 d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1915955832816332800",
+        "conversation_id": "1945147482448556385",
+        "created_at": "2025-07-15T15:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945147482448556385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "反差"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945147482448556385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着聊天d💬\n#反差"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T02:27:33.000Z",
+        "description": "喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵喵 （怒吼）喵！ 喵喵喵喵喵喵喵喵喵 喵喵喵喵 喵喵 喵喵喵喵",
+        "id": "1915955832816332800",
+        "location": "涩涩有🚪此喵攻击力很强",
+        "name": "绿薄荷猫",
+        "pinned_tweet_id": "1929923832141492319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942072130792804352/DhNE1TxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "bhs520",
+        "verified": false
+      }
+    ]
+  }
+}

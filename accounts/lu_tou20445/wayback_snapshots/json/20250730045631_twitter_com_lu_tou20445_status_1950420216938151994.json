@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1950388437367840851",
+    "created_at": "2025-07-30T04:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T05:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950420216938151994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847201294748172288",
+          "start": 0,
+          "username": "ejdh383254"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950420216938151994",
+    "in_reply_to_user_id": "1847201294748172288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950418713553097015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ejdh383254 笑死，一点点从来没有什么试验期，完全就是想到什么上什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_1950418710810042368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFHe9UboAA8iip.jpg",
+        "width": 791
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1950388437367840851",
+        "created_at": "2025-07-30T04:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T05:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950420216938151994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847201294748172288",
+              "start": 0,
+              "username": "ejdh383254"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950420216938151994",
+        "in_reply_to_user_id": "1847201294748172288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950418713553097015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ejdh383254 笑死，一点点从来没有什么试验期，完全就是想到什么上什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950418710810042368"
+          ]
+        },
+        "author_id": "1847201294748172288",
+        "conversation_id": "1950388437367840851",
+        "created_at": "2025-07-30T04:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T05:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950418713553097015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJzLNJvMfh",
+              "end": 61,
+              "expanded_url": "https://x.com/ejdh383254/status/1950418713553097015/photo/1",
+              "media_key": "3_1950418710810042368",
+              "start": 38,
+              "url": "https://t.co/oJzLNJvMfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950418713553097015",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950410910134075772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 有点东西，你是不是也意识到这杯东西容易失眠下架了 https://t.co/oJzLNJvMfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T09:01:34.000Z",
+        "description": "吐糟号，重度社恐，超级i，人机",
+        "id": "1847201294748172288",
+        "location": "临空市",
+        "name": "小e大王",
+        "pinned_tweet_id": "1946570413578096834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949808403762614272/qQ7zYNkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 315,
+          "like_count": 3297,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 717
+        },
+        "username": "ejdh383254",
+        "verified": false
+      }
+    ]
+  }
+}

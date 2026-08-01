@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1952895715568673004",
+    "created_at": "2025-08-06T01:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T02:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952904760883069189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1722927513767419905",
+          "start": 0,
+          "username": "Ponds1205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952904760883069189",
+    "in_reply_to_user_id": "1722927513767419905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952895715568673004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ponds1205 如果你想找人聊聊天的话或许可以找我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1952895715568673004",
+        "created_at": "2025-08-06T01:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T02:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952904760883069189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1722927513767419905",
+              "start": 0,
+              "username": "Ponds1205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952904760883069189",
+        "in_reply_to_user_id": "1722927513767419905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952895715568673004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ponds1205 如果你想找人聊聊天的话或许可以找我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722927513767419905",
+        "conversation_id": "1952895715568673004",
+        "created_at": "2025-08-06T00:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T01:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952895715568673004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952895715568673004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好缺爱啊，好敏感，好忧郁，好焦虑，有人能陪陪我么，我快受不了自己了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T10:41:52.000Z",
+        "description": "默默无闻关注一切",
+        "id": "1722927513767419905",
+        "location": "Minato-ku, Tokyo",
+        "name": "应玄子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879680530071130112/vk-ufvrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 410,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 118
+        },
+        "username": "Ponds1205",
+        "verified": false
+      }
+    ]
+  }
+}

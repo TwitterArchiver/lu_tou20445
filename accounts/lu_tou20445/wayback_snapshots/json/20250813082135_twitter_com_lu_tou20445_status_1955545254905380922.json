@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955163773293171017",
+    "created_at": "2025-08-13T08:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T09:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955545254905380922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1747286914145648640",
+          "start": 0,
+          "username": "nuominiangdxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955545254905380922",
+    "in_reply_to_user_id": "1747286914145648640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955163773293171017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuominiangdxs 中路对狙吗？有点意思😦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955163773293171017",
+        "created_at": "2025-08-13T08:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955545254905380922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1747286914145648640",
+              "start": 0,
+              "username": "nuominiangdxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955545254905380922",
+        "in_reply_to_user_id": "1747286914145648640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955163773293171017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuominiangdxs 中路对狙吗？有点意思😦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747286914145648640",
+        "conversation_id": "1955163773293171017",
+        "created_at": "2025-08-12T07:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T08:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955163773293171017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955163773293171017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11007,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实主包这个勾引人的办法  伤敌一千  自损八百    可能在主包自己扣逼的时候他也在撸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T15:57:26.000Z",
+        "description": "只回复礼貌私信 推广请自辩！！",
+        "id": "1747286914145648640",
+        "name": "糯米酿 大学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794453314098356224/p5R1keRh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29630,
+          "following_count": 21,
+          "like_count": 1219,
+          "listed_count": 46,
+          "media_count": 134,
+          "tweet_count": 952
+        },
+        "username": "nuominiangdxs",
+        "verified": true
+      }
+    ]
+  }
+}

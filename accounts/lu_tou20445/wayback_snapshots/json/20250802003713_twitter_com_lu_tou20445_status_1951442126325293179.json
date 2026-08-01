@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951169989257359688",
+    "created_at": "2025-08-02T00:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T01:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951442126325293179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1934682633637908483",
+          "start": 0,
+          "username": "ln2umerical1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951442126325293179",
+    "in_reply_to_user_id": "1934682633637908483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951169989257359688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln2umerical1 讲这么大声干嘛？还要给你颁个奖吗？（邓超脸.jpg）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951169989257359688",
+        "created_at": "2025-08-02T00:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T01:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951442126325293179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1934682633637908483",
+              "start": 0,
+              "username": "ln2umerical1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951442126325293179",
+        "in_reply_to_user_id": "1934682633637908483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951169989257359688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln2umerical1 讲这么大声干嘛？还要给你颁个奖吗？（邓超脸.jpg）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934682633637908483",
+        "conversation_id": "1951169989257359688",
+        "created_at": "2025-08-01T06:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951169989257359688"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951169989257359688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17298,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是看黄男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 32,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T18:41:08.000Z",
+        "description": "",
+        "id": "1934682633637908483",
+        "name": "小北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934683080792657921/d7OpYrYI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 208,
+          "like_count": 2323,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 297
+        },
+        "username": "ln2umerical1",
+        "verified": false
+      }
+    ]
+  }
+}

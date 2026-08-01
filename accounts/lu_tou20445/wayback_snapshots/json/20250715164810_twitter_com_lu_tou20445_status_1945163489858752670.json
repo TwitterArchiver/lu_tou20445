@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1945163348221276160"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1945163489858752670",
+    "created_at": "2025-07-15T16:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T17:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945163489858752670"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "树洞"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "女高"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "女大"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "聊天"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "反差"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "自慰"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "磕炮"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "无聊"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iPOwmtex7k",
+          "end": 110,
+          "expanded_url": "https://x.com/lu_tou20445/status/1945163489858752670/video/1",
+          "media_key": "13_1945163348221276160",
+          "start": 87,
+          "url": "https://t.co/iPOwmtex7k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945163489858752670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡不着乱哼哄自己睡觉，如果你也失眠，那希望也可以哄到你，需要闲聊或者倾听伙伴的可以找我的可以找我，聊什么都行 #树洞 #女高 #女大 #聊天 #反差 #自慰 #磕炮 #无聊 https://t.co/iPOwmtex7k"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1945163489858752670].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1945163489858752670",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1945163489858752670"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66006,
+        "height": 1280,
+        "media_key": "13_1945163348221276160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1945163348221276160/img/Okn0r-rlEP48yt4i.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945163348221276160/vid/avc1/320x568/p2nmebQPTkxCu13R.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945163348221276160/vid/avc1/480x852/SvILl15u9fTg-DWH.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1945163348221276160/vid/avc1/720x1280/REUwsfu5BKKamXix.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1945163348221276160/pl/9HI3ipwFpcixtl29.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

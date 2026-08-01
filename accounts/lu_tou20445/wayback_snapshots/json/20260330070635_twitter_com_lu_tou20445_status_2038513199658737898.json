@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2038511862485258445",
+    "created_at": "2026-03-30T07:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T08:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038513199658737898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        },
+        {
+          "end": 22,
+          "id": "787912607680368640",
+          "start": 10,
+          "username": "Tubular1705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038513199658737898",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038511862485258445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 @Tubular1705 这么吃一轮下去俩人晕碳躺大街上了得"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2038511844051308544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEo_uL8a0AAXq0-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2038511862485258445",
+        "created_at": "2026-03-30T07:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038513199658737898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            },
+            {
+              "end": 22,
+              "id": "787912607680368640",
+              "start": 10,
+              "username": "Tubular1705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038513199658737898",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038511862485258445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 @Tubular1705 这么吃一轮下去俩人晕碳躺大街上了得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038511844051308544"
+          ]
+        },
+        "author_id": "1525341238223855616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038511862485258445",
+        "created_at": "2026-03-30T07:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T08:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038511862485258445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "787912607680368640",
+              "start": 10,
+              "username": "Tubular1705"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Osdhg5JISr",
+              "end": 46,
+              "expanded_url": "https://x.com/zz160268/status/2038511862485258445/photo/1",
+              "media_key": "3_2038511844051308544",
+              "start": 23,
+              "url": "https://t.co/Osdhg5JISr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038511862485258445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "符合昵称的第二集😋\n@Tubular1705 https://t.co/Osdhg5JISr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 72,
+          "like_count": 19475,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 5627
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "祝你们天天开心｜不看私信请求",
+        "id": "1525341238223855616",
+        "name": "🛶",
+        "pinned_tweet_id": "2028471482092044762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 233,
+          "like_count": 38245,
+          "listed_count": 1,
+          "media_count": 965,
+          "tweet_count": 13033
+        },
+        "username": "zz160268",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-17T07:06:19.000Z",
+        "description": "ENFJ｜北方面食达人｜一周5练按时打卡🏋🏻｜磕Les｜朋友的情感人生导师｜AD🚕Engineer｜Triumph 400x player",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kerwin71727",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kerwin71727",
+                "start": 0,
+                "url": "https://t.co/3NreCclcCG"
+              }
+            ]
+          }
+        },
+        "id": "787912607680368640",
+        "location": "北京",
+        "name": "寂寞的时候吃面",
+        "pinned_tweet_id": "1984459725304709278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905990671582019584/vPU-bKRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 496,
+          "like_count": 2590,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 3721
+        },
+        "url": "https://t.co/3NreCclcCG",
+        "username": "Tubular1705",
+        "verified": false
+      }
+    ]
+  }
+}

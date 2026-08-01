@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2031265967502930070",
+    "created_at": "2026-03-10T07:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T08:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031269958613873067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999092807190114304",
+          "start": 0,
+          "username": "custardqq1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031269958613873067",
+    "in_reply_to_user_id": "1999092807190114304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031267753404019090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@custardqq1 崩了也是痛一下，偏头痛你都找不到崩哪会不痛😑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T07:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031269958613873067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999092807190114304",
+              "start": 0,
+              "username": "custardqq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031269958613873067",
+        "in_reply_to_user_id": "1999092807190114304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031267753404019090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@custardqq1 崩了也是痛一下，偏头痛你都找不到崩哪会不痛😑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999092807190114304",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T07:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031267753404019090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031267753404019090",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031265967502930070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 每次偏头痛我都想一枪崩了自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 71,
+          "like_count": 18224,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 5347
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T12:24:43.000Z",
+        "description": "还没想好说什么",
+        "id": "1999092807190114304",
+        "name": "卡仕达面包",
+        "pinned_tweet_id": "1999153201887510888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999094380389621760/r-2nxVBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 86,
+          "like_count": 9401,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 449
+        },
+        "username": "custardqq1",
+        "verified": false
+      }
+    ]
+  }
+}

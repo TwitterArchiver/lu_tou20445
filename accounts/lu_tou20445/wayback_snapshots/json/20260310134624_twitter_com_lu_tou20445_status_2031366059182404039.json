@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2031265967502930070",
+    "created_at": "2026-03-10T13:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T14:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031366059182404039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1374283605279567873",
+          "start": 0,
+          "username": "ino_ozZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031366059182404039",
+    "in_reply_to_user_id": "1374283605279567873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031351997887316071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ino_ozZ 按左边右边疼，按右边左边疼，哪都不按全疼👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T13:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T14:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031366059182404039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1374283605279567873",
+              "start": 0,
+              "username": "ino_ozZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031366059182404039",
+        "in_reply_to_user_id": "1374283605279567873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031351997887316071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ino_ozZ 按左边右边疼，按右边左边疼，哪都不按全疼👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374283605279567873",
+        "conversation_id": "2031265967502930070",
+        "created_at": "2026-03-10T12:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031351997887316071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031351997887316071",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031265967502930070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 偏头痛真的...冷了疼热了疼 睡多了疼睡少了也疼 室外时间长了疼 室内时间长了也疼 完全找不到发作规律的一种病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 71,
+          "like_count": 18255,
+          "listed_count": 5,
+          "media_count": 246,
+          "tweet_count": 5353
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-23T08:55:28.000Z",
+        "description": "薄肌 青年音 手好看的 可以给我发私信（不要发牛子 想认识一下）",
+        "id": "1374283605279567873",
+        "name": "无敌暴龙战神",
+        "pinned_tweet_id": "1932446001920647338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944434696886075392/Sh8MbQ8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 239,
+          "like_count": 1686,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 584
+        },
+        "username": "ino_ozZ",
+        "verified": false
+      }
+    ]
+  }
+}

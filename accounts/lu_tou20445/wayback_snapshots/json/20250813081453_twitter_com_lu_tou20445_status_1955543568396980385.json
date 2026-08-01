@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955495966376857875",
+    "created_at": "2025-08-13T08:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T09:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955543568396980385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1928106671995506692",
+          "start": 0,
+          "username": "zyg6619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955543568396980385",
+    "in_reply_to_user_id": "1928106671995506692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955495966376857875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyg6619 可能地上是幻化出来的你的三千烦恼丝吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_1955495957724008451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNRNn_aEAMR739.jpg",
+        "width": 469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955495966376857875",
+        "created_at": "2025-08-13T08:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955543568396980385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1928106671995506692",
+              "start": 0,
+              "username": "zyg6619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955543568396980385",
+        "in_reply_to_user_id": "1928106671995506692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955495966376857875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyg6619 可能地上是幻化出来的你的三千烦恼丝吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955495957724008451"
+          ]
+        },
+        "author_id": "1928106671995506692",
+        "conversation_id": "1955495966376857875",
+        "created_at": "2025-08-13T05:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T06:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955495966376857875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S4k6bEW3Vk",
+              "end": 73,
+              "expanded_url": "https://x.com/zyg6619/status/1955495966376857875/photo/1",
+              "media_key": "3_1955495957724008451",
+              "start": 50,
+              "url": "https://t.co/S4k6bEW3Vk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955495966376857875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1943,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不明白\n我的房间为什么会乱\n我明明只是躺在床上玩手机\n为什么满地都是我的头发\n我明明没有梳头 https://t.co/S4k6bEW3Vk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 39,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T15:10:54.000Z",
+        "description": "碎碎念 不礼貌回关 喜欢我请打钱。@TbYxxx22598",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "TbYxxx22598"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.fnweb.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn.fnweb.sbs/#/register?code=2r8BbTWc",
+                "start": 0,
+                "url": "https://t.co/2thRDyUFY0"
+              }
+            ]
+          }
+        },
+        "id": "1928106671995506692",
+        "location": "自用蜂鸟VPN：",
+        "name": "我不是海绵宝宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949357943310491648/yrXu1oca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 145,
+          "like_count": 13955,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 2481
+        },
+        "url": "https://t.co/2thRDyUFY0",
+        "username": "zyg6619",
+        "verified": false
+      }
+    ]
+  }
+}

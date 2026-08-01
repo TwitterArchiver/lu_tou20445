@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1965247795910336629",
+    "created_at": "2025-09-09T03:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T04:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965249824720396597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731921199574450176",
+          "start": 0,
+          "username": "Darling674312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965249824720396597",
+    "in_reply_to_user_id": "1731921199574450176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965247795910336629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Darling674312 可以搞个笔记本竖立支架再外接个显示屏，会很舒服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1965247785177169920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0X2csMbwAAJOs_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1965247785139376128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0X2csDbEAAdWMP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1965247795910336629",
+        "created_at": "2025-09-09T03:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T04:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965249824720396597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731921199574450176",
+              "start": 0,
+              "username": "Darling674312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965249824720396597",
+        "in_reply_to_user_id": "1731921199574450176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965247795910336629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Darling674312 可以搞个笔记本竖立支架再外接个显示屏，会很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965247785177169920",
+            "3_1965247785139376128"
+          ]
+        },
+        "author_id": "1731921199574450176",
+        "conversation_id": "1965247795910336629",
+        "created_at": "2025-09-09T02:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965247795910336629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2ZA8gjVz9",
+              "end": 35,
+              "expanded_url": "https://x.com/Darling674312/status/1965247795910336629/photo/1",
+              "media_key": "3_1965247785177169920",
+              "start": 12,
+              "url": "https://t.co/W2ZA8gjVz9"
+            },
+            {
+              "display_url": "pic.x.com/W2ZA8gjVz9",
+              "end": 35,
+              "expanded_url": "https://x.com/Darling674312/status/1965247795910336629/photo/1",
+              "media_key": "3_1965247785139376128",
+              "start": 12,
+              "url": "https://t.co/W2ZA8gjVz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965247795910336629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俺的幸福小窝改造成功啦 https://t.co/W2ZA8gjVz9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 65,
+          "like_count": 3329,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T06:19:36.000Z",
+        "description": "日记｜碎碎念｜点赞夸夸机器｜infp♐️｜哑巴｜正在读书｜不喜欢没礼貌的人｜努力当绘画博主的第不知道多少天｜很社恐，信息随缘回复｜纯绿",
+        "id": "1731921199574450176",
+        "location": "海",
+        "name": "困",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963883789148667904/06CPifyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 140,
+          "like_count": 8614,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 523
+        },
+        "username": "Darling674312",
+        "verified": false
+      }
+    ]
+  }
+}

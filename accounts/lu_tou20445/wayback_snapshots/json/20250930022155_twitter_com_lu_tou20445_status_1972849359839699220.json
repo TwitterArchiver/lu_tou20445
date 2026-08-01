@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1972591212378112236",
+    "created_at": "2025-09-30T02:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T03:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972849359839699220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1961537369473245184",
+          "start": 0,
+          "username": "li3844087"
+        },
+        {
+          "end": 23,
+          "id": "1688397365336850432",
+          "start": 11,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972849359839699220",
+    "in_reply_to_user_id": "1961537369473245184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972836779305881705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li3844087 @hongpigu980 假的，别信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1972591212378112236",
+        "created_at": "2025-09-30T02:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T03:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972849359839699220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1961537369473245184",
+              "start": 0,
+              "username": "li3844087"
+            },
+            {
+              "end": 23,
+              "id": "1688397365336850432",
+              "start": 11,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972849359839699220",
+        "in_reply_to_user_id": "1961537369473245184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972836779305881705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@li3844087 @hongpigu980 假的，别信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961537369473245184",
+        "conversation_id": "1972591212378112236",
+        "created_at": "2025-09-30T01:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T02:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972836779305881705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 25,
+              "id": "1688397365336850432",
+              "start": 13,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972836779305881705",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972593487045693788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @hongpigu980 这么懂！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 63,
+          "like_count": 5285,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1910
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T21:12:15.000Z",
+        "description": "爱好音乐 健身 画画丨互关交朋友请直接私信！看到一定回！我很好说话！丨https://t.co/bEkUepXebh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%95%87%E7%8…",
+                "end": 58,
+                "expanded_url": "https://ngl.link/%E9%95%87%E7%81%B5",
+                "start": 35,
+                "url": "https://t.co/bEkUepXebh"
+              }
+            ]
+          }
+        },
+        "id": "1961537369473245184",
+        "location": "在南昌（但福建人）",
+        "name": "灵",
+        "pinned_tweet_id": "1966797284026270149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962330357443035136/5plSLBYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 100,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 347
+        },
+        "username": "li3844087",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广 🥇全球外围质量最高选➡️ @yunle1289",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "yunle1289"
+              }
+            ]
+          }
+        },
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1971228496501538879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80903,
+          "following_count": 72,
+          "like_count": 83,
+          "listed_count": 81,
+          "media_count": 1276,
+          "tweet_count": 1663
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

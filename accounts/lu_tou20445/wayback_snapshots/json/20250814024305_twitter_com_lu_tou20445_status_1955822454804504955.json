@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955810272867967178",
+    "created_at": "2025-08-14T02:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955822454804504955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1908977617040191488",
+          "start": 0,
+          "username": "qiu2718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955822454804504955",
+    "in_reply_to_user_id": "1908977617040191488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955821698466636125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu2718 不造谣不传谣，这么整真的要抓不住幸福了🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955810272867967178",
+        "created_at": "2025-08-14T02:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955822454804504955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1908977617040191488",
+              "start": 0,
+              "username": "qiu2718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955822454804504955",
+        "in_reply_to_user_id": "1908977617040191488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955821698466636125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu2718 不造谣不传谣，这么整真的要抓不住幸福了🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908977617040191488",
+        "conversation_id": "1955810272867967178",
+        "created_at": "2025-08-14T02:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T03:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955821698466636125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955821698466636125",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955821202456633770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我都懂，兄弟🌝🌝🌝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 41,
+          "like_count": 471,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T20:18:34.000Z",
+        "description": "只想玩腿！",
+        "id": "1908977617040191488",
+        "location": "上海",
+        "name": "湫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920474356288733184/8TL8vfh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 157
+        },
+        "username": "qiu2718",
+        "verified": false
+      }
+    ]
+  }
+}

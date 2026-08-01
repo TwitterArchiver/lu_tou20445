@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2067924566182113657",
+    "created_at": "2026-06-19T11:56:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067939672538628137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696051859545280512",
+          "start": 0,
+          "username": "yzrnb000000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067939672538628137",
+    "in_reply_to_user_id": "1696051859545280512",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067924566182113657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzrnb000000 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067924558032568320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLK-bd_WgAA_IQ7.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2067924566182113657",
+        "created_at": "2026-06-19T11:56:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067939672538628137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696051859545280512",
+              "start": 0,
+              "username": "yzrnb000000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067939672538628137",
+        "in_reply_to_user_id": "1696051859545280512",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067924566182113657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzrnb000000 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067924558032568320"
+          ]
+        },
+        "author_id": "1696051859545280512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067924566182113657",
+        "created_at": "2026-06-19T10:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067924566182113657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mOpEtq8dR",
+              "end": 23,
+              "expanded_url": "https://x.com/yzrnb000000/status/2067924566182113657/photo/1",
+              "media_key": "3_2067924558032568320",
+              "start": 0,
+              "url": "https://t.co/6mOpEtq8dR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067924566182113657",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6mOpEtq8dR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1942,
+          "following_count": 70,
+          "like_count": 21696,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 6187
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T06:48:02.000Z",
+        "description": "等老公同意离婚立马和情人分手去找爱人@moji1867甜蜜中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "moji1867"
+              }
+            ]
+          }
+        },
+        "id": "1696051859545280512",
+        "location": "有钱人啥时候莫名其妙给我点钱",
+        "name": "椰子瑞纳冰",
+        "pinned_tweet_id": "2066548232990425108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004384477364056064/KWHJqlHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 157,
+          "like_count": 62126,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 14750
+        },
+        "url": "",
+        "username": "yzrnb000000",
+        "verified": false
+      }
+    ]
+  }
+}

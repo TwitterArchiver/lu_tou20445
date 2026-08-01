@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958540377700610513",
+    "created_at": "2025-08-22T01:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T02:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958698193706725622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        },
+        {
+          "end": 21,
+          "id": "1948092646280572929",
+          "start": 10,
+          "username": "Woof124145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958698193706725622",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958698091353100403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 @Woof124145 我没有，你别乱讲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958540377700610513",
+        "created_at": "2025-08-22T01:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T02:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958698193706725622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            },
+            {
+              "end": 21,
+              "id": "1948092646280572929",
+              "start": 10,
+              "username": "Woof124145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958698193706725622",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958698091353100403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 @Woof124145 我没有，你别乱讲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904003547756146688",
+        "conversation_id": "1958540377700610513",
+        "created_at": "2025-08-22T01:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T02:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958698091353100403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 24,
+              "id": "1948092646280572929",
+              "start": 13,
+              "username": "Woof124145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958698091353100403",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958581301973590217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @Woof124145 绿老师连这个都会？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 51,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "说点垃圾话 你能喜欢的话那就最好了",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "pinned_tweet_id": "1954412946433417374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958091898603687936/8ZEh8Tp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 116,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 215
+        },
+        "username": "kkt12138",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T18:47:43.000Z",
+        "description": "别管我",
+        "id": "1948092646280572929",
+        "name": "酸涩沼泽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956269145756196864/1cQNiy9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 218,
+          "like_count": 3037,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 124
+        },
+        "username": "Woof124145",
+        "verified": false
+      }
+    ]
+  }
+}

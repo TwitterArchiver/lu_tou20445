@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1982336740305367219",
+    "created_at": "2025-10-26T16:13:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T17:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982480794666029488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1950933673681076224",
+          "start": 0,
+          "username": "05OEuRGmtL85445"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982480794666029488",
+    "in_reply_to_user_id": "1950933673681076224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982478222827933797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@05OEuRGmtL85445 还想验货？不给🫵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 238,
+        "media_key": "16_1982478203747774464",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4MtbDVXMAAcGjF.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4MtbDVXMAAcGjF.mp4"
+          }
+        ],
+        "width": 238
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1982336740305367219",
+        "created_at": "2025-10-26T16:13:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982480794666029488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1950933673681076224",
+              "start": 0,
+              "username": "05OEuRGmtL85445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982480794666029488",
+        "in_reply_to_user_id": "1950933673681076224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982478222827933797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@05OEuRGmtL85445 还想验货？不给🫵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1982478203747774464"
+          ]
+        },
+        "author_id": "1950933673681076224",
+        "conversation_id": "1982336740305367219",
+        "created_at": "2025-10-26T16:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982478222827933797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mrj87ZokWW",
+              "end": 45,
+              "expanded_url": "https://x.com/05OEuRGmtL85445/status/1982478222827933797/photo/1",
+              "media_key": "16_1982478203747774464",
+              "start": 22,
+              "url": "https://t.co/mrj87ZokWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982478222827933797",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982336740305367219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 真的假的?我看看 https://t.co/mrj87ZokWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 73,
+          "like_count": 7362,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T14:56:57.000Z",
+        "description": "07/168/108/巨蟹座/性取向为麦当劳和排骨米饭😋（这是吃的。我不是m。）我是双\n喜欢玩好多游戏，嗯对我要和游戏过一辈子。这个号就是记录一些胡言乱语的傻逼别来烦我。偶尔会发一些自己很满意的身材照让本大王的子民膜拜一下    没有🚪\nhttps://t.co/dVwBsSWlsV匿名",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/05OEuRGmtL8544…",
+                "end": 142,
+                "expanded_url": "https://ngl.link/05OEuRGmtL8544593455",
+                "start": 119,
+                "url": "https://t.co/dVwBsSWlsV"
+              }
+            ]
+          }
+        },
+        "id": "1950933673681076224",
+        "name": "土豆大王（嘴臭爱压力版）",
+        "pinned_tweet_id": "1961292547562901855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952158647250989056/O41IifuZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 6,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 689
+        },
+        "username": "05OEuRGmtL85445",
+        "verified": false
+      }
+    ]
+  }
+}

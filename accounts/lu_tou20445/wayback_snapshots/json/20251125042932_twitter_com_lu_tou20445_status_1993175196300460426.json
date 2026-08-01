@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993175187244920832"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1993175196300460426",
+    "created_at": "2025-11-25T04:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T05:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993175196300460426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VuB6bo08G9",
+          "end": 115,
+          "expanded_url": "https://x.com/lu_tou20445/status/1993175196300460426/photo/1",
+          "media_key": "3_1993175187244920832",
+          "start": 92,
+          "url": "https://t.co/VuB6bo08G9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993175196300460426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想到，一般人身上都会戴点首饰，比如我就戴了一副银制阴阳环，手腕有翻动或者手上有动作时会随动发出叮啷响，那如果我用这只手在手动颠勺或者爱抚的时候，是不是相当于另一种意义上的狗响板🤔 https://t.co/VuB6bo08G9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_1993175187244920832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kuRcLbMAAu0Bm.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993175187244920832"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1993175196300460426",
+        "created_at": "2025-11-25T04:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993175196300460426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuB6bo08G9",
+              "end": 115,
+              "expanded_url": "https://x.com/lu_tou20445/status/1993175196300460426/photo/1",
+              "media_key": "3_1993175187244920832",
+              "start": 92,
+              "url": "https://t.co/VuB6bo08G9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993175196300460426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想到，一般人身上都会戴点首饰，比如我就戴了一副银制阴阳环，手腕有翻动或者手上有动作时会随动发出叮啷响，那如果我用这只手在手动颠勺或者爱抚的时候，是不是相当于另一种意义上的狗响板🤔 https://t.co/VuB6bo08G9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 70,
+          "like_count": 9707,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2926
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

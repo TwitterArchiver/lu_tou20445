@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951125343773008311",
+    "created_at": "2025-08-01T03:59:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T04:59:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951130687249031670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762399735644921856",
+          "start": 0,
+          "username": "shrnyygu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951130687249031670",
+    "in_reply_to_user_id": "1762399735644921856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951125343773008311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrnyygu114514 精神状态还可以，只喝白的，我平时都喝一点黑的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1951125336953073664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxPKKA1aMAAPiDq.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951125343773008311",
+        "created_at": "2025-08-01T03:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T04:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951130687249031670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762399735644921856",
+              "start": 0,
+              "username": "shrnyygu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951130687249031670",
+        "in_reply_to_user_id": "1762399735644921856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951125343773008311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrnyygu114514 精神状态还可以，只喝白的，我平时都喝一点黑的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951125336953073664"
+          ]
+        },
+        "author_id": "1762399735644921856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1951125343773008311",
+        "created_at": "2025-08-01T03:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T04:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951125343773008311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hUJhnW56yD",
+              "end": 31,
+              "expanded_url": "https://x.com/shrnyygu114514/status/1951125343773008311/photo/1",
+              "media_key": "3_1951125336953073664",
+              "start": 8,
+              "url": "https://t.co/hUJhnW56yD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951125343773008311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苦酒入喉心作痛 https://t.co/hUJhnW56yD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 30,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "话少，爱点赞 ，好吧其实话也挺多的/很温良除非遇到贱人/抑郁治疗ing/爱看电影/板绘学习ing/废柴尼特/欢迎交朋友",
+        "id": "1762399735644921856",
+        "location": "在无爱之森呐喊",
+        "name": "好吃麻辣烫大王",
+        "pinned_tweet_id": "1935890736362500245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929893492760948745/1zB3Uuaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 467,
+          "like_count": 23552,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1429
+        },
+        "username": "shrnyygu114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2020879233694998885",
+    "created_at": "2026-02-09T16:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020897351192432657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1933153092712976384",
+          "start": 0,
+          "username": "kurice__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020897351192432657",
+    "in_reply_to_user_id": "1933153092712976384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020879233694998885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurice__ 这个尝起来一定很鲜😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020879226740903936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAua8xvbkAATOyd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2020879233694998885",
+        "created_at": "2026-02-09T16:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020897351192432657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933153092712976384",
+              "start": 0,
+              "username": "kurice__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020897351192432657",
+        "in_reply_to_user_id": "1933153092712976384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020879233694998885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurice__ 这个尝起来一定很鲜😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020879226740903936"
+          ]
+        },
+        "author_id": "1933153092712976384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020879233694998885",
+        "created_at": "2026-02-09T15:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020879233694998885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95pzEUyKXI",
+              "end": 23,
+              "expanded_url": "https://x.com/kurice__/status/2020879233694998885/photo/1",
+              "media_key": "3_2020879226740903936",
+              "start": 0,
+              "url": "https://t.co/95pzEUyKXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020879233694998885",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/95pzEUyKXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 71,
+          "like_count": 15499,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 4652
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T13:23:28.000Z",
+        "description": "𓆡𓂃𓂃𓊝𓄹𓄺𓂃𓂃𓇼𓈒𓏸𓇬幸福島島民( ˃ ᵕ ˂ )✰.ᐟ.ᐟ",
+        "id": "1933153092712976384",
+        "location": "许愿一个永远陪着我的人",
+        "name": "宇宙超级无敌噼里啪啦懒洋洋大王",
+        "pinned_tweet_id": "2017929950452658202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017854507330506752/O0i-N3LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 106,
+          "like_count": 853,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 1129
+        },
+        "username": "kurice__",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2041175878785544522",
+    "created_at": "2026-04-07T02:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041347867282223249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1639917553844731904",
+          "start": 0,
+          "username": "yyzz09423794808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041347867282223249",
+    "in_reply_to_user_id": "1639917553844731904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041177759297466783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyzz09423794808 当然，恨为什么钱没好好在你身边"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2041175878785544522",
+        "created_at": "2026-04-07T02:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041347867282223249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1639917553844731904",
+              "start": 0,
+              "username": "yyzz09423794808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041347867282223249",
+        "in_reply_to_user_id": "1639917553844731904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041177759297466783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyzz09423794808 当然，恨为什么钱没好好在你身边"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639917553844731904",
+        "conversation_id": "2041175878785544522",
+        "created_at": "2026-04-06T15:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041177759297466783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041177759297466783",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041175878785544522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 仇富算吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 72,
+          "like_count": 19986,
+          "listed_count": 5,
+          "media_count": 260,
+          "tweet_count": 5670
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T09:09:56.000Z",
+        "description": "INFJ水瓶♒\n自负盈亏",
+        "id": "1639917553844731904",
+        "name": "暴躁的饭团🍙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969683073378983937/V9pWP_oa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 123,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 182
+        },
+        "username": "yyzz09423794808",
+        "verified": false
+      }
+    ]
+  }
+}

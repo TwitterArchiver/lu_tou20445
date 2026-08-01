@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2015988946447278423",
+    "created_at": "2026-01-27T03:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015991137300090907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013929181521010688",
+          "start": 0,
+          "username": "Nobody80686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015991137300090907",
+    "in_reply_to_user_id": "2013929181521010688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015988946447278423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nobody80686 虽然这话很 emo，但是配合上你的 id，有种别样的意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2015988946447278423",
+        "created_at": "2026-01-27T03:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015991137300090907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013929181521010688",
+              "start": 0,
+              "username": "Nobody80686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015991137300090907",
+        "in_reply_to_user_id": "2013929181521010688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015988946447278423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nobody80686 虽然这话很 emo，但是配合上你的 id，有种别样的意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013929181521010688",
+        "conversation_id": "2015988946447278423",
+        "created_at": "2026-01-27T03:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015988946447278423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015988946447278423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说不会离开我是真的吗，还是嘴上说说而已。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 71,
+          "like_count": 14710,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 4394
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T10:58:44.000Z",
+        "description": "我又重生了 https://t.co/ckpw0bUQ3B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oldesting64975",
+                "end": 29,
+                "expanded_url": "https://ngl.link/oldesting64975",
+                "start": 6,
+                "url": "https://t.co/ckpw0bUQ3B"
+              }
+            ]
+          }
+        },
+        "id": "2013929181521010688",
+        "name": "如果我是一只猪你还会爱我吗",
+        "pinned_tweet_id": "2013936767834185833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013929569179332608/xnClfsXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 136,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 719
+        },
+        "username": "Nobody80686",
+        "verified": false
+      }
+    ]
+  }
+}

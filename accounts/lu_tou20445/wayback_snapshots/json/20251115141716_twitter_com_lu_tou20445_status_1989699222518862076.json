@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1989698013380391096",
+    "created_at": "2025-11-15T14:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989699222518862076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1907355599232274432",
+          "start": 0,
+          "username": "77ninini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989699222518862076",
+    "in_reply_to_user_id": "1907355599232274432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989698013380391096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@77ninini 下次炉子口做大一点我就直接进去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3900,
+        "height": 640,
+        "media_key": "13_1989697988944420864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989697988944420864/img/NK-XVs3B-h6wkl35.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989697988944420864/vid/avc1/320x426/H4Z193PgUGTF4ruY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989697988944420864/vid/avc1/480x640/sSi_Hb1eSR18zVj3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989697988944420864/pl/ZQdwBo91T1TfmfAQ.m3u8?tag=14"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1989698013380391096",
+        "created_at": "2025-11-15T14:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989699222518862076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1907355599232274432",
+              "start": 0,
+              "username": "77ninini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989699222518862076",
+        "in_reply_to_user_id": "1907355599232274432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989698013380391096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@77ninini 下次炉子口做大一点我就直接进去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989697988944420864"
+          ]
+        },
+        "author_id": "1907355599232274432",
+        "conversation_id": "1989698013380391096",
+        "created_at": "2025-11-15T14:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989698013380391096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0WC5lBQOD",
+              "end": 43,
+              "expanded_url": "https://x.com/77ninini/status/1989698013380391096/video/1",
+              "media_key": "13_1989697988944420864",
+              "start": 20,
+              "url": "https://t.co/i0WC5lBQOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989698013380391096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "你是不是有点冷？来陪我一起烤火好吗？🥰 https://t.co/i0WC5lBQOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 74,
+          "like_count": 8748,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2720
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:53:26.000Z",
+        "description": "简单记录生活，记录心情，喜欢小猫小狗🥰\n（不开私信，不加VX，不礼貌回关，取关随意）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mumu_77",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/mumu_77",
+                "start": 0,
+                "url": "https://t.co/mS0tEKk2ij"
+              }
+            ]
+          }
+        },
+        "id": "1907355599232274432",
+        "location": "偏安一隅",
+        "name": "木沐",
+        "pinned_tweet_id": "1989307526802812982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987567256109277185/JL05nIaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 176,
+          "like_count": 40379,
+          "listed_count": 3,
+          "media_count": 583,
+          "tweet_count": 12919
+        },
+        "url": "https://t.co/mS0tEKk2ij",
+        "username": "77ninini",
+        "verified": false
+      }
+    ]
+  }
+}

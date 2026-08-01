@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2056680012863123869",
+    "created_at": "2026-05-19T10:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056686956810207499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056686956810207499",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056680012863123869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 组织上不允许就是私下里可以😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_2056680006538158080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrLkbZa4AA1hg9.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2056680012863123869",
+        "created_at": "2026-05-19T10:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056686956810207499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056686956810207499",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056680012863123869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 组织上不允许就是私下里可以😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056680006538158080"
+          ]
+        },
+        "author_id": "757578278320300032",
+        "conversation_id": "2056680012863123869",
+        "created_at": "2026-05-19T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056680012863123869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gu9k5JWWtb",
+              "end": 96,
+              "expanded_url": "https://x.com/trpaomo/status/2056680012863123869/photo/1",
+              "media_key": "3_2056680006538158080",
+              "start": 73,
+              "url": "https://t.co/Gu9k5JWWtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056680012863123869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我：“哈哈，可是明天我们老板还有认识的化妆师博主朋友也要来参加活动啊，万一他们要跟我们合影呢🌚”\n同事“不可以不可以👋 组织上不允许🙅🏻‍♀️” https://t.co/Gu9k5JWWtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 70,
+          "like_count": 20777,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 5890
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁 \n万事不为我所有 皆为我所用\n不约不礼貌回 只跟互关聊天",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "2029865212401344606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037437367032897536/_Gy9dUfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 305,
+          "like_count": 25155,
+          "listed_count": 8,
+          "media_count": 1135,
+          "tweet_count": 8336
+        },
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

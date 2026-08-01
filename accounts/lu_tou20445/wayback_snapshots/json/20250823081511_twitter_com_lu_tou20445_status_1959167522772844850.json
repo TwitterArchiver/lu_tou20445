@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959164952054243656",
+    "created_at": "2025-08-23T08:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T09:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959167522772844850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959167522772844850",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959164952054243656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 大姨有恋猪癖可以响应号召去猪场养猪致富的，那里任打骂的乖乖猪量大管饱，而不是在这qj我的左右眼🚬"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45068,
+        "height": 1280,
+        "media_key": "13_1959164884064849920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959164884064849920/img/Z5IO-u-sbyV0kjoK.jpg",
+        "public_metrics": {
+          "view_count": 187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959164884064849920/vid/avc1/320x690/XDFIH4NIh3H4bjb0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959164884064849920/vid/avc1/480x1036/Y01OX-hs4ssbQVVZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959164884064849920/vid/avc1/592x1280/psdCKPpDuUQBfzfp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959164884064849920/pl/2A85OCGMhNA0GoQl.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959164952054243656",
+        "created_at": "2025-08-23T08:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959167522772844850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959167522772844850",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959164952054243656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 大姨有恋猪癖可以响应号召去猪场养猪致富的，那里任打骂的乖乖猪量大管饱，而不是在这qj我的左右眼🚬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959164884064849920"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1959164952054243656",
+        "created_at": "2025-08-23T08:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959164952054243656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yst4dFZ3eZ",
+              "end": 25,
+              "expanded_url": "https://x.com/hongpigu980/status/1959164952054243656/video/1",
+              "media_key": "13_1959164884064849920",
+              "start": 2,
+              "url": "https://t.co/yst4dFZ3eZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959164952054243656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 564,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/yst4dFZ3eZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 51,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1954880852925780106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70767,
+          "following_count": 59,
+          "like_count": 75,
+          "listed_count": 64,
+          "media_count": 1049,
+          "tweet_count": 1357
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

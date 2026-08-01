@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958503427530535304",
+    "created_at": "2025-11-24T07:51:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:51:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992863679772316081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904752319773892608",
+          "start": 0,
+          "username": "Laraaa718"
+        },
+        {
+          "end": 21,
+          "id": "1784887323211280384",
+          "start": 11,
+          "username": "ljng15760"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992863679772316081",
+    "in_reply_to_user_id": "904752319773892608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992863321591300222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laraaa718 @ljng15760 嗯？怎么今天好多人都翻到了我之前视频"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-11-24T07:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992863679772316081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904752319773892608",
+              "start": 0,
+              "username": "Laraaa718"
+            },
+            {
+              "end": 21,
+              "id": "1784887323211280384",
+              "start": 11,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992863679772316081",
+        "in_reply_to_user_id": "904752319773892608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992863321591300222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laraaa718 @ljng15760 嗯？怎么今天好多人都翻到了我之前视频"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "904752319773892608",
+        "conversation_id": "1958503427530535304",
+        "created_at": "2025-11-24T07:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992863321591300222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 23,
+              "id": "1784887323211280384",
+              "start": 13,
+              "username": "ljng15760"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992863321591300222",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958503427530535304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @ljng15760 品鉴中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 70,
+          "like_count": 9615,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T17:05:37.000Z",
+        "description": "Be my eyes.｜Dark Side @kitten718miao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "kitten718miao"
+              }
+            ]
+          }
+        },
+        "id": "904752319773892608",
+        "name": "kitten",
+        "pinned_tweet_id": "1969417936701165710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960549452835651584/8OudCR7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3116,
+          "following_count": 186,
+          "like_count": 30125,
+          "listed_count": 3,
+          "media_count": 261,
+          "tweet_count": 9743
+        },
+        "username": "Laraaa718",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T10:08:06.000Z",
+        "description": "所有台本及短打都需要私信找我要授权，拿到授权再录/发布请圈@我一下 /自用🪜 https://t.co/5POqV5PI2E不接置顶～定制台本60千字、商用3倍、台本加急OR不公开千字多20⭐️/请勿搬运、抄袭、缝合",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.达蒙.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://a.xn--hv1a41u.com/#/register?code=l5JiAadv",
+                "start": 39,
+                "url": "https://t.co/5POqV5PI2E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bohe15760",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bohe15760",
+                "start": 0,
+                "url": "https://t.co/7Wg9tCsfXq"
+              }
+            ]
+          }
+        },
+        "id": "1784887323211280384",
+        "location": "月亮🌙上",
+        "name": "星星⭐️🩵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975786182387900416/_TTGLVKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83713,
+          "following_count": 272,
+          "like_count": 10344,
+          "listed_count": 92,
+          "media_count": 678,
+          "tweet_count": 8854
+        },
+        "url": "https://t.co/7Wg9tCsfXq",
+        "username": "ljng15760",
+        "verified": false
+      }
+    ]
+  }
+}

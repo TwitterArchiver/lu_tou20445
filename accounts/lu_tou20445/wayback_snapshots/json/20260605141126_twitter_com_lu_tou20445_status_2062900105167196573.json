@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2062824532243800191",
+    "created_at": "2026-06-05T14:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062900105167196573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1986297699940081664",
+          "start": 0,
+          "username": "whxsj_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062900105167196573",
+    "in_reply_to_user_id": "1986297699940081664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062895706751529042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whxsj_ 太惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2062824532243800191",
+        "created_at": "2026-06-05T14:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062900105167196573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1986297699940081664",
+              "start": 0,
+              "username": "whxsj_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062900105167196573",
+        "in_reply_to_user_id": "1986297699940081664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062895706751529042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whxsj_ 太惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986297699940081664",
+        "conversation_id": "2062824532243800191",
+        "created_at": "2026-06-05T13:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062895706751529042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062895706751529042",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062824532243800191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 试过，结果发现太专注了容易拉不出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1928,
+          "following_count": 69,
+          "like_count": 21402,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 6085
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T05:01:01.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/csglshuishuish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/csglshuishuish",
+                "start": 0,
+                "url": "https://t.co/gtjjCxEgUr"
+              }
+            ]
+          }
+        },
+        "id": "1986297699940081664",
+        "location": "0.00001km",
+        "name": "好想睡觉´0`",
+        "pinned_tweet_id": "1996153900345569386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989371701155815424/QtZ8Tsmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 196,
+          "like_count": 25038,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/gtjjCxEgUr",
+        "username": "whxsj_",
+        "verified": false
+      }
+    ]
+  }
+}

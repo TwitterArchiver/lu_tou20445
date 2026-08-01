@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955239560935584006",
+    "created_at": "2025-08-13T09:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955557868947816652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904949484783841280",
+          "start": 0,
+          "username": "fuzhuovo"
+        },
+        {
+          "end": 17,
+          "id": "1864962457250467841",
+          "start": 10,
+          "username": "rzxhn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955557868947816652",
+    "in_reply_to_user_id": "1904949484783841280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955557306923397402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuzhuovo @rzxhn1 有感而发了说是🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955239560935584006",
+        "created_at": "2025-08-13T09:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955557868947816652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904949484783841280",
+              "start": 0,
+              "username": "fuzhuovo"
+            },
+            {
+              "end": 17,
+              "id": "1864962457250467841",
+              "start": 10,
+              "username": "rzxhn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955557868947816652",
+        "in_reply_to_user_id": "1904949484783841280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955557306923397402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuzhuovo @rzxhn1 有感而发了说是🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904949484783841280",
+        "conversation_id": "1955239560935584006",
+        "created_at": "2025-08-13T09:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955557306923397402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 20,
+              "id": "1864962457250467841",
+              "start": 13,
+              "username": "rzxhn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955557306923397402",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955556805607870517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @rzxhn1 因为真的很有意思这句话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 40,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 748
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T17:32:15.000Z",
+        "description": "🤗这里是腐竹，偶尔唱唱歌画画东西分享一些有意思的事情。谢谢你们喜欢我🫶。\n小号只过眼熟互关谢谢理解 @fuzhuyami\n学习中...增肌中...创作中...\n(po一下属性185/75.75/14.2，1iswitch＞4i）\n欢迎提问👉 https://t.co/WL2eFEN50Z",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "fuzhuyami"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/flowerz28684",
+                "end": 144,
+                "expanded_url": "http://ngl.link/flowerz28684",
+                "start": 121,
+                "url": "https://t.co/WL2eFEN50Z"
+              }
+            ]
+          }
+        },
+        "id": "1904949484783841280",
+        "name": "🤗腐竹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950605247543648258/A1Q2bvKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 185,
+          "like_count": 6809,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1062
+        },
+        "username": "fuzhuovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T09:18:20.000Z",
+        "description": "4i",
+        "id": "1864962457250467841",
+        "name": "懒羊羊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954968951529889792/-Gq7gN93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4241,
+          "following_count": 552,
+          "like_count": 3178,
+          "listed_count": 8,
+          "media_count": 267,
+          "tweet_count": 3919
+        },
+        "username": "rzxhn1",
+        "verified": false
+      }
+    ]
+  }
+}

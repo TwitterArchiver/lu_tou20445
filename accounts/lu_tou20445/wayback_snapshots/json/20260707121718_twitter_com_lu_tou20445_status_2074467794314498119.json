@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074467783749103616"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2074467794314498119",
+    "created_at": "2026-07-07T12:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074467794314498119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k0ROZScprs",
+          "end": 79,
+          "expanded_url": "https://x.com/lu_tou20445/status/2074467794314498119/photo/1",
+          "media_key": "3_2074467783749103616",
+          "start": 56,
+          "url": "https://t.co/k0ROZScprs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074467794314498119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一脸害羞的用嘴叼着自己的衣服下摆，哼哼唧唧说不出话，喷着重鼻息又舍不得把腰停下的样子，果然什么时候都那么好品呐 https://t.co/k0ROZScprs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2074467783749103616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn9dVRbcAAF7BR.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074467783749103616"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2074467794314498119",
+        "created_at": "2026-07-07T12:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074467794314498119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k0ROZScprs",
+              "end": 79,
+              "expanded_url": "https://x.com/lu_tou20445/status/2074467794314498119/photo/1",
+              "media_key": "3_2074467783749103616",
+              "start": 56,
+              "url": "https://t.co/k0ROZScprs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074467794314498119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一脸害羞的用嘴叼着自己的衣服下摆，哼哼唧唧说不出话，喷着重鼻息又舍不得把腰停下的样子，果然什么时候都那么好品呐 https://t.co/k0ROZScprs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 71,
+          "like_count": 21287,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 6261
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

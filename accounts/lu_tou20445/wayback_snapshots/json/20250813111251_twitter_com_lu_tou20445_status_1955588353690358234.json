@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955555362716750207",
+    "created_at": "2025-08-13T11:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T12:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955588353690358234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796882047119863809",
+          "start": 0,
+          "username": "chaojiwudi142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955588353690358234",
+    "in_reply_to_user_id": "1796882047119863809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955588006288691507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaojiwudi142 只能说从某种程度上来说她也很努力呢🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955555362716750207",
+        "created_at": "2025-08-13T11:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955588353690358234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1796882047119863809",
+              "start": 0,
+              "username": "chaojiwudi142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955588353690358234",
+        "in_reply_to_user_id": "1796882047119863809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955588006288691507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaojiwudi142 只能说从某种程度上来说她也很努力呢🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796882047119863809",
+        "conversation_id": "1955555362716750207",
+        "created_at": "2025-08-13T11:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T12:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955588006288691507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955588006288691507",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955555362716750207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哈哈哈，这个人到处发，我给他来一句我没钱，就没下文了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 442,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T12:30:50.000Z",
+        "description": "我的天呐",
+        "id": "1796882047119863809",
+        "location": "guangzhou",
+        "name": "长生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954557585547534336/jvvCc4vE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 13,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 407
+        },
+        "username": "chaojiwudi142",
+        "verified": false
+      }
+    ]
+  }
+}

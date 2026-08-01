@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956555249843589433",
+    "created_at": "2025-08-16T03:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T04:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956555538839290238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1534402073269309442",
+          "start": 0,
+          "username": "libai33587376"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956555538839290238",
+    "in_reply_to_user_id": "1534402073269309442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956555249843589433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libai33587376 豪猫被拍成魔童了说是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956555246643359744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycUoWuasAAujrE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956555249843589433",
+        "created_at": "2025-08-16T03:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956555538839290238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1534402073269309442",
+              "start": 0,
+              "username": "libai33587376"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956555538839290238",
+        "in_reply_to_user_id": "1534402073269309442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956555249843589433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libai33587376 豪猫被拍成魔童了说是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956555246643359744"
+          ]
+        },
+        "author_id": "1534402073269309442",
+        "conversation_id": "1956555249843589433",
+        "created_at": "2025-08-16T03:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956555249843589433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MU2j1AEsF",
+              "end": 35,
+              "expanded_url": "https://x.com/libai33587376/status/1956555249843589433/photo/1",
+              "media_key": "3_1956555246643359744",
+              "start": 12,
+              "url": "https://t.co/3MU2j1AEsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956555249843589433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好猫抓拍一下可以吗谢谢 https://t.co/3MU2j1AEsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 44,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 877
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T05:09:22.000Z",
+        "description": "这里是虾条，名字是因为我爱吃虾条/推特私聊ptsd了除非你发口令红包/堆放脑中碎碎念废料/跟我熟了才加v/性癖很古怪/infp和enfp一直在转/什么都说点/最爱是银魂/其实我是狗派",
+        "id": "1534402073269309442",
+        "location": "200m",
+        "name": "咪咪虾条",
+        "pinned_tweet_id": "1955982725728625160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956339870882021376/f0b-Q2JB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 35,
+          "like_count": 1338,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 80
+        },
+        "username": "libai33587376",
+        "verified": false
+      }
+    ]
+  }
+}

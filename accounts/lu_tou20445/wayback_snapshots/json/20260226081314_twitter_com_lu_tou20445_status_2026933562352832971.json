@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026633695906713608",
+    "created_at": "2026-02-26T08:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026933562352832971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590695308463288321",
+          "start": 0,
+          "username": "acclzd_clz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026933562352832971",
+    "in_reply_to_user_id": "1590695308463288321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026633695906713608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acclzd_clz 感觉控制欲更强一点的年上，最后一句会变成“受不了就撒娇，我好像不记得我有教过你这样”，然后笑着看着她"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2026633684498132994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAMmTZaMAIRelr.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026633695906713608",
+        "created_at": "2026-02-26T08:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026933562352832971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590695308463288321",
+              "start": 0,
+              "username": "acclzd_clz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026933562352832971",
+        "in_reply_to_user_id": "1590695308463288321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026633695906713608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acclzd_clz 感觉控制欲更强一点的年上，最后一句会变成“受不了就撒娇，我好像不记得我有教过你这样”，然后笑着看着她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026633684498132994"
+          ]
+        },
+        "author_id": "1590695308463288321",
+        "conversation_id": "2026633695906713608",
+        "created_at": "2026-02-25T12:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026633695906713608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kom59NGpyF",
+              "end": 65,
+              "expanded_url": "https://x.com/acclzd_clz/status/2026633695906713608/photo/1",
+              "media_key": "3_2026633684498132994",
+              "start": 42,
+              "url": "https://t.co/kom59NGpyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026633695906713608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 114722,
+          "like_count": 3144,
+          "quote_count": 8,
+          "reply_count": 47,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有这么骚的小狗宝宝\n\n🍒⊹ ࣪ ˖有没有看出最后一句年上吃醋了( ̀⌄ ́) https://t.co/kom59NGpyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 70,
+          "like_count": 17016,
+          "listed_count": 5,
+          "media_count": 227,
+          "tweet_count": 5094
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-10T13:18:17.000Z",
+        "description": "求宝宝定制ฅ/ᐠ .⸝⸝⸝. ྀིﾏฅ｜无排单随时可找哈！（过年正常接",
+        "id": "1590695308463288321",
+        "location": "黄文厨子",
+        "name": "荞麦厘子",
+        "pinned_tweet_id": "1977923915717742802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000918094051733504/efPaT4ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119071,
+          "following_count": 101,
+          "like_count": 10501,
+          "listed_count": 118,
+          "media_count": 433,
+          "tweet_count": 1957
+        },
+        "username": "acclzd_clz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1946215339513049398",
+    "created_at": "2025-07-19T07:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T08:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946476500900815014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937751901023666176",
+          "start": 0,
+          "username": "xmntng23176"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946476500900815014",
+    "in_reply_to_user_id": "1937751901023666176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946215339513049398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmntng23176 只要不影响社会秩序和公序良俗，任何行为都是个人习惯罢了，被批判只是强行以自己的标准要求别人，是种傲慢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1946215339513049398",
+        "created_at": "2025-07-19T07:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T08:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946476500900815014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937751901023666176",
+              "start": 0,
+              "username": "xmntng23176"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946476500900815014",
+        "in_reply_to_user_id": "1937751901023666176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946215339513049398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmntng23176 只要不影响社会秩序和公序良俗，任何行为都是个人习惯罢了，被批判只是强行以自己的标准要求别人，是种傲慢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937751901023666176",
+        "conversation_id": "1946215339513049398",
+        "created_at": "2025-07-18T14:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T15:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946215339513049398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946215339513049398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人应该有长得丑的权利\n这不该成为被批判的理由\n因为是人，所以什么样都可以\n可以穷可以不爱干净可以没有任何兴趣爱好\n只要不触及法律底线\n虽然说有点奇怪，但我确实是一直这么认为的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T05:57:21.000Z",
+        "description": "随机散布一些魔音（我爱唱歌唱歌使我快乐，人类需要音乐）",
+        "id": "1937751901023666176",
+        "name": "炫彩大蟑螂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941839222312140800/-wW8ddvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 111,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 154
+        },
+        "username": "xmntng23176",
+        "verified": false
+      }
+    ]
+  }
+}

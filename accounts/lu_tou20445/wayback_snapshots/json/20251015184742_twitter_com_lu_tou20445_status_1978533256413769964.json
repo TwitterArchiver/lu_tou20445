@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1978161084285825455",
+    "created_at": "2025-10-15T18:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T19:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978533256413769964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1484045126464724998",
+          "start": 0,
+          "username": "1aikanshuaige"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978533256413769964",
+    "in_reply_to_user_id": "1484045126464724998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978482531080319024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1aikanshuaige 跟回避型比还差一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1978161084285825455",
+        "created_at": "2025-10-15T18:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T19:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978533256413769964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1484045126464724998",
+              "start": 0,
+              "username": "1aikanshuaige"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978533256413769964",
+        "in_reply_to_user_id": "1484045126464724998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978482531080319024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1aikanshuaige 跟回避型比还差一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484045126464724998",
+        "conversation_id": "1978161084285825455",
+        "created_at": "2025-10-15T15:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T16:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978482531080319024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978482531080319024",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978161084285825455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 攻击性好强。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 70,
+          "like_count": 6784,
+          "listed_count": 3,
+          "media_count": 105,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T06:08:38.000Z",
+        "description": "如果是秋天就好了https://t.co/FFnXUtcMxx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%97%AF%E5%9…",
+                "end": 31,
+                "expanded_url": "https://ngl.link/%E5%97%AF%E5%97%AF46363",
+                "start": 8,
+                "url": "https://t.co/FFnXUtcMxx"
+              }
+            ]
+          }
+        },
+        "id": "1484045126464724998",
+        "name": "嗯",
+        "pinned_tweet_id": "1492905196745539587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931291056831860736/Tq1_wH9O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 73,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "1aikanshuaige",
+        "verified": false
+      }
+    ]
+  }
+}

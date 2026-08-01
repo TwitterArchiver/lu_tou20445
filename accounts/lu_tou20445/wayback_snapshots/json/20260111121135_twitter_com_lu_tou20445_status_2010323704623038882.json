@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2009959243861074179",
+    "created_at": "2026-01-11T12:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T13:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010323704623038882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009628892504731648",
+          "start": 0,
+          "username": "caTxTc_iii003O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010323704623038882",
+    "in_reply_to_user_id": "2009628892504731648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010309952477581739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caTxTc_iii003O 看着每一段想着当时是在什么情况什么心境下写下这段的，还蛮有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2009959243861074179",
+        "created_at": "2026-01-11T12:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010323704623038882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009628892504731648",
+              "start": 0,
+              "username": "caTxTc_iii003O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010323704623038882",
+        "in_reply_to_user_id": "2009628892504731648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010309952477581739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caTxTc_iii003O 看着每一段想着当时是在什么情况什么心境下写下这段的，还蛮有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009628892504731648",
+        "conversation_id": "2009959243861074179",
+        "created_at": "2026-01-11T11:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010309952477581739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010309952477581739",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009959243861074179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也喜欢记 但从来不喜欢回看，所以每次隔段时间不小心看到以前记得碎碎念都会恍惚一下 真的是我记的嘛！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 69,
+          "like_count": 14371,
+          "listed_count": 3,
+          "media_count": 196,
+          "tweet_count": 4153
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T14:10:51.000Z",
+        "description": "碎碎念｜超级自恋｜擦边...｜欢迎找我聊天",
+        "id": "2009628892504731648",
+        "name": "年糕糕糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009634672326959105/HQWxXFxl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "caTxTc_iii003O",
+        "verified": false
+      }
+    ]
+  }
+}

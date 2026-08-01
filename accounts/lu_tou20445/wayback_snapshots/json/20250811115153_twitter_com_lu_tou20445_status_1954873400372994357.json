@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954862125505028175",
+    "created_at": "2025-08-11T11:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T12:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954873400372994357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1927042473118818304",
+          "start": 0,
+          "username": "harper4art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954873400372994357",
+    "in_reply_to_user_id": "1927042473118818304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954862125505028175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harper4art 人就是需要买一些乱七八糟的东西来维持自己的生命体征呀，没有情绪消费人早嘎了🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954862125505028175",
+        "created_at": "2025-08-11T11:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954873400372994357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1927042473118818304",
+              "start": 0,
+              "username": "harper4art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954873400372994357",
+        "in_reply_to_user_id": "1927042473118818304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954862125505028175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harper4art 人就是需要买一些乱七八糟的东西来维持自己的生命体征呀，没有情绪消费人早嘎了🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927042473118818304",
+        "conversation_id": "1954862125505028175",
+        "created_at": "2025-08-11T11:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T12:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954862125505028175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954862125505028175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好讨厌自己\"只要不买就不浪费钱\"的想法，明明在某一刻真的很需要购买情绪，但是因为自己的扫兴感到更加郁闷\n╮(╯_╰)╭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 37,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T16:42:35.000Z",
+        "description": "ദ⎚⩊⎚✧",
+        "id": "1927042473118818304",
+        "name": "harperagain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927043136246702080/b2HLw736_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 37,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 246
+        },
+        "username": "harper4art",
+        "verified": false
+      }
+    ]
+  }
+}

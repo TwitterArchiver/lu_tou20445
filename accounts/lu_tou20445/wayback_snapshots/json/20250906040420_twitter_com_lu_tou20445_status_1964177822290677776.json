@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963632333862400461",
+    "created_at": "2025-09-06T04:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964177822290677776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804188039465570311",
+          "start": 0,
+          "username": "imyuanmissu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964177822290677776",
+    "in_reply_to_user_id": "1804188039465570311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964177166305767788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyuanmissu 语文老师看到后欣慰的多吃了两碗饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963632333862400461",
+        "created_at": "2025-09-06T04:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964177822290677776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804188039465570311",
+              "start": 0,
+              "username": "imyuanmissu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964177822290677776",
+        "in_reply_to_user_id": "1804188039465570311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964177166305767788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyuanmissu 语文老师看到后欣慰的多吃了两碗饭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804188039465570311",
+        "conversation_id": "1963632333862400461",
+        "created_at": "2025-09-06T04:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964177166305767788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964177166305767788",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964176889334858153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 简简单单的小学生看图说话 so easy～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 64,
+          "like_count": 2902,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1559
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T16:22:11.000Z",
+        "description": "关于爱的定义我追随     @TuTimissu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "TuTimissu"
+              }
+            ]
+          }
+        },
+        "id": "1804188039465570311",
+        "name": "Ⱄⱄ",
+        "pinned_tweet_id": "1957474459662553526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963629469521858560/8hzPiGGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 86,
+          "like_count": 11110,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 5313
+        },
+        "username": "imyuanmissu",
+        "verified": false
+      }
+    ]
+  }
+}

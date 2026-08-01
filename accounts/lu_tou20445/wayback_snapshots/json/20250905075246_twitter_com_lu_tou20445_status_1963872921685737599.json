@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1963808772901744732",
+    "created_at": "2025-09-05T07:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T08:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963872921685737599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1623330103605493766",
+          "start": 0,
+          "username": "NuoApril"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963872921685737599",
+    "in_reply_to_user_id": "1623330103605493766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963872480138813616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuoApril 太恐怖了，不管什么菜能做成这种味道简直就是灾难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1963808772901744732",
+        "created_at": "2025-09-05T07:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T08:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963872921685737599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1623330103605493766",
+              "start": 0,
+              "username": "NuoApril"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963872921685737599",
+        "in_reply_to_user_id": "1623330103605493766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963872480138813616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuoApril 太恐怖了，不管什么菜能做成这种味道简直就是灾难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623330103605493766",
+        "conversation_id": "1963808772901744732",
+        "created_at": "2025-09-05T07:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T08:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963872480138813616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963872480138813616",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963808772901744732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我认为最难吃的芹菜好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 63,
+          "like_count": 2763,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T14:37:23.000Z",
+        "description": "04 infp 地表最弱0.5 ｜这里碎碎念｜礼貌私信 希望你们喜欢我｜我的xp是…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nuo_kylie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nuo_kylie",
+                "start": 0,
+                "url": "https://t.co/FKXfkLLhXw"
+              }
+            ]
+          }
+        },
+        "id": "1623330103605493766",
+        "name": "猫毛",
+        "pinned_tweet_id": "1814019761740890600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961833582294695937/DNTN382p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 61,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/FKXfkLLhXw",
+        "username": "NuoApril",
+        "verified": false
+      }
+    ]
+  }
+}

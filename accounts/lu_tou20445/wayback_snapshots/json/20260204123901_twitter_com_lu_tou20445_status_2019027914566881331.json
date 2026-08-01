@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2018901598911742322",
+    "created_at": "2026-02-04T12:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T13:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019027914566881331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1916384098257694720",
+          "start": 0,
+          "username": "ping48138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019027914566881331",
+    "in_reply_to_user_id": "1916384098257694720",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019027717346505102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ping48138 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2018901598911742322",
+        "created_at": "2026-02-04T12:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019027914566881331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1916384098257694720",
+              "start": 0,
+              "username": "ping48138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019027914566881331",
+        "in_reply_to_user_id": "1916384098257694720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019027717346505102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ping48138 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916384098257694720",
+        "conversation_id": "2018901598911742322",
+        "created_at": "2026-02-04T12:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019027717346505102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019027717346505102",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019026509688946747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 🤪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 71,
+          "like_count": 15196,
+          "listed_count": 3,
+          "media_count": 214,
+          "tweet_count": 4583
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T06:49:36.000Z",
+        "description": "🍦不处不约不线下|匿名箱:https://t.co/T8bRQpAkdb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulumina2",
+                "end": 36,
+                "expanded_url": "http://ngl.link/lulumina2",
+                "start": 13,
+                "url": "https://t.co/T8bRQpAkdb"
+              }
+            ]
+          }
+        },
+        "id": "1916384098257694720",
+        "name": "冷空气",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014534247017574400/Aeos00uH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 90,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 78
+        },
+        "username": "ping48138",
+        "verified": false
+      }
+    ]
+  }
+}

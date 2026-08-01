@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954802161176416427",
+    "created_at": "2025-08-11T07:15:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T08:15:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954803904908013923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906240823886516224",
+          "start": 0,
+          "username": "fuuu555u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954803904908013923",
+    "in_reply_to_user_id": "1906240823886516224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954802161176416427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuuu555u 上面的水好像有不安全的物质，寄过来我帮你检测一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1954802158358151168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDaNL8awAAa5T6.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954802161176416427",
+        "created_at": "2025-08-11T07:15:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:15:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954803904908013923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906240823886516224",
+              "start": 0,
+              "username": "fuuu555u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954803904908013923",
+        "in_reply_to_user_id": "1906240823886516224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954802161176416427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuuu555u 上面的水好像有不安全的物质，寄过来我帮你检测一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954802158358151168"
+          ]
+        },
+        "author_id": "1906240823886516224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1954802161176416427",
+        "created_at": "2025-08-11T07:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954802161176416427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Rx9durm7F",
+              "end": 36,
+              "expanded_url": "https://x.com/fuuu555u/status/1954802161176416427/photo/1",
+              "media_key": "3_1954802158358151168",
+              "start": 13,
+              "url": "https://t.co/0Rx9durm7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954802161176416427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "午睡醒了吗  谁吃谁揪🐱 https://t.co/0Rx9durm7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 37,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T07:03:49.000Z",
+        "description": "匿名箱https://t.co/HkCaSwSUs1         路过都得给我打钱↑     ｜私信请给我发语音或者冷笑话｜私信没回就是不感兴趣｜不擅长主动聊天｜不kp｜三分钟热度｜本人均不对发出的任何一句话负责｜支持双取自由  缘来便聚缘走便散｜#可恶#丑陋#愚笨#木讷#恶毒#小气#懒",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ff5551",
+                "end": 26,
+                "expanded_url": "https://ngl.link/ff5551",
+                "start": 3,
+                "url": "https://t.co/HkCaSwSUs1"
+              }
+            ]
+          }
+        },
+        "id": "1906240823886516224",
+        "location": "🚪357000 ︱有学生证打七折︱防止小孩误食",
+        "name": "芙芙",
+        "pinned_tweet_id": "1935874894698627345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950929759829209088/jwblbfOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 19,
+          "like_count": 2988,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 1213
+        },
+        "username": "fuuu555u",
+        "verified": false
+      }
+    ]
+  }
+}

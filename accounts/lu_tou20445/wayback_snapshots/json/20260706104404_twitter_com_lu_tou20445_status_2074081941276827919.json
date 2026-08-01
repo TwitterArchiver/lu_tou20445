@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2074081239313858818",
+    "created_at": "2026-07-06T10:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T11:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074081941276827919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074081941276827919",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074081239313858818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 画面好艳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2074081225292337152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMid4qzbUAAlzbh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2074081239313858818",
+        "created_at": "2026-07-06T10:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074081941276827919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074081941276827919",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074081239313858818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 画面好艳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074081225292337152"
+          ]
+        },
+        "author_id": "1525341238223855616",
+        "conversation_id": "2074081239313858818",
+        "created_at": "2026-07-06T10:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074081239313858818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0Up9oDQ5H",
+              "end": 30,
+              "expanded_url": "https://x.com/zz160268/status/2074081239313858818/photo/1",
+              "media_key": "3_2074081225292337152",
+              "start": 7,
+              "url": "https://t.co/g0Up9oDQ5H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074081239313858818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡的鬼打墙了 https://t.co/g0Up9oDQ5H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1938,
+          "following_count": 71,
+          "like_count": 21304,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 6257
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "直女😇 陪聊打钱",
+        "id": "1525341238223855616",
+        "name": "🛶",
+        "pinned_tweet_id": "2067835756962529477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055205575961751552/aaKCQQx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 245,
+          "like_count": 45798,
+          "listed_count": 1,
+          "media_count": 1367,
+          "tweet_count": 16740
+        },
+        "url": "",
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

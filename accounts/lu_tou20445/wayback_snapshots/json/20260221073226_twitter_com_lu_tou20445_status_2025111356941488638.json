@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2023082564232290395",
+    "created_at": "2026-02-21T07:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025111356941488638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882501841331576832",
+          "start": 0,
+          "username": "Emily33011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025111356941488638",
+    "in_reply_to_user_id": "1882501841331576832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025092664358830251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emily33011 怎么还追着杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2023082564232290395",
+        "created_at": "2026-02-21T07:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025111356941488638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882501841331576832",
+              "start": 0,
+              "username": "Emily33011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025111356941488638",
+        "in_reply_to_user_id": "1882501841331576832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025092664358830251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emily33011 怎么还追着杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882501841331576832",
+        "conversation_id": "2023082564232290395",
+        "created_at": "2026-02-21T06:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025092664358830251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025092664358830251",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023082564232290395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 最后也没有人理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 69,
+          "like_count": 16294,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4889
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T18:53:20.000Z",
+        "description": "🌈bi偏女生/ INFP/ 狮子座//碎碎念日常 #要记得好好吃饭 #人类观察日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 25,
+                "tag": "要记得好好吃饭"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "人类观察日记"
+              }
+            ]
+          }
+        },
+        "id": "1882501841331576832",
+        "name": "抹茶星冰乐🍵",
+        "pinned_tweet_id": "2008900828216861165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008892529761259520/2ZTjGsua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 86,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 223
+        },
+        "username": "Emily33011",
+        "verified": false
+      }
+    ]
+  }
+}

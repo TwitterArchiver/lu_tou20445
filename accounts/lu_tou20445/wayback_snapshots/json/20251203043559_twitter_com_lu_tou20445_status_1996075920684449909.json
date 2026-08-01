@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995858468402782481",
+    "created_at": "2025-12-03T04:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T05:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996075920684449909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1694368078237495296",
+          "start": 0,
+          "username": "ben97790"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996075920684449909",
+    "in_reply_to_user_id": "1694368078237495296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995903374387281940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ben97790 虽然只是耳机，但戴上耳机那一刻更像是两个人被连接起来依偎在一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-03T04:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996075920684449909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694368078237495296",
+              "start": 0,
+              "username": "ben97790"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996075920684449909",
+        "in_reply_to_user_id": "1694368078237495296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995903374387281940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ben97790 虽然只是耳机，但戴上耳机那一刻更像是两个人被连接起来依偎在一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1694368078237495296",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-02T17:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T18:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995903374387281940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995903374387281940",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995858468402782481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这让我想起，有天晚自习，同桌递给我一只耳机想让我听听他的歌单，我觉得这样好暧昧就拒绝了，他坚持不懈的要让我听听，还说“我擦过耳机了不脏的”，我拿起练习册挡住半张脸说“我不好意思”，他说“这有什么不好意思的，听一下嘛”，我接过那只耳机戴上和他一起听歌。回想这件事的时候，我的嘴角压都压不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 69,
+          "like_count": 10258,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 3087
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T15:17:10.000Z",
+        "description": "我想把你全家都杀了，这样我就是你唯一依靠的人",
+        "id": "1694368078237495296",
+        "name": "nine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995903209345531904/dgnzoPv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "ben97790",
+        "verified": false
+      }
+    ]
+  }
+}

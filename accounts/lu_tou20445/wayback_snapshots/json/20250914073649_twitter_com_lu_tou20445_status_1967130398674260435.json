@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1967128971298087125",
+    "created_at": "2025-09-14T07:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T08:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967130398674260435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904752319773892608",
+          "start": 0,
+          "username": "Laraaa718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967130398674260435",
+    "in_reply_to_user_id": "904752319773892608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967128971298087125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laraaa718 一个小孩情况恶劣的话，大概率是家里病的最轻的那个，要小心了只能说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_1967128963932975115",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ylXtKbcAsDH9h.jpg",
+        "width": 1114
+      },
+      {
+        "height": 653,
+        "media_key": "3_1967128964968968194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0ylXxBbcAIc2Wy.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1967128971298087125",
+        "created_at": "2025-09-14T07:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967130398674260435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904752319773892608",
+              "start": 0,
+              "username": "Laraaa718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967130398674260435",
+        "in_reply_to_user_id": "904752319773892608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967128971298087125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laraaa718 一个小孩情况恶劣的话，大概率是家里病的最轻的那个，要小心了只能说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967128963932975115",
+            "3_1967128964968968194"
+          ]
+        },
+        "author_id": "904752319773892608",
+        "conversation_id": "1967128971298087125",
+        "created_at": "2025-09-14T07:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967128971298087125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X912Vuzdon",
+              "end": 31,
+              "expanded_url": "https://x.com/Laraaa718/status/1967128971298087125/photo/1",
+              "media_key": "3_1967128963932975115",
+              "start": 8,
+              "url": "https://t.co/X912Vuzdon"
+            },
+            {
+              "display_url": "pic.x.com/X912Vuzdon",
+              "end": 31,
+              "expanded_url": "https://x.com/Laraaa718/status/1967128971298087125/photo/1",
+              "media_key": "3_1967128964968968194",
+              "start": 8,
+              "url": "https://t.co/X912Vuzdon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967128971298087125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌小孩子。 https://t.co/X912Vuzdon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 63,
+          "like_count": 3858,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 1673
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T17:05:37.000Z",
+        "description": "Be my eyes.｜可以叫我猫猫或者小K｜什么都会发\nhttps://t.co/S8KYtcIl1d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/laraaa718",
+                "end": 52,
+                "expanded_url": "https://ngl.link/laraaa718",
+                "start": 29,
+                "url": "https://t.co/S8KYtcIl1d"
+              }
+            ]
+          }
+        },
+        "id": "904752319773892608",
+        "location": "Hong Kong",
+        "name": "kitten",
+        "pinned_tweet_id": "1951603105013133630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960549452835651584/8OudCR7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 163,
+          "like_count": 10278,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 3984
+        },
+        "username": "Laraaa718",
+        "verified": false
+      }
+    ]
+  }
+}

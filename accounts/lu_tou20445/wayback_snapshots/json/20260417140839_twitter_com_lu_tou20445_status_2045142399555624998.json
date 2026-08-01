@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2045130372254752831",
+    "created_at": "2026-04-17T14:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045142399555624998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1319306555691552768",
+          "start": 0,
+          "username": "NYi_Zyc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045142399555624998",
+    "in_reply_to_user_id": "1319306555691552768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045130372254752831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NYi_Zyc 麦记糖水铺？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 979,
+        "media_key": "3_2045130367523504128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHDO9OaQAAhnf0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2045130372254752831",
+        "created_at": "2026-04-17T14:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045142399555624998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1319306555691552768",
+              "start": 0,
+              "username": "NYi_Zyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045142399555624998",
+        "in_reply_to_user_id": "1319306555691552768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045130372254752831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NYi_Zyc 麦记糖水铺？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045130367523504128"
+          ]
+        },
+        "author_id": "1319306555691552768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045130372254752831",
+        "created_at": "2026-04-17T13:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045130372254752831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ITy3yqDNLb",
+              "end": 30,
+              "expanded_url": "https://x.com/NYi_Zyc/status/2045130372254752831/photo/1",
+              "media_key": "3_2045130367523504128",
+              "start": 7,
+              "url": "https://t.co/ITy3yqDNLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045130372254752831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一心多用的我 https://t.co/ITy3yqDNLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 71,
+          "like_count": 20255,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 5717
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-22T15:56:21.000Z",
+        "description": "“请不要轻易离开这世界”\nINFJ-T➡️INFP-T/酒量差/话废/不是好人/很无趣",
+        "id": "1319306555691552768",
+        "location": "无拘束",
+        "name": "Nacht.",
+        "pinned_tweet_id": "2001102792690425892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037450375276736512/dMAXoo22_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 59,
+          "like_count": 17966,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 591
+        },
+        "username": "NYi_Zyc",
+        "verified": false
+      }
+    ]
+  }
+}

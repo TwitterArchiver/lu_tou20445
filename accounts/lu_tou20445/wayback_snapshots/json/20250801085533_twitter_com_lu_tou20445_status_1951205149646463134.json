@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951204396651495436",
+    "created_at": "2025-08-01T08:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T09:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951205149646463134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1642905398847102978",
+          "start": 0,
+          "username": "Carolina520520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951205149646463134",
+    "in_reply_to_user_id": "1642905398847102978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951204396651495436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Carolina520520 扮初遇的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951204396651495436",
+        "created_at": "2025-08-01T08:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951205149646463134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1642905398847102978",
+              "start": 0,
+              "username": "Carolina520520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951205149646463134",
+        "in_reply_to_user_id": "1642905398847102978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951204396651495436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Carolina520520 扮初遇的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642905398847102978",
+        "conversation_id": "1951204396651495436",
+        "created_at": "2025-08-01T08:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T09:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951204396651495436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951204396651495436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有勾引老公的办法啊啊啊啊\n很想给我和老公的性生活增加点乐趣\n🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 31,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-03T15:02:37.000Z",
+        "description": "sub｜ddlg｜sp｜恋爱日记本｜Daddy @cccc5426｜日常碎碎念@caro521521｜关评论的帖子是推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "cccc5426"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "caro521521"
+              }
+            ]
+          }
+        },
+        "id": "1642905398847102978",
+        "name": "哆咪（一天惹daddy生气800次",
+        "pinned_tweet_id": "1950424739459321917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784097619628978176/QrtuElXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82230,
+          "following_count": 195,
+          "like_count": 2197,
+          "listed_count": 118,
+          "media_count": 149,
+          "tweet_count": 1816
+        },
+        "username": "Carolina520520",
+        "verified": true
+      }
+    ]
+  }
+}

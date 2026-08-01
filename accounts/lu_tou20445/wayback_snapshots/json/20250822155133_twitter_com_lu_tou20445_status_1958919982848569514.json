@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958898129467842796",
+    "created_at": "2025-08-22T15:51:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T16:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958919982848569514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762399735644921856",
+          "start": 0,
+          "username": "shrnyygu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958919982848569514",
+    "in_reply_to_user_id": "1762399735644921856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958898129467842796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrnyygu114514 《油盐不进》"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1283,
+        "media_key": "3_1958898119401512961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9ndf4boAE0LCY.jpg",
+        "width": 1331
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958898129467842796",
+        "created_at": "2025-08-22T15:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T16:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958919982848569514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762399735644921856",
+              "start": 0,
+              "username": "shrnyygu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958919982848569514",
+        "in_reply_to_user_id": "1762399735644921856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958898129467842796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrnyygu114514 《油盐不进》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958898119401512961"
+          ]
+        },
+        "author_id": "1762399735644921856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958898129467842796",
+        "created_at": "2025-08-22T14:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958898129467842796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzZPwkdOG7",
+              "end": 28,
+              "expanded_url": "https://x.com/shrnyygu114514/status/1958898129467842796/photo/1",
+              "media_key": "3_1958898119401512961",
+              "start": 5,
+              "url": "https://t.co/DzZPwkdOG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958898129467842796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人机来的 https://t.co/DzZPwkdOG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 51,
+          "like_count": 1086,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T08:50:30.000Z",
+        "description": "话少，爱点赞 ，好吧其实话也挺多的/很温良除非遇到贱人/抑郁治疗ing/爱看电影/板绘学习ing/废柴尼特/欢迎交朋友",
+        "id": "1762399735644921856",
+        "location": "在无爱之森呐喊",
+        "name": "好吃麻辣烫大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958436365781352448/328nnnk1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 521,
+          "like_count": 27958,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1818
+        },
+        "username": "shrnyygu114514",
+        "verified": false
+      }
+    ]
+  }
+}

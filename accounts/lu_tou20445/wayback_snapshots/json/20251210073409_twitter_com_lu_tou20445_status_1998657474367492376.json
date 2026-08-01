@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1998308200404422811",
+    "created_at": "2025-12-10T07:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T08:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998657474367492376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1877284145157779458",
+          "start": 0,
+          "username": "xixixijingyu"
+        },
+        {
+          "end": 24,
+          "id": "1863439189909618688",
+          "start": 14,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998657474367492376",
+    "in_reply_to_user_id": "1877284145157779458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998657162504200387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixixijingyu @hsn8086xe 好嘞，猫猫接好，贵宾一位～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1998308200404422811",
+        "created_at": "2025-12-10T07:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998657474367492376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1877284145157779458",
+              "start": 0,
+              "username": "xixixijingyu"
+            },
+            {
+              "end": 24,
+              "id": "1863439189909618688",
+              "start": 14,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998657474367492376",
+        "in_reply_to_user_id": "1877284145157779458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998657162504200387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixixijingyu @hsn8086xe 好嘞，猫猫接好，贵宾一位～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877284145157779458",
+        "conversation_id": "1998308200404422811",
+        "created_at": "2025-12-10T07:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T08:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998657162504200387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 23,
+              "id": "1863439189909618688",
+              "start": 13,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998657162504200387",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998655913058820430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @hsn8086xe 我准备好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 69,
+          "like_count": 10889,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 3183
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T09:20:03.000Z",
+        "description": "宝宝们好！可以叫我回家的诱惑/月见～\n人机一号客服月见很不高兴为您服务！\ngay/猛1/肌肉1/190/80/20\nISFP小画家~双鱼座OTO\n互关可以+我v！！！\n吐槽 碎碎念 日常分享相关，随缘营业🚬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jingxi23857",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jingxi23857",
+                "start": 0,
+                "url": "https://t.co/bfI0JHgsDD"
+              }
+            ]
+          }
+        },
+        "id": "1877284145157779458",
+        "location": "很不高兴为您服务，不要打扰我谢谢，如有冒犯我提前道歉，对不起",
+        "name": "人机客服月见",
+        "pinned_tweet_id": "1998418868579287497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997040051793063936/52ouy97m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 482,
+          "like_count": 7321,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1757
+        },
+        "url": "https://t.co/bfI0JHgsDD",
+        "username": "xixixijingyu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28848,
+          "following_count": 361,
+          "like_count": 62,
+          "listed_count": 86,
+          "media_count": 8460,
+          "tweet_count": 8489
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

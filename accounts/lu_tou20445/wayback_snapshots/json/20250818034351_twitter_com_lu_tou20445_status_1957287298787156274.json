@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957286617112359003",
+    "created_at": "2025-08-18T03:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T04:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957287298787156274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887228088360300544",
+          "start": 0,
+          "username": "WenwuL51247"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957287298787156274",
+    "in_reply_to_user_id": "1887228088360300544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957286836553846804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WenwuL51247 超级香！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957286617112359003",
+        "created_at": "2025-08-18T03:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957287298787156274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887228088360300544",
+              "start": 0,
+              "username": "WenwuL51247"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957287298787156274",
+        "in_reply_to_user_id": "1887228088360300544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957286836553846804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WenwuL51247 超级香！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887228088360300544",
+        "conversation_id": "1957286617112359003",
+        "created_at": "2025-08-18T03:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T04:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957286836553846804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957286836553846804",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957286617112359003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 无敌香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 49,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 964
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T19:53:45.000Z",
+        "description": "爱意东升西落 浪漫至死不渝",
+        "id": "1887228088360300544",
+        "location": "Tokyo-to, Japan",
+        "name": "午夜芳心纵火犯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955617944408584192/R9FSJlcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 18,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "username": "WenwuL51247",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T17:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T18:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988661873500451014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1658160503930388480",
+          "start": 0,
+          "username": "boluoyou2190"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988661873500451014",
+    "in_reply_to_user_id": "1658160503930388480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988661160506507415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boluoyou2190 自不自傲不知道，用起来难受是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T17:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988661873500451014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1658160503930388480",
+              "start": 0,
+              "username": "boluoyou2190"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988661873500451014",
+        "in_reply_to_user_id": "1658160503930388480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988661160506507415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boluoyou2190 自不自傲不知道，用起来难受是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658160503930388480",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T17:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T18:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988661160506507415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988661160506507415",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我操终于有人懂了，苹果输入法真的是满满的自傲😅😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 74,
+          "like_count": 8443,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T17:21:14.000Z",
+        "description": "J杯 身高170/🚪328/自用vpn👏 https://t.co/ftGllBYscn 防丢号@boluoyou0219/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "boluoyou0219"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 44,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=V5uTAdZa/",
+                "start": 21,
+                "url": "https://t.co/ftGllBYscn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=V5uTAdZa",
+                "start": 0,
+                "url": "https://t.co/UrQ1mLaTmf"
+              }
+            ]
+          }
+        },
+        "id": "1658160503930388480",
+        "location": "不接推广‼️不线下‼️我有精神病‼️‼️‼️‼️",
+        "name": "早餐菠萝油",
+        "pinned_tweet_id": "1798716803172172143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913504366893641728/Bav2v7tP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129535,
+          "following_count": 495,
+          "like_count": 11368,
+          "listed_count": 484,
+          "media_count": 660,
+          "tweet_count": 3968
+        },
+        "url": "https://t.co/UrQ1mLaTmf",
+        "username": "boluoyou2190",
+        "verified": true
+      }
+    ]
+  }
+}

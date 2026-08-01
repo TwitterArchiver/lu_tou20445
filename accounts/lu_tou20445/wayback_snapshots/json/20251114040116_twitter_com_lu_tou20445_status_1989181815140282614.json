@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1989024206269608069",
+    "created_at": "2025-11-14T04:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989181815140282614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1982983812360593408",
+          "start": 0,
+          "username": "lmptymym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989181815140282614",
+    "in_reply_to_user_id": "1982983812360593408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989180798105448585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lmptymym 隔壁米老鼠的妙妙工具箱甚至都好点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1989024206269608069",
+        "created_at": "2025-11-14T04:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989181815140282614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1982983812360593408",
+              "start": 0,
+              "username": "lmptymym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989181815140282614",
+        "in_reply_to_user_id": "1982983812360593408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989180798105448585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmptymym 隔壁米老鼠的妙妙工具箱甚至都好点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982983812360593408",
+        "conversation_id": "1989024206269608069",
+        "created_at": "2025-11-14T03:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989180798105448585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989180798105448585",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989024206269608069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我也是所以我一直看不下去朵拉，我会急死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 74,
+          "like_count": 8640,
+          "listed_count": 3,
+          "media_count": 133,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T01:32:49.000Z",
+        "description": "今天星期几 好像天气晴",
+        "id": "1982983812360593408",
+        "name": "葡萄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982983989720985600/VEtIZp-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 29,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 119
+        },
+        "username": "lmptymym",
+        "verified": false
+      }
+    ]
+  }
+}

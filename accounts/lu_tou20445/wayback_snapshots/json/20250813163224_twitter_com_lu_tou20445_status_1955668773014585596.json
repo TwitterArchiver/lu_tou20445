@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955667864540864542",
+    "created_at": "2025-08-13T16:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T17:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955668773014585596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1554830289897107456",
+          "start": 0,
+          "username": "naiyou38206277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955668773014585596",
+    "in_reply_to_user_id": "1554830289897107456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955667864540864542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naiyou38206277 还是脾气太好了，除了那种写明白了喜欢被别人叫小狗的，这种的我上来就是一脚让它飞起来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955667853321052161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyPtjQ_aIAEQhU1.jpg",
+        "width": 1102
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955667853321121792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyPtjQ_bMAAsiWa.jpg",
+        "width": 1096
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955667853350453249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyPtjRGawAEzsaw.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955667864540864542",
+        "created_at": "2025-08-13T16:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955668773014585596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1554830289897107456",
+              "start": 0,
+              "username": "naiyou38206277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955668773014585596",
+        "in_reply_to_user_id": "1554830289897107456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955667864540864542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naiyou38206277 还是脾气太好了，除了那种写明白了喜欢被别人叫小狗的，这种的我上来就是一脚让它飞起来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955667853321052161",
+            "3_1955667853321121792",
+            "3_1955667853350453249"
+          ]
+        },
+        "author_id": "1554830289897107456",
+        "conversation_id": "1955667864540864542",
+        "created_at": "2025-08-13T16:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T17:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955667864540864542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGkWUyhubO",
+              "end": 77,
+              "expanded_url": "https://x.com/naiyou38206277/status/1955667864540864542/photo/1",
+              "media_key": "3_1955667853321052161",
+              "start": 54,
+              "url": "https://t.co/YGkWUyhubO"
+            },
+            {
+              "display_url": "pic.x.com/YGkWUyhubO",
+              "end": 77,
+              "expanded_url": "https://x.com/naiyou38206277/status/1955667864540864542/photo/1",
+              "media_key": "3_1955667853321121792",
+              "start": 54,
+              "url": "https://t.co/YGkWUyhubO"
+            },
+            {
+              "display_url": "pic.x.com/YGkWUyhubO",
+              "end": 77,
+              "expanded_url": "https://x.com/naiyou38206277/status/1955667864540864542/photo/1",
+              "media_key": "3_1955667853350453249",
+              "start": 54,
+              "url": "https://t.co/YGkWUyhubO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955667864540864542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有礼貌的私信我基本都会回的 你们真的不要这样 弄的我像个傻子 人家说小狗我还真以为给我看狗 结果给我来个这 https://t.co/YGkWUyhubO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T14:03:54.000Z",
+        "description": "",
+        "id": "1554830289897107456",
+        "name": "奶油",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554846971935961088/W8WOKGs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 45,
+          "like_count": 721,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 645
+        },
+        "username": "naiyou38206277",
+        "verified": false
+      }
+    ]
+  }
+}

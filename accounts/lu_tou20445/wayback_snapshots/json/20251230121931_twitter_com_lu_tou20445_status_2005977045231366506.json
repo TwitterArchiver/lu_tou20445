@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2005976653424681171",
+    "created_at": "2025-12-30T12:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T13:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005977045231366506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525341238223855616",
+          "start": 0,
+          "username": "zz160268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005977045231366506",
+    "in_reply_to_user_id": "1525341238223855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005976653424681171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zz160268 从博物馆里现拍的藏品贴上去的吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6539,
+        "height": 1280,
+        "media_key": "7_2005976604531646467",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2005976604531646467/pu/img/yxnImgZFmOIdtaoD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005976604531646467/pu/vid/avc1/320x568/udiiQ7kdp5IJJg90.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005976604531646467/pu/vid/avc1/480x852/ignw6k2FEjdzJyoZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005976604531646467/pu/vid/avc1/720x1280/CRaJ4TVdYf6MT-kL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2005976604531646467/pu/pl/lQ3Nfjcxlt1wrKtf.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2005976653424681171",
+        "created_at": "2025-12-30T12:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005977045231366506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525341238223855616",
+              "start": 0,
+              "username": "zz160268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005977045231366506",
+        "in_reply_to_user_id": "1525341238223855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005976653424681171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zz160268 从博物馆里现拍的藏品贴上去的吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2005976604531646467"
+          ]
+        },
+        "author_id": "1525341238223855616",
+        "conversation_id": "2005976653424681171",
+        "created_at": "2025-12-30T12:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T13:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005976653424681171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAK5ShxxyI",
+              "end": 36,
+              "expanded_url": "https://x.com/zz160268/status/2005976653424681171/video/1",
+              "media_key": "7_2005976604531646467",
+              "start": 13,
+              "url": "https://t.co/sAK5ShxxyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005976653424681171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "uu们俺做了新指甲盖儿🥳 https://t.co/sAK5ShxxyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 70,
+          "like_count": 13323,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 3871
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T05:04:49.000Z",
+        "description": "翻不过去的最后一页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/napgodzz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/napgodzz",
+                "start": 0,
+                "url": "https://t.co/SSYPt5cShE"
+              }
+            ]
+          }
+        },
+        "id": "1525341238223855616",
+        "location": "华夏古文明 山西好风光",
+        "name": "🛶",
+        "pinned_tweet_id": "1992176578818949628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974100413822685185/SaRGxMLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 223,
+          "like_count": 31774,
+          "listed_count": 0,
+          "media_count": 735,
+          "tweet_count": 10253
+        },
+        "url": "https://t.co/SSYPt5cShE",
+        "username": "zz160268",
+        "verified": false
+      }
+    ]
+  }
+}

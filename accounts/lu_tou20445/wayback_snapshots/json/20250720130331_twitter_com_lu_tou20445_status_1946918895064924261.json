@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1946916421172068654",
+    "created_at": "2025-07-20T13:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T14:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946918895064924261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1875000110016614401",
+          "start": 0,
+          "username": "yyhy73"
+        },
+        {
+          "end": 17,
+          "id": "1923806934534107136",
+          "start": 8,
+          "username": "Jiu36446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946918895064924261",
+    "in_reply_to_user_id": "1875000110016614401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 24,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946918212219580487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyhy73 @Jiu36446 好耶，在下雨的时候能买到最需要的东西，lucky！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1946916421172068654",
+        "created_at": "2025-07-20T13:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946918895064924261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1875000110016614401",
+              "start": 0,
+              "username": "yyhy73"
+            },
+            {
+              "end": 17,
+              "id": "1923806934534107136",
+              "start": 8,
+              "username": "Jiu36446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946918895064924261",
+        "in_reply_to_user_id": "1875000110016614401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946918212219580487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyhy73 @Jiu36446 好耶，在下雨的时候能买到最需要的东西，lucky！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875000110016614401",
+        "conversation_id": "1946916421172068654",
+        "created_at": "2025-07-20T13:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T14:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946918212219580487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1923806934534107136",
+              "start": 0,
+              "username": "Jiu36446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946918212219580487",
+        "in_reply_to_user_id": "1923806934534107136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946916679620911430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiu36446 其实是路上现买的…（苦笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T02:04:09.000Z",
+        "description": "一重山，两重山。山远天高岩水寒，相思枫叶丹。—————————————————————————当朋友圈发的…是isfp….但在网络上很吵（没高考的宝宝不要找我聊天请努力好好学习🤲🏻）",
+        "id": "1875000110016614401",
+        "location": "0km",
+        "name": "鱼Yuu",
+        "pinned_tweet_id": "1946591218722345242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946948926684180480/rsbLgajW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 22,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 61
+        },
+        "username": "yyhy73",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T18:25:07.000Z",
+        "description": "",
+        "id": "1923806934534107136",
+        "location": "Tajikistan",
+        "name": "jiuch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923828457705713664/gWtycxZ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "Jiu36446",
+        "verified": false
+      }
+    ]
+  }
+}

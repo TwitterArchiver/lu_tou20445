@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949162734253412546",
+    "created_at": "2025-07-26T17:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T18:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949167285710602650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1878436476238938112",
+          "start": 0,
+          "username": "wlwbblp"
+        },
+        {
+          "end": 21,
+          "id": "1688397365336850432",
+          "start": 9,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949167285710602650",
+    "in_reply_to_user_id": "1878436476238938112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949165277389967392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wlwbblp @hongpigu980 会无条件包容你的爱人是大海捞针的，因为什么找到你的人也会因为同样的原因离开，喜恶同因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-26T17:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949167285710602650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1878436476238938112",
+              "start": 0,
+              "username": "wlwbblp"
+            },
+            {
+              "end": 21,
+              "id": "1688397365336850432",
+              "start": 9,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949167285710602650",
+        "in_reply_to_user_id": "1878436476238938112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949165277389967392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wlwbblp @hongpigu980 会无条件包容你的爱人是大海捞针的，因为什么找到你的人也会因为同样的原因离开，喜恶同因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878436476238938112",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-26T17:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T18:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949165277389967392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949165277389967392",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949162734253412546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 我想找主人遇到的全是骗炮的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 169
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:39:01.000Z",
+        "description": "🇨🇳Zhejiang→🇯🇵 Tokyo&Osaka",
+        "id": "1878436476238938112",
+        "location": "日本 東京",
+        "name": "网恋玩笔被录屏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878437137789734912/qQ8Avb0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 23,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "username": "wlwbblp",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62478,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 58,
+          "media_count": 873,
+          "tweet_count": 1109
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

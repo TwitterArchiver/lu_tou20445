@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2058374172439691438",
+    "created_at": "2026-05-24T11:26:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:26:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058509922887925934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558541027450839040",
+          "start": 0,
+          "username": "sfPeterPan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058509922887925934",
+    "in_reply_to_user_id": "1558541027450839040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058509408313938220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfPeterPan 可以呀，有搭子就可以一起，自己也可以体验，这作人多比人少好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2058374172439691438",
+        "created_at": "2026-05-24T11:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058509922887925934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558541027450839040",
+              "start": 0,
+              "username": "sfPeterPan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058509922887925934",
+        "in_reply_to_user_id": "1558541027450839040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058509408313938220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfPeterPan 可以呀，有搭子就可以一起，自己也可以体验，这作人多比人少好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558541027450839040",
+        "conversation_id": "2058374172439691438",
+        "created_at": "2026-05-24T11:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058509408313938220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058509408313938220",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058509015253221821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哇塞哇塞想玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 71,
+          "like_count": 20806,
+          "listed_count": 5,
+          "media_count": 270,
+          "tweet_count": 5926
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T19:49:07.000Z",
+        "description": "你好呀，欢迎进入小熊的世界。（🚪请敲门 随缘）|【自用🪜：https://t.co/Dlnszv00oX】【自用🪜：https://t.co/QdR4c16JAi】/互关请进：@kidultPP😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "kidultPP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "us5.av8dcloud.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://us5.av8dcloud.top/#/register?code=kkA9j3Qy",
+                "start": 29,
+                "url": "https://t.co/Dlnszv00oX"
+              },
+              {
+                "display_url": "wwwwwwl.sogood9.com/#/register?cod…",
+                "end": 81,
+                "expanded_url": "https://wwwwwwl.sogood9.com/#/register?code=Hwp2pBVG",
+                "start": 58,
+                "url": "https://t.co/QdR4c16JAi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "小小熊要加油啊.com",
+                "end": 23,
+                "expanded_url": "http://xn--yfrw5dr2ia544sltg9l9b.com",
+                "start": 0,
+                "url": "https://t.co/q9GcviyXb5"
+              }
+            ]
+          }
+        },
+        "id": "1558541027450839040",
+        "location": "寻梦的路上（钱多多的来🤤🤲🏻）",
+        "name": "Peter Pan",
+        "pinned_tweet_id": "1879205338345594897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004571942712684545/saBk3grR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4300,
+          "following_count": 1173,
+          "like_count": 515795,
+          "listed_count": 52,
+          "media_count": 4566,
+          "tweet_count": 82421
+        },
+        "url": "https://t.co/q9GcviyXb5",
+        "username": "sfPeterPan",
+        "verified": false
+      }
+    ]
+  }
+}

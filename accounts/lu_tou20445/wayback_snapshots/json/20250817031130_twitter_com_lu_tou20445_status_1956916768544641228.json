@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1956915985627381808",
+    "created_at": "2025-08-17T03:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T04:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956916768544641228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1875000110016614401",
+          "start": 0,
+          "username": "yyhy73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956916768544641228",
+    "in_reply_to_user_id": "1875000110016614401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956915985627381808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyhy73 我们鱼看起来像无情的摸头机器"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19433,
+        "height": 720,
+        "media_key": "13_1956915897324748800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1956915897324748800/img/kARz86D_PdfDr_VM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956915897324748800/vid/avc1/480x270/yhMZ81l1mwRy3Fmz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956915897324748800/vid/avc1/640x360/7Miapa7npqYjkYW3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1956915897324748800/vid/avc1/1280x720/rw7WZ_9VuydnLKIT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1956915897324748800/pl/kIUKivTNtofvK2HJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1956915985627381808",
+        "created_at": "2025-08-17T03:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956916768544641228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1875000110016614401",
+              "start": 0,
+              "username": "yyhy73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956916768544641228",
+        "in_reply_to_user_id": "1875000110016614401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956915985627381808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyhy73 我们鱼看起来像无情的摸头机器"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1956915897324748800"
+          ]
+        },
+        "author_id": "1875000110016614401",
+        "conversation_id": "1956915985627381808",
+        "created_at": "2025-08-17T03:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T04:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956915985627381808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MHZUpSgcV5",
+              "end": 44,
+              "expanded_url": "https://x.com/yyhy73/status/1956915985627381808/video/1",
+              "media_key": "13_1956915897324748800",
+              "start": 21,
+              "url": "https://t.co/MHZUpSgcV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956915985627381808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗咖的乖宝宝 睡觉就来你怀里 狗狗教万岁 https://t.co/MHZUpSgcV5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 47,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 928
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T02:04:09.000Z",
+        "description": "文玩发烧友 当朋友圈发的 isfp 网络疯子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vpn.fnwebnet.sbs/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://vpn.fnwebnet.sbs/#/register?code=fVVO78kL",
+                "start": 0,
+                "url": "https://t.co/6969djJ23F"
+              }
+            ]
+          }
+        },
+        "id": "1875000110016614401",
+        "location": "自用vpn",
+        "name": "鱼Yuu",
+        "pinned_tweet_id": "1955895359814975900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952726395198873600/60LRyDsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 91,
+          "like_count": 6015,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/6969djJ23F",
+        "username": "yyhy73",
+        "verified": false
+      }
+    ]
+  }
+}

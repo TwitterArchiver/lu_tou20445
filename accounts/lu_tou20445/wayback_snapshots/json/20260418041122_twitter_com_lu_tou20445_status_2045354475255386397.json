@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045354271810682880"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2045158494240989254",
+    "created_at": "2026-04-18T04:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T05:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045354475255386397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247544266626183168",
+          "start": 0,
+          "username": "Scott04410162"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fUt1WZaOdY",
+          "end": 43,
+          "expanded_url": "https://x.com/lu_tou20445/status/2045354475255386397/photo/1",
+          "media_key": "3_2045354271810682880",
+          "start": 20,
+          "url": "https://t.co/fUt1WZaOdY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045354475255386397",
+    "in_reply_to_user_id": "1247544266626183168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045167113569272186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scott04410162 刷到你了 https://t.co/fUt1WZaOdY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2720,
+        "media_key": "3_2045354271810682880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKO35sagAAnRck.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045354271810682880"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2045158494240989254",
+        "created_at": "2026-04-18T04:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045354475255386397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247544266626183168",
+              "start": 0,
+              "username": "Scott04410162"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUt1WZaOdY",
+              "end": 43,
+              "expanded_url": "https://x.com/lu_tou20445/status/2045354475255386397/photo/1",
+              "media_key": "3_2045354271810682880",
+              "start": 20,
+              "url": "https://t.co/fUt1WZaOdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045354475255386397",
+        "in_reply_to_user_id": "1247544266626183168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045167113569272186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scott04410162 刷到你了 https://t.co/fUt1WZaOdY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247544266626183168",
+        "conversation_id": "2045158494240989254",
+        "created_at": "2026-04-17T15:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045167113569272186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045167113569272186",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045167053196431470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 不，是我有问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 71,
+          "like_count": 20277,
+          "listed_count": 5,
+          "media_count": 262,
+          "tweet_count": 5725
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T15:18:35.000Z",
+        "description": "🏳️‍⚧️WtF｜VibeCoder｜CityWalk｜纯抽象｜侵权也不删",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scottshrimp.com",
+                "end": 23,
+                "expanded_url": "https://www.scottshrimp.com",
+                "start": 0,
+                "url": "https://t.co/qYurmMQ12t"
+              }
+            ]
+          }
+        },
+        "id": "1247544266626183168",
+        "location": "胳膊壮环形山",
+        "name": "Scottshrimp044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010285335088144384/gvDlkmzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1751,
+          "like_count": 83220,
+          "listed_count": 2,
+          "media_count": 1358,
+          "tweet_count": 16120
+        },
+        "url": "https://t.co/qYurmMQ12t",
+        "username": "Scott04410162",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949162734253412546",
+    "created_at": "2025-07-27T04:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T05:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949322382377676993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1824582476070785027",
+          "start": 0,
+          "username": "iO44SGALOo3655"
+        },
+        {
+          "end": 28,
+          "id": "1688397365336850432",
+          "start": 16,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949322382377676993",
+    "in_reply_to_user_id": "1824582476070785027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949270105503752552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iO44SGALOo3655 @hongpigu980 要先爱自己，人是给不出自己没有的东西的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-27T04:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949322382377676993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1824582476070785027",
+              "start": 0,
+              "username": "iO44SGALOo3655"
+            },
+            {
+              "end": 28,
+              "id": "1688397365336850432",
+              "start": 16,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949322382377676993",
+        "in_reply_to_user_id": "1824582476070785027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949270105503752552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iO44SGALOo3655 @hongpigu980 要先爱自己，人是给不出自己没有的东西的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824582476070785027",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-27T00:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T01:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949270105503752552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949270105503752552",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949162734253412546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 睡眠不好 没钱没爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 204
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T23:02:28.000Z",
+        "description": "随缘更",
+        "id": "1824582476070785027",
+        "name": "小椰子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850235358283431936/nXrqVB1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3008,
+          "following_count": 13,
+          "like_count": 1403,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 948
+        },
+        "username": "iO44SGALOo3655",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62484,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 58,
+          "media_count": 873,
+          "tweet_count": 1109
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2017852076806836411",
+    "created_at": "2026-02-01T14:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T15:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017968116182200708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1991764562924957697",
+          "start": 0,
+          "username": "q3qxy111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017968116182200708",
+    "in_reply_to_user_id": "1991764562924957697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017963734698971575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q3qxy111 我这边有一张劳斯莱斯十块优惠券你也拿着吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2017852076806836411",
+        "created_at": "2026-02-01T14:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017968116182200708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1991764562924957697",
+              "start": 0,
+              "username": "q3qxy111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017968116182200708",
+        "in_reply_to_user_id": "1991764562924957697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017963734698971575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q3qxy111 我这边有一张劳斯莱斯十块优惠券你也拿着吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991764562924957697",
+        "conversation_id": "2017852076806836411",
+        "created_at": "2026-02-01T14:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017963734698971575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017963734698971575",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017936831153893687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 严谨一点是5.5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 71,
+          "like_count": 14995,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 4532
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T07:04:20.000Z",
+        "description": "不互不回关 没🚪不认识 脾气很差会骂人提问：https://t.co/HyZbTYlGSq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwq45705",
+                "end": 45,
+                "expanded_url": "https://ngl.link/qwq45705",
+                "start": 22,
+                "url": "https://t.co/HyZbTYlGSq"
+              }
+            ]
+          }
+        },
+        "id": "1991764562924957697",
+        "name": "宅",
+        "pinned_tweet_id": "2010954436596896080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005495543334838272/ADvMSpRi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 40,
+          "like_count": 2576,
+          "listed_count": 3,
+          "media_count": 381,
+          "tweet_count": 5090
+        },
+        "username": "q3qxy111",
+        "verified": false
+      }
+    ]
+  }
+}

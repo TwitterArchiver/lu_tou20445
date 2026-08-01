@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1964570711659598133",
+    "created_at": "2025-09-07T06:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964572773931766136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482923379438936064",
+          "start": 0,
+          "username": "qing_qing97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964572773931766136",
+    "in_reply_to_user_id": "1482923379438936064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964570711659598133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing_qing97 恭喜，生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964570707003834368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OOpjcaAAArZZg.jpg",
+        "width": 546
+      },
+      {
+        "height": 720,
+        "media_key": "3_1964570707767201792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OOpmSaEAAlPv3.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1741,
+        "media_key": "3_1964570708220268547",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OOpn-bUAMgvCA.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1964570711659598133",
+        "created_at": "2025-09-07T06:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964572773931766136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482923379438936064",
+              "start": 0,
+              "username": "qing_qing97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964572773931766136",
+        "in_reply_to_user_id": "1482923379438936064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964570711659598133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing_qing97 恭喜，生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964570707003834368",
+            "3_1964570707767201792",
+            "3_1964570708220268547"
+          ]
+        },
+        "author_id": "1482923379438936064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964570711659598133",
+        "created_at": "2025-09-07T06:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964570711659598133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMmTMTacRp",
+              "end": 40,
+              "expanded_url": "https://x.com/qing_qing97/status/1964570711659598133/photo/1",
+              "media_key": "3_1964570707003834368",
+              "start": 17,
+              "url": "https://t.co/yMmTMTacRp"
+            },
+            {
+              "display_url": "pic.x.com/yMmTMTacRp",
+              "end": 40,
+              "expanded_url": "https://x.com/qing_qing97/status/1964570711659598133/photo/1",
+              "media_key": "3_1964570707767201792",
+              "start": 17,
+              "url": "https://t.co/yMmTMTacRp"
+            },
+            {
+              "display_url": "pic.x.com/yMmTMTacRp",
+              "end": 40,
+              "expanded_url": "https://x.com/qing_qing97/status/1964570711659598133/photo/1",
+              "media_key": "3_1964570708220268547",
+              "start": 17,
+              "url": "https://t.co/yMmTMTacRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964570711659598133",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "˗ˋˏ🎂ˎˊ˗ ²⁰²⁵/₉.₇ https://t.co/yMmTMTacRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 64,
+          "like_count": 3093,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-17T03:51:06.000Z",
+        "description": "(。•ω -)ε・ ｡)女宝的消息都会回，男的随缘",
+        "id": "1482923379438936064",
+        "name": "朝時飲露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936762977278984192/WjWcnBQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 115,
+          "like_count": 11370,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2005
+        },
+        "username": "qing_qing97",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2015696207864353003",
+    "created_at": "2026-01-27T06:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T07:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016037909766537370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1489611149704192005",
+          "start": 0,
+          "username": "BiYebi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016037909766537370",
+    "in_reply_to_user_id": "1489611149704192005",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015696207864353003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiYebi1 《体面的人不解释》"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2015669208085106688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kYdxybEAAFCSf.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2015696207864353003",
+        "created_at": "2026-01-27T06:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T07:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016037909766537370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1489611149704192005",
+              "start": 0,
+              "username": "BiYebi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016037909766537370",
+        "in_reply_to_user_id": "1489611149704192005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015696207864353003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiYebi1 《体面的人不解释》"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015669208085106688"
+          ]
+        },
+        "author_id": "1489611149704192005",
+        "conversation_id": "2015696207864353003",
+        "created_at": "2026-01-26T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015696207864353003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d2MWBH541y",
+              "end": 23,
+              "expanded_url": "https://x.com/BiYebi1/status/2015696207864353003/photo/1",
+              "media_key": "3_2015669208085106688",
+              "start": 0,
+              "url": "https://t.co/d2MWBH541y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015696207864353003",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 277,
+          "impression_count": 1016792,
+          "like_count": 1397,
+          "quote_count": 0,
+          "reply_count": 202,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/d2MWBH541y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 71,
+          "like_count": 14721,
+          "listed_count": 3,
+          "media_count": 208,
+          "tweet_count": 4397
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T14:46:05.000Z",
+        "description": "欢迎来到我的精神世界\n小号：@KennethLi34748",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "KennethLi34748"
+              }
+            ]
+          }
+        },
+        "id": "1489611149704192005",
+        "name": "体面的人不解释",
+        "pinned_tweet_id": "1999461707773816884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997662808113377280/jXJb6SSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15254,
+          "following_count": 236,
+          "like_count": 927,
+          "listed_count": 24,
+          "media_count": 379,
+          "tweet_count": 782
+        },
+        "username": "BiYebi1",
+        "verified": false
+      }
+    ]
+  }
+}

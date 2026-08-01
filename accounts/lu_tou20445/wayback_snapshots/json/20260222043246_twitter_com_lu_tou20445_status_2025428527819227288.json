@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2025400049430397221",
+    "created_at": "2026-02-22T04:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T05:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025428527819227288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969697359765659648",
+          "start": 0,
+          "username": "X435ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025428527819227288",
+    "in_reply_to_user_id": "1969697359765659648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025417090518466575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X435ovo 我去！真的假的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2025400049430397221",
+        "created_at": "2026-02-22T04:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025428527819227288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969697359765659648",
+              "start": 0,
+              "username": "X435ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025428527819227288",
+        "in_reply_to_user_id": "1969697359765659648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025417090518466575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X435ovo 我去！真的假的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969697359765659648",
+        "conversation_id": "2025400049430397221",
+        "created_at": "2026-02-22T03:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025417090518466575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025417090518466575",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025400049430397221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我去！震撼美味！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 69,
+          "like_count": 16406,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4915
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:37:14.000Z",
+        "description": "",
+        "id": "1969697359765659648",
+        "name": "圣蛋树",
+        "pinned_tweet_id": "2000888899749732604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005333397326147584/Hds8Vadt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 11,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 534
+        },
+        "username": "X435ovo",
+        "verified": false
+      }
+    ]
+  }
+}

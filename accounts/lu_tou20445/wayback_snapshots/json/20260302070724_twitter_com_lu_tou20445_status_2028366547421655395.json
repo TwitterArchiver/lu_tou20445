@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2028348876269519056",
+    "created_at": "2026-03-02T07:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028366547421655395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235200392637620225",
+          "start": 0,
+          "username": "Ggloria012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028366547421655395",
+    "in_reply_to_user_id": "1235200392637620225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028364287568212239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ggloria012 小嘴一张一闭就能炫饱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2028348876269519056",
+        "created_at": "2026-03-02T07:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028366547421655395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235200392637620225",
+              "start": 0,
+              "username": "Ggloria012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028366547421655395",
+        "in_reply_to_user_id": "1235200392637620225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028364287568212239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ggloria012 小嘴一张一闭就能炫饱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235200392637620225",
+        "conversation_id": "2028348876269519056",
+        "created_at": "2026-03-02T06:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028364287568212239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028364287568212239",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028348876269519056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 而且处于食物链顶端，每天就是在海里溜达就可以了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 72,
+          "like_count": 17497,
+          "listed_count": 5,
+          "media_count": 237,
+          "tweet_count": 5212
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T13:48:32.000Z",
+        "description": "记录我的跑步、做饭和性幻想。有🚪",
+        "id": "1235200392637620225",
+        "name": "NYC以我的逼诠释我的爱",
+        "pinned_tweet_id": "2018897151007633414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000743215079526403/9pkE_xXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 119,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 354
+        },
+        "username": "Ggloria012",
+        "verified": true
+      }
+    ]
+  }
+}

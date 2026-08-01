@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1952786068262023259",
+    "created_at": "2025-08-06T04:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T05:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952944448582893698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1604424715455471617",
+          "start": 0,
+          "username": "Maqiiijun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952944448582893698",
+    "in_reply_to_user_id": "1604424715455471617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952786068262023259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maqiiijun 不会的，你的七百多粉丝都是冲着喜欢你来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1952786068262023259",
+        "created_at": "2025-08-06T04:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T05:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952944448582893698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1604424715455471617",
+              "start": 0,
+              "username": "Maqiiijun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952944448582893698",
+        "in_reply_to_user_id": "1604424715455471617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952786068262023259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maqiiijun 不会的，你的七百多粉丝都是冲着喜欢你来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604424715455471617",
+        "conversation_id": "1952786068262023259",
+        "created_at": "2025-08-05T17:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T18:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952786068262023259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952786068262023259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我求你们了。真心希望所有朋友谈恋爱都能屏蔽我。不要再这样了好吗我不仅没牵过手没亲过嘴我连网恋都没人和我恋给我滚好不好。我有点不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 471
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T10:34:07.000Z",
+        "description": "infp｜我不会聊天｜苦逼高中生｜1i喵喵喵｜喜欢我的先给我打钱 ｜小号 @tujiang0527 什么都没有",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "tujiang0527"
+              }
+            ]
+          }
+        },
+        "id": "1604424715455471617",
+        "location": "死了",
+        "name": "兔咪",
+        "pinned_tweet_id": "1949469253872308396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941158285886771200/mA_xX9aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 62,
+          "like_count": 17820,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 494
+        },
+        "username": "Maqiiijun",
+        "verified": false
+      }
+    ]
+  }
+}

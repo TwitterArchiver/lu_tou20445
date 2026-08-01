@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2005244340185211162",
+    "created_at": "2025-12-28T16:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T17:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005320399828262935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1229450376388022272",
+          "start": 0,
+          "username": "MuYi_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005320399828262935",
+    "in_reply_to_user_id": "1229450376388022272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005309713299452034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuYi_zZ 我将保持分寸🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2005244340185211162",
+        "created_at": "2025-12-28T16:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005320399828262935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1229450376388022272",
+              "start": 0,
+              "username": "MuYi_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005320399828262935",
+        "in_reply_to_user_id": "1229450376388022272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005309713299452034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuYi_zZ 我将保持分寸🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229450376388022272",
+        "conversation_id": "2005244340185211162",
+        "created_at": "2025-12-28T16:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T17:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005309713299452034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005309713299452034",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005244340185211162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 不会，证明老头是个相当有分寸的人！这个不多见啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 71,
+          "like_count": 12986,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 3778
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T16:59:55.000Z",
+        "description": "我也不敢",
+        "id": "1229450376388022272",
+        "location": "People's Republic of China",
+        "name": "一只羊羊羊🫧🌮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1440705030059741188/9TY7vHtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 109,
+          "like_count": 7900,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 137
+        },
+        "username": "MuYi_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

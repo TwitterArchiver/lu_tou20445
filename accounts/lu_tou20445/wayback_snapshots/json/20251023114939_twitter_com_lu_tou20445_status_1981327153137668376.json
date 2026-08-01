@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1981327088410894336"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1981311217521365146",
+    "created_at": "2025-10-23T11:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T12:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981327153137668376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910238065576357888",
+          "start": 0,
+          "username": "tequ1la_sunsett"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RktP1KioVL",
+          "end": 48,
+          "expanded_url": "https://x.com/lu_tou20445/status/1981327153137668376/photo/1",
+          "media_key": "16_1981327088410894336",
+          "start": 25,
+          "url": "https://t.co/RktP1KioVL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981327153137668376",
+    "in_reply_to_user_id": "1910238065576357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981311217521365146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tequ1la_sunsett 纯爱真是太好了 https://t.co/RktP1KioVL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1981327088410894336",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G38WfUiXIAAN7TT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G38WfUiXIAAN7TT.mp4"
+          }
+        ],
+        "width": 138
+      },
+      {
+        "height": 1656,
+        "media_key": "3_1981311197891694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38ICXvWkAA8xHO.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1656,
+        "media_key": "3_1981311197912637440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38ICX0WIAAwW_x.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1656,
+        "media_key": "3_1981311197921062912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38ICX2WsAAYAno.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1981327088410894336"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1981311217521365146",
+        "created_at": "2025-10-23T11:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981327153137668376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910238065576357888",
+              "start": 0,
+              "username": "tequ1la_sunsett"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RktP1KioVL",
+              "end": 48,
+              "expanded_url": "https://x.com/lu_tou20445/status/1981327153137668376/photo/1",
+              "media_key": "16_1981327088410894336",
+              "start": 25,
+              "url": "https://t.co/RktP1KioVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981327153137668376",
+        "in_reply_to_user_id": "1910238065576357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981311217521365146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tequ1la_sunsett 纯爱真是太好了 https://t.co/RktP1KioVL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981311197891694592",
+            "3_1981311197912637440",
+            "3_1981311197921062912"
+          ]
+        },
+        "author_id": "1910238065576357888",
+        "conversation_id": "1981311217521365146",
+        "created_at": "2025-10-23T10:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T11:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981311217521365146"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "清水"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "纯爱"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "台本"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "男喘台本"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "女喘台本"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B5OUPMu5RQ",
+              "end": 129,
+              "expanded_url": "https://x.com/tequ1la_sunsett/status/1981311217521365146/photo/1",
+              "media_key": "3_1981311197891694592",
+              "start": 106,
+              "url": "https://t.co/B5OUPMu5RQ"
+            },
+            {
+              "display_url": "pic.x.com/B5OUPMu5RQ",
+              "end": 129,
+              "expanded_url": "https://x.com/tequ1la_sunsett/status/1981311217521365146/photo/1",
+              "media_key": "3_1981311197912637440",
+              "start": 106,
+              "url": "https://t.co/B5OUPMu5RQ"
+            },
+            {
+              "display_url": "pic.x.com/B5OUPMu5RQ",
+              "end": 129,
+              "expanded_url": "https://x.com/tequ1la_sunsett/status/1981311217521365146/photo/1",
+              "media_key": "3_1981311197921062912",
+              "start": 106,
+              "url": "https://t.co/B5OUPMu5RQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981311217521365146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 679,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【清水书信】在世界尽头相遇\n\n“人能够被理解的部分或许是有限的，但被温柔注视的那一刻，会让所有的孤独变得可以承受。”\n\n视力友好版共3p\n省流单图版在评论区☝🏻\n\n#清水 #纯爱 #台本 #男喘台本 #女喘台本 https://t.co/B5OUPMu5RQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 70,
+          "like_count": 7113,
+          "listed_count": 3,
+          "media_count": 109,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T07:47:11.000Z",
+        "description": "在时间将其本质铸成日子之前，海，永恒之海，早已在此。",
+        "id": "1910238065576357888",
+        "location": "Revachol",
+        "name": "龙舌兰日落",
+        "pinned_tweet_id": "1959615234781642843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953700372482338820/iw5KhKrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 151,
+          "like_count": 11747,
+          "listed_count": 4,
+          "media_count": 220,
+          "tweet_count": 5645
+        },
+        "username": "tequ1la_sunsett",
+        "verified": true
+      }
+    ]
+  }
+}

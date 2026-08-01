@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1995858468402782481",
+    "created_at": "2025-12-03T08:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T09:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996139899666518437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926279710318743552",
+          "start": 0,
+          "username": "xuew156484"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996139899666518437",
+    "in_reply_to_user_id": "1926279710318743552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996108524708139377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuew156484 哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-03T08:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996139899666518437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926279710318743552",
+              "start": 0,
+              "username": "xuew156484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996139899666518437",
+        "in_reply_to_user_id": "1926279710318743552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996108524708139377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuew156484 哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926279710318743552",
+        "conversation_id": "1995858468402782481",
+        "created_at": "2025-12-03T06:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996108524708139377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996108524708139377",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995858468402782481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 聚会的时候，灯光昏暗，我俩心照不宣地悄悄玩手指，抚摸每一个指关节每个老茧，然后十指相扣。和朋友们嘴上聊着天，桌布下的事只有我们知道。明明只是玩手指，内裤湿了一次又一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 69,
+          "like_count": 10273,
+          "listed_count": 3,
+          "media_count": 155,
+          "tweet_count": 3094
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T14:11:05.000Z",
+        "description": "",
+        "id": "1926279710318743552",
+        "name": "brhxuosnd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932844675746172928/Uxrsa015_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 46,
+          "like_count": 2039,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 53
+        },
+        "username": "xuew156484",
+        "verified": false
+      }
+    ]
+  }
+}

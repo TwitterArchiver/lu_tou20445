@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008736403665154515",
+    "created_at": "2026-01-07T03:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T04:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008741522540527964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975895101495996418",
+          "start": 0,
+          "username": "umidaodao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008741522540527964",
+    "in_reply_to_user_id": "1975895101495996418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008738705759236461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umidaodao 谢谢，我将加入歌单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008736403665154515",
+        "created_at": "2026-01-07T03:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008741522540527964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975895101495996418",
+              "start": 0,
+              "username": "umidaodao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008741522540527964",
+        "in_reply_to_user_id": "1975895101495996418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008738705759236461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umidaodao 谢谢，我将加入歌单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975895101495996418",
+        "conversation_id": "2008736403665154515",
+        "created_at": "2026-01-07T03:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008738705759236461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008738705759236461",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008736403665154515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 听Concrete Blonde的《Joey》就特别能共情这种无能为力的感觉。但是伤只能靠自己疗，如果有人愿意陪伴😇我就谢天谢地了🙇🏼‍♂️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 68,
+          "like_count": 13935,
+          "listed_count": 3,
+          "media_count": 187,
+          "tweet_count": 4012
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T12:04:47.000Z",
+        "description": "关取自由 ｜性别是天地之大金宝元鼎（o_0)",
+        "id": "1975895101495996418",
+        "name": "一一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004357238639697920/rYV-EIbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 188,
+          "like_count": 7079,
+          "listed_count": 1,
+          "media_count": 308,
+          "tweet_count": 1261
+        },
+        "username": "umidaodao",
+        "verified": false
+      }
+    ]
+  }
+}

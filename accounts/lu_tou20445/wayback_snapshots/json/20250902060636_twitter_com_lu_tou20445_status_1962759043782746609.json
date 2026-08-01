@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1962754901244826107",
+    "created_at": "2025-09-02T06:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962759043782746609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1934903356822269952",
+          "start": 0,
+          "username": "synodical45543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962759043782746609",
+    "in_reply_to_user_id": "1934903356822269952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962754901244826107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@synodical45543 爆笑虫子恶搞车车"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1962754858341277698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0bJQCaoAIa5mp.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1962754901244826107",
+        "created_at": "2025-09-02T06:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962759043782746609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1934903356822269952",
+              "start": 0,
+              "username": "synodical45543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962759043782746609",
+        "in_reply_to_user_id": "1934903356822269952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962754901244826107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@synodical45543 爆笑虫子恶搞车车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962754858341277698"
+          ]
+        },
+        "author_id": "1934903356822269952",
+        "conversation_id": "1962754901244826107",
+        "created_at": "2025-09-02T05:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962754901244826107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kg7TlRiogu",
+              "end": 33,
+              "expanded_url": "https://x.com/synodical45543/status/1962754901244826107/photo/1",
+              "media_key": "3_1962754858341277698",
+              "start": 10,
+              "url": "https://t.co/kg7TlRiogu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962754901244826107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是什麼車？想擁有 https://t.co/kg7TlRiogu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 58,
+          "like_count": 2152,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T09:18:50.000Z",
+        "description": "",
+        "id": "1934903356822269952",
+        "name": "cat_on_mat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938463015311183873/cnAc1BNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 52,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 167
+        },
+        "username": "synodical45543",
+        "verified": false
+      }
+    ]
+  }
+}

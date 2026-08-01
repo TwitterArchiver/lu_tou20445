@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-25T02:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T03:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026481540860190980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896464135258595330",
+          "start": 0,
+          "username": "whatislife_kuro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026481540860190980",
+    "in_reply_to_user_id": "1896464135258595330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026345373162418534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatislife_kuro 完全属于自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-25T02:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T03:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026481540860190980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896464135258595330",
+              "start": 0,
+              "username": "whatislife_kuro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026481540860190980",
+        "in_reply_to_user_id": "1896464135258595330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026345373162418534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatislife_kuro 完全属于自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896464135258595330",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T17:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026345373162418534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026345373162418534",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 独居就是至尊的独处好吧。。在属于自己的屋子里看着自己布置的房间各种物品都是基于自己的习惯和喜好而存在的。想做什么事都可以没有人打扰没有人批判没有人顾忌。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 70,
+          "like_count": 16858,
+          "listed_count": 6,
+          "media_count": 227,
+          "tweet_count": 5066
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T07:34:34.000Z",
+        "description": "连结",
+        "id": "1896464135258595330",
+        "name": "总而言之想让你幸福",
+        "pinned_tweet_id": "1993731215812382931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896464539153039360/0lrMTWSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 53,
+          "like_count": 5929,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 657
+        },
+        "username": "whatislife_kuro",
+        "verified": false
+      }
+    ]
+  }
+}

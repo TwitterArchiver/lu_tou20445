@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008161106901282854",
+    "created_at": "2026-01-06T12:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008517535361364357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1975616422492721152",
+          "start": 0,
+          "username": "yenai139"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008517535361364357",
+    "in_reply_to_user_id": "1975616422492721152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 5,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008508570170806599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yenai139 赌到最后应有尽有！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-06T12:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008517535361364357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1975616422492721152",
+              "start": 0,
+              "username": "yenai139"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008517535361364357",
+        "in_reply_to_user_id": "1975616422492721152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008508570170806599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yenai139 赌到最后应有尽有！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975616422492721152",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-06T11:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T12:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008508570170806599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008508570170806599",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008507790290284633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 赌至疯狂吧！（捧脸）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 68,
+          "like_count": 13905,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 4002
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T17:38:11.000Z",
+        "description": "一个爱碎碎念的单机女人\n没人认识就大胆乱说了\n不必关注我，我很无聊的/\n但谢谢你愿意听我说废话／\n一些评论真的看不见！点赞说明看到你咯／\n不要骂我我会哭的／\n或许有一点属性但《仅限》喜欢的人／\n面 瘫 冷 脸 单 机 王／\n意面好好吃／\n不要问我哪里人／\n主玩PC燕云／\n最后，我有很喜欢很喜欢的人哦♡/\n请紧握住我的手",
+        "id": "1975616422492721152",
+        "location": "不见山",
+        "name": "椰奶好好喝",
+        "pinned_tweet_id": "1987362988098265428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975923907665465345/lSDz7UHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 25,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 2152
+        },
+        "username": "yenai139",
+        "verified": false
+      }
+    ]
+  }
+}

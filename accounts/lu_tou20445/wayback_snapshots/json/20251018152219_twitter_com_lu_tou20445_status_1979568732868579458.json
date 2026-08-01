@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979568724962144257"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1979546109292007719",
+    "created_at": "2025-10-18T15:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T16:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979568732868579458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "874922985567784960",
+          "start": 0,
+          "username": "xihinansyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A0RroPPAIL",
+          "end": 39,
+          "expanded_url": "https://x.com/lu_tou20445/status/1979568732868579458/photo/1",
+          "media_key": "3_1979568724962144257",
+          "start": 16,
+          "url": "https://t.co/A0RroPPAIL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979568732868579458",
+    "in_reply_to_user_id": "874922985567784960",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979546109292007719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xihinansyo all https://t.co/A0RroPPAIL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1979568724962144257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jXRGPXcAE85Wi.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1440,
+        "media_key": "3_1979546104279515136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jCsZoWwAA7vgT.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979568724962144257"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979546109292007719",
+        "created_at": "2025-10-18T15:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T16:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979568732868579458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "874922985567784960",
+              "start": 0,
+              "username": "xihinansyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0RroPPAIL",
+              "end": 39,
+              "expanded_url": "https://x.com/lu_tou20445/status/1979568732868579458/photo/1",
+              "media_key": "3_1979568724962144257",
+              "start": 16,
+              "url": "https://t.co/A0RroPPAIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979568732868579458",
+        "in_reply_to_user_id": "874922985567784960",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979546109292007719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xihinansyo all https://t.co/A0RroPPAIL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979546104279515136"
+          ]
+        },
+        "author_id": "874922985567784960",
+        "conversation_id": "1979546109292007719",
+        "created_at": "2025-10-18T13:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979546109292007719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EpJNXLfpUR",
+              "end": 23,
+              "expanded_url": "https://x.com/xihinansyo/status/1979546109292007719/photo/1",
+              "media_key": "3_1979546104279515136",
+              "start": 0,
+              "url": "https://t.co/EpJNXLfpUR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979546109292007719",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EpJNXLfpUR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 70,
+          "like_count": 6868,
+          "listed_count": 3,
+          "media_count": 108,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-14T09:34:29.000Z",
+        "description": "船到桥头自然直",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xihinansyo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xihinansyo",
+                "start": 0,
+                "url": "https://t.co/dSWm5IrZq6"
+              }
+            ]
+          }
+        },
+        "id": "874922985567784960",
+        "location": "somewhere",
+        "name": "西",
+        "pinned_tweet_id": "1979154228879769901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949964272508784640/WATM6qah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 257,
+          "like_count": 15658,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 6415
+        },
+        "url": "https://t.co/dSWm5IrZq6",
+        "username": "xihinansyo",
+        "verified": false
+      }
+    ]
+  }
+}

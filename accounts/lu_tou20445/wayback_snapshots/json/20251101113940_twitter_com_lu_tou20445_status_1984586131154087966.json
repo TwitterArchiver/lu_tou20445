@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948936180365406547",
+    "created_at": "2025-11-01T11:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T12:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984586131154087966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1864281005823283204",
+          "start": 0,
+          "username": "xu_xian77009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984586131154087966",
+    "in_reply_to_user_id": "1864281005823283204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984578572401721734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu_xian77009 紫老头老闷葫芦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948936180365406547",
+        "created_at": "2025-11-01T11:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984586131154087966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1864281005823283204",
+              "start": 0,
+              "username": "xu_xian77009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984586131154087966",
+        "in_reply_to_user_id": "1864281005823283204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984578572401721734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu_xian77009 紫老头老闷葫芦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864281005823283204",
+        "conversation_id": "1948936180365406547",
+        "created_at": "2025-11-01T11:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T12:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984578572401721734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984578572401721734",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948936180365406547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 紫老头表示认同！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 73,
+          "like_count": 7625,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T12:10:37.000Z",
+        "description": "没有人会来，最后还要靠自己一步步熬过去。\n——紫老太的碎碎念日常",
+        "id": "1864281005823283204",
+        "name": "shine",
+        "pinned_tweet_id": "1979554975702470928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981849178012594176/ytHXrnOO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 18,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 10
+        },
+        "username": "xu_xian77009",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008161106901282854",
+    "created_at": "2026-01-06T12:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008517770204635282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787670874549817344",
+          "start": 0,
+          "username": "elaineL187506"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008517770204635282",
+    "in_reply_to_user_id": "1787670874549817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008513319272096216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elaineL187506 这边建议不吃网友的苦了，可以和朋友玩一些好玩的联机单机游戏或者自己玩一些单机，抛弃傻逼队友，拥抱第九艺术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-06T12:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008517770204635282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787670874549817344",
+              "start": 0,
+              "username": "elaineL187506"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008517770204635282",
+        "in_reply_to_user_id": "1787670874549817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008513319272096216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elaineL187506 这边建议不吃网友的苦了，可以和朋友玩一些好玩的联机单机游戏或者自己玩一些单机，抛弃傻逼队友，拥抱第九艺术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787670874549817344",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-06T12:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008513319272096216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008513319272096216",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008161106901282854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 可是我打游戏把自己气个半死，偶尔还要被队友骂，现实生活里没受的苦，游戏里都给我补上了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 68,
+          "like_count": 13905,
+          "listed_count": 3,
+          "media_count": 186,
+          "tweet_count": 4002
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T02:29:04.000Z",
+        "description": "碎碎念/INFP/抑郁症康复中还在吃药会失忆嗜睡失眠/想给我发私信请关注我/偶尔失忆请谅解/不和不好玩的人聊天",
+        "id": "1787670874549817344",
+        "name": "废废小蝴蝶",
+        "pinned_tweet_id": "1992502453036831166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006187869468299264/wfEcMgxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 80,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 969
+        },
+        "username": "elaineL187506",
+        "verified": false
+      }
+    ]
+  }
+}

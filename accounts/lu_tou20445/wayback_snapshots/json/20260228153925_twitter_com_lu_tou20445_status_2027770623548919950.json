@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2027770601256194048"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2027740869475078175",
+    "created_at": "2026-02-28T15:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027770623548919950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "787912607680368640",
+          "start": 0,
+          "username": "Tubular1705"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OhSphbUp8M",
+          "end": 53,
+          "expanded_url": "https://x.com/lu_tou20445/status/2027770623548919950/photo/1",
+          "media_key": "16_2027770601256194048",
+          "start": 30,
+          "url": "https://t.co/OhSphbUp8M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027770623548919950",
+    "in_reply_to_user_id": "787912607680368640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027740869475078175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tubular1705 没一个没听过没唱过的，我也是老登 https://t.co/OhSphbUp8M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 128,
+        "media_key": "16_2027770601256194048",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCQWnkXbEAA1Z8C.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCQWnkXbEAA1Z8C.mp4"
+          }
+        ],
+        "width": 208
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027740860469940231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCP7kbTbEAcPuLQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2027770601256194048"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2027740869475078175",
+        "created_at": "2026-02-28T15:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027770623548919950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "787912607680368640",
+              "start": 0,
+              "username": "Tubular1705"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhSphbUp8M",
+              "end": 53,
+              "expanded_url": "https://x.com/lu_tou20445/status/2027770623548919950/photo/1",
+              "media_key": "16_2027770601256194048",
+              "start": 30,
+              "url": "https://t.co/OhSphbUp8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027770623548919950",
+        "in_reply_to_user_id": "787912607680368640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027740869475078175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tubular1705 没一个没听过没唱过的，我也是老登 https://t.co/OhSphbUp8M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027740860469940231"
+          ]
+        },
+        "author_id": "787912607680368640",
+        "conversation_id": "2027740869475078175",
+        "created_at": "2026-02-28T13:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027740869475078175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CaIcc9U7Ef",
+              "end": 33,
+              "expanded_url": "https://x.com/Tubular1705/status/2027740869475078175/photo/1",
+              "media_key": "3_2027740860469940231",
+              "start": 10,
+              "url": "https://t.co/CaIcc9U7Ef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027740869475078175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来我这么老了啊🙃 https://t.co/CaIcc9U7Ef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 72,
+          "like_count": 17312,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 5163
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-17T07:06:19.000Z",
+        "description": "ENFJ｜北方面食达人｜一周5练按时打卡🏋🏻｜磕Les｜朋友的情感人生导师｜AD🚕Engineer｜Triumph 400x player",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kerwin71727",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kerwin71727",
+                "start": 0,
+                "url": "https://t.co/3NreCclcCG"
+              }
+            ]
+          }
+        },
+        "id": "787912607680368640",
+        "location": "北京",
+        "name": "寂寞的时候吃面",
+        "pinned_tweet_id": "1984459725304709278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905990671582019584/vPU-bKRE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 442,
+          "like_count": 2479,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 3494
+        },
+        "url": "https://t.co/3NreCclcCG",
+        "username": "Tubular1705",
+        "verified": false
+      }
+    ]
+  }
+}

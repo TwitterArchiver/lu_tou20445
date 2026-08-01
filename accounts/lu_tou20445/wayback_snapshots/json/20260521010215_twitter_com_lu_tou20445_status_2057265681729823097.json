@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057265489303523328"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2057265681729823097",
+    "created_at": "2026-05-21T01:02:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T02:02:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057265681729823097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/93ir7ePqDL",
+          "end": 53,
+          "expanded_url": "https://x.com/lu_tou20445/status/2057265681729823097/video/1",
+          "media_key": "13_2057265489303523328",
+          "start": 30,
+          "url": "https://t.co/93ir7ePqDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057265681729823097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "dou 音还是做到了吗🌚（观音菩萨提醒您没有耳机记得关音） https://t.co/93ir7ePqDL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2057265681729823097].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2057265681729823097",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2057265681729823097"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60436,
+        "height": 1132,
+        "media_key": "13_2057265489303523328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057265489303523328/img/R_FSSBmJttwzvERL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057265489303523328/vid/avc1/320x610/hwBmzuLwa6Ic1wln.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057265489303523328/vid/avc1/480x916/g_ilihzehDRYT6Ef.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057265489303523328/vid/avc1/592x1132/aGJ6japO6Yux72tE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057265489303523328/pl/KcAgIVRfbms0XtKB.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 69,
+          "like_count": 20832,
+          "listed_count": 5,
+          "media_count": 270,
+          "tweet_count": 5903
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

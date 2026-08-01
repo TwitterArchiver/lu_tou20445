@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2024024374693560828",
+    "created_at": "2026-02-18T07:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024030072248623434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975895101495996418",
+          "start": 0,
+          "username": "umidaodao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024030072248623434",
+    "in_reply_to_user_id": "1975895101495996418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024026503902892231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umidaodao 已经不止惊悚了🚬早知道就不偷懒出门了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2024024374693560828",
+        "created_at": "2026-02-18T07:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024030072248623434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975895101495996418",
+              "start": 0,
+              "username": "umidaodao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024030072248623434",
+        "in_reply_to_user_id": "1975895101495996418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024026503902892231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umidaodao 已经不止惊悚了🚬早知道就不偷懒出门了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975895101495996418",
+        "conversation_id": "2024024374693560828",
+        "created_at": "2026-02-18T07:41:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:41:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024026503902892231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024026503902892231",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024024374693560828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这好惊悚吧！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 68,
+          "like_count": 16105,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 4811
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T12:04:47.000Z",
+        "description": "关取自由 ｜性别是天地之大金宝元鼎（o_0)",
+        "id": "1975895101495996418",
+        "name": "一一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010983150520877056/QHn0PDlF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 192,
+          "like_count": 9099,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 1746
+        },
+        "username": "umidaodao",
+        "verified": false
+      }
+    ]
+  }
+}

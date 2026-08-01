@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949162734253412546",
+    "created_at": "2025-07-27T04:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T05:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949319145654288450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683865597225074693",
+          "start": 0,
+          "username": "swearbystars"
+        },
+        {
+          "end": 26,
+          "id": "1688397365336850432",
+          "start": 14,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949319145654288450",
+    "in_reply_to_user_id": "1683865597225074693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949293959529812126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@swearbystars @hongpigu980 那可以自己出门去稍近一点的地方，比如隔壁市甚至隔壁县城，旅游目的是为了去不一样的地方换换心情，并不是额定的任务，能体验到和平时不一样的感受就是赚到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-27T04:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T05:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949319145654288450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683865597225074693",
+              "start": 0,
+              "username": "swearbystars"
+            },
+            {
+              "end": 26,
+              "id": "1688397365336850432",
+              "start": 14,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949319145654288450",
+        "in_reply_to_user_id": "1683865597225074693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949293959529812126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@swearbystars @hongpigu980 那可以自己出门去稍近一点的地方，比如隔壁市甚至隔壁县城，旅游目的是为了去不一样的地方换换心情，并不是额定的任务，能体验到和平时不一样的感受就是赚到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683865597225074693",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-27T02:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T03:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949293959529812126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949293959529812126",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949162734253412546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 准备了很久的旅游泡汤了，但是过了今年暑假这两年都没啥机会出去玩儿，很难调理😑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 198
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T15:43:51.000Z",
+        "description": "记流水账用的/没有预设就是最好的预设",
+        "id": "1683865597225074693",
+        "name": "sleepyorangeeee",
+        "pinned_tweet_id": "1946145154252882354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947567806415048705/nZLlOGYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 128,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 230
+        },
+        "username": "swearbystars",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62484,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 58,
+          "media_count": 873,
+          "tweet_count": 1109
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

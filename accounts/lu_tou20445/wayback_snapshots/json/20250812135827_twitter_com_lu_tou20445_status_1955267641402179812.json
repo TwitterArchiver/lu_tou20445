@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955214728189579567",
+    "created_at": "2025-08-12T13:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T14:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955267641402179812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944415405046730753",
+          "start": 0,
+          "username": "xiaoyuoupaopao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955267641402179812",
+    "in_reply_to_user_id": "1944415405046730753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955214728189579567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyuoupaopao 会这样，有种人叫口舌奴，m的一种，喜欢口舌侍奉别人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_1955214643070373889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyJRW9PaEAEbPXo.png",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955214728189579567",
+        "created_at": "2025-08-12T13:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T14:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955267641402179812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944415405046730753",
+              "start": 0,
+              "username": "xiaoyuoupaopao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955267641402179812",
+        "in_reply_to_user_id": "1944415405046730753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955214728189579567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuoupaopao 会这样，有种人叫口舌奴，m的一种，喜欢口舌侍奉别人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955214643070373889"
+          ]
+        },
+        "author_id": "1944415405046730753",
+        "conversation_id": "1955214728189579567",
+        "created_at": "2025-08-12T10:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955214728189579567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fIyYtiVxSo",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoyuoupaopao/status/1955214728189579567/photo/1",
+              "media_key": "3_1955214643070373889",
+              "start": 13,
+              "url": "https://t.co/fIyYtiVxSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955214728189579567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 700,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是搞抽象还是真的会这样 https://t.co/fIyYtiVxSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 40,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:15:43.000Z",
+        "description": "我还是只爱喝奶茶不爱喝咖啡的年纪",
+        "id": "1944415405046730753",
+        "name": "小鱼偶泡泡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944812981919100928/dcDiW3Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 18,
+          "like_count": 312,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 108
+        },
+        "username": "xiaoyuoupaopao",
+        "verified": false
+      }
+    ]
+  }
+}

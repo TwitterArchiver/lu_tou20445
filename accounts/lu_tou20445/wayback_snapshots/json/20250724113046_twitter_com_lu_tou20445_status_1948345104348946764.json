@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948344966461231105",
+        "3_1948344966457012225",
+        "13_1948344966473728000"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948345104348946764",
+    "created_at": "2025-07-24T11:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T12:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948345104348946764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hxzla2Pw5l",
+          "end": 104,
+          "expanded_url": "https://x.com/lu_tou20445/status/1948345104348946764/video/1",
+          "media_key": "3_1948344966461231105",
+          "start": 81,
+          "url": "https://t.co/Hxzla2Pw5l"
+        },
+        {
+          "display_url": "pic.x.com/Hxzla2Pw5l",
+          "end": 104,
+          "expanded_url": "https://x.com/lu_tou20445/status/1948345104348946764/video/1",
+          "media_key": "3_1948344966457012225",
+          "start": 81,
+          "url": "https://t.co/Hxzla2Pw5l"
+        },
+        {
+          "display_url": "pic.x.com/Hxzla2Pw5l",
+          "end": 104,
+          "expanded_url": "https://x.com/lu_tou20445/status/1948345104348946764/video/1",
+          "media_key": "13_1948344966473728000",
+          "start": 81,
+          "url": "https://t.co/Hxzla2Pw5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948345104348946764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "错误的以为自取雨衣是吃上地铁站的皇粮了，踏出地铁站口是一瞬间发现和这层薄薄的雨衣已经没有什么关系了（别问为什么不躲雨，已经趁着雨小走了，可惜还是被泡浮囊了☹️） https://t.co/Hxzla2Pw5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1948344966461231105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnpbJnXkAEOgHo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1706,
+        "media_key": "3_1948344966457012225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwnpbJmXMAEQnPl.jpg",
+        "width": 1279
+      },
+      {
+        "duration_ms": 5694,
+        "height": 960,
+        "media_key": "13_1948344966473728000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1948344966473728000/img/PbLmazuaPsCoCZiu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948344966473728000/vid/avc1/320x568/LEd4bPYRE8SAUQ-X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948344966473728000/vid/avc1/480x852/_4xqdU_MFncT3_G1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1948344966473728000/vid/avc1/540x960/3ESX5-rAU5AC9VIe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1948344966473728000/pl/KSdzeYVFZHNdSBtT.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948344966461231105",
+            "3_1948344966457012225",
+            "13_1948344966473728000"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948345104348946764",
+        "created_at": "2025-07-24T11:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948345104348946764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hxzla2Pw5l",
+              "end": 104,
+              "expanded_url": "https://x.com/lu_tou20445/status/1948345104348946764/video/1",
+              "media_key": "3_1948344966461231105",
+              "start": 81,
+              "url": "https://t.co/Hxzla2Pw5l"
+            },
+            {
+              "display_url": "pic.x.com/Hxzla2Pw5l",
+              "end": 104,
+              "expanded_url": "https://x.com/lu_tou20445/status/1948345104348946764/video/1",
+              "media_key": "3_1948344966457012225",
+              "start": 81,
+              "url": "https://t.co/Hxzla2Pw5l"
+            },
+            {
+              "display_url": "pic.x.com/Hxzla2Pw5l",
+              "end": 104,
+              "expanded_url": "https://x.com/lu_tou20445/status/1948345104348946764/video/1",
+              "media_key": "13_1948344966473728000",
+              "start": 81,
+              "url": "https://t.co/Hxzla2Pw5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948345104348946764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "错误的以为自取雨衣是吃上地铁站的皇粮了，踏出地铁站口是一瞬间发现和这层薄薄的雨衣已经没有什么关系了（别问为什么不躲雨，已经趁着雨小走了，可惜还是被泡浮囊了☹️） https://t.co/Hxzla2Pw5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 90
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

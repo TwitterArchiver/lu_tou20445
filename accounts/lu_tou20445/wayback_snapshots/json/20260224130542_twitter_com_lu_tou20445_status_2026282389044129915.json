@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T13:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026282389044129915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778040763433320448",
+          "start": 0,
+          "username": "KK1600364230074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026282389044129915",
+    "in_reply_to_user_id": "1778040763433320448",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026281334168240504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK1600364230074 裸奔只是第一步😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T13:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026282389044129915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778040763433320448",
+              "start": 0,
+              "username": "KK1600364230074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026282389044129915",
+        "in_reply_to_user_id": "1778040763433320448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026281334168240504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK1600364230074 裸奔只是第一步😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778040763433320448",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T13:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026281334168240504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026281334168240504",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 爽在可以随心所欲的裸奔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 70,
+          "like_count": 16695,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5013
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T12:42:20.000Z",
+        "description": "平平无奇大帅哥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkiwi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkiwi",
+                "start": 0,
+                "url": "https://t.co/KQzYZHn9jg"
+              }
+            ]
+          }
+        },
+        "id": "1778040763433320448",
+        "name": "KKiwi🥝",
+        "pinned_tweet_id": "2025565962158932261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778047410977361920/j-2l9qzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 335,
+          "like_count": 859,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/KQzYZHn9jg",
+        "username": "KK1600364230074",
+        "verified": false
+      }
+    ]
+  }
+}

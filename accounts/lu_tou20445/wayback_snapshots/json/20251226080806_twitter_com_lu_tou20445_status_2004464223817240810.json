@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004459054484390016",
+    "created_at": "2025-12-26T08:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T09:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004464223817240810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1908777776087478272",
+          "start": 0,
+          "username": "qmzjxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004464223817240810",
+    "in_reply_to_user_id": "1908777776087478272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004463499045753051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qmzjxh 我到现在还没看到或者瞟见过有人用🤔，大家都好谨慎，就我调个黑夜模式搁这顶着各种敏感跳脸的风险还要拿出来看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004459054484390016",
+        "created_at": "2025-12-26T08:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004464223817240810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1908777776087478272",
+              "start": 0,
+              "username": "qmzjxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004464223817240810",
+        "in_reply_to_user_id": "1908777776087478272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004463499045753051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qmzjxh 我到现在还没看到或者瞟见过有人用🤔，大家都好谨慎，就我调个黑夜模式搁这顶着各种敏感跳脸的风险还要拿出来看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908777776087478272",
+        "conversation_id": "2004459054484390016",
+        "created_at": "2025-12-26T08:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004463499045753051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004463499045753051",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004459054484390016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 一个办公室的男同事，互相知道对方在玩推，互相绝口不提，绝不打听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 70,
+          "like_count": 12538,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 3576
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T07:04:32.000Z",
+        "description": "黄的和日常混杂，碎碎念比照片多很多 | ISFP白羊 | 我是变态 | 🚫不约 | 匿名 https://t.co/Q8i2MeyJ8z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qmzjxh1",
+                "end": 68,
+                "expanded_url": "https://ngl.link/qmzjxh1",
+                "start": 45,
+                "url": "https://t.co/Q8i2MeyJ8z"
+              }
+            ]
+          }
+        },
+        "id": "1908777776087478272",
+        "name": "小木头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989204364649742336/eISL18X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 162,
+          "like_count": 8240,
+          "listed_count": 6,
+          "media_count": 295,
+          "tweet_count": 1413
+        },
+        "username": "qmzjxh",
+        "verified": false
+      }
+    ]
+  }
+}

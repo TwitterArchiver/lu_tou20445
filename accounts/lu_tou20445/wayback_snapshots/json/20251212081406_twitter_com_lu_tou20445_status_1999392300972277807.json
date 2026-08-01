@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1999382688860615108",
+    "created_at": "2025-12-12T08:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999392300972277807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986701339628609536",
+          "start": 0,
+          "username": "yoyoOvO6June1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999392300972277807",
+    "in_reply_to_user_id": "1986701339628609536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999382688860615108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyoOvO6June1 您好，这里不允许飞机起飞"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1999382668182761472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7878YsbMAAs4bw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999382668191105027",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7878YuagAM2qq0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999382668191109120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7878YuakAAmu7b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999382668191105028",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7878YuagAQDgxM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1999382688860615108",
+        "created_at": "2025-12-12T08:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999392300972277807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986701339628609536",
+              "start": 0,
+              "username": "yoyoOvO6June1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999392300972277807",
+        "in_reply_to_user_id": "1986701339628609536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999382688860615108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyoOvO6June1 您好，这里不允许飞机起飞"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999382668182761472",
+            "3_1999382668191105027",
+            "3_1999382668191109120",
+            "3_1999382668191105028"
+          ]
+        },
+        "author_id": "1986701339628609536",
+        "conversation_id": "1999382688860615108",
+        "created_at": "2025-12-12T07:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999382688860615108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdA2YhcA6Q",
+              "end": 69,
+              "expanded_url": "https://x.com/yoyoOvO6June1/status/1999382688860615108/photo/1",
+              "media_key": "3_1999382668182761472",
+              "start": 46,
+              "url": "https://t.co/zdA2YhcA6Q"
+            },
+            {
+              "display_url": "pic.x.com/zdA2YhcA6Q",
+              "end": 69,
+              "expanded_url": "https://x.com/yoyoOvO6June1/status/1999382688860615108/photo/1",
+              "media_key": "3_1999382668191105027",
+              "start": 46,
+              "url": "https://t.co/zdA2YhcA6Q"
+            },
+            {
+              "display_url": "pic.x.com/zdA2YhcA6Q",
+              "end": 69,
+              "expanded_url": "https://x.com/yoyoOvO6June1/status/1999382688860615108/photo/1",
+              "media_key": "3_1999382668191109120",
+              "start": 46,
+              "url": "https://t.co/zdA2YhcA6Q"
+            },
+            {
+              "display_url": "pic.x.com/zdA2YhcA6Q",
+              "end": 69,
+              "expanded_url": "https://x.com/yoyoOvO6June1/status/1999382688860615108/photo/1",
+              "media_key": "3_1999382668191105028",
+              "start": 46,
+              "url": "https://t.co/zdA2YhcA6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999382688860615108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看懂的人都哭了😭\n摔着后脑勺儿了😭 \n我：明天还有考试会不会给我摔开智了\n上铺：懵逼不伤脑 https://t.co/zdA2YhcA6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 65,
+          "like_count": 11078,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T07:44:59.000Z",
+        "description": "云端备忘录📝 欢迎uu们找我互动 o(^▽^)o 大号@Yoyonevergiveup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Yoyonevergiveup"
+              }
+            ]
+          }
+        },
+        "id": "1986701339628609536",
+        "name": "茉莉优（重生求认领版😭）",
+        "pinned_tweet_id": "1999050401208037694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997974704901214208/qRUuJTNi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 122,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 281
+        },
+        "username": "yoyoOvO6June1",
+        "verified": false
+      }
+    ]
+  }
+}

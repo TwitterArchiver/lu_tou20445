@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949429496005673211",
+    "created_at": "2025-07-27T12:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T13:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949441305488368117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1927277978804695040",
+          "start": 0,
+          "username": "yue_li1455"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949441305488368117",
+    "in_reply_to_user_id": "1927277978804695040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949438431081406904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_li1455 那就大声唱出来，反正我每次看到或者听到都要忍不住唱完哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949429496005673211",
+        "created_at": "2025-07-27T12:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949441305488368117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1927277978804695040",
+              "start": 0,
+              "username": "yue_li1455"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949441305488368117",
+        "in_reply_to_user_id": "1927277978804695040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949438431081406904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_li1455 那就大声唱出来，反正我每次看到或者听到都要忍不住唱完哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927277978804695040",
+        "conversation_id": "1949429496005673211",
+        "created_at": "2025-07-27T11:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949438431081406904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949438431081406904",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949431148058116441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这歌词一直在我脑子里回荡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 249
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T08:18:22.000Z",
+        "description": "人类后腿（私信请礼貌）",
+        "id": "1927277978804695040",
+        "location": "0.33km",
+        "name": "三水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949370046834495488/9ZvUdeN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 17,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 150
+        },
+        "username": "yue_li1455",
+        "verified": false
+      }
+    ]
+  }
+}

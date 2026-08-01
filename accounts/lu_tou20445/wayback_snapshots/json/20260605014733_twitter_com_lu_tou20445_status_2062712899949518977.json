@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062712881616187392"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062712899949518977",
+    "created_at": "2026-06-05T01:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062712899949518977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aUvy9Whv40",
+          "end": 55,
+          "expanded_url": "https://x.com/lu_tou20445/status/2062712899949518977/photo/1",
+          "media_key": "3_2062712881616187392",
+          "start": 32,
+          "url": "https://t.co/aUvy9Whv40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062712899949518977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🐶腾讯你还我指尖江湖啊😭，那么好玩的游戏因为没版权人最后走空了 https://t.co/aUvy9Whv40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1260,
+        "media_key": "3_2062712881616187392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKA6b-Za8AAn3g4.jpg",
+        "width": 2720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062712881616187392"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062712899949518977",
+        "created_at": "2026-06-05T01:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062712899949518977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUvy9Whv40",
+              "end": 55,
+              "expanded_url": "https://x.com/lu_tou20445/status/2062712899949518977/photo/1",
+              "media_key": "3_2062712881616187392",
+              "start": 32,
+              "url": "https://t.co/aUvy9Whv40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062712899949518977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐶腾讯你还我指尖江湖啊😭，那么好玩的游戏因为没版权人最后走空了 https://t.co/aUvy9Whv40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 69,
+          "like_count": 21364,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 6073
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

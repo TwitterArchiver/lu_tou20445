@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "1949162734253412546",
+    "created_at": "2025-07-27T03:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T04:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949318324040405035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737561004282978306",
+          "start": 0,
+          "username": "Jusa_qsaa"
+        },
+        {
+          "end": 23,
+          "id": "1688397365336850432",
+          "start": 11,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949318324040405035",
+    "in_reply_to_user_id": "1737561004282978306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949211298186535305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jusa_qsaa @hongpigu980 如果要外出用我建议可以搜一下穿戴式的，如果单纯平时用可以试一下调教棒，跟家人在一起不方便可以买普通款不买震动款，问起来就说是美容用具"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-27T03:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949318324040405035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737561004282978306",
+              "start": 0,
+              "username": "Jusa_qsaa"
+            },
+            {
+              "end": 23,
+              "id": "1688397365336850432",
+              "start": 11,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949318324040405035",
+        "in_reply_to_user_id": "1737561004282978306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949211298186535305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jusa_qsaa @hongpigu980 如果要外出用我建议可以搜一下穿戴式的，如果单纯平时用可以试一下调教棒，跟家人在一起不方便可以买普通款不买震动款，问起来就说是美容用具"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737561004282978306",
+        "conversation_id": "1949162734253412546",
+        "created_at": "2025-07-26T20:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T21:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949211298186535305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949211298186535305",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949162734253412546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 求好用的入体玩具(不明显的最好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 196
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T19:50:15.000Z",
+        "description": "广东/95E/劫瓦go三修/m/bbw 是死肥猪看不惯我不要找我 💢私信不闲聊 只回支付宝口令 除非你是妹妹 别眼瞎 我是超级普通人不要想太多 匿名信会翻 匿名信翻完半天到一天删帖 女宝关注看到就会回 没回可以私信敲敲 女推帖子我会乱窜 🤚线下随缘 有事请过🚪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qsaa22218",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qsaa22218",
+                "start": 0,
+                "url": "https://t.co/mgrgVdZueT"
+              }
+            ]
+          }
+        },
+        "id": "1737561004282978306",
+        "location": "🚪188+V 288送视频🥛举牌多爆点我也没意见",
+        "name": "晴萨Jusa_qsaa",
+        "pinned_tweet_id": "1944739662595043510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931655598485151744/CApmzTBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 34,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/mgrgVdZueT",
+        "username": "Jusa_qsaa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62484,
+          "following_count": 55,
+          "like_count": 86,
+          "listed_count": 58,
+          "media_count": 873,
+          "tweet_count": 1109
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

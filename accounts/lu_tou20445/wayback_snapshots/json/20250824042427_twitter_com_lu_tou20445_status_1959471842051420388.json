@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959469655958982804",
+    "created_at": "2025-08-24T04:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T05:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959471842051420388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1904003547756146688",
+          "start": 0,
+          "username": "kkt12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959471842051420388",
+    "in_reply_to_user_id": "1904003547756146688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959469655958982804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkt12138 什么老鼠人，你现在就是我趴在我头上的那只小花枝鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959469655958982804",
+        "created_at": "2025-08-24T04:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T05:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959471842051420388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1904003547756146688",
+              "start": 0,
+              "username": "kkt12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959471842051420388",
+        "in_reply_to_user_id": "1904003547756146688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959469655958982804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkt12138 什么老鼠人，你现在就是我趴在我头上的那只小花枝鼠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904003547756146688",
+        "conversation_id": "1959469655958982804",
+        "created_at": "2025-08-24T04:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T05:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959469655958982804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xf00251456/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/xf00251456/status/1959188505688756551",
+              "start": 23,
+              "url": "https://t.co/Ycrqv8OEEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959469655958982804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959188505688756551",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老鼠知道自己吃的东西是偷的，我也知道我在烦你 https://t.co/Ycrqv8OEEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 51,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1163
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-24T02:53:28.000Z",
+        "description": "🐧更些有的没的 互关可以私我❤️",
+        "id": "1904003547756146688",
+        "name": "kkt",
+        "pinned_tweet_id": "1958924782474231827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958091898603687936/8ZEh8Tp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 127,
+          "like_count": 562,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 233
+        },
+        "username": "kkt12138",
+        "verified": false
+      }
+    ]
+  }
+}

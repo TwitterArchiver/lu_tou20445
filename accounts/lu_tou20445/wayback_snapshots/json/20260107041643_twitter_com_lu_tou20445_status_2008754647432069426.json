@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2008754628658139136"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008551119556125183",
+    "created_at": "2026-01-07T04:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008754647432069426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954914237090066432",
+          "start": 0,
+          "username": "fanyigei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s2OuUmp0n9",
+          "end": 42,
+          "expanded_url": "https://x.com/lu_tou20445/status/2008754647432069426/photo/1",
+          "media_key": "16_2008754628658139136",
+          "start": 19,
+          "url": "https://t.co/s2OuUmp0n9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008754647432069426",
+    "in_reply_to_user_id": "1954914237090066432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008551119556125183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanyigei 我有你的动漫头像 https://t.co/s2OuUmp0n9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2008754628658139136",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-CHsSIXEAAyXjD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-CHsSIXEAAyXjD.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "duration_ms": 52360,
+        "height": 1280,
+        "media_key": "13_2008551023611359232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008551023611359232/img/UlHUGq4t7jC2E82d.jpg",
+        "public_metrics": {
+          "view_count": 96
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008551023611359232/vid/avc1/320x568/IRG70FVxqWafnUnL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008551023611359232/vid/avc1/480x852/3_4VGjQQzGU8_oRX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008551023611359232/vid/avc1/720x1280/kwccOs4ZGytTnklk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008551023611359232/pl/aMatqlqGfWf2QUoO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2008754628658139136"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008551119556125183",
+        "created_at": "2026-01-07T04:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008754647432069426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954914237090066432",
+              "start": 0,
+              "username": "fanyigei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2OuUmp0n9",
+              "end": 42,
+              "expanded_url": "https://x.com/lu_tou20445/status/2008754647432069426/photo/1",
+              "media_key": "16_2008754628658139136",
+              "start": 19,
+              "url": "https://t.co/s2OuUmp0n9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008754647432069426",
+        "in_reply_to_user_id": "1954914237090066432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008551119556125183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanyigei 我有你的动漫头像 https://t.co/s2OuUmp0n9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008551023611359232"
+          ]
+        },
+        "author_id": "1954914237090066432",
+        "conversation_id": "2008551119556125183",
+        "created_at": "2026-01-06T14:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008551119556125183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7RYxmophe",
+              "end": 72,
+              "expanded_url": "https://x.com/fanyigei/status/2008551119556125183/video/1",
+              "media_key": "13_2008551023611359232",
+              "start": 49,
+              "url": "https://t.co/S7RYxmophe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008551119556125183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有觉得我笑起来很可爱的？\n有没有人跟着我一起笑的？\n有没有人跟我一样1月6号就考完试放假的！ https://t.co/S7RYxmophe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 68,
+          "like_count": 13946,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 4018
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T14:34:26.000Z",
+        "description": "想把全球旅游个遍 天秤⚖️infp…男的骚扰我之前全部给我打钱 📍自用vpn https://t.co/x50W1lkxSz 关评推广自辨 没有义务礼貌回关。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "api2.cmespeed.com/#/register?cod…",
+                "end": 62,
+                "expanded_url": "https://api2.cmespeed.com/#/register?code=YqihyjX0",
+                "start": 39,
+                "url": "https://t.co/x50W1lkxSz"
+              }
+            ]
+          }
+        },
+        "id": "1954914237090066432",
+        "location": "Georgia, USA",
+        "name": "凯蒂",
+        "pinned_tweet_id": "1991463383737200669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998080798336159744/YHv4EsBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 173,
+          "like_count": 17293,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 10067
+        },
+        "username": "fanyigei",
+        "verified": false
+      }
+    ]
+  }
+}

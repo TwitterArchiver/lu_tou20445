@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2006165545289167012",
+    "created_at": "2025-12-31T06:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T07:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006249463388508522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951000695454441473",
+          "start": 0,
+          "username": "xiaoxin0000812"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006249463388508522",
+    "in_reply_to_user_id": "1951000695454441473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006249299097825366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxin0000812 拿捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2006165545289167012",
+        "created_at": "2025-12-31T06:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006249463388508522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951000695454441473",
+              "start": 0,
+              "username": "xiaoxin0000812"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006249463388508522",
+        "in_reply_to_user_id": "1951000695454441473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006249299097825366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxin0000812 拿捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951000695454441473",
+        "conversation_id": "2006165545289167012",
+        "created_at": "2025-12-31T06:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006249299097825366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006249299097825366",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006165545289167012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 拿捏！！🫴🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 68,
+          "like_count": 13427,
+          "listed_count": 3,
+          "media_count": 182,
+          "tweet_count": 3904
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T19:23:25.000Z",
+        "description": "重生之我的互关回来吧🥲原账号@xiaoxin000812炸了🥲",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "xiaoxin000812"
+              }
+            ]
+          }
+        },
+        "id": "1951000695454441473",
+        "name": "Xiner（叫我小xin💕）",
+        "pinned_tweet_id": "2000058424286183661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001179365720383488/olFBycW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 114,
+          "like_count": 1368,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 547
+        },
+        "username": "xiaoxin0000812",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032279538265440260",
+        "3_2032279538252857345",
+        "3_2032279538257027072",
+        "3_2032279538261245952"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032279559069176021",
+    "created_at": "2026-03-13T02:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032279559069176021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0TdRZ3H3Dm",
+          "end": 45,
+          "expanded_url": "https://x.com/lu_tou20445/status/2032279559069176021/photo/1",
+          "media_key": "3_2032279538265440260",
+          "start": 22,
+          "url": "https://t.co/0TdRZ3H3Dm"
+        },
+        {
+          "display_url": "pic.x.com/0TdRZ3H3Dm",
+          "end": 45,
+          "expanded_url": "https://x.com/lu_tou20445/status/2032279559069176021/photo/1",
+          "media_key": "3_2032279538252857345",
+          "start": 22,
+          "url": "https://t.co/0TdRZ3H3Dm"
+        },
+        {
+          "display_url": "pic.x.com/0TdRZ3H3Dm",
+          "end": 45,
+          "expanded_url": "https://x.com/lu_tou20445/status/2032279559069176021/photo/1",
+          "media_key": "3_2032279538257027072",
+          "start": 22,
+          "url": "https://t.co/0TdRZ3H3Dm"
+        },
+        {
+          "display_url": "pic.x.com/0TdRZ3H3Dm",
+          "end": 45,
+          "expanded_url": "https://x.com/lu_tou20445/status/2032279559069176021/photo/1",
+          "media_key": "3_2032279538261245952",
+          "start": 22,
+          "url": "https://t.co/0TdRZ3H3Dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032279559069176021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wow，现在纹身贴已经进化到这种程度了吗😮 https://t.co/0TdRZ3H3Dm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2032279559069176021].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2032279559069176021",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2032279559069176021"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2720,
+        "media_key": "3_2032279538265440260",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQbePqbQAQ1q4f.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2032279538252857345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQbePnbQAEzdlL.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2032279538257027072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQbePoa4AAJwji.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2032279538261245952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQbePpbQAABnHf.jpg",
+        "width": 1260
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 71,
+          "like_count": 18437,
+          "listed_count": 5,
+          "media_count": 251,
+          "tweet_count": 5401
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

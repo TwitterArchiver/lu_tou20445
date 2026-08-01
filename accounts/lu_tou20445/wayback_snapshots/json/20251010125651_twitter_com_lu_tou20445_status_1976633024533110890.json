@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1976530448722678013",
+    "created_at": "2025-10-10T12:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T13:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976633024533110890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1401377401838264320",
+          "start": 0,
+          "username": "BbdBlue5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976633024533110890",
+    "in_reply_to_user_id": "1401377401838264320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976629549686538346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BbdBlue5 没的说奥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-10T12:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976633024533110890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1401377401838264320",
+              "start": 0,
+              "username": "BbdBlue5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976633024533110890",
+        "in_reply_to_user_id": "1401377401838264320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976629549686538346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BbdBlue5 没的说奥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401377401838264320",
+        "conversation_id": "1976530448722678013",
+        "created_at": "2025-10-10T12:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T13:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976629549686538346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976629549686538346",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976530448722678013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 简直就是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 67,
+          "like_count": 6287,
+          "listed_count": 3,
+          "media_count": 102,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-06T03:16:37.000Z",
+        "description": "我将反复咀嚼所有的痛苦，",
+        "id": "1401377401838264320",
+        "location": "嘿嘿还挺爽的诶",
+        "name": "北北",
+        "pinned_tweet_id": "1968663668754620885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851887405646909440/l-28RYp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 425,
+          "like_count": 33398,
+          "listed_count": 7,
+          "media_count": 80,
+          "tweet_count": 1180
+        },
+        "username": "BbdBlue5",
+        "verified": false
+      }
+    ]
+  }
+}

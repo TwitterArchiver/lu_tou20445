@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2073249762812584029",
+    "created_at": "2026-07-04T04:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T05:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073258631106314251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033228136180219904",
+          "start": 0,
+          "username": "Chu_Echooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073258631106314251",
+    "in_reply_to_user_id": "2033228136180219904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073249762812584029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chu_Echooo 不用去赛里木湖了，你这辈子没白活👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2073249758802833408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWpq8wbcAA_Q4e.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2073249759285182464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWpq-jbgAAf7IR.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2073249758630809601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWpq8HakAEnX0F.jpg",
+        "width": 1280
+      },
+      {
+        "height": 884,
+        "media_key": "3_2073249756508528640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWpq0NbIAA0vPG.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2073249762812584029",
+        "created_at": "2026-07-04T04:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073258631106314251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033228136180219904",
+              "start": 0,
+              "username": "Chu_Echooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073258631106314251",
+        "in_reply_to_user_id": "2033228136180219904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073249762812584029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chu_Echooo 不用去赛里木湖了，你这辈子没白活👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073249758802833408",
+            "3_2073249759285182464",
+            "3_2073249758630809601",
+            "3_2073249756508528640"
+          ]
+        },
+        "author_id": "2033228136180219904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073249762812584029",
+        "created_at": "2026-07-04T03:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T04:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073249762812584029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9T1iUziQ7N",
+              "end": 42,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2073249762812584029/photo/1",
+              "media_key": "3_2073249758802833408",
+              "start": 19,
+              "url": "https://t.co/9T1iUziQ7N"
+            },
+            {
+              "display_url": "pic.x.com/9T1iUziQ7N",
+              "end": 42,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2073249762812584029/photo/1",
+              "media_key": "3_2073249759285182464",
+              "start": 19,
+              "url": "https://t.co/9T1iUziQ7N"
+            },
+            {
+              "display_url": "pic.x.com/9T1iUziQ7N",
+              "end": 42,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2073249762812584029/photo/1",
+              "media_key": "3_2073249758630809601",
+              "start": 19,
+              "url": "https://t.co/9T1iUziQ7N"
+            },
+            {
+              "display_url": "pic.x.com/9T1iUziQ7N",
+              "end": 42,
+              "expanded_url": "https://x.com/Chu_Echooo/status/2073249762812584029/photo/1",
+              "media_key": "3_2073249756508528640",
+              "start": 19,
+              "url": "https://t.co/9T1iUziQ7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073249762812584029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偶尔放纵个一二三四五六七次也不过分吧 https://t.co/9T1iUziQ7N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 70,
+          "like_count": 21272,
+          "listed_count": 5,
+          "media_count": 284,
+          "tweet_count": 6246
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T17:05:53.000Z",
+        "description": "猫叫楚点点/间歇性人格分裂/不定时轰炸互关/爱每一个女孩/陌生人别给我私信小心我挂你骂你/我不高冷！",
+        "id": "2033228136180219904",
+        "location": "电饭煲",
+        "name": "阿楚",
+        "pinned_tweet_id": "2034935138455609563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033228351348019200/RQ5jAlv1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 99,
+          "like_count": 7712,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2707
+        },
+        "url": "",
+        "username": "Chu_Echooo",
+        "verified": false
+      }
+    ]
+  }
+}

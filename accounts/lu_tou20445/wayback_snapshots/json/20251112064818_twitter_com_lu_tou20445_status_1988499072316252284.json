@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T06:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T07:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988499072316252284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768558050615668736",
+          "start": 0,
+          "username": "nhzj_ooo"
+        },
+        {
+          "end": 21,
+          "id": "1558541027450839040",
+          "start": 10,
+          "username": "sfPeterPan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988499072316252284",
+    "in_reply_to_user_id": "1768558050615668736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988498682086625502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhzj_ooo @sfPeterPan 没办法啦，毕竟宣称的是不使用大记忆方便保护隐私，有好有坏吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T06:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988499072316252284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768558050615668736",
+              "start": 0,
+              "username": "nhzj_ooo"
+            },
+            {
+              "end": 21,
+              "id": "1558541027450839040",
+              "start": 10,
+              "username": "sfPeterPan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988499072316252284",
+        "in_reply_to_user_id": "1768558050615668736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988498682086625502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhzj_ooo @sfPeterPan 没办法啦，毕竟宣称的是不使用大记忆方便保护隐私，有好有坏吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768558050615668736",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T06:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T07:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988498682086625502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            },
+            {
+              "end": 24,
+              "id": "1558541027450839040",
+              "start": 13,
+              "username": "sfPeterPan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988498682086625502",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 @sfPeterPan 好智障。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 73,
+          "like_count": 8199,
+          "listed_count": 3,
+          "media_count": 131,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T08:41:21.000Z",
+        "description": "此女子负能量爆棚\n不约不线下(*´I`*)\n不接推广",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Vera3766995223…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Vera3766995223781763",
+                "start": 0,
+                "url": "https://t.co/9tyHlvRapu"
+              }
+            ]
+          }
+        },
+        "id": "1768558050615668736",
+        "location": "🚪 88 💚好友位 可闲聊，pyq开放",
+        "name": "黄金薯饼",
+        "pinned_tweet_id": "1829916134646366501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951313587097546757/tfJaZwXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2613,
+          "following_count": 663,
+          "like_count": 60075,
+          "listed_count": 5,
+          "media_count": 327,
+          "tweet_count": 10759
+        },
+        "url": "https://t.co/9tyHlvRapu",
+        "username": "nhzj_ooo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T19:49:07.000Z",
+        "description": "你好呀，欢迎进入小熊的世界。（🚪请敲门 随缘）|【自用🪜：https://t.co/X09YaF8XQB】【流量卡：https://t.co/GE5cubpR2S】/互关请进：@kidultPP😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "kidultPP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "us1.av8dcloud.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://us1.av8dcloud.top/#/register?code=kkA9j3Qy",
+                "start": 29,
+                "url": "https://t.co/X09YaF8XQB"
+              },
+              {
+                "display_url": "172.lot-ml.com/ProductEn/inde…",
+                "end": 81,
+                "expanded_url": "https://172.lot-ml.com/ProductEn/index/f2e11f8e3a6f56a8",
+                "start": 58,
+                "url": "https://t.co/GE5cubpR2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "小小熊要加油啊.com",
+                "end": 23,
+                "expanded_url": "http://xn--yfrw5dr2ia544sltg9l9b.com",
+                "start": 0,
+                "url": "https://t.co/gPaV7kD2y3"
+              }
+            ]
+          }
+        },
+        "id": "1558541027450839040",
+        "location": "寻梦的路上（钱多多的来🤤🤲🏻）",
+        "name": "ฅ ՞PܸeterⰙPanܸ՞ฅ",
+        "pinned_tweet_id": "1879205338345594897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896244762904342528/flYoXl7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4197,
+          "following_count": 1133,
+          "like_count": 473012,
+          "listed_count": 55,
+          "media_count": 4437,
+          "tweet_count": 77067
+        },
+        "url": "https://t.co/gPaV7kD2y3",
+        "username": "sfPeterPan",
+        "verified": false
+      }
+    ]
+  }
+}

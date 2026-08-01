@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1955810272867967178",
+    "created_at": "2025-08-20T06:15:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T07:15:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958050343545098457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949372174361411584",
+          "start": 0,
+          "username": "gogo1263482"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958050343545098457",
+    "in_reply_to_user_id": "1949372174361411584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958046970943025154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gogo1263482 别哭孩子，该哭的好像是我🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1955810272867967178",
+        "created_at": "2025-08-20T06:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T07:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958050343545098457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949372174361411584",
+              "start": 0,
+              "username": "gogo1263482"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958050343545098457",
+        "in_reply_to_user_id": "1949372174361411584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958046970943025154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gogo1263482 别哭孩子，该哭的好像是我🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949372174361411584",
+        "conversation_id": "1955810272867967178",
+        "created_at": "2025-08-20T06:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T07:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958046970943025154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958046970943025154",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955810272867967178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 看懂的都哭了😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 51,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T07:32:20.000Z",
+        "description": "纯吃饭和碎碎念，也爱看别人碎碎念，请务必找我互关玩，我赞推很勤的\n(￣y▽￣)~*我很乖很好说话。｜所以大胸肌能不能给我吃一口?",
+        "id": "1949372174361411584",
+        "location": "其实我是社恐",
+        "name": "gogo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949376076297203713/SKFmH7Rg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 55,
+          "like_count": 489,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "username": "gogo1263482",
+        "verified": false
+      }
+    ]
+  }
+}

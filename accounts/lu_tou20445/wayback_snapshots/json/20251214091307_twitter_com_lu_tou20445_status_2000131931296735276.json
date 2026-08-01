@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000131916444655616"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2000131931296735276",
+    "created_at": "2025-12-14T09:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T10:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000131931296735276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LHjJciZCUd",
+          "end": 67,
+          "expanded_url": "https://x.com/lu_tou20445/status/2000131931296735276/photo/1",
+          "media_key": "3_2000131916444655616",
+          "start": 44,
+          "url": "https://t.co/LHjJciZCUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000131931296735276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这碗羊肉汤下去感觉可以去狗熊岭跟熊大熊二过两招，手冷脚冷容易体寒的喝一顿直接就热起来了 https://t.co/LHjJciZCUd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000131916444655616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HlYX-a4AA-9GE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000131916444655616"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000131931296735276",
+        "created_at": "2025-12-14T09:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000131931296735276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHjJciZCUd",
+              "end": 67,
+              "expanded_url": "https://x.com/lu_tou20445/status/2000131931296735276/photo/1",
+              "media_key": "3_2000131916444655616",
+              "start": 44,
+              "url": "https://t.co/LHjJciZCUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000131931296735276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这碗羊肉汤下去感觉可以去狗熊岭跟熊大熊二过两招，手冷脚冷容易体寒的喝一顿直接就热起来了 https://t.co/LHjJciZCUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 68,
+          "like_count": 11292,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 3271
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      }
+    ]
+  }
+}

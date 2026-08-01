@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953844481675133236",
+    "created_at": "2025-08-10T03:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T04:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954391836618887412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746914996666429440",
+          "start": 0,
+          "username": "2Wmaomao_ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954391836618887412",
+    "in_reply_to_user_id": "1746914996666429440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953844481675133236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2Wmaomao_ss 后面一盒盒是什么啊？润滑吗🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_1953844472649027584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx1zMiqbEAA47KB.jpg",
+        "width": 1458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953844481675133236",
+        "created_at": "2025-08-10T03:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954391836618887412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746914996666429440",
+              "start": 0,
+              "username": "2Wmaomao_ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954391836618887412",
+        "in_reply_to_user_id": "1746914996666429440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953844481675133236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2Wmaomao_ss 后面一盒盒是什么啊？润滑吗🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953844472649027584"
+          ]
+        },
+        "author_id": "1746914996666429440",
+        "conversation_id": "1953844481675133236",
+        "created_at": "2025-08-08T15:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953844481675133236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7rjrxKVXYk",
+              "end": 34,
+              "expanded_url": "https://x.com/2Wmaomao_ss/status/1953844481675133236/photo/1",
+              "media_key": "3_1953844472649027584",
+              "start": 11,
+              "url": "https://t.co/7rjrxKVXYk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953844481675133236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 21499,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这才是生活啊朋友们！ https://t.co/7rjrxKVXYk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 37,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T15:19:37.000Z",
+        "description": "⚠️私信不陪聊 ｜⚠️不线下｜🧐皮下男文案应用专家，没人懂我的抽象我会很难过",
+        "id": "1746914996666429440",
+        "name": "毛毛",
+        "pinned_tweet_id": "1846444201850163552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814985385803689984/CMQ4V_tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11795,
+          "following_count": 186,
+          "like_count": 317,
+          "listed_count": 17,
+          "media_count": 102,
+          "tweet_count": 531
+        },
+        "username": "2Wmaomao_ss",
+        "verified": false
+      }
+    ]
+  }
+}

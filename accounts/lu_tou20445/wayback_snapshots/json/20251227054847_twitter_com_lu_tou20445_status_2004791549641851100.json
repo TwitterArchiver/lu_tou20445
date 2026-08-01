@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2004556192501334333",
+    "created_at": "2025-12-27T05:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004791549641851100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1756665966329532416",
+          "start": 0,
+          "username": "YueeE62475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004791549641851100",
+    "in_reply_to_user_id": "1756665966329532416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004741161270091792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YueeE62475 那不行，还是电别人爽一点😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2004556192501334333",
+        "created_at": "2025-12-27T05:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004791549641851100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756665966329532416",
+              "start": 0,
+              "username": "YueeE62475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004791549641851100",
+        "in_reply_to_user_id": "1756665966329532416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004741161270091792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YueeE62475 那不行，还是电别人爽一点😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756665966329532416",
+        "conversation_id": "2004556192501334333",
+        "created_at": "2025-12-27T02:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T03:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004741161270091792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004741161270091792",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004556192501334333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 其实可以买根铁链挂身上拖地，像油罐车一样导电🤓🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 72,
+          "like_count": 12648,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 3642
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T13:06:39.000Z",
+        "description": "mortal 其实我只是性压抑",
+        "id": "1756665966329532416",
+        "name": "再加个🍳",
+        "pinned_tweet_id": "2003886632886571193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756666493255696384/Gf7lN1l3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 120,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 124
+        },
+        "username": "YueeE62475",
+        "verified": false
+      }
+    ]
+  }
+}

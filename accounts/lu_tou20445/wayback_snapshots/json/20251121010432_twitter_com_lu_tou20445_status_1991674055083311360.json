@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1991084196064825572",
+    "created_at": "2025-11-21T01:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T02:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991674055083311360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1909303174848258048",
+          "start": 0,
+          "username": "zsogreed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991674055083311360",
+    "in_reply_to_user_id": "1909303174848258048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991592527573680400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zsogreed 那太遗憾了，这种心理现象确实存在才会被人总结并记录，有一个人对的上那也是对，不过这个 id 没听过，还是说想把我变成下一个熊 xx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1991084196064825572",
+        "created_at": "2025-11-21T01:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991674055083311360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1909303174848258048",
+              "start": 0,
+              "username": "zsogreed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991674055083311360",
+        "in_reply_to_user_id": "1909303174848258048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991592527573680400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zsogreed 那太遗憾了，这种心理现象确实存在才会被人总结并记录，有一个人对的上那也是对，不过这个 id 没听过，还是说想把我变成下一个熊 xx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909303174848258048",
+        "conversation_id": "1991084196064825572",
+        "created_at": "2025-11-20T19:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991592527573680400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991592527573680400",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991084196064825572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 总有人会对号入座。\n话说你很像以前一个被挂然后销号的人，ID是熊XX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 70,
+          "like_count": 9226,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2794
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T17:52:17.000Z",
+        "description": "我想要，我努力，我得到。",
+        "id": "1909303174848258048",
+        "location": "I've got everything I need.",
+        "name": "陌野",
+        "pinned_tweet_id": "1988412853641244881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985179926966775808/hKZPdtYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 257,
+          "like_count": 1336,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 2873
+        },
+        "username": "zsogreed",
+        "verified": false
+      }
+    ]
+  }
+}

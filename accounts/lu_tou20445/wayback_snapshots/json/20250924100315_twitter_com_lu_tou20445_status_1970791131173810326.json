@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1970790607766614276",
+    "created_at": "2025-09-24T10:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T11:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970791131173810326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "904752319773892608",
+          "start": 0,
+          "username": "Laraaa718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970791131173810326",
+    "in_reply_to_user_id": "904752319773892608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970790607766614276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laraaa718 别的猫猫都会把沾着妈妈味道的东西当阿贝贝，只有奶牛，第一时间就会把它作为猎物然后要它好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17115,
+        "height": 1280,
+        "media_key": "13_1970790526069927936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970790526069927936/img/S6NDC3P2DA20rzpR.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970790526069927936/vid/avc1/320x568/MwCLb5n8bcdcYEQw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970790526069927936/vid/avc1/480x852/TEeIR5Iipjyse2hH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970790526069927936/vid/avc1/720x1280/iV4qNhdRo8x_qnzE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970790526069927936/pl/YO_X2bylfljL4JNC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1970790607766614276",
+        "created_at": "2025-09-24T10:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970791131173810326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "904752319773892608",
+              "start": 0,
+              "username": "Laraaa718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970791131173810326",
+        "in_reply_to_user_id": "904752319773892608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970790607766614276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laraaa718 别的猫猫都会把沾着妈妈味道的东西当阿贝贝，只有奶牛，第一时间就会把它作为猎物然后要它好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970790526069927936"
+          ]
+        },
+        "author_id": "904752319773892608",
+        "conversation_id": "1970790607766614276",
+        "created_at": "2025-09-24T10:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970790607766614276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PcN3c0e30e",
+              "end": 60,
+              "expanded_url": "https://x.com/Laraaa718/status/1970790607766614276/video/1",
+              "media_key": "13_1970790526069927936",
+              "start": 37,
+              "url": "https://t.co/PcN3c0e30e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970790607766614276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拖鞋重伤了，昨天看到它直接叼着拖鞋头甩来甩去的那一刻，我就知道该驱魔了。 https://t.co/PcN3c0e30e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 63,
+          "like_count": 4894,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-04T17:05:37.000Z",
+        "description": "Be my eyes.｜可以叫我猫猫或者小K｜什么都会发",
+        "id": "904752319773892608",
+        "location": "Hong Kong",
+        "name": "kitten",
+        "pinned_tweet_id": "1969417936701165710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960549452835651584/8OudCR7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 167,
+          "like_count": 13480,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 5111
+        },
+        "username": "Laraaa718",
+        "verified": false
+      }
+    ]
+  }
+}

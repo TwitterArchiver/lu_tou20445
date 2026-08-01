@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1959875854445810114",
+    "created_at": "2025-08-27T15:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T16:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960721979885142422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787125501288431616",
+          "start": 0,
+          "username": "Rrrrmula"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960721979885142422",
+    "in_reply_to_user_id": "1787125501288431616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960714920904855819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rrrrmula 幸福麻了，已经幸福两天了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1959875854445810114",
+        "created_at": "2025-08-27T15:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T16:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960721979885142422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787125501288431616",
+              "start": 0,
+              "username": "Rrrrmula"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960721979885142422",
+        "in_reply_to_user_id": "1787125501288431616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960714920904855819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rrrrmula 幸福麻了，已经幸福两天了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787125501288431616",
+        "conversation_id": "1959875854445810114",
+        "created_at": "2025-08-27T14:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T15:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960714920904855819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960714920904855819",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959875854445810114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 太幸福了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 53,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T14:21:57.000Z",
+        "description": "",
+        "id": "1787125501288431616",
+        "name": "求你睡点觉吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946760274796548098/u6_gLhXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 44,
+          "like_count": 5788,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 1756
+        },
+        "username": "Rrrrmula",
+        "verified": false
+      }
+    ]
+  }
+}

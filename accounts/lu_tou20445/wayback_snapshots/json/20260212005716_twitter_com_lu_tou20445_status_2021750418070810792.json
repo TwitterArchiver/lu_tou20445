@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2021742015965503908",
+    "created_at": "2026-02-12T00:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T01:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021750418070810792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021750418070810792",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021742015965503908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 狗屎都烧成铁线虫了🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021741837854420992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6rfWjbsAApcZ9.jpg",
+        "width": 1100
+      },
+      {
+        "duration_ms": 29863,
+        "height": 1280,
+        "media_key": "13_2021741837904703488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021741837904703488/img/ZL2kUXJwYj_Q42Ue.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021741837904703488/vid/avc1/320x568/gnXDkVCal75EKn5g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021741837904703488/vid/avc1/480x852/EkPeFwz2m8h4_Qjh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021741837904703488/vid/avc1/720x1280/y2L1IPrdOJ9kf-Nj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021741837904703488/pl/RUMbEXVc3IiaKx1W.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2021742015965503908",
+        "created_at": "2026-02-12T00:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021750418070810792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021750418070810792",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021742015965503908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 狗屎都烧成铁线虫了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021741837854420992",
+            "13_2021741837904703488"
+          ]
+        },
+        "author_id": "757578278320300032",
+        "conversation_id": "2021742015965503908",
+        "created_at": "2026-02-12T00:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021742015965503908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzRBgQTDWU",
+              "end": 53,
+              "expanded_url": "https://x.com/trpaomo/status/2021742015965503908/video/1",
+              "media_key": "3_2021741837854420992",
+              "start": 30,
+              "url": "https://t.co/XzRBgQTDWU"
+            },
+            {
+              "display_url": "pic.x.com/XzRBgQTDWU",
+              "end": 53,
+              "expanded_url": "https://x.com/trpaomo/status/2021742015965503908/video/1",
+              "media_key": "13_2021741837904703488",
+              "start": 30,
+              "url": "https://t.co/XzRBgQTDWU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021742015965503908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈，提醒我才想起来～\n我今年一定要再买到这个神叨叨的鞭炮 https://t.co/XzRBgQTDWU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 71,
+          "like_count": 15727,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 4742
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁 比朋友圈还朋友圈💜",
+        "id": "757578278320300032",
+        "name": "好无聊",
+        "pinned_tweet_id": "1963536930794344752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952723610927603713/97UlKbMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3896,
+          "following_count": 220,
+          "like_count": 20765,
+          "listed_count": 8,
+          "media_count": 949,
+          "tweet_count": 6855
+        },
+        "username": "trpaomo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2061048421474328822",
+    "created_at": "2026-06-01T02:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061277091799380167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1586761667375161344",
+          "start": 0,
+          "username": "Hanna_yh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061277091799380167",
+    "in_reply_to_user_id": "1586761667375161344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061268031733710986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanna_yh 你将会为一只路上的小狗带来亮闪闪和收获一只摇尾巴小狗！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-01T02:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061277091799380167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1586761667375161344",
+              "start": 0,
+              "username": "Hanna_yh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061277091799380167",
+        "in_reply_to_user_id": "1586761667375161344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061268031733710986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanna_yh 你将会为一只路上的小狗带来亮闪闪和收获一只摇尾巴小狗！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586761667375161344",
+        "conversation_id": "2061048421474328822",
+        "created_at": "2026-06-01T02:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061268031733710986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061268031733710986",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061048421474328822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 好耶！做了蓝绿色！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 69,
+          "like_count": 21160,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6012
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-30T16:47:26.000Z",
+        "description": "",
+        "id": "1586761667375161344",
+        "location": "Hong Kong",
+        "name": "Hanna_0w0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984582631997259776/g2dSW5iR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 34,
+          "like_count": 382,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 259
+        },
+        "username": "Hanna_yh",
+        "verified": false
+      }
+    ]
+  }
+}

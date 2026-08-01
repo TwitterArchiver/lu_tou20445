@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1948751217040982168",
+    "created_at": "2025-08-07T09:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T10:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953393344329003137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601192545568133120",
+          "start": 0,
+          "username": "wozhixiangshuiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953393344329003137",
+    "in_reply_to_user_id": "1601192545568133120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953392832464470217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wozhixiangshuiu 没有哦，只不过是在描述听到的感觉，虽然是换气确实有点调侃的意思hh，讨厌这样吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1948751217040982168",
+        "created_at": "2025-08-07T09:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953393344329003137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601192545568133120",
+              "start": 0,
+              "username": "wozhixiangshuiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953393344329003137",
+        "in_reply_to_user_id": "1601192545568133120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953392832464470217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wozhixiangshuiu 没有哦，只不过是在描述听到的感觉，虽然是换气确实有点调侃的意思hh，讨厌这样吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601192545568133120",
+        "conversation_id": "1948751217040982168",
+        "created_at": "2025-08-07T09:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T10:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953392832464470217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953392832464470217",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953375009809846356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 哈哈哈哈哈哈哈，阴阳吗？我看出来了哦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 38,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T12:30:35.000Z",
+        "description": "(´•ω•̥`) 瞎写就是瞎写，请勿代入我。但是你们愿意的话可以代入你们的♡",
+        "id": "1601192545568133120",
+        "name": "哼哼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917648547521986560/IN9iauvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 34,
+          "like_count": 5159,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 410
+        },
+        "username": "wozhixiangshuiu",
+        "verified": false
+      }
+    ]
+  }
+}

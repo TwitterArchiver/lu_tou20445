@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958382687070417144",
+    "created_at": "2025-08-21T04:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T05:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958384785086415068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1785666105589035008",
+          "start": 0,
+          "username": "oozyi286170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958384785086415068",
+    "in_reply_to_user_id": "1785666105589035008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958384453757317438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oozyi286170 也夸夸发现星星海的椰汁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958382687070417144",
+        "created_at": "2025-08-21T04:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958384785086415068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1785666105589035008",
+              "start": 0,
+              "username": "oozyi286170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958384785086415068",
+        "in_reply_to_user_id": "1785666105589035008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958384453757317438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oozyi286170 也夸夸发现星星海的椰汁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785666105589035008",
+        "conversation_id": "1958382687070417144",
+        "created_at": "2025-08-21T04:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958384453757317438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958384453757317438",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958383110875500568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 芜湖～绿老头你好浪漫 我夸夸^ω^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 51,
+          "like_count": 931,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-01T13:43:00.000Z",
+        "description": "欢迎有礼貌的宝宝｜椰汁or小盐｜话很多的一个人",
+        "id": "1785666105589035008",
+        "name": "椰汁加盐",
+        "pinned_tweet_id": "1953622224478577081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929202568917553152/ttIL0oWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 135,
+          "like_count": 1670,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1288
+        },
+        "username": "oozyi286170",
+        "verified": false
+      }
+    ]
+  }
+}

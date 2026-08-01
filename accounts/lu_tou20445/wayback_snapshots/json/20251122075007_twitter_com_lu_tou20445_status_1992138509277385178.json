@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1991759951342235743",
+    "created_at": "2025-11-22T07:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T08:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992138509277385178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1792560694447271937",
+          "start": 0,
+          "username": "lnln23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992138509277385178",
+    "in_reply_to_user_id": "1792560694447271937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992129908982923759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnln23333 我下期也尽量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1991759951342235743",
+        "created_at": "2025-11-22T07:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992138509277385178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1792560694447271937",
+              "start": 0,
+              "username": "lnln23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992138509277385178",
+        "in_reply_to_user_id": "1792560694447271937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992129908982923759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnln23333 我下期也尽量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792560694447271937",
+        "conversation_id": "1991759951342235743",
+        "created_at": "2025-11-22T07:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T08:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992129908982923759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992129908982923759",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991759951342235743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 你啥意思我没惹你你这期有点冒犯我了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 70,
+          "like_count": 9372,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-20T14:19:18.000Z",
+        "description": "女绿｜想要姐姐妹妹一起玩ᐞ･֊･ᐞฅ｜最爱的人@SexButViolence",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "SexButViolence"
+              }
+            ]
+          }
+        },
+        "id": "1792560694447271937",
+        "name": "林林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861993601414361088/uHbYbY0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 96,
+          "like_count": 619,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "lnln23333",
+        "verified": false
+      }
+    ]
+  }
+}

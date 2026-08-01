@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2044805112745619596",
+    "created_at": "2026-04-16T16:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T17:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044817299471994914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511516081726582785",
+          "start": 0,
+          "username": "GreenLaffey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044817299471994914",
+    "in_reply_to_user_id": "1511516081726582785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044805112745619596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenLaffey 这部我小时候也看过，也是从这部开始厌恶 ntr 的，当年小小的我代入男主感受绝望太深了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2044805112745619596",
+        "created_at": "2026-04-16T16:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044817299471994914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511516081726582785",
+              "start": 0,
+              "username": "GreenLaffey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044817299471994914",
+        "in_reply_to_user_id": "1511516081726582785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044805112745619596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenLaffey 这部我小时候也看过，也是从这部开始厌恶 ntr 的，当年小小的我代入男主感受绝望太深了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511516081726582785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jungkook (정국) - member of BTS",
+              "id": "895369861504749568",
+              "name": "Jungkook"
+            }
+          }
+        ],
+        "conversation_id": "2044805112745619596",
+        "created_at": "2026-04-16T15:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044805112745619596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yzxbf/status/2…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yzxbf/status/2044348568736276747",
+              "start": 16,
+              "url": "https://t.co/djGgkKqsCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044805112745619596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044348568736276747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这部也是。。当年留下了一点震撼 https://t.co/djGgkKqsCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 71,
+          "like_count": 20247,
+          "listed_count": 5,
+          "media_count": 261,
+          "tweet_count": 5716
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T01:28:30.000Z",
+        "description": "大概是日记本\n泛性恋/infj/♑/brat/疑似BPD.\n私信没开/冷漠无情点赞人机←\n简介或言论令我感到很恶心会直接拉黑\n—2025.12.6和daddy恋爱ing——淡推——\n知你不满都好仍未能奉陪伴着你玩",
+        "id": "1511516081726582785",
+        "location": "树枝孤鸟",
+        "name": "晚沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020025129485627393/ylo1Lpjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 148,
+          "like_count": 7245,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 450
+        },
+        "username": "GreenLaffey",
+        "verified": false
+      }
+    ]
+  }
+}

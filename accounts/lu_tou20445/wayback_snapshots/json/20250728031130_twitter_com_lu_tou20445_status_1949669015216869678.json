@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1949486212965892105",
+    "created_at": "2025-07-28T03:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T04:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949669015216869678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929950667533365255",
+          "start": 0,
+          "username": "Bethhhhwkwnwnn"
+        },
+        {
+          "end": 28,
+          "id": "1688397365336850432",
+          "start": 16,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949669015216869678",
+    "in_reply_to_user_id": "1929950667533365255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949664766311493906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bethhhhwkwnwnn @hongpigu980 这已经是异食癖了说是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1949486212965892105",
+        "created_at": "2025-07-28T03:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T04:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949669015216869678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929950667533365255",
+              "start": 0,
+              "username": "Bethhhhwkwnwnn"
+            },
+            {
+              "end": 28,
+              "id": "1688397365336850432",
+              "start": 16,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949669015216869678",
+        "in_reply_to_user_id": "1929950667533365255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949664766311493906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bethhhhwkwnwnn @hongpigu980 这已经是异食癖了说是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929950667533365255",
+        "conversation_id": "1949486212965892105",
+        "created_at": "2025-07-28T02:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T03:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949664766311493906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949664766311493906",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949486212965892105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 我滴妈呀 这已经不是恋足了吧 太夸张了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1949462468738130214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T17:18:06.000Z",
+        "description": "金钱 自由 生命 爱。 【188🚪好友位➕视频照片/520🚪全天陪聊电子女友➕永久视频照片 可以指定任务两次 /入门前可语音验证 视频验证🌷】",
+        "id": "1929950667533365255",
+        "location": "有🚪",
+        "name": "Beth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945551630570532864/44WMm-1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 6,
+          "like_count": 463,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 380
+        },
+        "username": "Bethhhhwkwnwnn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1939656969788551526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62612,
+          "following_count": 54,
+          "like_count": 86,
+          "listed_count": 57,
+          "media_count": 883,
+          "tweet_count": 1122
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

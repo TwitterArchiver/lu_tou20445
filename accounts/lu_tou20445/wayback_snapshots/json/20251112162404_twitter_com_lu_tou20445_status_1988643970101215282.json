@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1988441756283916550",
+    "created_at": "2025-11-12T16:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988643970101215282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1717892567684247552",
+          "start": 0,
+          "username": "ElidiaTove24180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988643970101215282",
+    "in_reply_to_user_id": "1717892567684247552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988643031025860741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElidiaTove24180 可以再试试无骨鸡爪，大概率会出现无辜鸡爪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1284,
+        "media_key": "3_1988643018698805248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kUSgqaUAASniw.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1290,
+        "media_key": "3_1988643018686210048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kUSgnaIAAbe_1.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1368,
+        "media_key": "3_1988643018698838016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kUSgqa0AAtMAU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1285,
+        "media_key": "3_1988643018703011841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5kUSgragAEvDNf.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T16:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988643970101215282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1717892567684247552",
+              "start": 0,
+              "username": "ElidiaTove24180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988643970101215282",
+        "in_reply_to_user_id": "1717892567684247552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988643031025860741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElidiaTove24180 可以再试试无骨鸡爪，大概率会出现无辜鸡爪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988643018698805248",
+            "3_1988643018686210048",
+            "3_1988643018698838016",
+            "3_1988643018703011841"
+          ]
+        },
+        "author_id": "1717892567684247552",
+        "conversation_id": "1988441756283916550",
+        "created_at": "2025-11-12T16:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988643031025860741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhMwJunUh6",
+              "end": 97,
+              "expanded_url": "https://x.com/ElidiaTove24180/status/1988643031025860741/photo/1",
+              "media_key": "3_1988643018698805248",
+              "start": 74,
+              "url": "https://t.co/BhMwJunUh6"
+            },
+            {
+              "display_url": "pic.x.com/BhMwJunUh6",
+              "end": 97,
+              "expanded_url": "https://x.com/ElidiaTove24180/status/1988643031025860741/photo/1",
+              "media_key": "3_1988643018686210048",
+              "start": 74,
+              "url": "https://t.co/BhMwJunUh6"
+            },
+            {
+              "display_url": "pic.x.com/BhMwJunUh6",
+              "end": 97,
+              "expanded_url": "https://x.com/ElidiaTove24180/status/1988643031025860741/photo/1",
+              "media_key": "3_1988643018698838016",
+              "start": 74,
+              "url": "https://t.co/BhMwJunUh6"
+            },
+            {
+              "display_url": "pic.x.com/BhMwJunUh6",
+              "end": 97,
+              "expanded_url": "https://x.com/ElidiaTove24180/status/1988643031025860741/photo/1",
+              "media_key": "3_1988643018703011841",
+              "start": 74,
+              "url": "https://t.co/BhMwJunUh6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988643031025860741",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988441756283916550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 测试完了 四发三中 我的输入法好像乖一点  绿老头我不是挑事的人 我觉得你的苹果输入法在故意为难你 当然了也没有放过我🚬 https://t.co/BhMwJunUh6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 74,
+          "like_count": 8425,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 2664
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T13:14:52.000Z",
+        "description": "没有牛（各种意义上来说）｜沾点小圈｜搜集素材写簧文😈\n成熟的小女孩要学会自己做饭自己吃🧞‍♀️🧞‍♀️\n（还在向各位老师学习中）",
+        "id": "1717892567684247552",
+        "name": "妙妙妙脆卷",
+        "pinned_tweet_id": "1861528765631004686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810395399158640641/toyOD7TR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 45,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 294
+        },
+        "username": "ElidiaTove24180",
+        "verified": false
+      }
+    ]
+  }
+}

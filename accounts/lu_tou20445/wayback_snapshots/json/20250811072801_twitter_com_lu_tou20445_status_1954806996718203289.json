@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1954523727582073280",
+    "created_at": "2025-08-11T07:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T08:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954806996718203289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847366448475258880",
+          "start": 0,
+          "username": "Hausja296972"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954806996718203289",
+    "in_reply_to_user_id": "1847366448475258880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954523727582073280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hausja296972 这也太适合印出来做小卡了，好可爱（没有偷印只是一说🫡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1954523700256292864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_c8yrbwAA86F9.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1954523727582073280",
+        "created_at": "2025-08-11T07:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954806996718203289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847366448475258880",
+              "start": 0,
+              "username": "Hausja296972"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954806996718203289",
+        "in_reply_to_user_id": "1847366448475258880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954523727582073280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hausja296972 这也太适合印出来做小卡了，好可爱（没有偷印只是一说🫡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954523700256292864"
+          ]
+        },
+        "author_id": "1847366448475258880",
+        "conversation_id": "1954523727582073280",
+        "created_at": "2025-08-10T12:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954523727582073280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sp6kutkU3M",
+              "end": 40,
+              "expanded_url": "https://x.com/Hausja296972/status/1954523727582073280/photo/1",
+              "media_key": "3_1954523700256292864",
+              "start": 17,
+              "url": "https://t.co/Sp6kutkU3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954523727582073280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 101459,
+          "like_count": 820,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "点进去看字好吗不然我白打了🥲🥲🥲 https://t.co/Sp6kutkU3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 37,
+          "like_count": 317,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T19:57:52.000Z",
+        "description": "一个喜欢碎碎念的小女孩，高强度上网中……喜欢新的朋友！enfp ，现在是绝望的侄女，最近比较偏四爱，19女大在读书！除非我愿意别和我说我不愿听的（黄暴一类）！目前不喜欢男娘，我直接拉黑！童贞不约目前没有自己解决的习惯别再问了！我没有门，加v只加看的顺眼的",
+        "id": "1847366448475258880",
+        "name": "泡芙火辣辣",
+        "pinned_tweet_id": "1883423709844943211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882809386248155136/qGk5MqWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7383,
+          "following_count": 254,
+          "like_count": 13624,
+          "listed_count": 13,
+          "media_count": 397,
+          "tweet_count": 3854
+        },
+        "username": "Hausja296972",
+        "verified": false
+      }
+    ]
+  }
+}

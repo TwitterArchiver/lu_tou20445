@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1957010774791995729",
+    "created_at": "2025-08-17T09:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T10:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957014377439354939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934928841476378624",
+          "start": 0,
+          "username": "uwv1eiy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957014377439354939",
+    "in_reply_to_user_id": "1934928841476378624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957010774791995729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwv1eiy 但是不是每个人都有妈妈（单指见人和傻杯，祝正常人家庭美满父母安康）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1957010774791995729",
+        "created_at": "2025-08-17T09:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957014377439354939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934928841476378624",
+              "start": 0,
+              "username": "uwv1eiy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957014377439354939",
+        "in_reply_to_user_id": "1934928841476378624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957010774791995729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwv1eiy 但是不是每个人都有妈妈（单指见人和傻杯，祝正常人家庭美满父母安康）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934928841476378624",
+        "conversation_id": "1957010774791995729",
+        "created_at": "2025-08-17T09:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957010774791995729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957010774791995729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想想那么多了 每个人都是妈妈的孩子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 47,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T10:59:34.000Z",
+        "description": "抖音：uwv1eiy / 门槛52",
+        "id": "1934928841476378624",
+        "location": "乌鲁木齐",
+        "name": "换",
+        "pinned_tweet_id": "1956321336936316941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955661827490426880/iqLI2y-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 34,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "username": "uwv1eiy",
+        "verified": false
+      }
+    ]
+  }
+}

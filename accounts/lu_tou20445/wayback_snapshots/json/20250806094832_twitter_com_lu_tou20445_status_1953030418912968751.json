@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953029307669852587",
+    "created_at": "2025-08-06T09:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T10:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953030418912968751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1063642101823492098",
+          "start": 0,
+          "username": "Broderickouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953030418912968751",
+    "in_reply_to_user_id": "1063642101823492098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953029307669852587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Broderickouo 跟我比还差点，我8+16，8个小时吃16顿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953029293430198272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxqNy3bW0AANbtn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953029307669852587",
+        "created_at": "2025-08-06T09:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T10:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953030418912968751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1063642101823492098",
+              "start": 0,
+              "username": "Broderickouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953030418912968751",
+        "in_reply_to_user_id": "1063642101823492098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953029307669852587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Broderickouo 跟我比还差点，我8+16，8个小时吃16顿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953029293430198272"
+          ]
+        },
+        "author_id": "1063642101823492098",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1953029307669852587",
+        "created_at": "2025-08-06T09:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T10:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953029307669852587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDmf9IQx9B",
+              "end": 40,
+              "expanded_url": "https://x.com/Broderickouo/status/1953029307669852587/photo/1",
+              "media_key": "3_1953029293430198272",
+              "start": 17,
+              "url": "https://t.co/yDmf9IQx9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953029307669852587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碳循环：吃一大盆碳水，每日一循环 https://t.co/yDmf9IQx9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-17T03:56:53.000Z",
+        "description": "我希望所有人都能幸福 infp男/04 欢迎找我聊天",
+        "id": "1063642101823492098",
+        "name": "Broderick斑斑",
+        "pinned_tweet_id": "1937498911444455469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934496796363137024/8j1guanp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 55,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 117
+        },
+        "username": "Broderickouo",
+        "verified": false
+      }
+    ]
+  }
+}

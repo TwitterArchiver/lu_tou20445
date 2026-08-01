@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2026265033563590909",
+    "created_at": "2026-02-24T15:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026316619828674800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494479703234670592",
+          "start": 0,
+          "username": "puppylovesete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026316619828674800",
+    "in_reply_to_user_id": "1494479703234670592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026315312057159962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puppylovesete 就是！自己怎么会嫌弃自己呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T15:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026316619828674800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494479703234670592",
+              "start": 0,
+              "username": "puppylovesete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026316619828674800",
+        "in_reply_to_user_id": "1494479703234670592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026315312057159962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puppylovesete 就是！自己怎么会嫌弃自己呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494479703234670592",
+        "conversation_id": "2026265033563590909",
+        "created_at": "2026-02-24T15:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026315312057159962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026315312057159962",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026265033563590909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 一个人!用!自己的！洗衣机！！谁懂！根本就不会嫌弃袜子或者洗衣机脏不能洗内裤了，什么袜子内裤的！全都扔进去！完完全全解放双手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 70,
+          "like_count": 16741,
+          "listed_count": 4,
+          "media_count": 227,
+          "tweet_count": 5036
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T01:11:59.000Z",
+        "description": "不要在时间的河里刻舟求剑| 不更新的时候都在好好生活",
+        "id": "1494479703234670592",
+        "name": "été",
+        "pinned_tweet_id": "2015344492455551405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912090843613204481/ueX-0tgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 322,
+          "like_count": 2598,
+          "listed_count": 12,
+          "media_count": 114,
+          "tweet_count": 2330
+        },
+        "username": "puppylovesete",
+        "verified": false
+      }
+    ]
+  }
+}

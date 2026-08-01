@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1999400792705630658",
+    "created_at": "2025-12-13T13:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T14:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999837132559651254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1931926644530581504",
+          "start": 0,
+          "username": "akizuki9145931"
+        },
+        {
+          "end": 29,
+          "id": "1487360722900193281",
+          "start": 16,
+          "username": "TKYK_1480813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999837132559651254",
+    "in_reply_to_user_id": "1931926644530581504",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999834189592670655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akizuki9145931 @TKYK_1480813 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1999400792705630658",
+        "created_at": "2025-12-13T13:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999837132559651254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1931926644530581504",
+              "start": 0,
+              "username": "akizuki9145931"
+            },
+            {
+              "end": 29,
+              "id": "1487360722900193281",
+              "start": 16,
+              "username": "TKYK_1480813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999837132559651254",
+        "in_reply_to_user_id": "1931926644530581504",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999834189592670655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akizuki9145931 @TKYK_1480813 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931926644530581504",
+        "conversation_id": "1999400792705630658",
+        "created_at": "2025-12-13T13:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999834189592670655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487360722900193281",
+              "start": 0,
+              "username": "TKYK_1480813"
+            },
+            {
+              "end": 26,
+              "id": "1943288759778447360",
+              "start": 14,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999834189592670655",
+        "in_reply_to_user_id": "1487360722900193281",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999572345472889301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TKYK_1480813 @lu_tou20445 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1023,
+          "following_count": 68,
+          "like_count": 11215,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 3241
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T04:09:56.000Z",
+        "description": "akizuki=空鸣=羽田丨呼哇~ 丨击中萌都玩丨男的丨魂音泉丨山口一郎丨Creepy Nuts",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Akizuki84125",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Akizuki84125",
+                "start": 0,
+                "url": "https://t.co/G485oDfpI2"
+              }
+            ]
+          }
+        },
+        "id": "1931926644530581504",
+        "location": "0.1km",
+        "name": "akizuki（秋月级一番舰）",
+        "pinned_tweet_id": "1987541379539726501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808898937036800/1Qjfmc4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 141,
+          "like_count": 1332,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/G485oDfpI2",
+        "username": "akizuki9145931",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T09:43:43.000Z",
+        "description": "20⬆️｜一个善良的人｜畅所欲言bot｜提供代阉服务｜不要关注我，我不会发你想看的内容的 ｜A Kind Soul | Free-Talk Bot | Thanks for the likes",
+        "id": "1487360722900193281",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "陈睿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994664768502992896/KUR4tnSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 344,
+          "like_count": 3271,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 465
+        },
+        "username": "TKYK_1480813",
+        "verified": false
+      }
+    ]
+  }
+}

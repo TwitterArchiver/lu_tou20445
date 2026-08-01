@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1946871306743607486",
+    "created_at": "2025-07-20T12:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946913319085859040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1439433485739966464",
+          "start": 0,
+          "username": "Jules_11771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946913319085859040",
+    "in_reply_to_user_id": "1439433485739966464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946871306743607486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jules_11771 您好，这不让随地大小睡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5041,
+        "height": 970,
+        "media_key": "13_1946871162023141376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946871162023141376/img/Knftn1xLPWJmoPmj.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946871162023141376/vid/avc1/320x430/_HMvpfxCOehMp9p9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946871162023141376/vid/avc1/480x646/fNoOjO3j63nC4dRm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946871162023141376/vid/avc1/720x970/NGZ_EXru07RVZxyW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946871162023141376/pl/ksuGRW9cFQ-dUiD5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1946871306743607486",
+        "created_at": "2025-07-20T12:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946913319085859040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1439433485739966464",
+              "start": 0,
+              "username": "Jules_11771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946913319085859040",
+        "in_reply_to_user_id": "1439433485739966464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946871306743607486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jules_11771 您好，这不让随地大小睡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946871162023141376"
+          ]
+        },
+        "author_id": "1439433485739966464",
+        "conversation_id": "1946871306743607486",
+        "created_at": "2025-07-20T09:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T10:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946871306743607486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1RB1zYQOz",
+              "end": 50,
+              "expanded_url": "https://x.com/Jules_11771/status/1946871306743607486/video/1",
+              "media_key": "13_1946871162023141376",
+              "start": 27,
+              "url": "https://t.co/z1RB1zYQOz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946871306743607486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这豆包真有够骚的，让它给我照片生成视频，给我整这花活 https://t.co/z1RB1zYQOz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T03:37:54.000Z",
+        "description": "不知道介绍些什么，想知道哪些可以直接问https://t.co/Uixt4nJWLQ  要互粉的女宝可以dd我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mia_1111333",
+                "end": 42,
+                "expanded_url": "https://ngl.link/mia_1111333",
+                "start": 19,
+                "url": "https://t.co/Uixt4nJWLQ"
+              }
+            ]
+          }
+        },
+        "id": "1439433485739966464",
+        "location": "🌍",
+        "name": "避雷柚子酒",
+        "pinned_tweet_id": "1944772694832210084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944170012090281984/qkWOd05T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 32,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 153
+        },
+        "username": "Jules_11771",
+        "verified": false
+      }
+    ]
+  }
+}

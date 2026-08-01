@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1951671810246013160",
+    "created_at": "2025-09-02T15:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T16:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962900580365643922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1788035094680408064",
+          "start": 0,
+          "username": "wow726486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962900580365643922",
+    "in_reply_to_user_id": "1788035094680408064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951671810246013160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wow726486 乳夹是挂在脖子上的还是连着项圈的，感觉有点意思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_1951671797562400768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxW7KNPa4AAxgKj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1951671797566586880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxW7KNQawAAGa9c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1951671810246013160",
+        "created_at": "2025-09-02T15:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962900580365643922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1788035094680408064",
+              "start": 0,
+              "username": "wow726486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962900580365643922",
+        "in_reply_to_user_id": "1788035094680408064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951671810246013160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wow726486 乳夹是挂在脖子上的还是连着项圈的，感觉有点意思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951671797562400768",
+            "3_1951671797566586880"
+          ]
+        },
+        "author_id": "1788035094680408064",
+        "conversation_id": "1951671810246013160",
+        "created_at": "2025-08-02T15:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T16:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951671810246013160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGbEtQ1QBx",
+              "end": 28,
+              "expanded_url": "https://x.com/wow726486/status/1951671810246013160/photo/1",
+              "media_key": "3_1951671797562400768",
+              "start": 5,
+              "url": "https://t.co/QGbEtQ1QBx"
+            },
+            {
+              "display_url": "pic.x.com/QGbEtQ1QBx",
+              "end": 28,
+              "expanded_url": "https://x.com/wow726486/status/1951671810246013160/photo/1",
+              "media_key": "3_1951671797566586880",
+              "start": 5,
+              "url": "https://t.co/QGbEtQ1QBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951671810246013160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 945,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爆更两张 https://t.co/QGbEtQ1QBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 58,
+          "like_count": 2319,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1463
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T02:36:14.000Z",
+        "description": "istp/水瓶双鱼混合体/00后/看心情搞sm/没门/当荤素不忌版朋友圈发",
+        "id": "1788035094680408064",
+        "location": "不在人间",
+        "name": "鹤和贺",
+        "pinned_tweet_id": "1888927664003846158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953831103883882496/xpTfmjq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 107,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 466
+        },
+        "username": "wow726486",
+        "verified": false
+      }
+    ]
+  }
+}

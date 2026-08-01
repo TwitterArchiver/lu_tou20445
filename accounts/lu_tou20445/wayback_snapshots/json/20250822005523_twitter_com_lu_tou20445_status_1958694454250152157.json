@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1958693553300808110",
+    "created_at": "2025-08-22T00:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T01:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958694454250152157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1741288575163936768",
+          "start": 0,
+          "username": "SouviensYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958694454250152157",
+    "in_reply_to_user_id": "1741288575163936768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958693553300808110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SouviensYu 好披萨的牛肉滑蛋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958693548133384193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6tZ4hXAAEB7E3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958693548158566400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6tZ4nXQAAMQYV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958693548154396672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6tZ4mXoAAGa1_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1958693548171104256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy6tZ4qWkAAXdSC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1958693553300808110",
+        "created_at": "2025-08-22T00:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T01:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958694454250152157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1741288575163936768",
+              "start": 0,
+              "username": "SouviensYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958694454250152157",
+        "in_reply_to_user_id": "1741288575163936768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958693553300808110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SouviensYu 好披萨的牛肉滑蛋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958693548133384193",
+            "3_1958693548158566400",
+            "3_1958693548154396672",
+            "3_1958693548171104256"
+          ]
+        },
+        "author_id": "1741288575163936768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1958693553300808110",
+        "created_at": "2025-08-22T00:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T01:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958693553300808110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8vAByHIP0",
+              "end": 39,
+              "expanded_url": "https://x.com/SouviensYu/status/1958693553300808110/photo/1",
+              "media_key": "3_1958693548133384193",
+              "start": 16,
+              "url": "https://t.co/C8vAByHIP0"
+            },
+            {
+              "display_url": "pic.x.com/C8vAByHIP0",
+              "end": 39,
+              "expanded_url": "https://x.com/SouviensYu/status/1958693553300808110/photo/1",
+              "media_key": "3_1958693548158566400",
+              "start": 16,
+              "url": "https://t.co/C8vAByHIP0"
+            },
+            {
+              "display_url": "pic.x.com/C8vAByHIP0",
+              "end": 39,
+              "expanded_url": "https://x.com/SouviensYu/status/1958693553300808110/photo/1",
+              "media_key": "3_1958693548154396672",
+              "start": 16,
+              "url": "https://t.co/C8vAByHIP0"
+            },
+            {
+              "display_url": "pic.x.com/C8vAByHIP0",
+              "end": 39,
+              "expanded_url": "https://x.com/SouviensYu/status/1958693553300808110/photo/1",
+              "media_key": "3_1958693548171104256",
+              "start": 16,
+              "url": "https://t.co/C8vAByHIP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958693553300808110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吃牛肉滑蛋饭和白包菜炒豆腐 https://t.co/C8vAByHIP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 51,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T02:42:12.000Z",
+        "description": "“因为草莓有季节，我会患得患失，柠檬蛋糕永远都在，我喜欢永永远远的事情。”",
+        "id": "1741288575163936768",
+        "name": "lyh",
+        "pinned_tweet_id": "1774994211038716320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926844142807654400/LvZ174N-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 70,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 281
+        },
+        "username": "SouviensYu",
+        "verified": false
+      }
+    ]
+  }
+}

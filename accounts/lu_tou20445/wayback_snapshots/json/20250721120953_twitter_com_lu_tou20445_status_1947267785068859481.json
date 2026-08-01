@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1947251617302040744",
+    "created_at": "2025-07-21T12:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947267785068859481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1850182516239396864",
+          "start": 0,
+          "username": "PressRRRforRun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947267785068859481",
+    "in_reply_to_user_id": "1850182516239396864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947267350257967307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PressRRRforRun 先别接，有这个时间放手暧昧的音乐在这个夏夜里点我的私信发句hi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1947251617302040744",
+        "created_at": "2025-07-21T12:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947267785068859481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1850182516239396864",
+              "start": 0,
+              "username": "PressRRRforRun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947267785068859481",
+        "in_reply_to_user_id": "1850182516239396864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947267350257967307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PressRRRforRun 先别接，有这个时间放手暧昧的音乐在这个夏夜里点我的私信发句hi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850182516239396864",
+        "conversation_id": "1947251617302040744",
+        "created_at": "2025-07-21T12:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947267350257967307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947267350257967307",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947264608638574814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 接。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T14:28:41.000Z",
+        "description": "不许视奸我。（我在视奸你👁️）",
+        "id": "1850182516239396864",
+        "name": "17",
+        "pinned_tweet_id": "1937420735494128017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944411683465605120/7qtpQPcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 17,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 328
+        },
+        "username": "PressRRRforRun",
+        "verified": false
+      }
+    ]
+  }
+}

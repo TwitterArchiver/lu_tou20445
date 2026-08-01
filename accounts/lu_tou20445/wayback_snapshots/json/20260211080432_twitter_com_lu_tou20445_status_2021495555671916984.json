@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2021258157394104326",
+    "created_at": "2026-02-11T08:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021495555671916984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1627292117302386688",
+          "start": 0,
+          "username": "zhu08618791"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021495555671916984",
+    "in_reply_to_user_id": "1627292117302386688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021494935338484048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu08618791 好的，自己想办法把盒子洞堵好👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2021258157394104326",
+        "created_at": "2026-02-11T08:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021495555671916984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1627292117302386688",
+              "start": 0,
+              "username": "zhu08618791"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021495555671916984",
+        "in_reply_to_user_id": "1627292117302386688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021494935338484048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu08618791 好的，自己想办法把盒子洞堵好👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627292117302386688",
+        "conversation_id": "2021258157394104326",
+        "created_at": "2026-02-11T08:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021494935338484048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021494935338484048",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021258157394104326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 我进来了快关门不然钱就被抢走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 71,
+          "like_count": 15645,
+          "listed_count": 3,
+          "media_count": 219,
+          "tweet_count": 4707
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:01:03.000Z",
+        "description": "09未成年高中在读 男的女的都喜欢",
+        "id": "1627292117302386688",
+        "name": "Akiii_酌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019769241667338240/N9iO8wP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 164,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 137
+        },
+        "username": "zhu08618791",
+        "verified": false
+      }
+    ]
+  }
+}

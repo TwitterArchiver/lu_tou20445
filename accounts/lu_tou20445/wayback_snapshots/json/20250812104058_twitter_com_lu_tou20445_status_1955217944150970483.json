@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1953147097727000761",
+    "created_at": "2025-08-12T10:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T11:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955217944150970483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908394396061454336",
+          "start": 0,
+          "username": "Hlg1491046Hlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955217944150970483",
+    "in_reply_to_user_id": "1908394396061454336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953147097727000761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hlg1491046Hlg 那要定期除毛了，不然可能会光阴似箭了hh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1953147092974878720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxr47s7awAAOMSm.jpg",
+        "width": 787
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1953147097727000761",
+        "created_at": "2025-08-12T10:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T11:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955217944150970483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908394396061454336",
+              "start": 0,
+              "username": "Hlg1491046Hlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955217944150970483",
+        "in_reply_to_user_id": "1908394396061454336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953147097727000761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hlg1491046Hlg 那要定期除毛了，不然可能会光阴似箭了hh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953147092974878720"
+          ]
+        },
+        "author_id": "1908394396061454336",
+        "conversation_id": "1953147097727000761",
+        "created_at": "2025-08-06T17:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953147097727000761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nUyRhyPh3",
+              "end": 44,
+              "expanded_url": "https://x.com/Hlg1491046Hlg/status/1953147097727000761/photo/1",
+              "media_key": "3_1953147092974878720",
+              "start": 21,
+              "url": "https://t.co/3nUyRhyPh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953147097727000761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜睡不着躺床上把下面毛剃了也是没谁了 https://t.co/3nUyRhyPh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "我随便看看，你随便看看,提问箱：",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnTSeS"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 40,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/t81IlnTSeS",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T05:41:04.000Z",
+        "description": "",
+        "id": "1908394396061454336",
+        "name": "hlg",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "Hlg1491046Hlg",
+        "verified": false
+      }
+    ]
+  }
+}

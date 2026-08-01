@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2052882670372507723",
+    "created_at": "2026-05-09T16:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T17:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053143106892243168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008013315570884608",
+          "start": 0,
+          "username": "capuccino_icee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053143106892243168",
+    "in_reply_to_user_id": "2008013315570884608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052882670372507723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@capuccino_icee 我也是贱，跟没看过 Cos 赛的🤦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60800,
+        "height": 1280,
+        "media_key": "13_2052882601489432576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052882601489432576/img/tdfXtYPQqPcUhkb-.jpg",
+        "public_metrics": {
+          "view_count": 1996402
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052882601489432576/vid/avc1/320x568/n7_0VB17a3ixGrVR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052882601489432576/vid/avc1/480x852/F-sydTmrBan2ZdE3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052882601489432576/vid/avc1/720x1280/ADkT_GV6zAy_k-7v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052882601489432576/pl/rumc5Ljy0BNoZe83.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2052882670372507723",
+        "created_at": "2026-05-09T16:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053143106892243168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008013315570884608",
+              "start": 0,
+              "username": "capuccino_icee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053143106892243168",
+        "in_reply_to_user_id": "2008013315570884608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052882670372507723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@capuccino_icee 我也是贱，跟没看过 Cos 赛的🤦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052882601489432576"
+          ]
+        },
+        "author_id": "2008013315570884608",
+        "conversation_id": "2052882670372507723",
+        "created_at": "2026-05-08T22:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052882670372507723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWXrEbvyRL",
+              "end": 47,
+              "expanded_url": "https://x.com/capuccino_icee/status/2052882670372507723/video/1",
+              "media_key": "13_2052882601489432576",
+              "start": 24,
+              "url": "https://t.co/aWXrEbvyRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052882670372507723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 665,
+          "impression_count": 4426020,
+          "like_count": 6932,
+          "quote_count": 36,
+          "reply_count": 342,
+          "retweet_count": 496
+        },
+        "reply_settings": "everyone",
+        "text": "She's so very talented😍 https://t.co/aWXrEbvyRL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1900,
+          "following_count": 71,
+          "like_count": 20778,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 5822
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T03:11:09.000Z",
+        "description": "",
+        "id": "2008013315570884608",
+        "name": "monic",
+        "pinned_tweet_id": "2009838664667500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008014860194611200/iKo-Lyqw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 1669,
+          "like_count": 13472,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 14378
+        },
+        "username": "capuccino_icee",
+        "verified": true
+      }
+    ]
+  }
+}

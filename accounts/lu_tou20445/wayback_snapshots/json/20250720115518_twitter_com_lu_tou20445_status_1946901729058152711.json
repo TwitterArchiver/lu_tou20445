@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1946898942123442423",
+    "created_at": "2025-07-20T11:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T12:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946901729058152711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839708200628858880",
+          "start": 0,
+          "username": "sulimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946901729058152711",
+    "in_reply_to_user_id": "1839708200628858880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 7,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946898942123442423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sulimeow 加油，其实不必强制对抗，顺其自然就好，很多时候你只是比较慢出第一步罢了，并不是没有解决问题的能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1946898942123442423",
+        "created_at": "2025-07-20T11:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946901729058152711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839708200628858880",
+              "start": 0,
+              "username": "sulimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946901729058152711",
+        "in_reply_to_user_id": "1839708200628858880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946898942123442423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sulimeow 加油，其实不必强制对抗，顺其自然就好，很多时候你只是比较慢出第一步罢了，并不是没有解决问题的能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839708200628858880",
+        "conversation_id": "1946898942123442423",
+        "created_at": "2025-07-20T11:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946898942123442423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946898942123442423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "习得性无助我要打败你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "xp很多的普通人罢了，聊天聊骚倾诉咨询问答或者好玩的都可以直接私我，或者加我q聊也行，高强度冲浪基本看到都会回",
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1946457477362381301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944402728333049856/YNNYJNnA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-27T16:46:46.000Z",
+        "description": "Are u Lost",
+        "id": "1839708200628858880",
+        "location": "ヽ(´o｀；",
+        "name": "宿理",
+        "pinned_tweet_id": "1946558859738251511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946399039882149888/rLWXbzD8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 296,
+          "like_count": 8699,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 471
+        },
+        "username": "sulimeow",
+        "verified": false
+      }
+    ]
+  }
+}

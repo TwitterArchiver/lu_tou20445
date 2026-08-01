@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "1993493781459743207",
+    "created_at": "2025-11-26T07:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T08:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993584408172150797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1937381947254390785",
+          "start": 0,
+          "username": "0xMidNite_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993584408172150797",
+    "in_reply_to_user_id": "1937381947254390785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993493781459743207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xMidNite_ 像如愿怀上布莱恩的孩子之后的精神状态🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1658,
+        "media_key": "3_1993493772156411904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6pQBhdWIAAzCzI.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "1993493781459743207",
+        "created_at": "2025-11-26T07:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993584408172150797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1937381947254390785",
+              "start": 0,
+              "username": "0xMidNite_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993584408172150797",
+        "in_reply_to_user_id": "1937381947254390785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993493781459743207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xMidNite_ 像如愿怀上布莱恩的孩子之后的精神状态🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993493772156411904"
+          ]
+        },
+        "author_id": "1937381947254390785",
+        "conversation_id": "1993493781459743207",
+        "created_at": "2025-11-26T01:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993493781459743207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcXAEIgReA",
+              "end": 31,
+              "expanded_url": "https://x.com/0xMidNite_/status/1993493781459743207/photo/1",
+              "media_key": "3_1993493772156411904",
+              "start": 8,
+              "url": "https://t.co/pcXAEIgReA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993493781459743207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抚媚兼具神性！ https://t.co/pcXAEIgReA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 70,
+          "like_count": 9773,
+          "listed_count": 3,
+          "media_count": 144,
+          "tweet_count": 2949
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T05:27:46.000Z",
+        "description": "06 infp switch ♊️梦到啥发啥 杂食主义 置顶推广自辨@fanqie_wuyun有黄慎点只过互关🙅🏻‍♀️不聊骚 不卡泡 不出原味 不线下🙅🏻‍♀️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "fanqie_wuyun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fanqbao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fanqbao",
+                "start": 0,
+                "url": "https://t.co/FXYN8G1iRh"
+              }
+            ]
+          }
+        },
+        "id": "1937381947254390785",
+        "location": "互关➕➕➕v",
+        "name": "纯情总裁是饺子",
+        "pinned_tweet_id": "1937383881059238361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987839605278715904/-Kvf_9TB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 282,
+          "like_count": 5314,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 2626
+        },
+        "url": "https://t.co/FXYN8G1iRh",
+        "username": "0xMidNite_",
+        "verified": false
+      }
+    ]
+  }
+}

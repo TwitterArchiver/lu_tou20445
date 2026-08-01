@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2008161106901282854",
+    "created_at": "2026-01-09T07:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009520549945594125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2001224081891524608",
+          "start": 0,
+          "username": "JonyRiyu12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009520549945594125",
+    "in_reply_to_user_id": "2001224081891524608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009519406175440989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JonyRiyu12138 低压速效药，用了都说好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-09T07:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009520549945594125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2001224081891524608",
+              "start": 0,
+              "username": "JonyRiyu12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009520549945594125",
+        "in_reply_to_user_id": "2001224081891524608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009519406175440989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JonyRiyu12138 低压速效药，用了都说好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001224081891524608",
+        "conversation_id": "2008161106901282854",
+        "created_at": "2026-01-09T06:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009519406175440989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009519406175440989",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008161106901282854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 每天上班上的血压都低了，但下班后打两把游戏就能被队员气到高血压"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 69,
+          "like_count": 14149,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 4101
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T09:33:29.000Z",
+        "description": "打工牛马，上班摸鱼",
+        "id": "2001224081891524608",
+        "name": "在互聯網衝浪的吃瓜群眾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008537005429248000/jOS2bLai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 66,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 124
+        },
+        "username": "JonyRiyu12138",
+        "verified": false
+      }
+    ]
+  }
+}

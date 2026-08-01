@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2001228260529857026",
+    "created_at": "2025-12-17T10:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T11:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001235721324257787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711022864105693185",
+          "start": 0,
+          "username": "yuyu31607952729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001235721324257787",
+    "in_reply_to_user_id": "1711022864105693185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001235243702084022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyu31607952729 对的对的对的，他的兄弟姐妹们也各有各的萌法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2001228260529857026",
+        "created_at": "2025-12-17T10:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001235721324257787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711022864105693185",
+              "start": 0,
+              "username": "yuyu31607952729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001235721324257787",
+        "in_reply_to_user_id": "1711022864105693185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001235243702084022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyu31607952729 对的对的对的，他的兄弟姐妹们也各有各的萌法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711022864105693185",
+        "conversation_id": "2001228260529857026",
+        "created_at": "2025-12-17T10:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001235243702084022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001235243702084022",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001228260529857026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 这个萌萌的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 69,
+          "like_count": 11674,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T14:17:39.000Z",
+        "description": "上推只为了听男🚢  ……不加任何人（聊熟了另说）不会回不礼貌的私信！礼貌也没回的话可能只是我不知道怎么回（语音贫瘠）😢",
+        "id": "1711022864105693185",
+        "location": "湖南",
+        "name": "yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999469624119975937/9OeFPTrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 10,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 327
+        },
+        "username": "yuyu31607952729",
+        "verified": false
+      }
+    ]
+  }
+}
