@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2089729947464298779",
+    "created_at": "2026-08-19T06:58:17.000Z",
+    "display_text_range": [
+      16,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089970187550560424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817144107174957056",
+          "start": 0,
+          "username": "trydothebetter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089970187550560424",
+    "in_reply_to_user_id": "1817144107174957056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089939016305312043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trydothebetter 别哭\n你咋这样\n他咋这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2089729947464298779",
+        "created_at": "2026-08-19T06:58:17.000Z",
+        "display_text_range": [
+          16,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089970187550560424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817144107174957056",
+              "start": 0,
+              "username": "trydothebetter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089970187550560424",
+        "in_reply_to_user_id": "1817144107174957056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089939016305312043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trydothebetter 别哭\n你咋这样\n他咋这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817144107174957056",
+        "conversation_id": "2089729947464298779",
+        "created_at": "2026-08-19T04:54:25.000Z",
+        "display_text_range": [
+          13,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089939016305312043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089939016305312043",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089729947464298779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 1.不哭不哭，抱抱\n2.没关系宝宝没事的\n3.不是怎么还在哭。。。\n4.我操我就会这几句咋整啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089970187550560424",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943288759778447360/1772110385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1894,
+          "following_count": 66,
+          "like_count": 21488,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 6387
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-27T10:25:00.000Z",
+        "description": "09年生人丨身高180丨性别男丨音游人丨喜欢可爱的事物丨十分偶尔发福利丨Q群721460654丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/12656805…",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/1265680561?from=search",
+                "start": 0,
+                "url": "https://t.co/F4f36RgkLU"
+              }
+            ]
+          }
+        },
+        "id": "1817144107174957056",
+        "is_identity_verified": false,
+        "location": "云南",
+        "most_recent_tweet_id": "2089963474034348332",
+        "name": "永雏塔菲",
+        "pinned_tweet_id": "2065947849309966591",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1817144107174957056/1739975551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970858405125328896/d6wFXDfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 1498,
+          "like_count": 7593,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/F4f36RgkLU",
+        "username": "trydothebetter",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

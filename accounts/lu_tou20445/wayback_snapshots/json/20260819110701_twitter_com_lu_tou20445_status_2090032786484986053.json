@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2089729947464298779",
+    "created_at": "2026-08-19T11:07:01.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090032786484986053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511516081726582785",
+          "start": 0,
+          "username": "GreenLaffey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090032786484986053",
+    "in_reply_to_user_id": "1511516081726582785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090006219960578155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GreenLaffey 好独特的七夕礼物，阿里嘎多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2089729947464298779",
+        "created_at": "2026-08-19T11:07:01.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090032786484986053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511516081726582785",
+              "start": 0,
+              "username": "GreenLaffey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090032786484986053",
+        "in_reply_to_user_id": "1511516081726582785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090006219960578155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GreenLaffey 好独特的七夕礼物，阿里嘎多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511516081726582785",
+        "conversation_id": "2089729947464298779",
+        "created_at": "2026-08-19T09:21:27.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090006219960578155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090006219960578155",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089914340606624137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 谢谢你老头 给老头兜里塞小面包🍞"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090032786484986053",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943288759778447360/1772110385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 66,
+          "like_count": 21492,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 6388
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-06T01:28:30.000Z",
+        "description": "大概是日记本\n泛性恋/infj/♑/brat/疑似BPD.\n私信没开/冷漠无情点赞人机←\n简介或言论令我感到很恶心会直接拉黑\n——淡推——\n知你不满都好仍未能奉陪伴着你玩",
+        "id": "1511516081726582785",
+        "is_identity_verified": false,
+        "location": "树枝孤鸟",
+        "most_recent_tweet_id": "2090006749755646087",
+        "name": "晚沫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1511516081726582785/1754463826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020025129485627393/ylo1Lpjf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 185,
+          "like_count": 7889,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "GreenLaffey",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2083261920594018423",
+    "created_at": "2026-08-03T07:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T08:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084177640391651580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817903432344240128",
+          "start": 0,
+          "username": "sumingbai71221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084177640391651580",
+    "in_reply_to_user_id": "1817903432344240128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083878027168231615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumingbai71221 如果是分别喜欢钓鱼，下矿，种地，装修的四人组一起玩，我都不敢想得有多好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2083261920594018423",
+        "created_at": "2026-08-03T07:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084177640391651580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817903432344240128",
+              "start": 0,
+              "username": "sumingbai71221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084177640391651580",
+        "in_reply_to_user_id": "1817903432344240128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083878027168231615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumingbai71221 如果是分别喜欢钓鱼，下矿，种地，装修的四人组一起玩，我都不敢想得有多好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817903432344240128",
+        "conversation_id": "2083261920594018423",
+        "created_at": "2026-08-02T11:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083878027168231615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083878027168231615",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083773845778190705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 找朋友再玩一次跟自己玩完全不一样诶！效率很高嘿嘿 我喜欢钓鱼 闺蜜喜欢下矿 她下好了矿我就陪她"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 69,
+          "like_count": 21352,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 6337
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:42:19.000Z",
+        "description": "你好呀 可以叫我小梨花/小刃呀  switch |这里有大量废话爆发宣泄|一些恋爱日常|塔斯汀忠实拥护者 三明治梦女 全世界倒数第一不爱吃三文鱼的小女孩|最近在偷偷幸福 希望大家也幸福◍˃ᵕ˂◍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumingbai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumingbai",
+                "start": 0,
+                "url": "https://t.co/1Pz4w1nOz0"
+              }
+            ]
+          }
+        },
+        "id": "1817903432344240128",
+        "name": "梨花刃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004790917111447552/Qpqm2ATg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3542,
+          "following_count": 1111,
+          "like_count": 48590,
+          "listed_count": 5,
+          "media_count": 549,
+          "tweet_count": 11655
+        },
+        "url": "https://t.co/1Pz4w1nOz0",
+        "username": "sumingbai71221",
+        "verified": false
+      }
+    ]
+  }
+}

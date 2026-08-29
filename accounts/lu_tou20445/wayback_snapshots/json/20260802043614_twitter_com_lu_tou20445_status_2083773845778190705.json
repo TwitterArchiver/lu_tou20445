@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2083261920594018423",
+    "created_at": "2026-08-02T04:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T05:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083773845778190705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817903432344240128",
+          "start": 0,
+          "username": "sumingbai71221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083773845778190705",
+    "in_reply_to_user_id": "1817903432344240128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083261920594018423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sumingbai71221 真好啊，想把记忆清空再玩一遍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083261916584263680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOk7rPAawAAU2re.jpg",
+        "width": 1795
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2083261920594018423",
+        "created_at": "2026-08-02T04:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083773845778190705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817903432344240128",
+              "start": 0,
+              "username": "sumingbai71221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083773845778190705",
+        "in_reply_to_user_id": "1817903432344240128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083261920594018423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sumingbai71221 真好啊，想把记忆清空再玩一遍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083261916584263680"
+          ]
+        },
+        "author_id": "1817903432344240128",
+        "conversation_id": "2083261920594018423",
+        "created_at": "2026-07-31T18:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083261920594018423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhk67kvRpQ",
+              "end": 114,
+              "expanded_url": "https://x.com/sumingbai71221/status/2083261920594018423/photo/1",
+              "media_key": "3_2083261916584263680",
+              "start": 91,
+              "url": "https://t.co/lhk67kvRpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083261920594018423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的发。跟朋友联机玩星露谷强势爱上了。。。咋这么好玩\n图上是闺蜜让我拦住塞巴斯蒂安 因为她要把矿石送给他 \n我闺蜜：找洗衣粉\n我：你再不过来人家以为我神经病呢一直挡路给我扣问号呢。 https://t.co/lhk67kvRpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1913,
+          "following_count": 69,
+          "like_count": 21346,
+          "listed_count": 5,
+          "media_count": 290,
+          "tweet_count": 6333
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T12:42:19.000Z",
+        "description": "你好呀 可以叫我小梨花/小刃呀  switch |这里有大量废话爆发宣泄|一些恋爱日常|塔斯汀忠实拥护者 三明治梦女 全世界倒数第一不爱吃三文鱼的小女孩|最近在偷偷幸福 希望大家也幸福◍˃ᵕ˂◍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sumingbai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sumingbai",
+                "start": 0,
+                "url": "https://t.co/1Pz4w1nOz0"
+              }
+            ]
+          }
+        },
+        "id": "1817903432344240128",
+        "name": "梨花刃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004790917111447552/Qpqm2ATg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3547,
+          "following_count": 1117,
+          "like_count": 48586,
+          "listed_count": 5,
+          "media_count": 548,
+          "tweet_count": 11644
+        },
+        "url": "https://t.co/1Pz4w1nOz0",
+        "username": "sumingbai71221",
+        "verified": false
+      }
+    ]
+  }
+}

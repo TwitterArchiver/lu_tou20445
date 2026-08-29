@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2089729947464298779",
+    "created_at": "2026-08-19T15:16:45.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090095632317034542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1936696658386898944",
+          "start": 0,
+          "username": "Sk101288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090095632317034542",
+    "in_reply_to_user_id": "1936696658386898944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090046525577560418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sk101288 需要另一套"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2089729947464298779",
+        "created_at": "2026-08-19T15:16:45.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090095632317034542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1936696658386898944",
+              "start": 0,
+              "username": "Sk101288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090095632317034542",
+        "in_reply_to_user_id": "1936696658386898944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090046525577560418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sk101288 需要另一套"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936696658386898944",
+        "conversation_id": "2089729947464298779",
+        "created_at": "2026-08-19T12:01:37.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090046525577560418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943288759778447360",
+              "start": 0,
+              "username": "lu_tou20445"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090046525577560418",
+        "in_reply_to_user_id": "1943288759778447360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089729947464298779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu_tou20445 自己不吃那一套"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090095632317034542",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943288759778447360/1772110385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 66,
+          "like_count": 21495,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-22T08:04:14.000Z",
+        "description": "会分享日常生活//愿望天天开心//喜欢主动的//",
+        "id": "1936696658386898944",
+        "is_identity_verified": false,
+        "location": "只有这一个号 盗图自辨 盗图一辈子发不了财",
+        "most_recent_tweet_id": "2090046525577560418",
+        "name": "希咪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068537903953723393/uuZeJp8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 17,
+          "like_count": 485,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "Sk101288",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

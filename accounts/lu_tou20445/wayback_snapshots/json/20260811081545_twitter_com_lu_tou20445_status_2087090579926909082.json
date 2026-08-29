@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087090565699792896",
+        "3_2087090565691359232"
+      ]
+    },
+    "author_id": "1943288759778447360",
+    "conversation_id": "2087026224598339963",
+    "created_at": "2026-08-11T08:15:45.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T09:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087090579926909082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oqcODuXrPb",
+          "end": 47,
+          "expanded_url": "https://x.com/lu_tou20445/status/2087090579926909082/photo/1",
+          "media_key": "3_2087090565699792896",
+          "start": 24,
+          "url": "https://t.co/oqcODuXrPb"
+        },
+        {
+          "display_url": "pic.x.com/oqcODuXrPb",
+          "end": 47,
+          "expanded_url": "https://x.com/lu_tou20445/status/2087090579926909082/photo/1",
+          "media_key": "3_2087090565691359232",
+          "start": 24,
+          "url": "https://t.co/oqcODuXrPb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087090579926909082",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087090565699792896"
+      },
+      {
+        "media_key": "3_2087090565691359232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087026224598339963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 霸凌者听到后： https://t.co/oqcODuXrPb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_2087090565699792896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbVz8aa8AA1eQb.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2087090565691359232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbVz8YaQAAqoJF.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 12000,
+        "height": 1280,
+        "media_key": "13_2086691498872209408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086691498872209408/img/34CT4MonM5DPp3JA.jpg",
+        "public_metrics": {
+          "view_count": 45144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086691498872209408/vid/avc1/320x568/6a9Gccm_mi7UFZ50.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086691498872209408/vid/avc1/480x852/09lTMSQCfhWpycJS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086691498872209408/vid/avc1/720x1280/jdTneJs98QvYQnG1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086691498872209408/pl/VUHE2l5En3YF4ikx.m3u8?v=51c"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2475,
+        "media_key": "3_2086691521081098240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVq4fXbwAANuB-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087090565699792896",
+            "3_2087090565691359232"
+          ]
+        },
+        "author_id": "1943288759778447360",
+        "conversation_id": "2087026224598339963",
+        "created_at": "2026-08-11T08:15:45.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087090579926909082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqcODuXrPb",
+              "end": 47,
+              "expanded_url": "https://x.com/lu_tou20445/status/2087090579926909082/photo/1",
+              "media_key": "3_2087090565699792896",
+              "start": 24,
+              "url": "https://t.co/oqcODuXrPb"
+            },
+            {
+              "display_url": "pic.x.com/oqcODuXrPb",
+              "end": 47,
+              "expanded_url": "https://x.com/lu_tou20445/status/2087090579926909082/photo/1",
+              "media_key": "3_2087090565691359232",
+              "start": 24,
+              "url": "https://t.co/oqcODuXrPb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087090579926909082",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087090565699792896"
+          },
+          {
+            "media_key": "3_2087090565691359232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087026224598339963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 霸凌者听到后： https://t.co/oqcODuXrPb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086691498872209408",
+            "3_2086691521081098240"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2087026224598339963",
+        "created_at": "2026-08-11T04:00:01.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087026224598339963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gXyxi1cnS0",
+              "end": 163,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2087026224598339963/video/1",
+              "media_key": "13_2086691498872209408",
+              "start": 140,
+              "url": "https://t.co/gXyxi1cnS0"
+            },
+            {
+              "display_url": "pic.x.com/gXyxi1cnS0",
+              "end": 163,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2087026224598339963/video/1",
+              "media_key": "3_2086691521081098240",
+              "start": 140,
+              "url": "https://t.co/gXyxi1cnS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087026224598339963",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086691498872209408"
+          },
+          {
+            "media_key": "3_2086691521081098240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 70976,
+          "like_count": 517,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "8月7日，抖音一搞笑博主因发布讽刺“学校应对校园霸凌方式”的短视频，账号遭平台处以“禁止发布作品”处罚。\n视频内容显示，该博主通过讽刺搞笑的形式，模拟被霸凌者只需对霸凌者双手交叉比“不”，霸凌者便会随即作罢并握手和解。\n目前，该博主的抖音账号主页已显示“该用户被禁止发布作品”。 https://t.co/gXyxi1cnS0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087090579926909082",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943288759778447360/1772110385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 69,
+          "like_count": 21445,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 6360
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2087086622932414637",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248237,
+          "following_count": 1080,
+          "like_count": 9842,
+          "listed_count": 8876,
+          "media_count": 51821,
+          "tweet_count": 59100
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
