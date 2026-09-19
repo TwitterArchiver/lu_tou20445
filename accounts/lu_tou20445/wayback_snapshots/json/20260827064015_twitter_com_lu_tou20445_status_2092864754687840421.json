@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1943288759778447360",
+    "conversation_id": "2092864025436778667",
+    "created_at": "2026-08-27T06:40:15.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092864754687840421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "757578278320300032",
+          "start": 0,
+          "username": "trpaomo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092864754687840421",
+    "in_reply_to_user_id": "757578278320300032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092864025436778667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trpaomo 完全麻薯"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25318,
+        "height": 1280,
+        "media_key": "13_2092863723530813441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092863723530813441/img/4XXKdmdnQ0rmtMsx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092863723530813441/vid/avc1/320x568/RTpyVYdgM2UJ17np.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092863723530813441/vid/avc1/480x852/zpktMPAGtZdZdpZ4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092863723530813441/vid/avc1/720x1280/LF6MUPCGvHeWtyVA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092863723530813441/pl/-a_HH2VtnV-pgUby.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943288759778447360",
+        "conversation_id": "2092864025436778667",
+        "created_at": "2026-08-27T06:40:15.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092864754687840421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "757578278320300032",
+              "start": 0,
+              "username": "trpaomo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092864754687840421",
+        "in_reply_to_user_id": "757578278320300032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092864025436778667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trpaomo 完全麻薯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092863723530813441"
+          ]
+        },
+        "author_id": "757578278320300032",
+        "conversation_id": "2092864025436778667",
+        "created_at": "2026-08-27T06:37:21.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092864025436778667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0eUwLWMvUi",
+              "end": 37,
+              "expanded_url": "https://x.com/trpaomo/status/2092864025436778667/video/1",
+              "media_key": "13_2092863723530813441",
+              "start": 14,
+              "url": "https://t.co/0eUwLWMvUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092864025436778667",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092863723530813441"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QQ糖（坦克虫）  嚼嚼嚼 https://t.co/0eUwLWMvUi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T12:38:58.000Z",
+        "description": "过程就是奖励，我们原本就毫无交集",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lu_tou20445",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lu_tou20445",
+                "start": 0,
+                "url": "https://t.co/t81IlnUq4q"
+              }
+            ]
+          }
+        },
+        "id": "1943288759778447360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092864754687840421",
+        "name": "绿老头",
+        "pinned_tweet_id": "1948936180365406547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943288759778447360/1772110385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949810958643122176/m8TkZFL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 68,
+          "like_count": 21581,
+          "listed_count": 5,
+          "media_count": 291,
+          "tweet_count": 6437
+        },
+        "url": "https://t.co/t81IlnUq4q",
+        "username": "lu_tou20445",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-25T14:08:31.000Z",
+        "description": "isfp 的🦁 \n万事不为我所有 皆为我所用\n不约不礼貌回 只跟互关聊天",
+        "id": "757578278320300032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092864025436778667",
+        "name": "好无聊",
+        "pinned_tweet_id": "2029865212401344606",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/757578278320300032/1755715577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064870139259170816/-U0jMB_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3848,
+          "following_count": 322,
+          "like_count": 27312,
+          "listed_count": 7,
+          "media_count": 1344,
+          "tweet_count": 9199
+        },
+        "url": "",
+        "username": "trpaomo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
